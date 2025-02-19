@@ -1,0 +1,1642 @@
+[
+    {
+        "concept_name": "中间实验",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "middle experiment"
+        }
+    },
+    {
+        "concept_name": "乖僻思维",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "eccentric thinking"
+        }
+    },
+    {
+        "concept_name": "人为分类",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "artificial classification"
+        }
+    },
+    {
+        "concept_name": "人员误差",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "personal error"
+        }
+    },
+    {
+        "concept_name": "人工模型",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "artificial model"
+        }
+    },
+    {
+        "concept_name": "人工语言",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "artificial language"
+        }
+    },
+    {
+        "concept_name": "仪器观察",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "observation of use instrument"
+        }
+    },
+    {
+        "concept_name": "信息方法",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "information method"
+        }
+    },
+    {
+        "concept_name": "元抽象法",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "method of elementary abstraction"
+        }
+    },
+    {
+        "concept_name": "公理-演绎法",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "axiom-deduction method"
+        }
+    },
+    {
+        "concept_name": "公理方法",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "axiomatic method"
+        }
+    },
+    {
+        "concept_name": "分析方法",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "analytic methods"
+        }
+    },
+    {
+        "concept_name": "分类",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "classification"
+        }
+    },
+    {
+        "concept_name": "分配误差",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "distribution error"
+        }
+    },
+    {
+        "concept_name": "列举法",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "enumerate method"
+        }
+    },
+    {
+        "concept_name": "创造性思维",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "creative thinking"
+        }
+    },
+    {
+        "concept_name": "创造技法",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technical method of creation"
+        }
+    },
+    {
+        "concept_name": "判决性实验",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "crucial experiment"
+        }
+    },
+    {
+        "concept_name": "功能模拟方法",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "function-imitation method"
+        }
+    },
+    {
+        "concept_name": "半经验半理论模型",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "the model of half-experience and half-theory"
+        }
+    },
+    {
+        "concept_name": "单因素实验",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "experiment of single factor"
+        }
+    },
+    {
+        "concept_name": "历史分析",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "historical analysis"
+        }
+    },
+    {
+        "concept_name": "可比性",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "comparability"
+        }
+    },
+    {
+        "concept_name": "可观察性原理",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "principle of observability"
+        }
+    },
+    {
+        "concept_name": "因果分析",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "causal analysis"
+        }
+    },
+    {
+        "concept_name": "因素分析",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "factor analysis"
+        }
+    },
+    {
+        "concept_name": "地面实验",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "ground experiment"
+        }
+    },
+    {
+        "concept_name": "地面观察",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "ground observation"
+        }
+    },
+    {
+        "concept_name": "垂直思维",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "vertical thinking"
+        }
+    },
+    {
+        "concept_name": "多因素实验",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "experiment of many factor"
+        }
+    },
+    {
+        "concept_name": "天然模型",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "natural model"
+        }
+    },
+    {
+        "concept_name": "太空实验",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "outer space experiment"
+        }
+    },
+    {
+        "concept_name": "完全归纳",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "complete induction"
+        }
+    },
+    {
+        "concept_name": "定性分析",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "qualitative analysis"
+        }
+    },
+    {
+        "concept_name": "定性实验",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "qualitative experiment"
+        }
+    },
+    {
+        "concept_name": "定量分析",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "quantitative analysis"
+        }
+    },
+    {
+        "concept_name": "定量实验",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "quantitative experiment"
+        }
+    },
+    {
+        "concept_name": "实践证明",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "practical proof"
+        }
+    },
+    {
+        "concept_name": "实验-归纳法",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "experiment-induction method"
+        }
+    },
+    {
+        "concept_name": "实验假说",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "hypothesis in experiment"
+        }
+    },
+    {
+        "concept_name": "实验可控制性",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "experimental controllability"
+        }
+    },
+    {
+        "concept_name": "实验可观测性",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "experimental observation ability"
+        }
+    },
+    {
+        "concept_name": "实验可靠性",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "experimental reliability"
+        }
+    },
+    {
+        "concept_name": "实验处理",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "experimentation treatment"
+        }
+    },
+    {
+        "concept_name": "实验控制",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "control in experiment"
+        }
+    },
+    {
+        "concept_name": "实验操作",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "operation in experiment"
+        }
+    },
+    {
+        "concept_name": "实验数据",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "experimental data"
+        }
+    },
+    {
+        "concept_name": "实验组",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "experimental group"
+        }
+    },
+    {
+        "concept_name": "实验观察",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "experimental observation"
+        }
+    },
+    {
+        "concept_name": "实验规划",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "planning experiment"
+        }
+    },
+    {
+        "concept_name": "实验设计",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "experimental design"
+        }
+    },
+    {
+        "concept_name": "实验误差",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "experimental error"
+        }
+    },
+    {
+        "concept_name": "客体系统",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "system of object"
+        }
+    },
+    {
+        "concept_name": "对照组",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "control group"
+        }
+    },
+    {
+        "concept_name": "常规发现",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "normal discovery"
+        }
+    },
+    {
+        "concept_name": "常规实验",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "normal experiment"
+        }
+    },
+    {
+        "concept_name": "常规观察",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "normal observation"
+        }
+    },
+    {
+        "concept_name": "序贯分析",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "sequential analysis"
+        }
+    },
+    {
+        "concept_name": "序贯实验",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "sequential experiment"
+        }
+    },
+    {
+        "concept_name": "归纳推理",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "inductive reasoning"
+        }
+    },
+    {
+        "concept_name": "归纳论证",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "inductive demonstration"
+        }
+    },
+    {
+        "concept_name": "归谬法",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "reduction to absurdity"
+        }
+    },
+    {
+        "concept_name": "形态分析",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "shape analysis"
+        }
+    },
+    {
+        "concept_name": "形象化方法",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "method of imagery"
+        }
+    },
+    {
+        "concept_name": "形象思维",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "image thinking"
+        }
+    },
+    {
+        "concept_name": "形象模型",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "model of image"
+        }
+    },
+    {
+        "concept_name": "微元分析",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "infinitesimal analysis"
+        }
+    },
+    {
+        "concept_name": "思想实验",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "thought experiment"
+        }
+    },
+    {
+        "concept_name": "思维工具",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "implement of thinking"
+        }
+    },
+    {
+        "concept_name": "思维模型",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "thinking model"
+        }
+    },
+    {
+        "concept_name": "思维经济原则",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "the principle of thinking-economy"
+        }
+    },
+    {
+        "concept_name": "思维障碍",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "obstructions in thinking"
+        }
+    },
+    {
+        "concept_name": "悖论",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "paradox"
+        }
+    },
+    {
+        "concept_name": "感官观察",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "observation of use senses"
+        }
+    },
+    {
+        "concept_name": "技术发明",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technical invention"
+        }
+    },
+    {
+        "concept_name": "技术方法",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technical method"
+        }
+    },
+    {
+        "concept_name": "抽样误差",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "sampling error"
+        }
+    },
+    {
+        "concept_name": "抽象",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "abstraction"
+        }
+    },
+    {
+        "concept_name": "抽象思维",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "abstract thinking"
+        }
+    },
+    {
+        "concept_name": "抽象概念",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "abstract concept"
+        }
+    },
+    {
+        "concept_name": "抽象模型",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "abstract model"
+        }
+    },
+    {
+        "concept_name": "指导性实验",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "guidingability experiment"
+        }
+    },
+    {
+        "concept_name": "排除-归纳法",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "elimination-induction method"
+        }
+    },
+    {
+        "concept_name": "探索性实验",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "exploitative experiment"
+        }
+    },
+    {
+        "concept_name": "控制论方法",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "method of cybernetics"
+        }
+    },
+    {
+        "concept_name": "数学-实验法",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "mathematics-experiment method"
+        }
+    },
+    {
+        "concept_name": "数学方法",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "mathematical method"
+        }
+    },
+    {
+        "concept_name": "数学模拟",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "mathematical imitation"
+        }
+    },
+    {
+        "concept_name": "整体性原则",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "principle of whole"
+        }
+    },
+    {
+        "concept_name": "整体综合",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "whole synthesis"
+        }
+    },
+    {
+        "concept_name": "方法误差",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "method error"
+        }
+    },
+    {
+        "concept_name": "时序分析",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "analysis of time sequence"
+        }
+    },
+    {
+        "concept_name": "最优化原则",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "principle of optimization"
+        }
+    },
+    {
+        "concept_name": "机遇观察",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "chance observation"
+        }
+    },
+    {
+        "concept_name": "材料误差",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "material error"
+        }
+    },
+    {
+        "concept_name": "析因实验",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "factorial experiment"
+        }
+    },
+    {
+        "concept_name": "枚举归纳",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "enumerative induction"
+        }
+    },
+    {
+        "concept_name": "案例分析",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "case analysis"
+        }
+    },
+    {
+        "concept_name": "概括抽象",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "summary abstraction"
+        }
+    },
+    {
+        "concept_name": "模型",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "model"
+        }
+    },
+    {
+        "concept_name": "模型化原则",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "principle of model"
+        }
+    },
+    {
+        "concept_name": "模拟实验",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "imitative experiment"
+        }
+    },
+    {
+        "concept_name": "比较",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "comparison"
+        }
+    },
+    {
+        "concept_name": "比较分析",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "comparative analysis"
+        }
+    },
+    {
+        "concept_name": "求同求异共用法",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "joint method of agreement and difference"
+        }
+    },
+    {
+        "concept_name": "求同法",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "method of agreement"
+        }
+    },
+    {
+        "concept_name": "灰色系统",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "gray system"
+        }
+    },
+    {
+        "concept_name": "特性分析",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "specificity analysis"
+        }
+    },
+    {
+        "concept_name": "特设性假说",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "ad hoc hypothesis"
+        }
+    },
+    {
+        "concept_name": "环境误差",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "environment error"
+        }
+    },
+    {
+        "concept_name": "理想化方法",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "idealization method"
+        }
+    },
+    {
+        "concept_name": "理想实验",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "ideal experiment"
+        }
+    },
+    {
+        "concept_name": "理想模型",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "ideal model"
+        }
+    },
+    {
+        "concept_name": "理论事实",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "theoretical fact"
+        }
+    },
+    {
+        "concept_name": "理论分析",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "theory analysis"
+        }
+    },
+    {
+        "concept_name": "理论发明",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "theoretical invention"
+        }
+    },
+    {
+        "concept_name": "理论解释",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "theoretical explanation"
+        }
+    },
+    {
+        "concept_name": "直接实验",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "direct experiment"
+        }
+    },
+    {
+        "concept_name": "相对误差",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "relative error"
+        }
+    },
+    {
+        "concept_name": "瞬态分析",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "transient analysis"
+        }
+    },
+    {
+        "concept_name": "确定性模型",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "determinate model"
+        }
+    },
+    {
+        "concept_name": "社会客体",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "social object"
+        }
+    },
+    {
+        "concept_name": "科学事实",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientific fact"
+        }
+    },
+    {
+        "concept_name": "科学仪器",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientific instrument"
+        }
+    },
+    {
+        "concept_name": "科学假说",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientific hypothesis"
+        }
+    },
+    {
+        "concept_name": "科学发明",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientific invention"
+        }
+    },
+    {
+        "concept_name": "科学发现",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientific discovery"
+        }
+    },
+    {
+        "concept_name": "科学实践",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientific practice"
+        }
+    },
+    {
+        "concept_name": "科学实验",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientific experiment"
+        }
+    },
+    {
+        "concept_name": "科学归纳",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientific induction"
+        }
+    },
+    {
+        "concept_name": "科学想象",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientific imagination"
+        }
+    },
+    {
+        "concept_name": "科学抽象",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientific abstraction"
+        }
+    },
+    {
+        "concept_name": "科学描述",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientific description"
+        }
+    },
+    {
+        "concept_name": "科学文献",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientific literature"
+        }
+    },
+    {
+        "concept_name": "科学方法",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientific method"
+        }
+    },
+    {
+        "concept_name": "科学测量",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientific measurement"
+        }
+    },
+    {
+        "concept_name": "科学灵感",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientific inspiration"
+        }
+    },
+    {
+        "concept_name": "科学直觉",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientific intuition"
+        }
+    },
+    {
+        "concept_name": "科学研究",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientific research"
+        }
+    },
+    {
+        "concept_name": "科学符号",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientific symbol"
+        }
+    },
+    {
+        "concept_name": "科学经验",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientific experience"
+        }
+    },
+    {
+        "concept_name": "科学联想",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientific association"
+        }
+    },
+    {
+        "concept_name": "科学观察",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientific observation"
+        }
+    },
+    {
+        "concept_name": "科学解释",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientific explanation"
+        }
+    },
+    {
+        "concept_name": "科学试验",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientific test"
+        }
+    },
+    {
+        "concept_name": "科学语言",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientific language"
+        }
+    },
+    {
+        "concept_name": "科学资料",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "science-material"
+        }
+    },
+    {
+        "concept_name": "科学预见",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientific prediction"
+        }
+    },
+    {
+        "concept_name": "穷举法",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "method of exhaustion"
+        }
+    },
+    {
+        "concept_name": "空间观察",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "space observation"
+        }
+    },
+    {
+        "concept_name": "等价变换法",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "alternate method of equal values"
+        }
+    },
+    {
+        "concept_name": "筛选试验",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "screening test"
+        }
+    },
+    {
+        "concept_name": "类比",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "analogy"
+        }
+    },
+    {
+        "concept_name": "精神客体",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "mental object"
+        }
+    },
+    {
+        "concept_name": "系统分析",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "systematic analysis"
+        }
+    },
+    {
+        "concept_name": "系统误差",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "systematic error"
+        }
+    },
+    {
+        "concept_name": "组合法",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "combination method"
+        }
+    },
+    {
+        "concept_name": "经验事实",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "experiential fact"
+        }
+    },
+    {
+        "concept_name": "经验公式",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "experiential formula"
+        }
+    },
+    {
+        "concept_name": "经验定律",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "experiential law"
+        }
+    },
+    {
+        "concept_name": "经验常数",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "experiential constant"
+        }
+    },
+    {
+        "concept_name": "经验性研究",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "empirical research"
+        }
+    },
+    {
+        "concept_name": "经验描述",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "experiential description"
+        }
+    },
+    {
+        "concept_name": "经验模型",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "experiential model"
+        }
+    },
+    {
+        "concept_name": "经验预见",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "experiential prediction"
+        }
+    },
+    {
+        "concept_name": "绝对误差",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "absolute error"
+        }
+    },
+    {
+        "concept_name": "综合方法",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "synthetic methods"
+        }
+    },
+    {
+        "concept_name": "自然客体",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "natural object"
+        }
+    },
+    {
+        "concept_name": "自然观察",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "natural observation"
+        }
+    },
+    {
+        "concept_name": "自然解释",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "explanation of nature"
+        }
+    },
+    {
+        "concept_name": "自然语言",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "natural language"
+        }
+    },
+    {
+        "concept_name": "观察假说",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "hypothesis in observation"
+        }
+    },
+    {
+        "concept_name": "观察典型",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "typical cases in observation"
+        }
+    },
+    {
+        "concept_name": "观察对象",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "object of observation"
+        }
+    },
+    {
+        "concept_name": "观察环境",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "environment of observation"
+        }
+    },
+    {
+        "concept_name": "观察程序",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "procedures of observation"
+        }
+    },
+    {
+        "concept_name": "观察者",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "observer"
+        }
+    },
+    {
+        "concept_name": "观察语言",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "observational language"
+        }
+    },
+    {
+        "concept_name": "观察错误",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "errors in observation"
+        }
+    },
+    {
+        "concept_name": "观察陈述",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "observational statement"
+        }
+    },
+    {
+        "concept_name": "规律解释",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "explanation of law"
+        }
+    },
+    {
+        "concept_name": "计算机实验",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "computer-experiment"
+        }
+    },
+    {
+        "concept_name": "计算机模拟",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "computer-imitation"
+        }
+    },
+    {
+        "concept_name": "认识客体",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "object of knowledge"
+        }
+    },
+    {
+        "concept_name": "认识工具",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "implement of knowledge"
+        }
+    },
+    {
+        "concept_name": "设备误差",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "equipment error"
+        }
+    },
+    {
+        "concept_name": "试错法",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "trial and error method"
+        }
+    },
+    {
+        "concept_name": "过失误差",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "gross error"
+        }
+    },
+    {
+        "concept_name": "选题原则",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "principle of choice"
+        }
+    },
+    {
+        "concept_name": "逻辑方法",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "logical methods"
+        }
+    },
+    {
+        "concept_name": "逼近法",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "approach method"
+        }
+    },
+    {
+        "concept_name": "重复性实验",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "repeated experiment"
+        }
+    },
+    {
+        "concept_name": "问题分解",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "resolution of problem"
+        }
+    },
+    {
+        "concept_name": "问题结构",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "structure of problem"
+        }
+    },
+    {
+        "concept_name": "间接实验",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "indirect experiment"
+        }
+    },
+    {
+        "concept_name": "间接测量",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "indirect measurement"
+        }
+    },
+    {
+        "concept_name": "间接证明",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "indirect proof"
+        }
+    },
+    {
+        "concept_name": "随机分配",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "random allocation"
+        }
+    },
+    {
+        "concept_name": "随机实验",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "random experiment"
+        }
+    },
+    {
+        "concept_name": "随机抽样",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "random sampling"
+        }
+    },
+    {
+        "concept_name": "随机误差",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "random error"
+        }
+    },
+    {
+        "concept_name": "非常规发现",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "non-normal discovery"
+        }
+    },
+    {
+        "concept_name": "顺序误差",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "sequence error"
+        }
+    },
+    {
+        "concept_name": "预备性实验",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "preparative experiment"
+        }
+    },
+    {
+        "concept_name": "频率分析",
+        "details": {
+            "学科": "自然辩证法_科学技术方法论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "frequency analysis"
+        }
+    }
+]

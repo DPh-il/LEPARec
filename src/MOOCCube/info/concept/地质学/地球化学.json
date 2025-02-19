@@ -1,0 +1,2417 @@
+[
+    {
+        "concept_name": "CHUR值",
+        "details": {
+            "学科": "地质学_地球化学",
+            "又称": " 球粒陨石均一储库",
+            "见载": "《地质学名词》第一版",
+            "英文名": "chondritic uniform reservoir"
+        }
+    },
+    {
+        "concept_name": "SLAP标准",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "standard light Antarctic precipitation"
+        }
+    },
+    {
+        "concept_name": "SMOW标准",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "standard mean ocean water"
+        }
+    },
+    {
+        "concept_name": "V-SMOW标准",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "Vienna standard mean ocean water"
+        }
+    },
+    {
+        "concept_name": "pH-Eh图解",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "pH-Eh diagram"
+        }
+    },
+    {
+        "concept_name": "一致年龄",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "concordia age"
+        }
+    },
+    {
+        "concept_name": "不一致年龄",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "discordia age"
+        }
+    },
+    {
+        "concept_name": "不混熔岩浆",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "immiscible magma"
+        }
+    },
+    {
+        "concept_name": "不混熔性",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "immiscibility"
+        }
+    },
+    {
+        "concept_name": "不相容元素",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "incompatible element"
+        }
+    },
+    {
+        "concept_name": "中铁陨石",
+        "details": {
+            "学科": "地质学_地球化学",
+            "英文": "mesosiderite ;pyroxene-plagioclase stony-iron",
+            "又称": " 辉长石铁陨石",
+            "见载": "《地质学名词》第一版",
+            "英文名": "mesosiderite"
+        }
+    },
+    {
+        "concept_name": "主元素",
+        "details": {
+            "学科": "地质学_地球化学",
+            "又称": " 常量元素",
+            "见载": "《地质学名词》第一版",
+            "英文名": "major element"
+        }
+    },
+    {
+        "concept_name": "交换平衡",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "exchange equilibrium"
+        }
+    },
+    {
+        "concept_name": "亲气元素",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "atmophile element"
+        }
+    },
+    {
+        "concept_name": "亲氧过程",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "aerobic process"
+        }
+    },
+    {
+        "concept_name": "亲生物元素",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "biophile element"
+        }
+    },
+    {
+        "concept_name": "亲石元素",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "lithophile element"
+        }
+    },
+    {
+        "concept_name": "亲铁元素",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "siderophile element"
+        }
+    },
+    {
+        "concept_name": "亲铜元素",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "chalcophile element"
+        }
+    },
+    {
+        "concept_name": "人为排放",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "anthropogenic discharge"
+        }
+    },
+    {
+        "concept_name": "假异常",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "false anomaly"
+        }
+    },
+    {
+        "concept_name": "偏提取",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "partial extraction"
+        }
+    },
+    {
+        "concept_name": "健康效应",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "health effect"
+        }
+    },
+    {
+        "concept_name": "偶数规则",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "even rule"
+        }
+    },
+    {
+        "concept_name": "允许剂量",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "acceptable dose"
+        }
+    },
+    {
+        "concept_name": "允许浓度",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "acceptable concentration"
+        }
+    },
+    {
+        "concept_name": "允许环境极限",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "acceptable environment limit"
+        }
+    },
+    {
+        "concept_name": "元素丰度",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "abundance of element"
+        }
+    },
+    {
+        "concept_name": "元素丰度变化图",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "variation diagram of element abundance"
+        }
+    },
+    {
+        "concept_name": "元素亏损",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "depletion of element"
+        }
+    },
+    {
+        "concept_name": "元素凝聚",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "condensation of elements"
+        }
+    },
+    {
+        "concept_name": "元素分布",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "distribution of element"
+        }
+    },
+    {
+        "concept_name": "元素分布图",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "distribution diagram of element"
+        }
+    },
+    {
+        "concept_name": "元素分布频率",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "frequency distribution of element"
+        }
+    },
+    {
+        "concept_name": "元素分散",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "dispersion of element"
+        }
+    },
+    {
+        "concept_name": "元素地球化学",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "geochemistry of element"
+        }
+    },
+    {
+        "concept_name": "元素地球化学分类",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "geochemical classification of element"
+        }
+    },
+    {
+        "concept_name": "元素地球化学行为",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "geochemical behaviour of element"
+        }
+    },
+    {
+        "concept_name": "元素存在形式",
+        "details": {
+            "学科": "地质学_地球化学",
+            "英文": "mode of occurrence of element ;existing form of element",
+            "见载": "《地质学名词》第一版",
+            "英文名": "mode of occurrence of element"
+        }
+    },
+    {
+        "concept_name": "元素富集",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "enrichment of element"
+        }
+    },
+    {
+        "concept_name": "元素对",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "element pair"
+        }
+    },
+    {
+        "concept_name": "元素年龄",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "age of element"
+        }
+    },
+    {
+        "concept_name": "元素比值",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "element ratio"
+        }
+    },
+    {
+        "concept_name": "元素比值图",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "diagram of element ratio"
+        }
+    },
+    {
+        "concept_name": "元素活动性",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "mobility of element"
+        }
+    },
+    {
+        "concept_name": "元素浓度",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "concentration of element"
+        }
+    },
+    {
+        "concept_name": "元素组合",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "element association"
+        }
+    },
+    {
+        "concept_name": "元素置换",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "element substitution"
+        }
+    },
+    {
+        "concept_name": "元素起源",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "origin of element"
+        }
+    },
+    {
+        "concept_name": "元素迁移",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "migration of element"
+        }
+    },
+    {
+        "concept_name": "全球环境",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "global environment"
+        }
+    },
+    {
+        "concept_name": "八面体铁陨石",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "octahedrite"
+        }
+    },
+    {
+        "concept_name": "内加热高压容器",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "internally heated pressure vessel"
+        }
+    },
+    {
+        "concept_name": "内生异常",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "endogenetic anomaly"
+        }
+    },
+    {
+        "concept_name": "内部等时线",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "internal isochron"
+        }
+    },
+    {
+        "concept_name": "冷提取",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "cold extracton"
+        }
+    },
+    {
+        "concept_name": "出溶",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "exsolution"
+        }
+    },
+    {
+        "concept_name": "分子有机地球化学",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "molecular organic geochemistry"
+        }
+    },
+    {
+        "concept_name": "分散元素",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "dispersed element"
+        }
+    },
+    {
+        "concept_name": "分馏效应",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "fractionation effect"
+        }
+    },
+    {
+        "concept_name": "初始比值",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "initial ratio"
+        }
+    },
+    {
+        "concept_name": "初始熔体",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "initial melt"
+        }
+    },
+    {
+        "concept_name": "初始铅",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "initial lead"
+        }
+    },
+    {
+        "concept_name": "前生期化学演化",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "chemical evolution in prebiological period"
+        }
+    },
+    {
+        "concept_name": "勘查地球化学",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "exploration geochemistry"
+        }
+    },
+    {
+        "concept_name": "区域地球化学异常",
+        "details": {
+            "学科": "地质学_地球化学",
+            "英文": "regional geochemical anomaly ;areal geochemical anomaly",
+            "见载": "《地质学名词》第一版",
+            "英文名": "regional geochemical anomaly"
+        }
+    },
+    {
+        "concept_name": "区域环境",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "regional environment"
+        }
+    },
+    {
+        "concept_name": "原始同位素组成异常",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "primitive isotopic anomaly"
+        }
+    },
+    {
+        "concept_name": "原子体积",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "atomic volume"
+        }
+    },
+    {
+        "concept_name": "原子克拉克值",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "clarke of atom"
+        }
+    },
+    {
+        "concept_name": "原生异常",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "primary anomaly"
+        }
+    },
+    {
+        "concept_name": "原生环境",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "primary environment"
+        }
+    },
+    {
+        "concept_name": "叠加异常",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "superimposed anomaly"
+        }
+    },
+    {
+        "concept_name": "古铜-橄榄石铁陨石",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "bronzite-olivine stony-iron"
+        }
+    },
+    {
+        "concept_name": "古铜钙长无球粒陨石",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "howardite"
+        }
+    },
+    {
+        "concept_name": "同位素交换反应",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "isotopic exchange reaction"
+        }
+    },
+    {
+        "concept_name": "同位素交换平衡",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "isotopic exchange equilibrium"
+        }
+    },
+    {
+        "concept_name": "同位素分馏",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "isotopic fractionation"
+        }
+    },
+    {
+        "concept_name": "同位素分馏系数",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "isotope fractionation factor"
+        }
+    },
+    {
+        "concept_name": "同位素地球化学",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "isotope geochemistry"
+        }
+    },
+    {
+        "concept_name": "同位素地质年代学",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "isotope geochronology"
+        }
+    },
+    {
+        "concept_name": "同位素地质温度计",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "isotope geothermometer"
+        }
+    },
+    {
+        "concept_name": "同位素平衡",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "isotopic equilibrium"
+        }
+    },
+    {
+        "concept_name": "同位素稀释法",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "isotope dilution method"
+        }
+    },
+    {
+        "concept_name": "同生异常",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "syngenetic anomaly"
+        }
+    },
+    {
+        "concept_name": "后生异常",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "epigenetic anomaly"
+        }
+    },
+    {
+        "concept_name": "含水熔融曲线",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "hydrous melting curve"
+        }
+    },
+    {
+        "concept_name": "吸附作用",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "adsorption"
+        }
+    },
+    {
+        "concept_name": "器官系数",
+        "details": {
+            "学科": "地质学_地球化学",
+            "英文": "acropetal coefficient ;AC",
+            "见载": "《地质学名词》第一版",
+            "英文名": "acropetal coefficient"
+        }
+    },
+    {
+        "concept_name": "土壤异常",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "soil anomaly"
+        }
+    },
+    {
+        "concept_name": "地形同位素分馏效应",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "topographic isotopic fractionation effect"
+        }
+    },
+    {
+        "concept_name": "地方病",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "endemic disease"
+        }
+    },
+    {
+        "concept_name": "地球内部化学",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "interior chemistry of earth"
+        }
+    },
+    {
+        "concept_name": "地球化学勘查",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "geochemical exploration"
+        }
+    },
+    {
+        "concept_name": "地球化学开放体系",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "geochemical open system"
+        }
+    },
+    {
+        "concept_name": "地球化学异常",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "geochemical anomaly"
+        }
+    },
+    {
+        "concept_name": "地球化学演化",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "geochemical evolution"
+        }
+    },
+    {
+        "concept_name": "地球化学环境",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "geochemical environment"
+        }
+    },
+    {
+        "concept_name": "地球化学自组织",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "geochemical self-organization"
+        }
+    },
+    {
+        "concept_name": "坪年龄",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "plateau age"
+        }
+    },
+    {
+        "concept_name": "大气氩",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "atmospheric argon"
+        }
+    },
+    {
+        "concept_name": "天体化学",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "astrochemistry"
+        }
+    },
+    {
+        "concept_name": "天然气地球化学",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "natural gas geochemistry"
+        }
+    },
+    {
+        "concept_name": "太阳系元素丰度",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "solar system abundance of element"
+        }
+    },
+    {
+        "concept_name": "奥克洛现象",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "Oklo phenomenon"
+        }
+    },
+    {
+        "concept_name": "嫌氧过程",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "anaerobic process"
+        }
+    },
+    {
+        "concept_name": "季节性吸收系数",
+        "details": {
+            "学科": "地质学_地球化学",
+            "英文": "temporal absorption coefficient ;TAC",
+            "见载": "《地质学名词》第一版",
+            "英文名": "temporal absorption coefficient"
+        }
+    },
+    {
+        "concept_name": "宇宙丰度",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "cosmic abundance"
+        }
+    },
+    {
+        "concept_name": "宇宙原子核合成",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "nucleosynthesis in universe"
+        }
+    },
+    {
+        "concept_name": "宇宙年龄",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "age of universe"
+        }
+    },
+    {
+        "concept_name": "宇宙线暴露年龄",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "cosmic ray exposure age"
+        }
+    },
+    {
+        "concept_name": "实验地球化学",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "experimental geochemistry"
+        }
+    },
+    {
+        "concept_name": "富营养化",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "eutrophication"
+        }
+    },
+    {
+        "concept_name": "富钙无球粒陨石",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "calcium-rich achondrite"
+        }
+    },
+    {
+        "concept_name": "富钙铝包体",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "calcium-aluminium-rich inclusion"
+        }
+    },
+    {
+        "concept_name": "局部平衡",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "local equilibrium"
+        }
+    },
+    {
+        "concept_name": "岩石异常",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "rock anomaly"
+        }
+    },
+    {
+        "concept_name": "干燥指数",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "aridity index"
+        }
+    },
+    {
+        "concept_name": "平衡常数",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "equilibrium constant"
+        }
+    },
+    {
+        "concept_name": "平衡相图",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "equilibrium phase diagram"
+        }
+    },
+    {
+        "concept_name": "年龄测定",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "age determination"
+        }
+    },
+    {
+        "concept_name": "年龄谱",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "age spectrum"
+        }
+    },
+    {
+        "concept_name": "应用地球化学",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "applied geochemistry"
+        }
+    },
+    {
+        "concept_name": "异常强度",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "anomaly intensity"
+        }
+    },
+    {
+        "concept_name": "异常衬度",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "anomaly contrast"
+        }
+    },
+    {
+        "concept_name": "异常衰减模式",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "anomaly decay pattern"
+        }
+    },
+    {
+        "concept_name": "异常规模",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "anomaly dimension"
+        }
+    },
+    {
+        "concept_name": "异常铅",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "anomalous lead"
+        }
+    },
+    {
+        "concept_name": "形成年龄",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "formation age"
+        }
+    },
+    {
+        "concept_name": "循序提取",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "sequential extraction"
+        }
+    },
+    {
+        "concept_name": "惰性气体",
+        "details": {
+            "学科": "地质学_地球化学",
+            "英文": "noble gas ;inert gas ;rare gas",
+            "又称": " 稀有气体",
+            "见载": "《地质学名词》第一版",
+            "英文名": "noble gas"
+        }
+    },
+    {
+        "concept_name": "成矿元素",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ore-forming element"
+        }
+    },
+    {
+        "concept_name": "指示元素",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "indicator element"
+        }
+    },
+    {
+        "concept_name": "指示植物",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "indicator plant"
+        }
+    },
+    {
+        "concept_name": "探途元素",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "pathfinder element"
+        }
+    },
+    {
+        "concept_name": "撞击坑",
+        "details": {
+            "学科": "地质学_地球化学",
+            "又称": " 冲击坑",
+            "见载": "《地质学名词》第一版",
+            "英文名": "impact crater"
+        }
+    },
+    {
+        "concept_name": "撞击角砾岩",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "suevite"
+        }
+    },
+    {
+        "concept_name": "放射性示踪分析",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "radiotracer analysis"
+        }
+    },
+    {
+        "concept_name": "散落物",
+        "details": {
+            "学科": "地质学_地球化学",
+            "英文": "fallout ;airborne debris",
+            "见载": "《地质学名词》第一版",
+            "英文名": "fallout"
+        }
+    },
+    {
+        "concept_name": "无意义异常",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "non-significant anomaly"
+        }
+    },
+    {
+        "concept_name": "无机地球化学",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "inorganic geochemistry"
+        }
+    },
+    {
+        "concept_name": "无机成因气",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "inorganic genetic gas"
+        }
+    },
+    {
+        "concept_name": "无机起源",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "inorganic origin"
+        }
+    },
+    {
+        "concept_name": "无球粒陨石",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "achondrite"
+        }
+    },
+    {
+        "concept_name": "无结构铁陨石",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ataxite"
+        }
+    },
+    {
+        "concept_name": "时间温度指数",
+        "details": {
+            "学科": "地质学_地球化学",
+            "英文": "time temperature index ;TTI",
+            "见载": "《地质学名词》第一版",
+            "英文名": "time temperature index"
+        }
+    },
+    {
+        "concept_name": "普通球粒陨石",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ordinary chondrite"
+        }
+    },
+    {
+        "concept_name": "最佳估计值",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "best estimate"
+        }
+    },
+    {
+        "concept_name": "有意义异常",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "significant anomaly"
+        }
+    },
+    {
+        "concept_name": "有机分子起源",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "origin of organic molecules"
+        }
+    },
+    {
+        "concept_name": "有机含硫化合物",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "sulfur-containing organic compound"
+        }
+    },
+    {
+        "concept_name": "有机地球化学",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "organic geochemistry"
+        }
+    },
+    {
+        "concept_name": "有机质成熟度",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "maturity of organic matter"
+        }
+    },
+    {
+        "concept_name": "有机质热模拟",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "thermo-simulation of organic matter"
+        }
+    },
+    {
+        "concept_name": "标型元素",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "typochemical element"
+        }
+    },
+    {
+        "concept_name": "模式年龄",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "model age"
+        }
+    },
+    {
+        "concept_name": "模拟实验",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "simulation experiment"
+        }
+    },
+    {
+        "concept_name": "橄榄古铜球粒陨石",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "olivine-bronzite chondrite"
+        }
+    },
+    {
+        "concept_name": "橄榄紫苏球粒陨石",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "olivine-hypersthene chondrite"
+        }
+    },
+    {
+        "concept_name": "次元素",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "minor element"
+        }
+    },
+    {
+        "concept_name": "次生异常",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "secondary anomaly"
+        }
+    },
+    {
+        "concept_name": "次生环境",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "secondary environment"
+        }
+    },
+    {
+        "concept_name": "正异常",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "positive anomaly"
+        }
+    },
+    {
+        "concept_name": "正烷烃分布",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "distribution of n-alkanes"
+        }
+    },
+    {
+        "concept_name": "正烷烃奇偶优势",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "odd-even predominance of n-alkanes"
+        }
+    },
+    {
+        "concept_name": "气体保留年龄",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "gas retention age"
+        }
+    },
+    {
+        "concept_name": "氢-氧体系",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "H-O system"
+        }
+    },
+    {
+        "concept_name": "氢-水体系",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "H-H2 O system"
+        }
+    },
+    {
+        "concept_name": "氧化环境",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "oxidizing environment"
+        }
+    },
+    {
+        "concept_name": "氧逸度",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "oxygen fugacity"
+        }
+    },
+    {
+        "concept_name": "氨基酸年代学",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "amino acids age determination"
+        }
+    },
+    {
+        "concept_name": "氨基酸类化合物",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "amino acids"
+        }
+    },
+    {
+        "concept_name": "氩-氩计时",
+        "details": {
+            "学科": "地质学_地球化学",
+            "又称": " 氩-氩定年",
+            "见载": "《地质学名词》第一版",
+            "英文名": "Ar-Ar dating"
+        }
+    },
+    {
+        "concept_name": "水土病",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "acclimation fever"
+        }
+    },
+    {
+        "concept_name": "水岩作用",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "water-rock interaction"
+        }
+    },
+    {
+        "concept_name": "水系异常",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "drainage anomaly"
+        }
+    },
+    {
+        "concept_name": "污染指数",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "pollution index"
+        }
+    },
+    {
+        "concept_name": "活动元素吸收系数",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "mobile element absorption coefficient"
+        }
+    },
+    {
+        "concept_name": "活塞-缸筒设备",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "piston-cylinder apparatus"
+        }
+    },
+    {
+        "concept_name": "流体包裹体",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "fluid inclusion"
+        }
+    },
+    {
+        "concept_name": "海洋化探",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "marine geochemical exploration"
+        }
+    },
+    {
+        "concept_name": "海洋环境",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "marine environment"
+        }
+    },
+    {
+        "concept_name": "渗滤",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "infiltration"
+        }
+    },
+    {
+        "concept_name": "温室效应",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "greenhouse effect"
+        }
+    },
+    {
+        "concept_name": "热成熟成因气",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "gas from thermomaturation of organic matter"
+        }
+    },
+    {
+        "concept_name": "烷基联苯化合物",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "alkyl biphenyls"
+        }
+    },
+    {
+        "concept_name": "烷基苯系列化合物",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "alkyl benzenes"
+        }
+    },
+    {
+        "concept_name": "烷基菲系列化合物",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "alkyl phenanthrenes"
+        }
+    },
+    {
+        "concept_name": "烷基萘系列化合物",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "alkyl naphthalenes"
+        }
+    },
+    {
+        "concept_name": "烷烃馏分",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "aliphatic fraction"
+        }
+    },
+    {
+        "concept_name": "熔壳",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "fusion crust"
+        }
+    },
+    {
+        "concept_name": "环境介质",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "environmental medium"
+        }
+    },
+    {
+        "concept_name": "环境储库",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "environmental reservoir"
+        }
+    },
+    {
+        "concept_name": "环境化学演化",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "chemical evolution of environment"
+        }
+    },
+    {
+        "concept_name": "环境区划",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "environmental regionalization"
+        }
+    },
+    {
+        "concept_name": "环境变迁",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "environmental transition"
+        }
+    },
+    {
+        "concept_name": "环境因子",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "environmental factor"
+        }
+    },
+    {
+        "concept_name": "环境地球化学",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "environmental geochemistry"
+        }
+    },
+    {
+        "concept_name": "环境地球化学参数",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "environmental geochemistry parameter"
+        }
+    },
+    {
+        "concept_name": "环境年代学",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "environmental chronology"
+        }
+    },
+    {
+        "concept_name": "环境异常",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "environmental anomaly"
+        }
+    },
+    {
+        "concept_name": "环境影响",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "environmental influence"
+        }
+    },
+    {
+        "concept_name": "环境影响评价",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "environmental impact assessment"
+        }
+    },
+    {
+        "concept_name": "环境效应",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "environmental effect"
+        }
+    },
+    {
+        "concept_name": "环境有机地球化学",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "environmental organic geochemistry"
+        }
+    },
+    {
+        "concept_name": "环境模拟",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "environmental simulation"
+        }
+    },
+    {
+        "concept_name": "环境污染",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "environmental pollution"
+        }
+    },
+    {
+        "concept_name": "环境物质形态",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "form of environmental substance"
+        }
+    },
+    {
+        "concept_name": "环境物质转化",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "transformation of environmental substance"
+        }
+    },
+    {
+        "concept_name": "环境物质迁移",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "transport of environmental substance"
+        }
+    },
+    {
+        "concept_name": "环境物质释放",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "release of environmental substance"
+        }
+    },
+    {
+        "concept_name": "环境界面",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "environmental interface"
+        }
+    },
+    {
+        "concept_name": "环境界面地球化学",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "environmental interface geochemistry"
+        }
+    },
+    {
+        "concept_name": "环境背景[值]",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "environmental background"
+        }
+    },
+    {
+        "concept_name": "环境自净",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "environmental self-purification"
+        }
+    },
+    {
+        "concept_name": "环境规划",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "environmental planning"
+        }
+    },
+    {
+        "concept_name": "环境质量",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "environmental quality"
+        }
+    },
+    {
+        "concept_name": "环境质量参数",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "environmental quality parameter"
+        }
+    },
+    {
+        "concept_name": "环境质量变异",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "environmental quality variation"
+        }
+    },
+    {
+        "concept_name": "环境质量图",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "environmental quality atlas"
+        }
+    },
+    {
+        "concept_name": "环境质量指数",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "environmental quality index"
+        }
+    },
+    {
+        "concept_name": "环境质量标准",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "environmental quality standard"
+        }
+    },
+    {
+        "concept_name": "环境质量评价",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "environmental quality assessment"
+        }
+    },
+    {
+        "concept_name": "环境退化",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "environmental degradation"
+        }
+    },
+    {
+        "concept_name": "生态平衡",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ecological balance"
+        }
+    },
+    {
+        "concept_name": "生态系[统]",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ecosystem"
+        }
+    },
+    {
+        "concept_name": "生油岩评价",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "source rock evaluation"
+        }
+    },
+    {
+        "concept_name": "生油液态窗",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "liquid window of oil generation"
+        }
+    },
+    {
+        "concept_name": "生油门限",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "threshold of oil generation"
+        }
+    },
+    {
+        "concept_name": "生物吸收系数",
+        "details": {
+            "学科": "地质学_地球化学",
+            "英文": "biological absorption coefficient ;BAC",
+            "见载": "《地质学名词》第一版",
+            "英文名": "biological absorption coefficient"
+        }
+    },
+    {
+        "concept_name": "痕量元素",
+        "details": {
+            "学科": "地质学_地球化学",
+            "又称": " 微迹元素",
+            "见载": "《地质学名词》第一版",
+            "英文名": "trace element"
+        }
+    },
+    {
+        "concept_name": "痛痛病",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "itai-itai disease"
+        }
+    },
+    {
+        "concept_name": "相容元素",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "compatible element"
+        }
+    },
+    {
+        "concept_name": "相对丰度",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "relative abundance"
+        }
+    },
+    {
+        "concept_name": "相对吸收系数",
+        "details": {
+            "学科": "地质学_地球化学",
+            "英文": "relative absorption coefficient ;RAC",
+            "见载": "《地质学名词》第一版",
+            "英文名": "relative absorption coefficient"
+        }
+    },
+    {
+        "concept_name": "石油地球化学",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "petroleum geochemistry"
+        }
+    },
+    {
+        "concept_name": "石铁陨石",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "stony-iron meteorite"
+        }
+    },
+    {
+        "concept_name": "矿物等时线",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "mineral isochron"
+        }
+    },
+    {
+        "concept_name": "碱性环境",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "alkaline environment"
+        }
+    },
+    {
+        "concept_name": "稀土元素",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "rare earth element"
+        }
+    },
+    {
+        "concept_name": "稀土元素分布模式",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "distribution pattern of rare earth element"
+        }
+    },
+    {
+        "concept_name": "稀有元素",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "rare element"
+        }
+    },
+    {
+        "concept_name": "稀碱金属",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "rare alkaline metal"
+        }
+    },
+    {
+        "concept_name": "稳定同位素地球化学",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "stable isotope geochemistry"
+        }
+    },
+    {
+        "concept_name": "等时线年龄",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "isochron age"
+        }
+    },
+    {
+        "concept_name": "等时线截距",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "intercept of isochron"
+        }
+    },
+    {
+        "concept_name": "等时线斜率",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "slope of isochron"
+        }
+    },
+    {
+        "concept_name": "米勒-尤里反应",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "Miller-Urey reation"
+        }
+    },
+    {
+        "concept_name": "类质同象混合物",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "isomorphic mixture"
+        }
+    },
+    {
+        "concept_name": "累加晕",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "additive halo"
+        }
+    },
+    {
+        "concept_name": "累积作用",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "accumulative action"
+        }
+    },
+    {
+        "concept_name": "累积因子",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "accumulative factor"
+        }
+    },
+    {
+        "concept_name": "累积系数",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "accumulation coefficient"
+        }
+    },
+    {
+        "concept_name": "纬度效应",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "latitude effect"
+        }
+    },
+    {
+        "concept_name": "细菌作用",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "bacteria action"
+        }
+    },
+    {
+        "concept_name": "绝对丰度",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "absolute abundance"
+        }
+    },
+    {
+        "concept_name": "绝热压缩",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "adiabatic compression"
+        }
+    },
+    {
+        "concept_name": "继承氩",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "inherited argon"
+        }
+    },
+    {
+        "concept_name": "脱水实验",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "dehydration experiment"
+        }
+    },
+    {
+        "concept_name": "臭氧耗竭",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ozone depletion"
+        }
+    },
+    {
+        "concept_name": "航空化探",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "airborne geochemical exploration"
+        }
+    },
+    {
+        "concept_name": "苏斯效应",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "Suess effect"
+        }
+    },
+    {
+        "concept_name": "行星际尘[埃]",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "interplanetary dust"
+        }
+    },
+    {
+        "concept_name": "表生异常",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "hypogene anomaly"
+        }
+    },
+    {
+        "concept_name": "表观年龄",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "apparent age"
+        }
+    },
+    {
+        "concept_name": "裂变径迹保留年龄",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "fission-track retention age"
+        }
+    },
+    {
+        "concept_name": "计时",
+        "details": {
+            "学科": "地质学_地球化学",
+            "又称": " 定年",
+            "见载": "《地质学名词》第一版",
+            "英文名": "age dating"
+        }
+    },
+    {
+        "concept_name": "试点测量",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "orientation survey"
+        }
+    },
+    {
+        "concept_name": "负异常",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "negative anomaly"
+        }
+    },
+    {
+        "concept_name": "贫钙无球粒陨石",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "calcium-poor achondrite"
+        }
+    },
+    {
+        "concept_name": "轴向分带",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "axial zoning"
+        }
+    },
+    {
+        "concept_name": "轻稀土元素",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "light rare earth element"
+        }
+    },
+    {
+        "concept_name": "过剩氩",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "excess argon"
+        }
+    },
+    {
+        "concept_name": "还原环境",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "reducing environment"
+        }
+    },
+    {
+        "concept_name": "造岩元素",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "rock-forming element"
+        }
+    },
+    {
+        "concept_name": "部分平衡",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "partial equilibrium"
+        }
+    },
+    {
+        "concept_name": "酸性环境",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "acid environment"
+        }
+    },
+    {
+        "concept_name": "酸雨",
+        "details": {
+            "学科": "地质学_地球化学",
+            "英文": "acid precipitation ;acid rain",
+            "见载": "《地质学名词》第一版",
+            "英文名": "acid precipitation"
+        }
+    },
+    {
+        "concept_name": "重稀土元素",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "heavy rare earth element"
+        }
+    },
+    {
+        "concept_name": "金刚石压腔",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "diamond anvil cell"
+        }
+    },
+    {
+        "concept_name": "金属有机矿化作用",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "metallo-organic matter mineralization"
+        }
+    },
+    {
+        "concept_name": "金属有机络合物",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "metallo-organic complex"
+        }
+    },
+    {
+        "concept_name": "金属镍铁",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "metal nickel-iron"
+        }
+    },
+    {
+        "concept_name": "钙长辉长无球粒陨石",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "eucrite"
+        }
+    },
+    {
+        "concept_name": "钾-氩计时",
+        "details": {
+            "学科": "地质学_地球化学",
+            "又称": " 钾-氩定年",
+            "见载": "《地质学名词》第一版",
+            "英文名": "K-Ar dating"
+        }
+    },
+    {
+        "concept_name": "铀-[钍-]铅计时",
+        "details": {
+            "学科": "地质学_地球化学",
+            "又称": " 铀-[钍-]铅定年",
+            "见载": "《地质学名词》第一版",
+            "英文名": "U-[Th-]Pb dating"
+        }
+    },
+    {
+        "concept_name": "铀系计时",
+        "details": {
+            "学科": "地质学_地球化学",
+            "又称": " 铀系定年",
+            "见载": "《地质学名词》第一版",
+            "英文名": "uranium series dating"
+        }
+    },
+    {
+        "concept_name": "铁陨石",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "iron meteorite"
+        }
+    },
+    {
+        "concept_name": "铂系元素",
+        "details": {
+            "学科": "地质学_地球化学",
+            "又称": " 铂族元素",
+            "见载": "《地质学名词》第一版",
+            "英文名": "platinum group element"
+        }
+    },
+    {
+        "concept_name": "铈异常",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "Ce anomaly"
+        }
+    },
+    {
+        "concept_name": "铕异常",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "Eu anomaly"
+        }
+    },
+    {
+        "concept_name": "铱异常",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "iridium anomaly"
+        }
+    },
+    {
+        "concept_name": "锶-氧体系",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "Sr-O system"
+        }
+    },
+    {
+        "concept_name": "陆地环境",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "continental environment"
+        }
+    },
+    {
+        "concept_name": "陨石落地年龄",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "terrestrial age"
+        }
+    },
+    {
+        "concept_name": "面金属量",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "areal productivity"
+        }
+    },
+    {
+        "concept_name": "顽辉石球粒陨石",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "enstatite chondrite"
+        }
+    },
+    {
+        "concept_name": "高压釜",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "autoclave"
+        }
+    },
+    {
+        "concept_name": "高度效应",
+        "details": {
+            "学科": "地质学_地球化学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "altitude effect"
+        }
+    }
+]

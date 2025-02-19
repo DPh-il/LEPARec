@@ -1,0 +1,1432 @@
+[
+    {
+        "concept_name": "Ⅲ-Ⅴ族太阳电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "Ⅲ-Ⅴ group solar cell"
+        }
+    },
+    {
+        "concept_name": "一次电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "primary battery"
+        }
+    },
+    {
+        "concept_name": "一级标准太阳电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "primary standard solar cell"
+        }
+    },
+    {
+        "concept_name": "不对称交流电充电",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "asymmetric alternating current charge"
+        }
+    },
+    {
+        "concept_name": "中点电压",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "mid-point voltage"
+        }
+    },
+    {
+        "concept_name": "串联电阻",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "series resistance"
+        }
+    },
+    {
+        "concept_name": "临界温度",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "critical temperature"
+        }
+    },
+    {
+        "concept_name": "二分点功率预算",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "power budget during equinox"
+        }
+    },
+    {
+        "concept_name": "二级标准太阳电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "secondary standard solar cell"
+        }
+    },
+    {
+        "concept_name": "二至点功率预算",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "power budget during solstice"
+        }
+    },
+    {
+        "concept_name": "互连条",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "inter connector"
+        }
+    },
+    {
+        "concept_name": "低阻高效太阳电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "low resistance high efficiency solar cell"
+        }
+    },
+    {
+        "concept_name": "倍率",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "rate"
+        }
+    },
+    {
+        "concept_name": "充放电制",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "charge and discharge regime"
+        }
+    },
+    {
+        "concept_name": "充电接受能力",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "charge acceptance"
+        }
+    },
+    {
+        "concept_name": "充电效率",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "charge efficiency"
+        }
+    },
+    {
+        "concept_name": "充电深度",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "又称": " 充电程度",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "depth of charge"
+        }
+    },
+    {
+        "concept_name": "光子吸收",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "absorption of the photons"
+        }
+    },
+    {
+        "concept_name": "光生伏打效应",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "photovoltaic effect"
+        }
+    },
+    {
+        "concept_name": "光电效应",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "photoelectric effect"
+        }
+    },
+    {
+        "concept_name": "光谱响应",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "spectral response"
+        }
+    },
+    {
+        "concept_name": "光谱灵敏度",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "spectral sensitivity"
+        }
+    },
+    {
+        "concept_name": "全充电态",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "fully-charge condition"
+        }
+    },
+    {
+        "concept_name": "减反射膜",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "antireflection coating"
+        }
+    },
+    {
+        "concept_name": "分段充电",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "step charge"
+        }
+    },
+    {
+        "concept_name": "初始温度",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "initial temperature"
+        }
+    },
+    {
+        "concept_name": "加速寿命试验",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "accelerated life test"
+        }
+    },
+    {
+        "concept_name": "化学电源",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "electrochemical power source"
+        }
+    },
+    {
+        "concept_name": "单体太阳电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "single solar cell"
+        }
+    },
+    {
+        "concept_name": "单体太阳电池的有效光照面积",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "active area of a solar cell"
+        }
+    },
+    {
+        "concept_name": "单体电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "cell"
+        }
+    },
+    {
+        "concept_name": "单晶硅太阳电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "single crystalline silicon solar cell"
+        }
+    },
+    {
+        "concept_name": "卷包式太阳电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "wrap-around type solar cell"
+        }
+    },
+    {
+        "concept_name": "卷式太阳电池阵",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "roll-up type solar array"
+        }
+    },
+    {
+        "concept_name": "参比电极",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "reference electrode"
+        }
+    },
+    {
+        "concept_name": "反向偏压",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "reverse bias"
+        }
+    },
+    {
+        "concept_name": "同质结太阳电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "homojunction solar cell"
+        }
+    },
+    {
+        "concept_name": "圆柱型镉镍蓄电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "cylindrical cadmium-nickel battery"
+        }
+    },
+    {
+        "concept_name": "垂直结太阳电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "vertical junction solar cell"
+        }
+    },
+    {
+        "concept_name": "壳体式太阳电池阵",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "body-mounted type solar array"
+        }
+    },
+    {
+        "concept_name": "多结太阳电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "multijunction solar cell"
+        }
+    },
+    {
+        "concept_name": "多结砷化镓太阳电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "multijunction gallium arsenide solar cell"
+        }
+    },
+    {
+        "concept_name": "大气质量",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "air mass"
+        }
+    },
+    {
+        "concept_name": "太阳光伏能源系统",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "solar photovoltaic energy system"
+        }
+    },
+    {
+        "concept_name": "太阳电池伏安特性曲线",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "V-I characteristic curve of solar cell"
+        }
+    },
+    {
+        "concept_name": "太阳电池温度",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "solar cell temperature"
+        }
+    },
+    {
+        "concept_name": "太阳电池的等效电路",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "equivalent circuit of solar cell"
+        }
+    },
+    {
+        "concept_name": "太阳电池组件",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "solar cell module"
+        }
+    },
+    {
+        "concept_name": "太阳电池组件面积",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "solar cell module area"
+        }
+    },
+    {
+        "concept_name": "太阳电池阵",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "solar cell array"
+        }
+    },
+    {
+        "concept_name": "太阳电池阵初期功率",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "solar array power at the BOL"
+        }
+    },
+    {
+        "concept_name": "太阳电池阵效率",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "efficiency of solar array"
+        }
+    },
+    {
+        "concept_name": "太阳电池阵末期功率",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "solar array power at the EOL"
+        }
+    },
+    {
+        "concept_name": "太阳电池阵的实际效率",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "practical efficiency of solar array"
+        }
+    },
+    {
+        "concept_name": "太阳电池阵的重量比功率",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "weight to power ratio of solar array"
+        }
+    },
+    {
+        "concept_name": "太阳电池阵的面积利用率",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "area utilization of solar array"
+        }
+    },
+    {
+        "concept_name": "太阳电池阵的面积比功率",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "area to power ratio of solar array"
+        }
+    },
+    {
+        "concept_name": "太阳电池阵翼",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "solar cell array wing"
+        }
+    },
+    {
+        "concept_name": "太阳电池阵额定功率",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "rated power of solar array"
+        }
+    },
+    {
+        "concept_name": "安时效率",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ampere-hour efficiency"
+        }
+    },
+    {
+        "concept_name": "寿命初期",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "beginning of lifetime"
+        }
+    },
+    {
+        "concept_name": "寿命末期",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "end of lifetime"
+        }
+    },
+    {
+        "concept_name": "工作标准太阳电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "working standard solar cell"
+        }
+    },
+    {
+        "concept_name": "工作点",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "operation point"
+        }
+    },
+    {
+        "concept_name": "工作电压",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "operating voltage"
+        }
+    },
+    {
+        "concept_name": "常规太阳电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "conventional solar cell"
+        }
+    },
+    {
+        "concept_name": "平均电压",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "average voltage"
+        }
+    },
+    {
+        "concept_name": "开路电压",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "open circuit voltage"
+        }
+    },
+    {
+        "concept_name": "循环",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "cycle"
+        }
+    },
+    {
+        "concept_name": "循环寿命",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "cycle life"
+        }
+    },
+    {
+        "concept_name": "快速充电",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "fast charge"
+        }
+    },
+    {
+        "concept_name": "总功率分配单元",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "bus power distribution unit"
+        }
+    },
+    {
+        "concept_name": "总负载裕量",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "overall load margin"
+        }
+    },
+    {
+        "concept_name": "总辐照度",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "英文": "global irradiance ;solar global irradiance",
+            "又称": " 太阳辐照度",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "global irradiance"
+        }
+    },
+    {
+        "concept_name": "恒流充电",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "constant-current charge"
+        }
+    },
+    {
+        "concept_name": "截止电压",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "cutoff voltage"
+        }
+    },
+    {
+        "concept_name": "折叠式太阳电池阵",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "fold-out type solar array"
+        }
+    },
+    {
+        "concept_name": "掺锂太阳电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "lithium-doped solar cell"
+        }
+    },
+    {
+        "concept_name": "收集效率",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "collection efficiency"
+        }
+    },
+    {
+        "concept_name": "放电",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "discharge"
+        }
+    },
+    {
+        "concept_name": "放电[倍]率",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "rate of discharge"
+        }
+    },
+    {
+        "concept_name": "放电效率",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "discharge efficiency"
+        }
+    },
+    {
+        "concept_name": "放电深度",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "depth of discharge"
+        }
+    },
+    {
+        "concept_name": "整体二极管太阳电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "integral diode solar cell"
+        }
+    },
+    {
+        "concept_name": "整体盖片",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "integral cover"
+        }
+    },
+    {
+        "concept_name": "方型镉镍蓄电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "rectangular cadmium-nickel battery"
+        }
+    },
+    {
+        "concept_name": "最佳工作电压",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "optimum operating voltage"
+        }
+    },
+    {
+        "concept_name": "最佳工作电流",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "optimum operating current"
+        }
+    },
+    {
+        "concept_name": "最佳负载",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "optimum load"
+        }
+    },
+    {
+        "concept_name": "最大功率点",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "maximum power point"
+        }
+    },
+    {
+        "concept_name": "极性变换",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "又称": " 反极",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "reversal"
+        }
+    },
+    {
+        "concept_name": "极柱",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "terminal"
+        }
+    },
+    {
+        "concept_name": "标准太阳电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "standard solar cell"
+        }
+    },
+    {
+        "concept_name": "标准工作条件",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "standard operating condition"
+        }
+    },
+    {
+        "concept_name": "标定值",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "calibration value"
+        }
+    },
+    {
+        "concept_name": "核电源系统",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "nuclear power system"
+        }
+    },
+    {
+        "concept_name": "桨叶式太阳电池阵",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "paddle type solar array"
+        }
+    },
+    {
+        "concept_name": "欧姆接触",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ohmic contact"
+        }
+    },
+    {
+        "concept_name": "正极",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "positive electrode"
+        }
+    },
+    {
+        "concept_name": "正极柱",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "positive terminal"
+        }
+    },
+    {
+        "concept_name": "母线电压",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "bus voltage"
+        }
+    },
+    {
+        "concept_name": "比功率",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "specific power"
+        }
+    },
+    {
+        "concept_name": "比容量",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "specific capacity"
+        }
+    },
+    {
+        "concept_name": "比能量",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "specific energy"
+        }
+    },
+    {
+        "concept_name": "氢-氧燃料电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "hydrogen-oxygen fuel cell"
+        }
+    },
+    {
+        "concept_name": "氧复合",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "oxygen recombination"
+        }
+    },
+    {
+        "concept_name": "浮充电",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "floating charge"
+        }
+    },
+    {
+        "concept_name": "激活",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "activation"
+        }
+    },
+    {
+        "concept_name": "热失控",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "thermal run away"
+        }
+    },
+    {
+        "concept_name": "热电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "thermal battery"
+        }
+    },
+    {
+        "concept_name": "热离子转换器",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "thermionic converter"
+        }
+    },
+    {
+        "concept_name": "熔融盐电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "molten-salt electrolyte cell"
+        }
+    },
+    {
+        "concept_name": "熔融碳酸盐燃料电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "molten carbonate fuel cell"
+        }
+    },
+    {
+        "concept_name": "燃料电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "fuel cell"
+        }
+    },
+    {
+        "concept_name": "爬碱",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "定义": "指化学电池的析碱现象",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "electrolyte creepage"
+        }
+    },
+    {
+        "concept_name": "环境温度",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ambient temperature"
+        }
+    },
+    {
+        "concept_name": "理论容量",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "theoretical capacity"
+        }
+    },
+    {
+        "concept_name": "电压温度系数",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "voltage temperature coefficient"
+        }
+    },
+    {
+        "concept_name": "电压稳定度",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "voltage stability"
+        }
+    },
+    {
+        "concept_name": "电压精度",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "voltage accuracy"
+        }
+    },
+    {
+        "concept_name": "电极反应",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "electrode reaction"
+        }
+    },
+    {
+        "concept_name": "电极极化",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "polarization of electrode"
+        }
+    },
+    {
+        "concept_name": "电极电位",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "electrode potential"
+        }
+    },
+    {
+        "concept_name": "电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "electric battery"
+        }
+    },
+    {
+        "concept_name": "电池伏安特性曲线",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "V-I characteristic curve of cell"
+        }
+    },
+    {
+        "concept_name": "电池内阻",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "internal resistance of cell"
+        }
+    },
+    {
+        "concept_name": "电池容量",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "capacity of cell"
+        }
+    },
+    {
+        "concept_name": "电源控制设备",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "power control electronics"
+        }
+    },
+    {
+        "concept_name": "盖片",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "cover"
+        }
+    },
+    {
+        "concept_name": "相对光谱灵敏度",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "relative spectral sensitivity"
+        }
+    },
+    {
+        "concept_name": "短路电流密度",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "short-circuit current density"
+        }
+    },
+    {
+        "concept_name": "砷化镓太阳电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "gallium arsenide solar cell"
+        }
+    },
+    {
+        "concept_name": "硅太阳电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "silicon solar cell"
+        }
+    },
+    {
+        "concept_name": "硅砷化镓太阳电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "Si-gallium arsenide solar cell"
+        }
+    },
+    {
+        "concept_name": "碱性电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "alkaline battery"
+        }
+    },
+    {
+        "concept_name": "磷化铟太阳电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "indium phosphide solar cell"
+        }
+    },
+    {
+        "concept_name": "磷酸电解质燃料电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "phosphoric acid electrolyte fuel cell"
+        }
+    },
+    {
+        "concept_name": "离子交换膜燃料电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ion exchange membrane fuel cell"
+        }
+    },
+    {
+        "concept_name": "稳态太阳仿真器",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "steady solar simulator"
+        }
+    },
+    {
+        "concept_name": "端电压",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "terminal voltage"
+        }
+    },
+    {
+        "concept_name": "第三电极",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "third electrode"
+        }
+    },
+    {
+        "concept_name": "粒子辐射损伤",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "particle radiation damage"
+        }
+    },
+    {
+        "concept_name": "组件实际效率",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "practical module efficiency"
+        }
+    },
+    {
+        "concept_name": "组件效率",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "module efficiency"
+        }
+    },
+    {
+        "concept_name": "组合损失",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "assembling loss"
+        }
+    },
+    {
+        "concept_name": "终点电压",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "final voltage"
+        }
+    },
+    {
+        "concept_name": "绝对光谱响应",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "absolute spectral response"
+        }
+    },
+    {
+        "concept_name": "绝对光谱灵敏度",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "absolute spectral sensitivity"
+        }
+    },
+    {
+        "concept_name": "聚光太阳电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "concentrator solar cell"
+        }
+    },
+    {
+        "concept_name": "聚光太阳电池方阵",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "photovoltaic concentrator solar array"
+        }
+    },
+    {
+        "concept_name": "背反射太阳电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "back surface reflection solar cell"
+        }
+    },
+    {
+        "concept_name": "背场太阳电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "back surface field solar cell"
+        }
+    },
+    {
+        "concept_name": "脉冲充电",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "pulse charge"
+        }
+    },
+    {
+        "concept_name": "脉冲式太阳仿真器",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "pulse solar simulator"
+        }
+    },
+    {
+        "concept_name": "自动激活锌银电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "automatically activated zinc-silver battery"
+        }
+    },
+    {
+        "concept_name": "自放电",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "self-discharge"
+        }
+    },
+    {
+        "concept_name": "蓄电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "又称": " 二次电池",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "storage battery"
+        }
+    },
+    {
+        "concept_name": "记忆效应",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "memory effect"
+        }
+    },
+    {
+        "concept_name": "负极",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "negative electrode"
+        }
+    },
+    {
+        "concept_name": "负载电压",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "on-load voltage"
+        }
+    },
+    {
+        "concept_name": "贮备电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "reserve battery"
+        }
+    },
+    {
+        "concept_name": "起始电压",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "initial voltage"
+        }
+    },
+    {
+        "concept_name": "转换效率",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "conversion efficiency"
+        }
+    },
+    {
+        "concept_name": "辐照试验",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "irradiation test"
+        }
+    },
+    {
+        "concept_name": "过充电",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "over charge"
+        }
+    },
+    {
+        "concept_name": "酸性电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "acid battery"
+        }
+    },
+    {
+        "concept_name": "量子效率",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "quantum efficiency"
+        }
+    },
+    {
+        "concept_name": "金属氢化物镍电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "metal-hydrogen nickel battery"
+        }
+    },
+    {
+        "concept_name": "钝化",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "passivation"
+        }
+    },
+    {
+        "concept_name": "铅酸蓄电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "lead-acid storage battery"
+        }
+    },
+    {
+        "concept_name": "锂二氧化硫电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "lithium-sulfur dioxide cell"
+        }
+    },
+    {
+        "concept_name": "锂亚硫酰氯电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "lithium-thionyl chloride cell"
+        }
+    },
+    {
+        "concept_name": "锂离子蓄电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "lithium-ions battery"
+        }
+    },
+    {
+        "concept_name": "锂金属硫化物电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "lithium-metal sulfide cell"
+        }
+    },
+    {
+        "concept_name": "锗砷化镓太阳电池",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "Ge-gallium arsenide solar cell"
+        }
+    },
+    {
+        "concept_name": "阴影分析",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "shadowing analysis"
+        }
+    },
+    {
+        "concept_name": "阴影功率下降",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "degradation from shadowing power"
+        }
+    },
+    {
+        "concept_name": "额定容量",
+        "details": {
+            "学科": "航天科学技术_航天能源",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "rated capacity"
+        }
+    }
+]

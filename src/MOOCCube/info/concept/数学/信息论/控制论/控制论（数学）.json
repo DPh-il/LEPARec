@@ -1,0 +1,1037 @@
+[
+    {
+        "concept_name": "传输极点",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "transmission pole"
+        }
+    },
+    {
+        "concept_name": "传输零点",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "transmission zero"
+        }
+    },
+    {
+        "concept_name": "传递函数",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "transfer function",
+            "prerequisite": [
+                "K_区域_数学"
+            ]
+        }
+    },
+    {
+        "concept_name": "传递函数[矩]阵",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "transfer function matrix"
+        }
+    },
+    {
+        "concept_name": "估计器",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "estimator"
+        }
+    },
+    {
+        "concept_name": "全阶观测器",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "full order observer"
+        }
+    },
+    {
+        "concept_name": "关联预估法",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "interaction prediction approach"
+        }
+    },
+    {
+        "concept_name": "内模",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "internal model"
+        }
+    },
+    {
+        "concept_name": "内模原理",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "internal model principle"
+        }
+    },
+    {
+        "concept_name": "冲激函数",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "曾称": " 脉冲函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "impulse function"
+        }
+    },
+    {
+        "concept_name": "冲激响应",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "曾称": " 脉冲响应",
+            "见载": "《数学名词》第一版",
+            "英文名": "impulse response"
+        }
+    },
+    {
+        "concept_name": "初态",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "initial state"
+        }
+    },
+    {
+        "concept_name": "动态补偿器",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "dynamic compensator"
+        }
+    },
+    {
+        "concept_name": "协态预估法",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "costate prediction approach"
+        }
+    },
+    {
+        "concept_name": "单位阶跃函数",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "unit step function"
+        }
+    },
+    {
+        "concept_name": "单位阶跃响应",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "unit step response"
+        }
+    },
+    {
+        "concept_name": "单位阶跃输入",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "unit step input"
+        }
+    },
+    {
+        "concept_name": "卡尔曼-布西滤波器",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "Kalman-Bucy filter"
+        }
+    },
+    {
+        "concept_name": "卡尔曼滤波器",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "Kalman filter"
+        }
+    },
+    {
+        "concept_name": "参考输入",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "reference input"
+        }
+    },
+    {
+        "concept_name": "反馈增益",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "feedback gain"
+        }
+    },
+    {
+        "concept_name": "反馈增益[矩]阵",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "feedback gain matrix"
+        }
+    },
+    {
+        "concept_name": "反馈控制器",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "feedback controller"
+        }
+    },
+    {
+        "concept_name": "可实现性",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "又称": " 能实现性",
+            "见载": "《数学名词》第一版",
+            "英文名": "realizability"
+        }
+    },
+    {
+        "concept_name": "可控子空间",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "controllable subspace"
+        }
+    },
+    {
+        "concept_name": "可控性",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "又称": " 能控性",
+            "见载": "《数学名词》第一版",
+            "英文名": "controllability"
+        }
+    },
+    {
+        "concept_name": "可控性[矩]阵",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "controllability matrix"
+        }
+    },
+    {
+        "concept_name": "可控指数",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "controllability index"
+        }
+    },
+    {
+        "concept_name": "可控指数列",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "controllability indices"
+        }
+    },
+    {
+        "concept_name": "可控规范形",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "controllability canonical form"
+        }
+    },
+    {
+        "concept_name": "可检测性",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "又称": " 能检测性",
+            "见载": "《数学名词》第一版",
+            "英文名": "detectability"
+        }
+    },
+    {
+        "concept_name": "可稳性",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "又称": " 能稳性",
+            "见载": "《数学名词》第一版",
+            "英文名": "stabilizability"
+        }
+    },
+    {
+        "concept_name": "可观测性",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "又称": " 能观测性",
+            "见载": "《数学名词》第一版",
+            "英文名": "observability"
+        }
+    },
+    {
+        "concept_name": "可观测性[矩]阵",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "observability matrix"
+        }
+    },
+    {
+        "concept_name": "可观测性指数",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "observability index"
+        }
+    },
+    {
+        "concept_name": "可观测性指数列",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "observability indicies"
+        }
+    },
+    {
+        "concept_name": "可观测性规范形",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "observability canonical form"
+        }
+    },
+    {
+        "concept_name": "可辨识性",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "又称": " 能辨识性",
+            "见载": "《数学名词》第一版",
+            "英文名": "identifiability"
+        }
+    },
+    {
+        "concept_name": "可达集",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "又称": " 能达集",
+            "见载": "《数学名词》第一版",
+            "英文名": "reachable set"
+        }
+    },
+    {
+        "concept_name": "响应函数",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "response function"
+        }
+    },
+    {
+        "concept_name": "响应曲线",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "response curve"
+        }
+    },
+    {
+        "concept_name": "固定模",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "fixed mode"
+        }
+    },
+    {
+        "concept_name": "外[部]输入",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "external input"
+        }
+    },
+    {
+        "concept_name": "实现理论",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "realization theory"
+        }
+    },
+    {
+        "concept_name": "干扰解耦",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "disturbance decoupling"
+        }
+    },
+    {
+        "concept_name": "干扰输入",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "disturbance input"
+        }
+    },
+    {
+        "concept_name": "庞特里亚金最大值原理",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "Pontryagin maximum principle"
+        }
+    },
+    {
+        "concept_name": "开关函数",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "switch function"
+        }
+    },
+    {
+        "concept_name": "开关曲线",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "switch curve"
+        }
+    },
+    {
+        "concept_name": "开关曲面",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "switch surface"
+        }
+    },
+    {
+        "concept_name": "快变状态",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "fast state"
+        }
+    },
+    {
+        "concept_name": "性能指标",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "performance index"
+        }
+    },
+    {
+        "concept_name": "慢变状态",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "slow state"
+        }
+    },
+    {
+        "concept_name": "控制器",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "controller"
+        }
+    },
+    {
+        "concept_name": "控制理论",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "control theory"
+        }
+    },
+    {
+        "concept_name": "控制论",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "cybernetics"
+        }
+    },
+    {
+        "concept_name": "数学系统理论",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "mathematical system theory"
+        }
+    },
+    {
+        "concept_name": "时域",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "time domain"
+        }
+    },
+    {
+        "concept_name": "时域分析",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "time domain analysis"
+        }
+    },
+    {
+        "concept_name": "时域响应",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "time domain response"
+        }
+    },
+    {
+        "concept_name": "最优控制理论",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "optimal control theory"
+        }
+    },
+    {
+        "concept_name": "最小实现",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "minimal realization"
+        }
+    },
+    {
+        "concept_name": "最小阶观测器",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "minimal order observer"
+        }
+    },
+    {
+        "concept_name": "有界输入有界输出稳定性",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "简称": " BIBO稳定性(BIBO stability)",
+            "见载": "《数学名词》第一版",
+            "英文名": "bounded-input bounded-output stability"
+        }
+    },
+    {
+        "concept_name": "极点配置",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "pole assignment"
+        }
+    },
+    {
+        "concept_name": "框图",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "block diagram"
+        }
+    },
+    {
+        "concept_name": "模型协调法",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "model coordination method"
+        }
+    },
+    {
+        "concept_name": "模型降阶法",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "model reduction method"
+        }
+    },
+    {
+        "concept_name": "状态",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "state",
+            "prerequisite": [
+                "K_输出方程_数学"
+            ]
+        }
+    },
+    {
+        "concept_name": "状态估计",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "state estimation"
+        }
+    },
+    {
+        "concept_name": "状态估计器",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "state estimator"
+        }
+    },
+    {
+        "concept_name": "状态反馈",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "state feedback"
+        }
+    },
+    {
+        "concept_name": "状态变量",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "state variable"
+        }
+    },
+    {
+        "concept_name": "状态向量",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "state vector"
+        }
+    },
+    {
+        "concept_name": "状态方程",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "state equation",
+            "prerequisite": [
+                "K_行迭代_数学",
+                "K_代数_数学"
+            ]
+        }
+    },
+    {
+        "concept_name": "状态空间",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "state space"
+        }
+    },
+    {
+        "concept_name": "状态观测器",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "state observer"
+        }
+    },
+    {
+        "concept_name": "现代控制理论",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "modern control theory"
+        }
+    },
+    {
+        "concept_name": "目标协调法",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "goal coordination method"
+        }
+    },
+    {
+        "concept_name": "系统理论",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "systems theory"
+        }
+    },
+    {
+        "concept_name": "系统的分解",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "decomposition of system"
+        }
+    },
+    {
+        "concept_name": "系统的协调",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "coordination in system"
+        }
+    },
+    {
+        "concept_name": "系统的可达性",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "又称": " 系统的能达性",
+            "见载": "《数学名词》第一版",
+            "英文名": "reachability of system"
+        }
+    },
+    {
+        "concept_name": "系统的集结",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "aggregation of system"
+        }
+    },
+    {
+        "concept_name": "系统矩阵",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "system matrix"
+        }
+    },
+    {
+        "concept_name": "系统科学",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "systems science"
+        }
+    },
+    {
+        "concept_name": "系统等价",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "system equivalence"
+        }
+    },
+    {
+        "concept_name": "线性二次型问题",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "简称": " LQ问题",
+            "见载": "《数学名词》第一版",
+            "英文名": "linear quadratic problem"
+        }
+    },
+    {
+        "concept_name": "线性二次型高斯问题",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "简称": " LQG问题",
+            "见载": "《数学名词》第一版",
+            "英文名": "linear quadratic Gaussian problem"
+        }
+    },
+    {
+        "concept_name": "线性控制理论",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "linear control theory"
+        }
+    },
+    {
+        "concept_name": "线性系统理论",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "linear systems theory"
+        }
+    },
+    {
+        "concept_name": "终态",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "terminal state"
+        }
+    },
+    {
+        "concept_name": "经典控制理论",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "classical control theory"
+        }
+    },
+    {
+        "concept_name": "结构摄动法",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "structural perturbation approach"
+        }
+    },
+    {
+        "concept_name": "自校正控制器",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "self-tuning controller"
+        }
+    },
+    {
+        "concept_name": "自校正调节器",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "self-tuning regulator"
+        }
+    },
+    {
+        "concept_name": "补偿器",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "compensator"
+        }
+    },
+    {
+        "concept_name": "观测值",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "observed value"
+        }
+    },
+    {
+        "concept_name": "观测器",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "observer"
+        }
+    },
+    {
+        "concept_name": "解耦",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "decoupling"
+        }
+    },
+    {
+        "concept_name": "调节器",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "regulator"
+        }
+    },
+    {
+        "concept_name": "超稳定性",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "hyperstability"
+        }
+    },
+    {
+        "concept_name": "输入",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "input"
+        }
+    },
+    {
+        "concept_name": "输入向量",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "input vector",
+            "prerequisite": [
+                "K_邻边_数学",
+                "K_队头_计算机科学技术"
+            ]
+        }
+    },
+    {
+        "concept_name": "输入输出稳定性",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "input-output stability"
+        }
+    },
+    {
+        "concept_name": "输出",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "output"
+        }
+    },
+    {
+        "concept_name": "输出反馈",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "output feedback"
+        }
+    },
+    {
+        "concept_name": "输出向量",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "output vector"
+        }
+    },
+    {
+        "concept_name": "输出方程",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "output equation"
+        }
+    },
+    {
+        "concept_name": "辨识",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "identification"
+        }
+    },
+    {
+        "concept_name": "适应控制器",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "adaptive controller"
+        }
+    },
+    {
+        "concept_name": "镇定",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "stabilization"
+        }
+    },
+    {
+        "concept_name": "阶跃干扰",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "step disturbance"
+        }
+    },
+    {
+        "concept_name": "阶跃输入",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "step input"
+        }
+    },
+    {
+        "concept_name": "降阶模型",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "reduced model"
+        }
+    },
+    {
+        "concept_name": "降阶观测器",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "reduced order observer"
+        }
+    },
+    {
+        "concept_name": "随机干扰",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "random disturbance"
+        }
+    },
+    {
+        "concept_name": "随机控制理论",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "stochastic control theory"
+        }
+    },
+    {
+        "concept_name": "随机输入",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "random input"
+        }
+    },
+    {
+        "concept_name": "集结法",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "aggregation method"
+        }
+    },
+    {
+        "concept_name": "零极[点]相消",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "pole-zero cancellation"
+        }
+    },
+    {
+        "concept_name": "零输入响应",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "zero-input response"
+        }
+    },
+    {
+        "concept_name": "频域",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "frequency domain"
+        }
+    },
+    {
+        "concept_name": "频域分析",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "frequency domain analysis"
+        }
+    },
+    {
+        "concept_name": "频率响应",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "frequency response"
+        }
+    },
+    {
+        "concept_name": "鲁棒控制器",
+        "details": {
+            "学科": "数学_信息论_控制论_控制论（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "robust controller"
+        }
+    }
+]

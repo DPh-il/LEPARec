@@ -1,0 +1,1326 @@
+[
+    {
+        "concept_name": "上颌侧位体层片",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "lateral tomogram of maxillae"
+        }
+    },
+    {
+        "concept_name": "上颌前突",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "maxillary protrusion"
+        }
+    },
+    {
+        "concept_name": "上颌前部截骨术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "anterior maxillary osteotomy"
+        }
+    },
+    {
+        "concept_name": "上颌后前体层片",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "posterio-anterior tomogram of maxillae"
+        }
+    },
+    {
+        "concept_name": "上颌后缩",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "maxillary retrusion"
+        }
+    },
+    {
+        "concept_name": "上颌横断片",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "occlusal film of maxillae"
+        }
+    },
+    {
+        "concept_name": "上颌结节成形术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "maxillary tuberoplasty"
+        }
+    },
+    {
+        "concept_name": "上颌结节注射法",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "tuberosity injection"
+        }
+    },
+    {
+        "concept_name": "下颌下间隙",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "submandibular space"
+        }
+    },
+    {
+        "concept_name": "下颌切迹",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "sigmoid notch"
+        }
+    },
+    {
+        "concept_name": "下颌升支内侧隆突阻滞麻醉",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "block anesthesia at internal ramus prominence"
+        }
+    },
+    {
+        "concept_name": "下颌升支切线位投照术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "tangential position roentgenogra- phy of mandibular ramus"
+        }
+    },
+    {
+        "concept_name": "下颌后缩",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "mandibular retrusion"
+        }
+    },
+    {
+        "concept_name": "下颌支截骨术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "ramus osteotomy"
+        }
+    },
+    {
+        "concept_name": "下颌横断片",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "occlusal film of mandible"
+        }
+    },
+    {
+        "concept_name": "下颌神经阻滞麻醉",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "mandibular block anesthesia"
+        }
+    },
+    {
+        "concept_name": "下颌隆凸",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "torus mandibularis"
+        }
+    },
+    {
+        "concept_name": "下颌骨侧位投照术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "lateral position roentgenography of mandible"
+        }
+    },
+    {
+        "concept_name": "下颌骨后前位投照术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "posterio-anterior position of mandibular roentgenography"
+        }
+    },
+    {
+        "concept_name": "下颌髁突切除术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "mandibular condylectomy"
+        }
+    },
+    {
+        "concept_name": "丙烯酸酯夹板",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "acrylic splint"
+        }
+    },
+    {
+        "concept_name": "二期愈合前庭成形术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "secondary epithelization vestibu- loplasty"
+        }
+    },
+    {
+        "concept_name": "修复前外科学",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "preprosthetic surgery"
+        }
+    },
+    {
+        "concept_name": "倒置阻生",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "inverted impaction"
+        }
+    },
+    {
+        "concept_name": "关节盘",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "meniscus"
+        }
+    },
+    {
+        "concept_name": "关节窝",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "glenoid fossa"
+        }
+    },
+    {
+        "concept_name": "关节结节",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "articular tubercle"
+        }
+    },
+    {
+        "concept_name": "内斜嵴",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "internal oblique ridge"
+        }
+    },
+    {
+        "concept_name": "分段截骨术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "segmental osteotomy"
+        }
+    },
+    {
+        "concept_name": "前庭沟扩展术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "vestibular extension"
+        }
+    },
+    {
+        "concept_name": "功能性颈清扫术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "functional neck dissection"
+        }
+    },
+    {
+        "concept_name": "勒福Ⅰ型截骨术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "又称": " 上颌水平截骨术(horizontal maxillary osteotomy)",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "Le Fort Ⅰ osteotomy"
+        }
+    },
+    {
+        "concept_name": "勒福Ⅱ型截骨术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "又称": " 上颌锥形截骨术(pyramidal maxillary osteotomy)",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "Le Fort Ⅱ osteotomy"
+        }
+    },
+    {
+        "concept_name": "勒福Ⅱ型骨折",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "又称": " 上颌锥形骨折",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "Le Fort Ⅱ fracture"
+        }
+    },
+    {
+        "concept_name": "勒福Ⅲ型截骨术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "又称": " 上颌横行截骨术(transverse maxillary osteotomy)",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "Le Fort Ⅲ osteotomy"
+        }
+    },
+    {
+        "concept_name": "勒福Ⅲ型骨折",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "又称": " 上颌横行骨折",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "Le Fort Ⅲ fracture"
+        }
+    },
+    {
+        "concept_name": "化脓性腮腺炎",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "pyogenic parotitis"
+        }
+    },
+    {
+        "concept_name": "半切牙术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "tooth hemisection"
+        }
+    },
+    {
+        "concept_name": "卵圆孔注射法",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "oval foramen injection"
+        }
+    },
+    {
+        "concept_name": "双颌截骨术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "bimaxillary osteotomy"
+        }
+    },
+    {
+        "concept_name": "变性型涎腺肿大[症]",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "又称": " 变性型唾液腺肿大[症]",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "degenerative sialosis"
+        }
+    },
+    {
+        "concept_name": "口干燥[症]",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "xerostomia"
+        }
+    },
+    {
+        "concept_name": "口腔上颌窦瘘",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "oroantral fistula"
+        }
+    },
+    {
+        "concept_name": "同种牙移植术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "homotransplantation of tooth"
+        }
+    },
+    {
+        "concept_name": "后推术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "push-back operation"
+        }
+    },
+    {
+        "concept_name": "咽后壁瓣",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "postpharyngeal flap"
+        }
+    },
+    {
+        "concept_name": "咽旁间隙",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "parapharyngeal space"
+        }
+    },
+    {
+        "concept_name": "唇系带",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "labial frenum"
+        }
+    },
+    {
+        "concept_name": "唇裂修复术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "cheilorrhaphy"
+        }
+    },
+    {
+        "concept_name": "唾液学",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "sialology"
+        }
+    },
+    {
+        "concept_name": "唾液诊断学",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "sialosemeiology"
+        }
+    },
+    {
+        "concept_name": "喙突",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "coronoid process"
+        }
+    },
+    {
+        "concept_name": "喙突后注射法",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "posterior coronoid process injec- tion"
+        }
+    },
+    {
+        "concept_name": "嚼肌间隙",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "masseteric space"
+        }
+    },
+    {
+        "concept_name": "垂直截骨术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "vertical osteotomy"
+        }
+    },
+    {
+        "concept_name": "垂直阻生",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "vertical impaction"
+        }
+    },
+    {
+        "concept_name": "埋伏牙",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "embedded tooth"
+        }
+    },
+    {
+        "concept_name": "多涎",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "sialism"
+        }
+    },
+    {
+        "concept_name": "小环结扎术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "eyelet wiring"
+        }
+    },
+    {
+        "concept_name": "帕萨旺垫",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "Passavant pad"
+        }
+    },
+    {
+        "concept_name": "开畸形",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "open bite deformity"
+        }
+    },
+    {
+        "concept_name": "异种牙移植术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "allogenic tooth transplantation"
+        }
+    },
+    {
+        "concept_name": "弓杆",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "arch bar"
+        }
+    },
+    {
+        "concept_name": "拔牙后并发症",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "postexodontic complication"
+        }
+    },
+    {
+        "concept_name": "斜行截骨术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "oblique osteotomy"
+        }
+    },
+    {
+        "concept_name": "曲面断层X线片",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "panoramic"
+        }
+    },
+    {
+        "concept_name": "根尖下截骨术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "subapical osteotomy"
+        }
+    },
+    {
+        "concept_name": "根尖切除术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "apicoectomy"
+        }
+    },
+    {
+        "concept_name": "根尖片",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "periapical film"
+        }
+    },
+    {
+        "concept_name": "根治性颈清扫术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "radical neck dissection"
+        }
+    },
+    {
+        "concept_name": "根间截骨术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "interradicular osteotomy"
+        }
+    },
+    {
+        "concept_name": "模型外科",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "model surgery"
+        }
+    },
+    {
+        "concept_name": "模板研究",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "template study"
+        }
+    },
+    {
+        "concept_name": "正颌外科学",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "orthognathic surgery"
+        }
+    },
+    {
+        "concept_name": "残根",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "residual root"
+        }
+    },
+    {
+        "concept_name": "水平截骨术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "horizontal osteotomy"
+        }
+    },
+    {
+        "concept_name": "水平阻生",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "horizontal impaction"
+        }
+    },
+    {
+        "concept_name": "流涎",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "sialorrhea"
+        }
+    },
+    {
+        "concept_name": "涎管",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "又称": " 唾液管",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "sialodochium"
+        }
+    },
+    {
+        "concept_name": "涎管成形术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "又称": " 唾液管成形术",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "sialodochoplasty"
+        }
+    },
+    {
+        "concept_name": "涎管炎",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "又称": " 唾液管炎",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "sialodochitis"
+        }
+    },
+    {
+        "concept_name": "涎管狭窄",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "sialostenosis"
+        }
+    },
+    {
+        "concept_name": "涎腺切除术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "又称": " 唾液腺切除术",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "sialoadenectomy"
+        }
+    },
+    {
+        "concept_name": "涎腺化生",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "sialometaplasia"
+        }
+    },
+    {
+        "concept_name": "涎腺肿大[症]",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "又称": " 唾液腺肿大[症]",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "sialosis"
+        }
+    },
+    {
+        "concept_name": "涎腺造影术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "又称": " 唾液腺造影术",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "sialography"
+        }
+    },
+    {
+        "concept_name": "滑行截骨术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "sliding osteotomy"
+        }
+    },
+    {
+        "concept_name": "爆裂性骨折",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "blow-out fracture"
+        }
+    },
+    {
+        "concept_name": "片",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "occlusal film"
+        }
+    },
+    {
+        "concept_name": "牙下沉",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "submerged tooth"
+        }
+    },
+    {
+        "concept_name": "牙及牙槽外科学",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "dental and alveolar surgery"
+        }
+    },
+    {
+        "concept_name": "牙周膜浸润麻醉",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "periodontal infiltration anes- thesia"
+        }
+    },
+    {
+        "concept_name": "牙根拔除术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "extraction of dental root"
+        }
+    },
+    {
+        "concept_name": "牙槽嵴增高术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "alveolar ridge augmentation"
+        }
+    },
+    {
+        "concept_name": "牙槽嵴延展术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "alveolar ridge extension"
+        }
+    },
+    {
+        "concept_name": "牙槽骨修整术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "alveoloplasty"
+        }
+    },
+    {
+        "concept_name": "牙槽骨切除术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "alveolectomy"
+        }
+    },
+    {
+        "concept_name": "牙种植术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "implantation of tooth"
+        }
+    },
+    {
+        "concept_name": "环绕下颌结扎术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "circummandibular wiring"
+        }
+    },
+    {
+        "concept_name": "环绕颧骨结扎术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "circumzygomatic wiring"
+        }
+    },
+    {
+        "concept_name": "盲法线锯髁突截开术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "blind Gigli saw condylotomy"
+        }
+    },
+    {
+        "concept_name": "眶下孔[管]注射法",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "infraorbital foramen [canal] injection"
+        }
+    },
+    {
+        "concept_name": "眶下裂后方注射法",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "posterior infraorbital fissure injection"
+        }
+    },
+    {
+        "concept_name": "眶下间隙",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "infraorbital space"
+        }
+    },
+    {
+        "concept_name": "矢状劈开截骨术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "sagittal split osteotomy"
+        }
+    },
+    {
+        "concept_name": "矢状截骨术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "sagittal osteotomy"
+        }
+    },
+    {
+        "concept_name": "磨牙后三角",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "retromolar triangle"
+        }
+    },
+    {
+        "concept_name": "种植牙周膜",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "implant periodontal membrane"
+        }
+    },
+    {
+        "concept_name": "系带切断术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "frenectomy"
+        }
+    },
+    {
+        "concept_name": "纤维性颞下颌关节强直",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "fibrous ankylosis of TMJ"
+        }
+    },
+    {
+        "concept_name": "翼下颌注射法",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "pterygomandibular injection"
+        }
+    },
+    {
+        "concept_name": "翼下颌间隙",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "pterygomandibular space"
+        }
+    },
+    {
+        "concept_name": "翼片",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "bite wing film"
+        }
+    },
+    {
+        "concept_name": "翼腭窝综合征",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "pterygopalatine fossa syndrome"
+        }
+    },
+    {
+        "concept_name": "翼腭管注射法",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "pterygopalatine canal injection"
+        }
+    },
+    {
+        "concept_name": "脱套式手术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "deglove operation"
+        }
+    },
+    {
+        "concept_name": "腭前孔注射法",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "anterior palatine foramen injec- tion"
+        }
+    },
+    {
+        "concept_name": "腭咽闭合",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "velopharyngeal closure"
+        }
+    },
+    {
+        "concept_name": "腭咽闭合不良",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "velopharyngeal insufficiency"
+        }
+    },
+    {
+        "concept_name": "腭大孔注射法",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "greater palatine foramen injec- tion"
+        }
+    },
+    {
+        "concept_name": "腭裂系列治疗",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "cleft palate team approach"
+        }
+    },
+    {
+        "concept_name": "腭隆凸",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "torus palatinus"
+        }
+    },
+    {
+        "concept_name": "腮腺切除术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "parotidectomy"
+        }
+    },
+    {
+        "concept_name": "自身牙移植术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "autogenous tooth transplantation"
+        }
+    },
+    {
+        "concept_name": "舌下间隙",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "sublingual space"
+        }
+    },
+    {
+        "concept_name": "舌向阻生",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "linguoangular impaction"
+        }
+    },
+    {
+        "concept_name": "舌系带",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "lingual frenum"
+        }
+    },
+    {
+        "concept_name": "舌系带切除术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "ankylotomy"
+        }
+    },
+    {
+        "concept_name": "舌骨上颈清扫术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "suprahyoid neck dissection"
+        }
+    },
+    {
+        "concept_name": "许勒位",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "Scholler position"
+        }
+    },
+    {
+        "concept_name": "语音治疗",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "speech therapy"
+        }
+    },
+    {
+        "concept_name": "语音矫正器",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "speech aid appliance"
+        }
+    },
+    {
+        "concept_name": "近中[向]阻生",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "mesioangular impaction"
+        }
+    },
+    {
+        "concept_name": "远中[向]阻生",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "distoangular impaction"
+        }
+    },
+    {
+        "concept_name": "阻生牙",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "impacted tooth"
+        }
+    },
+    {
+        "concept_name": "面部侧貌",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "facial profile"
+        }
+    },
+    {
+        "concept_name": "颊向阻生",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "buccoangular impaction"
+        }
+    },
+    {
+        "concept_name": "颊系带",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "buccal frenum"
+        }
+    },
+    {
+        "concept_name": "颊脂垫",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "buccal pad"
+        }
+    },
+    {
+        "concept_name": "颊间隙",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "buccal space"
+        }
+    },
+    {
+        "concept_name": "颌下腺造影侧位投影术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "lateral position of submandibular gland sialography"
+        }
+    },
+    {
+        "concept_name": "颌后缩",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "retrognathia"
+        }
+    },
+    {
+        "concept_name": "颌舌骨嵴",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "mylohyoid ridge"
+        }
+    },
+    {
+        "concept_name": "颌间固定",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "intermaxillary fixation"
+        }
+    },
+    {
+        "concept_name": "颌间挛缩",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "intermaxillary contracture"
+        }
+    },
+    {
+        "concept_name": "颌间牵引",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "intermaxillary traction"
+        }
+    },
+    {
+        "concept_name": "颌面侧位投照术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "lateral position roentgenography of maxillo-facial region"
+        }
+    },
+    {
+        "concept_name": "颏下间隙",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "submental space"
+        }
+    },
+    {
+        "concept_name": "颏结节",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "genial tubercle"
+        }
+    },
+    {
+        "concept_name": "颞下窝综合征",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "infratemporal fossa syndrome"
+        }
+    },
+    {
+        "concept_name": "颞下间隙",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "infratemporal space"
+        }
+    },
+    {
+        "concept_name": "颞下颌关节前脱位",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "anterior dislocation of TMJ"
+        }
+    },
+    {
+        "concept_name": "颞下颌关节紧张综合征",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "TMJ stress syndrome"
+        }
+    },
+    {
+        "concept_name": "颞下颌关节造影术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "TMJ arthrography"
+        }
+    },
+    {
+        "concept_name": "颞间隙",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "temporal space"
+        }
+    },
+    {
+        "concept_name": "颧弓位投照术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "roentgenography of zygomatic arch"
+        }
+    },
+    {
+        "concept_name": "骨内种植术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "endosseous implantation"
+        }
+    },
+    {
+        "concept_name": "骨性颞下颌关节强直",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "bony ankylosis of TMJ"
+        }
+    },
+    {
+        "concept_name": "骨膜上浸润麻醉",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "supraperiosteal infiltration anesthesia"
+        }
+    },
+    {
+        "concept_name": "骨膜下浸润麻醉",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "subperiosteal infiltration anes- thesia"
+        }
+    },
+    {
+        "concept_name": "髁突",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "condyle process"
+        }
+    },
+    {
+        "concept_name": "髁突下截骨术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "subcondylar osteotomy"
+        }
+    },
+    {
+        "concept_name": "黏膜下浸润麻醉",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "submucous infiltration anesthesia"
+        }
+    },
+    {
+        "concept_name": "黏膜内种植术",
+        "details": {
+            "学科": "医学_口腔医学_口腔外科学",
+            "见载": "《医学名词 第二分册》第一版",
+            "英文名": "intramucosal implantation"
+        }
+    }
+]

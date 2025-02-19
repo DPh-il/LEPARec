@@ -1,0 +1,309 @@
+[
+    {
+        "concept_name": "[交换巴拿赫代数的]根",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "radical [of commutative Banach algebra ]"
+        }
+    },
+    {
+        "concept_name": "[巴拿赫*代数的]*表示",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "*-representation [of Banach*-algebra]"
+        }
+    },
+    {
+        "concept_name": "[巴拿赫代数的]表示",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "representation [of Banach algebra]"
+        }
+    },
+    {
+        "concept_name": "[赋范环元的]谱",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "spectrum [of element in normed ring]"
+        }
+    },
+    {
+        "concept_name": "乘性线性泛函",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "multiplicative linear functional"
+        }
+    },
+    {
+        "concept_name": "二次交换子",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "double commutant"
+        }
+    },
+    {
+        "concept_name": "交换子",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "commutant"
+        }
+    },
+    {
+        "concept_name": "交换巴拿赫代数",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "commutative Banach algebra"
+        }
+    },
+    {
+        "concept_name": "冯·诺伊曼代数",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "又称": " 算子环",
+            "见载": "《数学名词》第一版",
+            "英文名": "von Neumann algebra"
+        }
+    },
+    {
+        "concept_name": "函数代数",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "又称": " 一致代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "function algebra"
+        }
+    },
+    {
+        "concept_name": "包核拓扑",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "hull kernel topology"
+        }
+    },
+    {
+        "concept_name": "半单[赋范]环",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "semi-simple [normed] ring"
+        }
+    },
+    {
+        "concept_name": "可分解算子",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "decomposable operator"
+        }
+    },
+    {
+        "concept_name": "商代数",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "quotient algebra"
+        }
+    },
+    {
+        "concept_name": "圆盘代数",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "disc algebra"
+        }
+    },
+    {
+        "concept_name": "对偶代数",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "dual algebra"
+        }
+    },
+    {
+        "concept_name": "对合",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "involution"
+        }
+    },
+    {
+        "concept_name": "对合代数",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "involutory algebra"
+        }
+    },
+    {
+        "concept_name": "对合环",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "involutive ring"
+        }
+    },
+    {
+        "concept_name": "巴拿赫*代数",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Banach*-algebra"
+        }
+    },
+    {
+        "concept_name": "巴拿赫代数",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Banach algebra"
+        }
+    },
+    {
+        "concept_name": "希洛夫边界",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Silov boundary"
+        }
+    },
+    {
+        "concept_name": "广义幂零元",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "generalized nilpotent element"
+        }
+    },
+    {
+        "concept_name": "拟逆元",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "quasi-inverse"
+        }
+    },
+    {
+        "concept_name": "本原理想",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "primitive ideal"
+        }
+    },
+    {
+        "concept_name": "极大代数",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "maximum algebra"
+        }
+    },
+    {
+        "concept_name": "正则极大理想",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "regular maximum ideal"
+        }
+    },
+    {
+        "concept_name": "正泛函",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "positive functional"
+        }
+    },
+    {
+        "concept_name": "盖尔范德表示",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Gelfand representation"
+        }
+    },
+    {
+        "concept_name": "积分直和",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "又称": " 直积分(direct integral)",
+            "见载": "《数学名词》第一版",
+            "英文名": "integral direct sum"
+        }
+    },
+    {
+        "concept_name": "约化理论",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "reduction theory [of von Neu- mann algebra]"
+        }
+    },
+    {
+        "concept_name": "结构空间",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "structure space"
+        }
+    },
+    {
+        "concept_name": "群代数",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "group algebra"
+        }
+    },
+    {
+        "concept_name": "自伴代数",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "self-adjoint algebra"
+        }
+    },
+    {
+        "concept_name": "谱综合",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "spectral synthesis"
+        }
+    },
+    {
+        "concept_name": "赋范代数",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "normed algebra"
+        }
+    },
+    {
+        "concept_name": "赋范环",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "normed ring"
+        }
+    },
+    {
+        "concept_name": "迹",
+        "details": {
+            "学科": "数学_泛函分析_巴拿赫代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "trace of von Neumann algebra"
+        }
+    }
+]

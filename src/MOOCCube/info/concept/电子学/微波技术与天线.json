@@ -1,0 +1,1701 @@
+[
+    {
+        "concept_name": "[波]束波导",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "beam waveguide"
+        }
+    },
+    {
+        "concept_name": "[直]线阵",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "linear array"
+        }
+    },
+    {
+        "concept_name": "[立体]波束效率",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "solid-beam efficiency"
+        }
+    },
+    {
+        "concept_name": "不可视区",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "invisible range"
+        }
+    },
+    {
+        "concept_name": "临界频率",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "critical frequency"
+        }
+    },
+    {
+        "concept_name": "主反射器",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "main reflector"
+        }
+    },
+    {
+        "concept_name": "乌兰韦伯天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Wullenweber antenna"
+        }
+    },
+    {
+        "concept_name": "互感[应]",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "mutual induction"
+        }
+    },
+    {
+        "concept_name": "介质天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "dielectric antenna"
+        }
+    },
+    {
+        "concept_name": "伞形反射天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "umbrella reflector antenna"
+        }
+    },
+    {
+        "concept_name": "伞形天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "umbrella antenna"
+        }
+    },
+    {
+        "concept_name": "传导电流",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "conduction current"
+        }
+    },
+    {
+        "concept_name": "倒向天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "retrodirective antenna"
+        }
+    },
+    {
+        "concept_name": "偶极子天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "dipole antenna"
+        }
+    },
+    {
+        "concept_name": "全向天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "omnidirectional antenna"
+        }
+    },
+    {
+        "concept_name": "八木天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Yagi antenna"
+        }
+    },
+    {
+        "concept_name": "共形天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "conformal antenna"
+        }
+    },
+    {
+        "concept_name": "共形阵天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "conformal array antenna"
+        }
+    },
+    {
+        "concept_name": "刀形天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "blade antenna"
+        }
+    },
+    {
+        "concept_name": "分米波",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "decimeter wave"
+        }
+    },
+    {
+        "concept_name": "副反射器",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "subreflector"
+        }
+    },
+    {
+        "concept_name": "副瓣",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "minor lobe"
+        }
+    },
+    {
+        "concept_name": "劈",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "wedge"
+        }
+    },
+    {
+        "concept_name": "功率透射率",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "power transmittance"
+        }
+    },
+    {
+        "concept_name": "单极子",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "monopole"
+        }
+    },
+    {
+        "concept_name": "卡塞格伦反射面天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Cassegrain reflector antenna"
+        }
+    },
+    {
+        "concept_name": "双折射",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "birefringence"
+        }
+    },
+    {
+        "concept_name": "双锥天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "biconical antenna"
+        }
+    },
+    {
+        "concept_name": "变距阵",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "space-tapered array"
+        }
+    },
+    {
+        "concept_name": "可视区",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "visible range"
+        }
+    },
+    {
+        "concept_name": "史密斯圆图",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Smith chart"
+        }
+    },
+    {
+        "concept_name": "各向同性媒质",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "isotropic medium"
+        }
+    },
+    {
+        "concept_name": "各向同性辐射器",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "isotropic radiator"
+        }
+    },
+    {
+        "concept_name": "各向异性媒质",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "anisotropic medium"
+        }
+    },
+    {
+        "concept_name": "合成孔径",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "曾称": " 综合孔径",
+            "见载": "《电子学名词》第一版",
+            "英文名": "synthetic aperture"
+        }
+    },
+    {
+        "concept_name": "同轴天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "coaxial antenna"
+        }
+    },
+    {
+        "concept_name": "同轴电缆",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "coaxial cable"
+        }
+    },
+    {
+        "concept_name": "同轴线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "coaxial line"
+        }
+    },
+    {
+        "concept_name": "喇叭反射天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "horn reflector antenna"
+        }
+    },
+    {
+        "concept_name": "喇叭天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "horn antenna"
+        }
+    },
+    {
+        "concept_name": "四分之一波长变换器",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "quarter-wave transformer"
+        }
+    },
+    {
+        "concept_name": "回波箱",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "echo box"
+        }
+    },
+    {
+        "concept_name": "圆锥阵",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "conical array"
+        }
+    },
+    {
+        "concept_name": "圆顶相控阵天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "dome phase array antenna"
+        }
+    },
+    {
+        "concept_name": "基间平面",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "intercardinal plane"
+        }
+    },
+    {
+        "concept_name": "多尔夫-切比雪夫分布",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Dolph-Chebyshev distribution"
+        }
+    },
+    {
+        "concept_name": "多波束天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "multi-beam antenna"
+        }
+    },
+    {
+        "concept_name": "天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "antenna"
+        }
+    },
+    {
+        "concept_name": "天线基准轴",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "reference boresight of antenna"
+        }
+    },
+    {
+        "concept_name": "天线方向图",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "antenna pattern"
+        }
+    },
+    {
+        "concept_name": "天线阵",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "antenna array"
+        }
+    },
+    {
+        "concept_name": "失配终端",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "mismatched termination"
+        }
+    },
+    {
+        "concept_name": "套筒偶极子天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "sleeve-dipole antenna"
+        }
+    },
+    {
+        "concept_name": "套筒短柱天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "sleeve-stub antenna"
+        }
+    },
+    {
+        "concept_name": "媒质",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "又称": " 介质",
+            "见载": "《电子学名词》第一版",
+            "英文名": "medium"
+        }
+    },
+    {
+        "concept_name": "孔径",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "aperture"
+        }
+    },
+    {
+        "concept_name": "定向天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "directional antenna"
+        }
+    },
+    {
+        "concept_name": "密度递减阵天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "density-tapered array antenna"
+        }
+    },
+    {
+        "concept_name": "对数周期天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "logarithm periodic antenna"
+        }
+    },
+    {
+        "concept_name": "对流层传播",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "tropospheric propagation"
+        }
+    },
+    {
+        "concept_name": "对称振子天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "doublet antenna"
+        }
+    },
+    {
+        "concept_name": "导纳圆图",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "admittance chart"
+        }
+    },
+    {
+        "concept_name": "差波束分离角",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "separated angle of difference beam"
+        }
+    },
+    {
+        "concept_name": "帚状喇叭天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "hoghorn antenna"
+        }
+    },
+    {
+        "concept_name": "带[状]线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "strip line"
+        }
+    },
+    {
+        "concept_name": "干涉仪天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "interferometer antenna"
+        }
+    },
+    {
+        "concept_name": "平嵌天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "flush-mounted antenna"
+        }
+    },
+    {
+        "concept_name": "平接关节",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "plain joint"
+        }
+    },
+    {
+        "concept_name": "平方余割天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "cosecant-squared antenna"
+        }
+    },
+    {
+        "concept_name": "平流层传播",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "stratospheric propagation"
+        }
+    },
+    {
+        "concept_name": "平面极化",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "plane polarization"
+        }
+    },
+    {
+        "concept_name": "平面阵",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "planar array"
+        }
+    },
+    {
+        "concept_name": "平顶天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "flattop antenna"
+        }
+    },
+    {
+        "concept_name": "庞加莱球",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Poincare sphere"
+        }
+    },
+    {
+        "concept_name": "延伸线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "line stretcher"
+        }
+    },
+    {
+        "concept_name": "开槽线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "slotted line"
+        }
+    },
+    {
+        "concept_name": "开路终端",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "open circuit termination"
+        }
+    },
+    {
+        "concept_name": "引向[器单]元",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "director element"
+        }
+    },
+    {
+        "concept_name": "归一化阻抗",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "normalized impedance"
+        }
+    },
+    {
+        "concept_name": "径向线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "radial transmission line"
+        }
+    },
+    {
+        "concept_name": "微带天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "microstrip antenna"
+        }
+    },
+    {
+        "concept_name": "微带阵",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "microstrip array"
+        }
+    },
+    {
+        "concept_name": "截止式衰减器",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "cut-off attenuator"
+        }
+    },
+    {
+        "concept_name": "截止波导",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "cut-off waveguide"
+        }
+    },
+    {
+        "concept_name": "截止波长",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "cut-off wavelength"
+        }
+    },
+    {
+        "concept_name": "扇形波束天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "fan-beam antenna"
+        }
+    },
+    {
+        "concept_name": "扫描角",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "scan angle"
+        }
+    },
+    {
+        "concept_name": "扼流关节",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "choke joint"
+        }
+    },
+    {
+        "concept_name": "折合振子",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "又称": " 折合天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "folded dipole"
+        }
+    },
+    {
+        "concept_name": "折射",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "refraction"
+        }
+    },
+    {
+        "concept_name": "抛物环面天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "parabolic torus antenna"
+        }
+    },
+    {
+        "concept_name": "抛物面反射器",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "paraboloidal reflector"
+        }
+    },
+    {
+        "concept_name": "抛物面天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "parabolic antenna"
+        }
+    },
+    {
+        "concept_name": "接触式活塞",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "contact piston"
+        }
+    },
+    {
+        "concept_name": "散射",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "scatter"
+        }
+    },
+    {
+        "concept_name": "方向性增益",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "directive gain"
+        }
+    },
+    {
+        "concept_name": "旋磁媒质",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "gyromagnetic medium"
+        }
+    },
+    {
+        "concept_name": "无惯性扫描",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "inertialess scanning"
+        }
+    },
+    {
+        "concept_name": "无源[单]元",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "又称": " 寄生[单]元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "parasitic element"
+        }
+    },
+    {
+        "concept_name": "有源阵",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "active array"
+        }
+    },
+    {
+        "concept_name": "机电调向",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "electronic mechanically steering"
+        }
+    },
+    {
+        "concept_name": "枕盒天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "pillbox antenna"
+        }
+    },
+    {
+        "concept_name": "柱面阵",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "cylindrical array"
+        }
+    },
+    {
+        "concept_name": "栅瓣",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "grating lobe"
+        }
+    },
+    {
+        "concept_name": "格雷戈里反射面天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Gregorian reflector antenna"
+        }
+    },
+    {
+        "concept_name": "椭圆极化",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "elliptical polarization"
+        }
+    },
+    {
+        "concept_name": "椭圆波导",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "elliptic waveguide"
+        }
+    },
+    {
+        "concept_name": "横电模",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "又称": " TE 模 ；H模",
+            "见载": "《电子学名词》第一版",
+            "英文名": "transverse electric mode"
+        }
+    },
+    {
+        "concept_name": "横电磁模",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "又称": " TEM 模",
+            "见载": "《电子学名词》第一版",
+            "英文名": "transverse electric and magnetic mode"
+        }
+    },
+    {
+        "concept_name": "横磁模",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "又称": " TM 模 ；E mode模",
+            "见载": "《电子学名词》第一版",
+            "英文名": "transverse magnetic mode"
+        }
+    },
+    {
+        "concept_name": "次级辐射器",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "又称": " 次级辐射体",
+            "见载": "《电子学名词》第一版",
+            "英文名": "secondary radiator"
+        }
+    },
+    {
+        "concept_name": "正交极化",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "orthogonal polarization"
+        }
+    },
+    {
+        "concept_name": "步进阻抗变换器",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "stepped-impedance transformer"
+        }
+    },
+    {
+        "concept_name": "毫米波",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "millimeter wave"
+        }
+    },
+    {
+        "concept_name": "水平极化",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "horizontal polarization"
+        }
+    },
+    {
+        "concept_name": "波前",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "wave front"
+        }
+    },
+    {
+        "concept_name": "波导开关",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "waveguide switch"
+        }
+    },
+    {
+        "concept_name": "波导膜片",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "waveguide iris"
+        }
+    },
+    {
+        "concept_name": "波束天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "beam antenna"
+        }
+    },
+    {
+        "concept_name": "波束立体角",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "beam solid angle"
+        }
+    },
+    {
+        "concept_name": "波束角",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "beam angle"
+        }
+    },
+    {
+        "concept_name": "波瓣",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "lobe"
+        }
+    },
+    {
+        "concept_name": "活塞",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "piston"
+        }
+    },
+    {
+        "concept_name": "消旋天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "despun antenna"
+        }
+    },
+    {
+        "concept_name": "涡流",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "eddy current"
+        }
+    },
+    {
+        "concept_name": "滑动螺钉调配器",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "slide screw tuner"
+        }
+    },
+    {
+        "concept_name": "漏泄同轴电缆",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "leaky coaxial cable"
+        }
+    },
+    {
+        "concept_name": "漏波天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "leaky-wave antenna"
+        }
+    },
+    {
+        "concept_name": "潜望镜天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "periscope antenna"
+        }
+    },
+    {
+        "concept_name": "激励[单]元",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "driving element"
+        }
+    },
+    {
+        "concept_name": "环天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "loop antenna"
+        }
+    },
+    {
+        "concept_name": "环形缝隙天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "annular slot antenna"
+        }
+    },
+    {
+        "concept_name": "环形阵",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ring array"
+        }
+    },
+    {
+        "concept_name": "球面波",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "spherical wave"
+        }
+    },
+    {
+        "concept_name": "球面阵",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "spherical array"
+        }
+    },
+    {
+        "concept_name": "电偶极子",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "electric dipole"
+        }
+    },
+    {
+        "concept_name": "电子扫描",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "electronic scanning"
+        }
+    },
+    {
+        "concept_name": "电磁场",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "electromagnetic field"
+        }
+    },
+    {
+        "concept_name": "电磁波",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "electromagnetic wave"
+        }
+    },
+    {
+        "concept_name": "电磁谱",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "electromagnetic spectrum"
+        }
+    },
+    {
+        "concept_name": "电磁透镜",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "electromagnetic lens"
+        }
+    },
+    {
+        "concept_name": "电离层传播",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ionospheric propagation"
+        }
+    },
+    {
+        "concept_name": "电轴",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "electrical boresight"
+        }
+    },
+    {
+        "concept_name": "疏化阵天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "thinned array antenna"
+        }
+    },
+    {
+        "concept_name": "盒形天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "cheese antenna"
+        }
+    },
+    {
+        "concept_name": "盘锥天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "discone antenna"
+        }
+    },
+    {
+        "concept_name": "相控阵",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "phase array"
+        }
+    },
+    {
+        "concept_name": "短程透镜天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "geodesic lens antenna"
+        }
+    },
+    {
+        "concept_name": "短路终端",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "short circuit termination"
+        }
+    },
+    {
+        "concept_name": "移相器",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "phase shifter"
+        }
+    },
+    {
+        "concept_name": "端射阵天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "end-fire array antenna"
+        }
+    },
+    {
+        "concept_name": "笔形波束天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "pencil-beam antenna"
+        }
+    },
+    {
+        "concept_name": "笼形天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "cage antenna"
+        }
+    },
+    {
+        "concept_name": "等幅面",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "equiamplitude surface"
+        }
+    },
+    {
+        "concept_name": "等相面",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "equiphase surface"
+        }
+    },
+    {
+        "concept_name": "米尔斯交叉天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Mills cross antenna"
+        }
+    },
+    {
+        "concept_name": "纵波",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "longitudinal wave"
+        }
+    },
+    {
+        "concept_name": "线天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "wire antenna"
+        }
+    },
+    {
+        "concept_name": "线栅透镜天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "wire-grid lens antenna"
+        }
+    },
+    {
+        "concept_name": "结环行器",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "junction circulator"
+        }
+    },
+    {
+        "concept_name": "绕杆式天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "turnstile antenna"
+        }
+    },
+    {
+        "concept_name": "缝隙天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "slot antenna"
+        }
+    },
+    {
+        "concept_name": "耦合孔",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "英文": "coupling aperture ;coupling hole",
+            "见载": "《电子学名词》第一版",
+            "英文名": "coupling aperture"
+        }
+    },
+    {
+        "concept_name": "耦合探针",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "coupling probe"
+        }
+    },
+    {
+        "concept_name": "耦合环",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "coupling loop"
+        }
+    },
+    {
+        "concept_name": "背射天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "backfire antenna"
+        }
+    },
+    {
+        "concept_name": "脊[形]波导",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ridge waveguide"
+        }
+    },
+    {
+        "concept_name": "腹点",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "antinode"
+        }
+    },
+    {
+        "concept_name": "膜环滤波器",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "diaphragm-ring filter"
+        }
+    },
+    {
+        "concept_name": "自[动定]相阵",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "self-phasing array"
+        }
+    },
+    {
+        "concept_name": "自感[应]",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "self induction"
+        }
+    },
+    {
+        "concept_name": "自由空间损耗",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "free-space loss"
+        }
+    },
+    {
+        "concept_name": "菲涅耳等值线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Fresnel contour"
+        }
+    },
+    {
+        "concept_name": "螺旋相位天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "spiral-phase antenna"
+        }
+    },
+    {
+        "concept_name": "行波天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "traveling-wave antenna"
+        }
+    },
+    {
+        "concept_name": "表面波",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "surface wave"
+        }
+    },
+    {
+        "concept_name": "表面波天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "surface wave antenna"
+        }
+    },
+    {
+        "concept_name": "视轴",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "boresight"
+        }
+    },
+    {
+        "concept_name": "角跟踪",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "angle tracking"
+        }
+    },
+    {
+        "concept_name": "角锥喇叭天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "pyramidal horn antenna"
+        }
+    },
+    {
+        "concept_name": "贝弗里奇天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Beverage antenna"
+        }
+    },
+    {
+        "concept_name": "赋形波束天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "shaped-beam antenna"
+        }
+    },
+    {
+        "concept_name": "趋肤效应",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "又称": " 集肤效应",
+            "见载": "《电子学名词》第一版",
+            "英文名": "skin effect"
+        }
+    },
+    {
+        "concept_name": "辐射器",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "radiator"
+        }
+    },
+    {
+        "concept_name": "辐射强度",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "radiation intensity"
+        }
+    },
+    {
+        "concept_name": "辐射效率",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "radiation efficiency"
+        }
+    },
+    {
+        "concept_name": "辐射电阻",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "radiation resistance"
+        }
+    },
+    {
+        "concept_name": "运流电流",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "convection current"
+        }
+    },
+    {
+        "concept_name": "近场区",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "near-field region"
+        }
+    },
+    {
+        "concept_name": "远场区",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "far-field region"
+        }
+    },
+    {
+        "concept_name": "透镜天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "lens antenna"
+        }
+    },
+    {
+        "concept_name": "镜像原理",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "image theory"
+        }
+    },
+    {
+        "concept_name": "镜像平面",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "imaging plane"
+        }
+    },
+    {
+        "concept_name": "长线天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "long-wire antenna"
+        }
+    },
+    {
+        "concept_name": "阵[单]元",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "array element"
+        }
+    },
+    {
+        "concept_name": "阵因子",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "array factor"
+        }
+    },
+    {
+        "concept_name": "阵天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "array antenna"
+        }
+    },
+    {
+        "concept_name": "阶梯天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "stepped antenna"
+        }
+    },
+    {
+        "concept_name": "阻抗圆图",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "impedance chart"
+        }
+    },
+    {
+        "concept_name": "隐失模[式]",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "曾称": " 消失模 ；衰逝模",
+            "见载": "《电子学名词》第一版",
+            "英文名": "evanescent mode"
+        }
+    },
+    {
+        "concept_name": "隔离器",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "isolator"
+        }
+    },
+    {
+        "concept_name": "隔离度",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "isolation"
+        }
+    },
+    {
+        "concept_name": "非互易移相器",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "nonreciprocal phase-shifter"
+        }
+    },
+    {
+        "concept_name": "非周期天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "aperiodic antenna"
+        }
+    },
+    {
+        "concept_name": "面天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "surface antenna"
+        }
+    },
+    {
+        "concept_name": "鞭状天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "whip antenna"
+        }
+    },
+    {
+        "concept_name": "馈线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "feed line"
+        }
+    },
+    {
+        "concept_name": "驻波天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "standing-wave antenna"
+        }
+    },
+    {
+        "concept_name": "魔Ｔ",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "magic T"
+        }
+    },
+    {
+        "concept_name": "鱼骨天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "fishbone antenna"
+        }
+    },
+    {
+        "concept_name": "Ｖ形天线",
+        "details": {
+            "学科": "电子学_微波技术与天线",
+            "见载": "《电子学名词》第一版",
+            "英文名": "V antenna"
+        }
+    }
+]

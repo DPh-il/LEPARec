@@ -1,0 +1,1355 @@
+[
+    {
+        "concept_name": "WKB近似",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "WKB approximation"
+        }
+    },
+    {
+        "concept_name": "[微观粒子]全同性原理",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "identity principle [of microparticles]"
+        }
+    },
+    {
+        "concept_name": "[相]互作用",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "interaction"
+        }
+    },
+    {
+        "concept_name": "[相]互作用绘景",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "interaction picture"
+        }
+    },
+    {
+        "concept_name": "[量子]态",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "[quantum] state"
+        }
+    },
+    {
+        "concept_name": "c数",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "c-number"
+        }
+    },
+    {
+        "concept_name": "q数",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "q-number"
+        }
+    },
+    {
+        "concept_name": "γ矩阵",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "γ-matrix"
+        }
+    },
+    {
+        "concept_name": "不可分辨性",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "indistinguishability"
+        }
+    },
+    {
+        "concept_name": "不可对易性",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "noncommutability"
+        }
+    },
+    {
+        "concept_name": "不可约张量算符",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "irreducible tensor operator"
+        }
+    },
+    {
+        "concept_name": "不可约表示",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "irreducible representation"
+        }
+    },
+    {
+        "concept_name": "不含时微扰",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "time-independent perturbation"
+        }
+    },
+    {
+        "concept_name": "不确定[度]关系",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "又称": " 测不准关系",
+            "见载": "《物理学名词》第二版",
+            "英文名": "uncertainty relation"
+        }
+    },
+    {
+        "concept_name": "不确定[性]原理",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "又称": " 测不准原理",
+            "见载": "《物理学名词》第二版",
+            "英文名": "uncertainty principle"
+        }
+    },
+    {
+        "concept_name": "主量子数",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "total quantum number"
+        }
+    },
+    {
+        "concept_name": "久期方程",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "secular equation"
+        }
+    },
+    {
+        "concept_name": "二次量子化",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "second quantization"
+        }
+    },
+    {
+        "concept_name": "互补原理",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "曾称": " 并协原理",
+            "见载": "《物理学名词》第二版",
+            "英文名": "complementary principle"
+        }
+    },
+    {
+        "concept_name": "交换对称性",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "exchange symmetry"
+        }
+    },
+    {
+        "concept_name": "交换能",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "exchange energy"
+        }
+    },
+    {
+        "concept_name": "产生算符",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "creation operator"
+        }
+    },
+    {
+        "concept_name": "传播函数",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "propagator"
+        }
+    },
+    {
+        "concept_name": "位置表象",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "position representation"
+        }
+    },
+    {
+        "concept_name": "克莱因-戈尔登方程",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Klein-Gordon equation"
+        }
+    },
+    {
+        "concept_name": "全同粒子",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "identical particles"
+        }
+    },
+    {
+        "concept_name": "关联能",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "correlation energy"
+        }
+    },
+    {
+        "concept_name": "内禀角动量",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "intrinsic angular momentum"
+        }
+    },
+    {
+        "concept_name": "准经典近似",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "quasi-classical approximation"
+        }
+    },
+    {
+        "concept_name": "前期量子论",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "old quantum theory"
+        }
+    },
+    {
+        "concept_name": "动量表象",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "momentum representation"
+        }
+    },
+    {
+        "concept_name": "势垒",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "potential barrier"
+        }
+    },
+    {
+        "concept_name": "势垒穿透",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "barrier penetration"
+        }
+    },
+    {
+        "concept_name": "厄米[的]",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Hermitian"
+        }
+    },
+    {
+        "concept_name": "厄米共轭",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Hermitian conjugate"
+        }
+    },
+    {
+        "concept_name": "厄米性",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "hermiticity"
+        }
+    },
+    {
+        "concept_name": "厄米算符",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Hermitian operator"
+        }
+    },
+    {
+        "concept_name": "反对易关系",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "anticommutation relation"
+        }
+    },
+    {
+        "concept_name": "反对易式",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "anticommutator"
+        }
+    },
+    {
+        "concept_name": "反对称[性]",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "antisymmetry"
+        }
+    },
+    {
+        "concept_name": "反对称波函数",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "antisymmetric wave function"
+        }
+    },
+    {
+        "concept_name": "受激发射",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "stimulated emission"
+        }
+    },
+    {
+        "concept_name": "受激吸收",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "stimulated absorption"
+        }
+    },
+    {
+        "concept_name": "可观察量",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "observable"
+        }
+    },
+    {
+        "concept_name": "含时微扰",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "time-dependent perturbation"
+        }
+    },
+    {
+        "concept_name": "含时薛定谔方程",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "time-dependent Schro&4&dinger equation"
+        }
+    },
+    {
+        "concept_name": "哈密顿[算符]",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Hamiltonian [operator]"
+        }
+    },
+    {
+        "concept_name": "基右矢",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "base ket"
+        }
+    },
+    {
+        "concept_name": "基左矢",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "base bra"
+        }
+    },
+    {
+        "concept_name": "基态",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ground state"
+        }
+    },
+    {
+        "concept_name": "好量子数",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "good quantum number"
+        }
+    },
+    {
+        "concept_name": "宇称",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "parity"
+        }
+    },
+    {
+        "concept_name": "宇称守恒",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "parity conservation"
+        }
+    },
+    {
+        "concept_name": "宇称算符",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "parity operator"
+        }
+    },
+    {
+        "concept_name": "定态",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "stationary state"
+        }
+    },
+    {
+        "concept_name": "定态薛定谔方程",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "stationary Schro&4&dinger equation"
+        }
+    },
+    {
+        "concept_name": "容许跃迁",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "allowed transition"
+        }
+    },
+    {
+        "concept_name": "对易关系",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "commutation relation"
+        }
+    },
+    {
+        "concept_name": "对易式",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "commutator"
+        }
+    },
+    {
+        "concept_name": "对称波函数",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "symmetric wave function"
+        }
+    },
+    {
+        "concept_name": "左矢",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "曾称": " 刁",
+            "见载": "《物理学名词》第二版",
+            "英文名": "bra"
+        }
+    },
+    {
+        "concept_name": "平移算符",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "translation operator"
+        }
+    },
+    {
+        "concept_name": "幺正[的]",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "unitary"
+        }
+    },
+    {
+        "concept_name": "幺正变换",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "unitary transformation"
+        }
+    },
+    {
+        "concept_name": "幺正算符",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "unitary operator"
+        }
+    },
+    {
+        "concept_name": "康普顿散射",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Compton scattering"
+        }
+    },
+    {
+        "concept_name": "康普顿波长",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Compton wavelength"
+        }
+    },
+    {
+        "concept_name": "弹性散射",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "elastic scattering"
+        }
+    },
+    {
+        "concept_name": "归一[化]因子",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "normalizing factor"
+        }
+    },
+    {
+        "concept_name": "归一[化]条件",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "normalizing condition"
+        }
+    },
+    {
+        "concept_name": "归一化",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "normalization"
+        }
+    },
+    {
+        "concept_name": "微扰",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "perturbation"
+        }
+    },
+    {
+        "concept_name": "微扰势",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "perturbing potential"
+        }
+    },
+    {
+        "concept_name": "微扰论",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "perturbation theory"
+        }
+    },
+    {
+        "concept_name": "微观粒子",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "microscopic particle"
+        }
+    },
+    {
+        "concept_name": "德布罗意波",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "de Broglie wave"
+        }
+    },
+    {
+        "concept_name": "德布罗意波长",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "de Broglie wavelength"
+        }
+    },
+    {
+        "concept_name": "态叠加原理",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "principle of superposition of states"
+        }
+    },
+    {
+        "concept_name": "截面",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "cross section"
+        }
+    },
+    {
+        "concept_name": "振子",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "oscillator"
+        }
+    },
+    {
+        "concept_name": "斯莱特行列式",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Slater determinant"
+        }
+    },
+    {
+        "concept_name": "旋磁比",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "gyromagnetic ratio"
+        }
+    },
+    {
+        "concept_name": "旋量",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "spinor"
+        }
+    },
+    {
+        "concept_name": "时间反演",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "time reversal"
+        }
+    },
+    {
+        "concept_name": "期望值",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "曾称": " 期待值",
+            "见载": "《物理学名词》第二版",
+            "英文名": "expectation value"
+        }
+    },
+    {
+        "concept_name": "本征[值]方程",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "eigen[value] equation"
+        }
+    },
+    {
+        "concept_name": "本征值",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "eigenvalue"
+        }
+    },
+    {
+        "concept_name": "本征函数",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "eigenfunction"
+        }
+    },
+    {
+        "concept_name": "本征态",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "eigenstate"
+        }
+    },
+    {
+        "concept_name": "核[函]",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "kernel"
+        }
+    },
+    {
+        "concept_name": "概率幅",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "probability amplitude"
+        }
+    },
+    {
+        "concept_name": "概率流",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "probability current"
+        }
+    },
+    {
+        "concept_name": "正交归一系",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "orthonormal system"
+        }
+    },
+    {
+        "concept_name": "正电子",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "positron"
+        }
+    },
+    {
+        "concept_name": "泡利不相容原理",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Pauli exclusion principle"
+        }
+    },
+    {
+        "concept_name": "泡利方程",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Pauli equation"
+        }
+    },
+    {
+        "concept_name": "泡利矩阵",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Pauli matrix"
+        }
+    },
+    {
+        "concept_name": "波函数",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "wave function"
+        }
+    },
+    {
+        "concept_name": "波动力学",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "wave mechanics"
+        }
+    },
+    {
+        "concept_name": "波动性",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "undulatory property"
+        }
+    },
+    {
+        "concept_name": "波粒二象性",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "wave-particle dualism"
+        }
+    },
+    {
+        "concept_name": "海森伯绘景",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Heisenberg picture"
+        }
+    },
+    {
+        "concept_name": "浸渐近似",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "曾称": " 绝热式近似",
+            "见载": "《物理学名词》第二版",
+            "英文名": "adiabatic approximation"
+        }
+    },
+    {
+        "concept_name": "混合态",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "mixed state"
+        }
+    },
+    {
+        "concept_name": "湮没",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "annihilation"
+        }
+    },
+    {
+        "concept_name": "湮没算符",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "又称": " 消灭算符(de-struction operator)",
+            "见载": "《物理学名词》第二版",
+            "英文名": "annihilation operator"
+        }
+    },
+    {
+        "concept_name": "演化算符",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "evolution operator"
+        }
+    },
+    {
+        "concept_name": "激发",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "excitation"
+        }
+    },
+    {
+        "concept_name": "激发态",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "excited state"
+        }
+    },
+    {
+        "concept_name": "狄拉克方程",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Dirac equation"
+        }
+    },
+    {
+        "concept_name": "玻尔半径",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Bohr radius"
+        }
+    },
+    {
+        "concept_name": "玻尔原子模型",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Bohr atom model"
+        }
+    },
+    {
+        "concept_name": "玻尔磁子",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Bohr magneton"
+        }
+    },
+    {
+        "concept_name": "玻尔量子化条件",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Bohr quantization condition"
+        }
+    },
+    {
+        "concept_name": "玻恩近似",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Born approximation"
+        }
+    },
+    {
+        "concept_name": "电子自旋",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electron spin"
+        }
+    },
+    {
+        "concept_name": "相[位]因子",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "phase factor"
+        }
+    },
+    {
+        "concept_name": "相干态",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "coherent state"
+        }
+    },
+    {
+        "concept_name": "矢量模型",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "vector model"
+        }
+    },
+    {
+        "concept_name": "离散本征值",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "曾称": " 分立本征值",
+            "见载": "《物理学名词》第二版",
+            "英文名": "discrete eigenvalue"
+        }
+    },
+    {
+        "concept_name": "空穴",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "hole"
+        }
+    },
+    {
+        "concept_name": "空间转动",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "spatial rotation"
+        }
+    },
+    {
+        "concept_name": "空间量子化",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "space quantization"
+        }
+    },
+    {
+        "concept_name": "简并性",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "degeneracy"
+        }
+    },
+    {
+        "concept_name": "算符",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "operator"
+        }
+    },
+    {
+        "concept_name": "粒子性",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "corpuscular property"
+        }
+    },
+    {
+        "concept_name": "索末菲椭圆轨道",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Sommerfeld elliptic orbit"
+        }
+    },
+    {
+        "concept_name": "约化矩阵元",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "reduced matrix element"
+        }
+    },
+    {
+        "concept_name": "置换算符",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "permutation operator"
+        }
+    },
+    {
+        "concept_name": "能带",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "energy band"
+        }
+    },
+    {
+        "concept_name": "能级",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "energy level"
+        }
+    },
+    {
+        "concept_name": "能谱",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "energy spectrum"
+        }
+    },
+    {
+        "concept_name": "能量表象",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "energy representation"
+        }
+    },
+    {
+        "concept_name": "自发发射",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "spontaneous emission"
+        }
+    },
+    {
+        "concept_name": "自旋",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "spin"
+        }
+    },
+    {
+        "concept_name": "自旋角动量",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "spin angular momentum"
+        }
+    },
+    {
+        "concept_name": "自旋轨道分裂",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "spin-orbit splitting"
+        }
+    },
+    {
+        "concept_name": "自旋轨道耦合",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "spin-orbit coupling"
+        }
+    },
+    {
+        "concept_name": "自旋量子数",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "spin quantum number"
+        }
+    },
+    {
+        "concept_name": "自洽场",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "self-consistent field"
+        }
+    },
+    {
+        "concept_name": "自洽性",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "self-consistency"
+        }
+    },
+    {
+        "concept_name": "自洽解",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "self-consistent solution"
+        }
+    },
+    {
+        "concept_name": "薛定谔方程",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Schro&4&dinger equation"
+        }
+    },
+    {
+        "concept_name": "薛定谔绘景",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Schro&4&dinger picture"
+        }
+    },
+    {
+        "concept_name": "表示",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "representation"
+        }
+    },
+    {
+        "concept_name": "表象",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "representation"
+        }
+    },
+    {
+        "concept_name": "角量子数",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "英文": "azimuthal quantum number ;angular quantum number",
+            "见载": "《物理学名词》第二版",
+            "英文名": "azimuthal quantum number"
+        }
+    },
+    {
+        "concept_name": "谐振子",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "harmonic oscillator"
+        }
+    },
+    {
+        "concept_name": "跃迁",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "transition"
+        }
+    },
+    {
+        "concept_name": "跃迁概率",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "transition probability"
+        }
+    },
+    {
+        "concept_name": "轨道磁矩",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "orbital magnetic moment"
+        }
+    },
+    {
+        "concept_name": "轨道角动量",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "orbital angular momentum"
+        }
+    },
+    {
+        "concept_name": "轨道量子数",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "orbital quantum number"
+        }
+    },
+    {
+        "concept_name": "转动算符",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "rotation operator"
+        }
+    },
+    {
+        "concept_name": "连续本征值",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "continuous eigenvalue"
+        }
+    },
+    {
+        "concept_name": "迹",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "trace"
+        }
+    },
+    {
+        "concept_name": "选择定则",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "selection rule"
+        }
+    },
+    {
+        "concept_name": "量子化",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "quantization"
+        }
+    },
+    {
+        "concept_name": "量子数",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "quantum number"
+        }
+    },
+    {
+        "concept_name": "量子理论",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "quantum theory"
+        }
+    },
+    {
+        "concept_name": "镜像反射",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "[mirror] reflection"
+        }
+    },
+    {
+        "concept_name": "隧道效应",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "tunnel effect"
+        }
+    },
+    {
+        "concept_name": "零点能",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "zero-point energy"
+        }
+    },
+    {
+        "concept_name": "非对角元",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "off-diagonal element"
+        }
+    },
+    {
+        "concept_name": "非弹性散射",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "inelastic scattering"
+        }
+    },
+    {
+        "concept_name": "非谐振子",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "anharmonic oscillator"
+        }
+    },
+    {
+        "concept_name": "预解式",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "resolvent"
+        }
+    },
+    {
+        "concept_name": "颤动",
+        "details": {
+            "学科": "物理学_相对论、量子理论_量子理论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "zitterbewegung"
+        }
+    }
+]

@@ -1,0 +1,1206 @@
+[
+    {
+        "concept_name": "q展开式",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "q-expansion formula"
+        }
+    },
+    {
+        "concept_name": "Γ函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "又称": " 第二类欧拉积分",
+            "见载": "《数学名词》第一版",
+            "英文名": "gamma-function"
+        }
+    },
+    {
+        "concept_name": "β函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "又称": " 第一类欧拉积分",
+            "见载": "《数学名词》第一版",
+            "英文名": "β-function"
+        }
+    },
+    {
+        "concept_name": "σ函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "σ-function"
+        }
+    },
+    {
+        "concept_name": "三Γ函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "trigamma-function"
+        }
+    },
+    {
+        "concept_name": "上升算子",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "英文": "slip up operator ;up-ladder operator",
+            "见载": "《数学名词》第一版",
+            "英文名": "slip up operator"
+        }
+    },
+    {
+        "concept_name": "下降算子",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "英文": "slip down operator ;down-ladder operator",
+            "见载": "《数学名词》第一版",
+            "英文名": "slip down operator"
+        }
+    },
+    {
+        "concept_name": "不完全Γ函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "incomplete Γ-function"
+        }
+    },
+    {
+        "concept_name": "不完全β函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "incomplete β-function"
+        }
+    },
+    {
+        "concept_name": "亥姆霍兹方程",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Helmholtz equation"
+        }
+    },
+    {
+        "concept_name": "伯努利多项式",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Bernoulli polynomial"
+        }
+    },
+    {
+        "concept_name": "伯努利数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Bernoulli number"
+        }
+    },
+    {
+        "concept_name": "余σ函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "co-sigma-function"
+        }
+    },
+    {
+        "concept_name": "余弦积分",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "cosine integral"
+        }
+    },
+    {
+        "concept_name": "傅里叶-贝塞尔级数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Fourier-Bessel series"
+        }
+    },
+    {
+        "concept_name": "兰登变换",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Landen transformation"
+        }
+    },
+    {
+        "concept_name": "切比雪夫微分方程",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Chebyshev differential equation"
+        }
+    },
+    {
+        "concept_name": "勒让德-雅可比标准型",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Legendre-Jacobi standard form"
+        }
+    },
+    {
+        "concept_name": "勒让德关系",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Legendre relation"
+        }
+    },
+    {
+        "concept_name": "勒让德多项式",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Legendre polynomial"
+        }
+    },
+    {
+        "concept_name": "勒让德微分方程",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Legendre differential equation"
+        }
+    },
+    {
+        "concept_name": "勒让德系数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Legendre coefficient"
+        }
+    },
+    {
+        "concept_name": "勒让德连带微分方程",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Legendre associated differential equation"
+        }
+    },
+    {
+        "concept_name": "升降算子法",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "ladder method"
+        }
+    },
+    {
+        "concept_name": "单周期函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "simply periodic function"
+        }
+    },
+    {
+        "concept_name": "卡普坦级数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Kapteyn series"
+        }
+    },
+    {
+        "concept_name": "双Γ函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "digamma-function"
+        }
+    },
+    {
+        "concept_name": "双周期函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "doubly periodic function"
+        }
+    },
+    {
+        "concept_name": "双轴球面函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "biaxial spherical surface function"
+        }
+    },
+    {
+        "concept_name": "变形第一类贝塞尔函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "modified Bessel function of the first kind"
+        }
+    },
+    {
+        "concept_name": "变形第一类马蒂厄函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "modified Mathieu function of the first kind"
+        }
+    },
+    {
+        "concept_name": "变形第三类贝塞尔函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "modified Bessel function of the third kind"
+        }
+    },
+    {
+        "concept_name": "变形第三类马蒂厄函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "modified Mathieu function of the third kind"
+        }
+    },
+    {
+        "concept_name": "变形第二类贝塞尔函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "modified Bessel function of the second kind"
+        }
+    },
+    {
+        "concept_name": "变形第二类马蒂厄函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "modified Mathieu function of the second kind"
+        }
+    },
+    {
+        "concept_name": "变形马蒂厄函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "modified Mathieu function"
+        }
+    },
+    {
+        "concept_name": "变形马蒂厄方程",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "modified Mathieu equation"
+        }
+    },
+    {
+        "concept_name": "周期[性]模",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "periodicity modulus"
+        }
+    },
+    {
+        "concept_name": "周期平行四边形",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "period parallelogram"
+        }
+    },
+    {
+        "concept_name": "埃尔米特多项式",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Hermite polynomial"
+        }
+    },
+    {
+        "concept_name": "埃尔米特微分方程",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Hermite differential equation"
+        }
+    },
+    {
+        "concept_name": "基本周期",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "fundamental period"
+        }
+    },
+    {
+        "concept_name": "基本周期平行四边形",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "fundamental period parallelogram"
+        }
+    },
+    {
+        "concept_name": "对数积分",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "logarithmic integral"
+        }
+    },
+    {
+        "concept_name": "巴恩斯广义超几何函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Barnes extended hypergeometric function"
+        }
+    },
+    {
+        "concept_name": "希尔行列式",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Hill determinant"
+        }
+    },
+    {
+        "concept_name": "希尔行列式方程",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Hill determinantal equation"
+        }
+    },
+    {
+        "concept_name": "带[调和]函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "zonal harmonics"
+        }
+    },
+    {
+        "concept_name": "广义拉梅方程",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "generalized Lame&1& equation"
+        }
+    },
+    {
+        "concept_name": "广义拉盖尔多项式",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "generalized Laguerre polynomial"
+        }
+    },
+    {
+        "concept_name": "广义施勒米希级数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "generalized series of Schlo&4&milch"
+        }
+    },
+    {
+        "concept_name": "广义马蒂厄函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "broad sense Mathieu function"
+        }
+    },
+    {
+        "concept_name": "库默尔函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Kummer function"
+        }
+    },
+    {
+        "concept_name": "开尔文函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Kelvin function"
+        }
+    },
+    {
+        "concept_name": "德拜渐近展开",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Debye asymptotic expansion"
+        }
+    },
+    {
+        "concept_name": "德拜渐近表示",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "asymptotic representation of Debye"
+        }
+    },
+    {
+        "concept_name": "惠特克函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Whittaker function"
+        }
+    },
+    {
+        "concept_name": "惠特克微分方程",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Whittaker differential equation"
+        }
+    },
+    {
+        "concept_name": "抛物柱面函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "parabolic cylinder function"
+        }
+    },
+    {
+        "concept_name": "抛物柱面坐标",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "parabolic cylinder coordinates"
+        }
+    },
+    {
+        "concept_name": "拉格朗日展开公式",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Lagrange expansion formula"
+        }
+    },
+    {
+        "concept_name": "拉梅函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Lame&1& function"
+        }
+    },
+    {
+        "concept_name": "拉梅微分方程",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Lame&1& differential equation"
+        }
+    },
+    {
+        "concept_name": "拉盖尔多项式",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Laguerre polynomial"
+        }
+    },
+    {
+        "concept_name": "拉盖尔微分方程",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Laguerre differential equation"
+        }
+    },
+    {
+        "concept_name": "指数积分",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "exponential integral"
+        }
+    },
+    {
+        "concept_name": "斯托克斯方程",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Stokes equation"
+        }
+    },
+    {
+        "concept_name": "斯托克斯现象",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Stokes phenomenon"
+        }
+    },
+    {
+        "concept_name": "斯特林公式",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Stirling formula"
+        }
+    },
+    {
+        "concept_name": "施勒米希级数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Schlo&4&milch series"
+        }
+    },
+    {
+        "concept_name": "施拉夫利积分表示",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版"
+        }
+    },
+    {
+        "concept_name": "无穷行列式",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "infinite determinant"
+        }
+    },
+    {
+        "concept_name": "柱面函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "cylindrical function"
+        }
+    },
+    {
+        "concept_name": "椭圆函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "elliptic function"
+        }
+    },
+    {
+        "concept_name": "椭圆无理函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "elliptic irrational function"
+        }
+    },
+    {
+        "concept_name": "椭圆积分",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "elliptic integral"
+        }
+    },
+    {
+        "concept_name": "椭圆积分[的]模数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "modulus of an elliptic integral"
+        }
+    },
+    {
+        "concept_name": "椭球调和函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "ellipsoidal harmonics"
+        }
+    },
+    {
+        "concept_name": "欧拉多项式",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Euler polynomial"
+        }
+    },
+    {
+        "concept_name": "欧拉常数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Euler constant"
+        }
+    },
+    {
+        "concept_name": "欧拉数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Euler number"
+        }
+    },
+    {
+        "concept_name": "正弦积分",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "sine integral"
+        }
+    },
+    {
+        "concept_name": "比内公式",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Binet formula"
+        }
+    },
+    {
+        "concept_name": "汇合型函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "function of confluent type"
+        }
+    },
+    {
+        "concept_name": "汇合型微分方程",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "differential equation of confluent type"
+        }
+    },
+    {
+        "concept_name": "汇合型超几何函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "hypergeometric function of confluent type"
+        }
+    },
+    {
+        "concept_name": "汉克尔渐近展开",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Hankel asymptotic expansion"
+        }
+    },
+    {
+        "concept_name": "沃森公式",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Watson formula"
+        }
+    },
+    {
+        "concept_name": "泰奥多森函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Theodorsen function"
+        }
+    },
+    {
+        "concept_name": "洛默尔积分",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Lommel integral"
+        }
+    },
+    {
+        "concept_name": "特殊函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "special function"
+        }
+    },
+    {
+        "concept_name": "特里科米函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Tricomi function"
+        }
+    },
+    {
+        "concept_name": "球体[波]函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "spheroidal [wave] function"
+        }
+    },
+    {
+        "concept_name": "球面贝塞尔函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "spherical Bessel function"
+        }
+    },
+    {
+        "concept_name": "瓦格纳函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Wagner function"
+        }
+    },
+    {
+        "concept_name": "田形[调和]函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "tesseral harmonics"
+        }
+    },
+    {
+        "concept_name": "盖根鲍尔多项式",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "又称": " 超球多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "Gegenbauer polynomial"
+        }
+    },
+    {
+        "concept_name": "矩阵变量[的]超几何函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "hypergeometric function of matric argument"
+        }
+    },
+    {
+        "concept_name": "立体[调和]函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "又称": " 球面调和函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "solid [harmonic] function"
+        }
+    },
+    {
+        "concept_name": "第一类不完全椭圆积分",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "incomplete elliptic integral of the first kind"
+        }
+    },
+    {
+        "concept_name": "第一类切比雪夫多项式",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Chebyshev polynomial of the first kind"
+        }
+    },
+    {
+        "concept_name": "第一类勒让德函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Legendre function of the first kind"
+        }
+    },
+    {
+        "concept_name": "第一类完全椭圆积分",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "complete elliptic integral of the first kind"
+        }
+    },
+    {
+        "concept_name": "第一类拉梅函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Lame&1& function of the first kind"
+        }
+    },
+    {
+        "concept_name": "第一类椭圆函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "elliptic function of the first kind"
+        }
+    },
+    {
+        "concept_name": "第一类椭圆积分",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "elliptic integral of the first kind"
+        }
+    },
+    {
+        "concept_name": "第一类汉克尔函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Hankel function of the first kind"
+        }
+    },
+    {
+        "concept_name": "第一类贝塞尔函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "又称": " 贝塞尔函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Bessel function of the first kind"
+        }
+    },
+    {
+        "concept_name": "第一类马蒂厄函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "又称": " 椭圆柱函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Mathieu function of the first kind"
+        }
+    },
+    {
+        "concept_name": "第三类椭圆函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "elliptic function of the third kind"
+        }
+    },
+    {
+        "concept_name": "第三类椭圆积分",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "elliptic integral of the third kind"
+        }
+    },
+    {
+        "concept_name": "第三类贝塞尔函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "又称": " 汉克尔函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Bessel function of the third kind"
+        }
+    },
+    {
+        "concept_name": "第二类不完全椭圆积分",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "incomplete elliptic integral of the second kind"
+        }
+    },
+    {
+        "concept_name": "第二类切比雪夫多项式",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Chebyshev polynomial of the second kind"
+        }
+    },
+    {
+        "concept_name": "第二类勒让德函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Legendre function of the second kind"
+        }
+    },
+    {
+        "concept_name": "第二类完全椭圆积分",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "complete elliptic integral of the second kind"
+        }
+    },
+    {
+        "concept_name": "第二类拉梅函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Lame&1& function of the second kind"
+        }
+    },
+    {
+        "concept_name": "第二类椭圆函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "elliptic function of the second kind"
+        }
+    },
+    {
+        "concept_name": "第二类椭圆积分",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "elliptic integral of the second kind"
+        }
+    },
+    {
+        "concept_name": "第二类汉克尔函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Hankel function of the second kind"
+        }
+    },
+    {
+        "concept_name": "第二类贝塞尔函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "又称": " 诺伊曼函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Bessel function of the second kind"
+        }
+    },
+    {
+        "concept_name": "第二类马蒂厄函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Mathieu function of the second kind"
+        }
+    },
+    {
+        "concept_name": "米塔-列夫勒展开",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "又称": " 有理分式展开",
+            "见载": "《数学名词》第一版",
+            "英文名": "Mittag-Leffler expansion"
+        }
+    },
+    {
+        "concept_name": "罗德里格斯法则",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Rodrigues ruler"
+        }
+    },
+    {
+        "concept_name": "英斯-戈尔德施泰因法",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Ince-Goldstein method"
+        }
+    },
+    {
+        "concept_name": "菲涅耳积分",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Fresnel integral"
+        }
+    },
+    {
+        "concept_name": "蒂索-波哈默微分方程",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Tissot-Pohhammer differential equation"
+        }
+    },
+    {
+        "concept_name": "补模数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "complementary modulus"
+        }
+    },
+    {
+        "concept_name": "贝塞尔微分方程",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Bessel differential equation"
+        }
+    },
+    {
+        "concept_name": "贝塞尔积分",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Bessel integral"
+        }
+    },
+    {
+        "concept_name": "超几何函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "hypergeometric function"
+        }
+    },
+    {
+        "concept_name": "超几何微分方程",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "又称": " 高斯微分方程",
+            "见载": "《数学名词》第一版",
+            "英文名": "hypergeometric differential equation"
+        }
+    },
+    {
+        "concept_name": "超几何级数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "又称": " 高斯级数",
+            "见载": "《数学名词》第一版",
+            "英文名": "hypergeometric series"
+        }
+    },
+    {
+        "concept_name": "超球函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "hyperspherical function"
+        }
+    },
+    {
+        "concept_name": "超球微分方程",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "hyperspherical differential equation"
+        }
+    },
+    {
+        "concept_name": "连带勒让德函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "associated Legendre function"
+        }
+    },
+    {
+        "concept_name": "迪尼级数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Dini series"
+        }
+    },
+    {
+        "concept_name": "阿佩尔二变量超几何函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Appell hypergeometric function of two variables"
+        }
+    },
+    {
+        "concept_name": "雅可比多项式",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Jacobi polynomial"
+        }
+    },
+    {
+        "concept_name": "雅可比微分方程",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Jacobi differential equation"
+        }
+    },
+    {
+        "concept_name": "雅可比椭圆函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Jacobi elliptic function"
+        }
+    },
+    {
+        "concept_name": "雅可比虚数变换",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Jacobi imaginary transformation"
+        }
+    },
+    {
+        "concept_name": "面[调和]函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "surface [harmonic] function"
+        }
+    },
+    {
+        "concept_name": "韦伯函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Weber function"
+        }
+    },
+    {
+        "concept_name": "马蒂厄函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Mathieu function"
+        }
+    },
+    {
+        "concept_name": "马蒂厄微分方程",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Mathieu differential equation"
+        }
+    },
+    {
+        "concept_name": "马蒂厄法",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Mathieu method"
+        }
+    },
+    {
+        "concept_name": "魏尔斯特拉斯典范型",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Weierstrass canonical form"
+        }
+    },
+    {
+        "concept_name": "魏尔斯特拉斯椭圆函数",
+        "details": {
+            "学科": "数学_微分方程_积分方程_特殊函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Weierstrass elliptic function"
+        }
+    }
+]

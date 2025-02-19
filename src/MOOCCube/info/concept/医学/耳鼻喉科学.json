@@ -1,0 +1,2396 @@
+[
+    {
+        "concept_name": "上颌窦开窗术",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "antral window operation"
+        }
+    },
+    {
+        "concept_name": "上颌窦息肉",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "antral polyp"
+        }
+    },
+    {
+        "concept_name": "上颌窦根治术",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "英文": "radical maxillary sinusotomy ;Caldwell-Luc operation",
+            "曾称": " 柯-陆二氏手术",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "radical maxillary sinusotomy"
+        }
+    },
+    {
+        "concept_name": "上颌窦痛",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "antrodynia"
+        }
+    },
+    {
+        "concept_name": "上颌窦穿刺冲洗术",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "puncture and irrigation of maxillary sinus"
+        }
+    },
+    {
+        "concept_name": "上颌窦镜检查[法]",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "antroscopy"
+        }
+    },
+    {
+        "concept_name": "上颌骨骨髓炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "osteomyelitis of maxilla"
+        }
+    },
+    {
+        "concept_name": "上鼓室乳突窦切开术",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "atticoantrotomy"
+        }
+    },
+    {
+        "concept_name": "上鼓室切开术",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "epitympanotomy"
+        }
+    },
+    {
+        "concept_name": "上鼓室炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "epitympanitis"
+        }
+    },
+    {
+        "concept_name": "中耳炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "otitis media"
+        }
+    },
+    {
+        "concept_name": "丹迪综合征",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "Dandy syndrome"
+        }
+    },
+    {
+        "concept_name": "交替冷热试验",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "alternate hot and cold caloric test"
+        }
+    },
+    {
+        "concept_name": "交联助听器",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "英文": "contralateral routing of signals aid ;CROS aid",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "contralateral routing of signals aid"
+        }
+    },
+    {
+        "concept_name": "人工乳突",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "artificial mastoid"
+        }
+    },
+    {
+        "concept_name": "人工喉",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "artificial larynx"
+        }
+    },
+    {
+        "concept_name": "他觉性耳鸣",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "objective tinnitus"
+        }
+    },
+    {
+        "concept_name": "会厌切除[术]",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "epiglottectomy"
+        }
+    },
+    {
+        "concept_name": "会厌炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "epiglottitis"
+        }
+    },
+    {
+        "concept_name": "传导性聋",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "conductive deafness"
+        }
+    },
+    {
+        "concept_name": "体佩助听器",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "body-worn hearing aid"
+        }
+    },
+    {
+        "concept_name": "侧窦血栓性静脉炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "lateral sinus thrombophlebitis"
+        }
+    },
+    {
+        "concept_name": "假耳",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "auricle prosthesis"
+        }
+    },
+    {
+        "concept_name": "全听骨链[重建]赝复物",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "英文": "total ossicular replacement prosthesis ;TORP",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "total ossicular replacement prosthesis"
+        }
+    },
+    {
+        "concept_name": "内淋巴分流术",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "endolymphatic shunt"
+        }
+    },
+    {
+        "concept_name": "内淋巴囊减压术",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "endolymphatic sac decompression"
+        }
+    },
+    {
+        "concept_name": "内淋巴蛛网膜下腔分流术",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "endolymphatic subarachnoid shunt"
+        }
+    },
+    {
+        "concept_name": "冷热空气试验",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "air caloric test"
+        }
+    },
+    {
+        "concept_name": "分泌性中耳炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "曾称": " 渗出性中耳炎(exudative otitismedia)",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "secretory otitis media"
+        }
+    },
+    {
+        "concept_name": "利特尔区",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "Little area"
+        }
+    },
+    {
+        "concept_name": "前连合喉切除术",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "anterior commissure laryngectomy"
+        }
+    },
+    {
+        "concept_name": "前额面喉切除术",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "anterior frontal laryngectomy"
+        }
+    },
+    {
+        "concept_name": "前鼻孔闭锁",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "atresia of anterior naris"
+        }
+    },
+    {
+        "concept_name": "前鼻镜检查[法]",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "anterior rhinoscopy"
+        }
+    },
+    {
+        "concept_name": "剥脱性食管炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "exfoliative esophagitis"
+        }
+    },
+    {
+        "concept_name": "努恩单位",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "Noon unit"
+        }
+    },
+    {
+        "concept_name": "化脓性鼻炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "purulent rhinitis"
+        }
+    },
+    {
+        "concept_name": "厌臭症",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "osmodysphoria"
+        }
+    },
+    {
+        "concept_name": "双交联助听器",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "英文": "bilateral contralateral routing of signals aid ;BICROS aid",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "bilateral contralateral routing of signals aid"
+        }
+    },
+    {
+        "concept_name": "双耳交替冷热试验",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "英文": "alternate binaural bithermal caloric test ;ABB",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "alternate binaural bithermal caloric test"
+        }
+    },
+    {
+        "concept_name": "双耳交替响度平衡试验",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "英文": "alternate binaural loudness balance test ;ABLB",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "alternate binaural loudness balance test"
+        }
+    },
+    {
+        "concept_name": "双鼻",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "birhinia"
+        }
+    },
+    {
+        "concept_name": "反急跳",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "counter-jerk"
+        }
+    },
+    {
+        "concept_name": "发声困难",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "dysphonia"
+        }
+    },
+    {
+        "concept_name": "变应性仪态",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "allergic “salute”"
+        }
+    },
+    {
+        "concept_name": "变应性鼻炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "allergic rhinitis"
+        }
+    },
+    {
+        "concept_name": "变应性鼻窦炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "allergic sinusitis"
+        }
+    },
+    {
+        "concept_name": "口上颌窦瘘",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "oromaxillary fistula"
+        }
+    },
+    {
+        "concept_name": "后壶腹神经切除术",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "posterior ampullary neurectomy"
+        }
+    },
+    {
+        "concept_name": "后效抑制",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "residual inhibition"
+        }
+    },
+    {
+        "concept_name": "后鼻孔闭锁",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "atresia of posterior naris"
+        }
+    },
+    {
+        "concept_name": "吞咽困难",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "dysphagia"
+        }
+    },
+    {
+        "concept_name": "听[性]脑干反应",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "英文": "auditory brainstem response ;ABR",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "auditory brainstem response"
+        }
+    },
+    {
+        "concept_name": "听力图",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "曾称": " 听力曲线",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "audiogram"
+        }
+    },
+    {
+        "concept_name": "听力学",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "audiology"
+        }
+    },
+    {
+        "concept_name": "听哑",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "audimutism"
+        }
+    },
+    {
+        "concept_name": "听神经瘤",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "曾称": " 听神经纤维瘤",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "acoustic neuroma"
+        }
+    },
+    {
+        "concept_name": "听觉疲劳",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "auditory fatigue"
+        }
+    },
+    {
+        "concept_name": "听骨链成形术",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "ossiculoplasty"
+        }
+    },
+    {
+        "concept_name": "咽后脓肿",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "retropharyngeal abscess"
+        }
+    },
+    {
+        "concept_name": "咽峡炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "angina"
+        }
+    },
+    {
+        "concept_name": "咽成形术",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pharyngoplasty"
+        }
+    },
+    {
+        "concept_name": "咽旁脓肿",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "parapharyngeal abscess"
+        }
+    },
+    {
+        "concept_name": "咽痛",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pharyngalgia"
+        }
+    },
+    {
+        "concept_name": "咽瘢痕性狭窄",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "cicatricial stricture of pharynx"
+        }
+    },
+    {
+        "concept_name": "咽神经症",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "neurosis of pharynx"
+        }
+    },
+    {
+        "concept_name": "咽鼓管吹张术",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "eustachian tube insufflation"
+        }
+    },
+    {
+        "concept_name": "咽鼓管导管吹张术",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "eustachian catheterization"
+        }
+    },
+    {
+        "concept_name": "咽鼓管成形术",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "eustachian tuboplasty"
+        }
+    },
+    {
+        "concept_name": "咽鼓管狭窄",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "eustachian tube stenosis"
+        }
+    },
+    {
+        "concept_name": "咽鼓管电图",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "electrotubogram"
+        }
+    },
+    {
+        "concept_name": "咽鼓管阻塞",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "eustachian tube obstruction"
+        }
+    },
+    {
+        "concept_name": "响度不适级",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "loudness discomfort level"
+        }
+    },
+    {
+        "concept_name": "唇龈切口",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "labiogingival incision"
+        }
+    },
+    {
+        "concept_name": "喉室脱垂",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "prolapse of laryngeal ventricle"
+        }
+    },
+    {
+        "concept_name": "喉描记[法]",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "laryngography"
+        }
+    },
+    {
+        "concept_name": "喉晕厥",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "laryngeal syncope"
+        }
+    },
+    {
+        "concept_name": "喉电描记[法]",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "electrolaryngography"
+        }
+    },
+    {
+        "concept_name": "喉硬结病",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "laryngoscleroma"
+        }
+    },
+    {
+        "concept_name": "喉肌无力",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "myasthenia laryngis"
+        }
+    },
+    {
+        "concept_name": "喉软骨膜炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "perichondritis of larynx"
+        }
+    },
+    {
+        "concept_name": "喉软骨软化病",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "laryngomalacia"
+        }
+    },
+    {
+        "concept_name": "喉阻塞",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "laryngeal obstruction"
+        }
+    },
+    {
+        "concept_name": "喷嚏病",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "apomyttosis"
+        }
+    },
+    {
+        "concept_name": "嗅觉丧失",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "anosmia"
+        }
+    },
+    {
+        "concept_name": "嗅觉倒错",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "parosmia"
+        }
+    },
+    {
+        "concept_name": "嗅觉学",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "英文": "osmology ;osphresiology",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "osmology"
+        }
+    },
+    {
+        "concept_name": "嗅觉测量[法]",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "olfactometry"
+        }
+    },
+    {
+        "concept_name": "嗅觉计",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "olfactometer"
+        }
+    },
+    {
+        "concept_name": "嗅觉障碍学",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "osmonosology"
+        }
+    },
+    {
+        "concept_name": "嗅试验",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "olfactory test"
+        }
+    },
+    {
+        "concept_name": "嗅谱图",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "olfactory spectrogram"
+        }
+    },
+    {
+        "concept_name": "嗓音外科学",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "phonosurgery"
+        }
+    },
+    {
+        "concept_name": "器官性发声不良",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "olophonia"
+        }
+    },
+    {
+        "concept_name": "噪声性聋",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "英文": "noise induced hearing loss ;NIHL",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "noise induced hearing loss"
+        }
+    },
+    {
+        "concept_name": "基利安切口",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "Killian incision"
+        }
+    },
+    {
+        "concept_name": "堵耳试验",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "又称": " 沙利文堵耳试验",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "Sullivan occlusion test"
+        }
+    },
+    {
+        "concept_name": "声创伤",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "acoustic trauma"
+        }
+    },
+    {
+        "concept_name": "声反射松弛试验",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "acoustic reflex relaxation test"
+        }
+    },
+    {
+        "concept_name": "声导抗",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "acoustic immitance"
+        }
+    },
+    {
+        "concept_name": "声带小结",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "vocal nodule"
+        }
+    },
+    {
+        "concept_name": "声带息肉",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "polyp of vocal cord"
+        }
+    },
+    {
+        "concept_name": "声带接触性溃疡",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "contact ulcer of vocal cord"
+        }
+    },
+    {
+        "concept_name": "声谱描记[法]",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "sound spectrography"
+        }
+    },
+    {
+        "concept_name": "声门描记[法]",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "glottography"
+        }
+    },
+    {
+        "concept_name": "外耳炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "external otitis"
+        }
+    },
+    {
+        "concept_name": "失声",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "曾称": " 失音",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "aphonia"
+        }
+    },
+    {
+        "concept_name": "女性男声",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "androglossia"
+        }
+    },
+    {
+        "concept_name": "学语前聋",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "prelingual deafness"
+        }
+    },
+    {
+        "concept_name": "客观测听[法]",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "objective audiometry"
+        }
+    },
+    {
+        "concept_name": "尿素试验",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "urea test"
+        }
+    },
+    {
+        "concept_name": "岩尖切除术",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "apicectomy"
+        }
+    },
+    {
+        "concept_name": "嵴帽沉石病",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "cupulolithiasis"
+        }
+    },
+    {
+        "concept_name": "常年性变应性鼻炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "perennial allergic rhinitis"
+        }
+    },
+    {
+        "concept_name": "干燥性咽炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pharyngitis sicca"
+        }
+    },
+    {
+        "concept_name": "干酪性鼻炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "caseous rhinitis"
+        }
+    },
+    {
+        "concept_name": "干酪性鼻窦炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "caseous sinusitis"
+        }
+    },
+    {
+        "concept_name": "开放性鼻音",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "open rhinolalia"
+        }
+    },
+    {
+        "concept_name": "弗格森切口",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "Fergusson incision"
+        }
+    },
+    {
+        "concept_name": "心理流电皮反应",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "psychogalvanic skin response"
+        }
+    },
+    {
+        "concept_name": "急性卡他性扁桃体炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "acute catarrhal tonsillitis"
+        }
+    },
+    {
+        "concept_name": "急性喉气管支气管炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "acute laryngotracheobronchitis"
+        }
+    },
+    {
+        "concept_name": "急性喉气管炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "acute laryngotracheitis"
+        }
+    },
+    {
+        "concept_name": "急性滤泡性扁桃体炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "acute follicular tonsillitis"
+        }
+    },
+    {
+        "concept_name": "急性陷窝性扁桃体炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "acute lacunar tonsillitis"
+        }
+    },
+    {
+        "concept_name": "性区",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "genital area"
+        }
+    },
+    {
+        "concept_name": "悬雍垂切除术",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "staphylectomy"
+        }
+    },
+    {
+        "concept_name": "悬雍垂缝术",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "staphylorrhaphy"
+        }
+    },
+    {
+        "concept_name": "感音神经敏度级",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "sensorineural acuity level"
+        }
+    },
+    {
+        "concept_name": "慢性肥厚性咽炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "chronic hypertrophic pharyngitis"
+        }
+    },
+    {
+        "concept_name": "扁桃体周脓肿",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "peritonsillar abscess"
+        }
+    },
+    {
+        "concept_name": "扭曲鼻",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "crooked nose"
+        }
+    },
+    {
+        "concept_name": "护耳器",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "ear protector"
+        }
+    },
+    {
+        "concept_name": "支气管异物",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "foreign body in bronchus"
+        }
+    },
+    {
+        "concept_name": "支气管镜检查[法]",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "bronchoscopy"
+        }
+    },
+    {
+        "concept_name": "无耳畸形",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "anotia"
+        }
+    },
+    {
+        "concept_name": "有效掩蔽",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "effective masking"
+        }
+    },
+    {
+        "concept_name": "杓状软骨切除术",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "arytenoidectomy"
+        }
+    },
+    {
+        "concept_name": "条件反射测听[法]",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "conditioned reflex audiometry"
+        }
+    },
+    {
+        "concept_name": "梅尼埃病",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "曾称": " 美尼尔病",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "disease"
+        }
+    },
+    {
+        "concept_name": "樊尚咽峡炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "曾称": " 奋森氏咽峡炎",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "Vincent angina"
+        }
+    },
+    {
+        "concept_name": "步态电图",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "electrobasogram"
+        }
+    },
+    {
+        "concept_name": "残留性中耳炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "residual otitis media"
+        }
+    },
+    {
+        "concept_name": "气压损伤性中耳炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "英文": "barotitis ;aerotitis media",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "barotitis"
+        }
+    },
+    {
+        "concept_name": "气管支气管瘢痕狭窄",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "tracheobronchial cicatricial stricture"
+        }
+    },
+    {
+        "concept_name": "气管蹼",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "tracheal web"
+        }
+    },
+    {
+        "concept_name": "气骨导间距",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "英文": "air-bone gap ;A-B gap",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "air-bone gap"
+        }
+    },
+    {
+        "concept_name": "气鼓传导",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "aerotympanic conduction"
+        }
+    },
+    {
+        "concept_name": "注视",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "ocular fixation"
+        }
+    },
+    {
+        "concept_name": "注视抑制指数",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "英文": "ocular fixation index ;OFI",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "ocular fixation index"
+        }
+    },
+    {
+        "concept_name": "测听[法]",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "audiometry"
+        }
+    },
+    {
+        "concept_name": "爆震性聋",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "explosive deafness"
+        }
+    },
+    {
+        "concept_name": "环咽失弛缓症",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "cricopharyngeal achalasia"
+        }
+    },
+    {
+        "concept_name": "环咽憩室切除术",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "cricopharyngeal diverticulectomy"
+        }
+    },
+    {
+        "concept_name": "环咽肌切开术",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "cricopharyngeal myotomy"
+        }
+    },
+    {
+        "concept_name": "环杓关节炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "cricoarytenoid arthritis"
+        }
+    },
+    {
+        "concept_name": "环甲膜切开术",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "cricothyroid laryngotomy"
+        }
+    },
+    {
+        "concept_name": "甲状舌管囊肿",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "thyroglossal cyst"
+        }
+    },
+    {
+        "concept_name": "电反应测听[法]",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "electric response audiometry"
+        }
+    },
+    {
+        "concept_name": "电味觉测定[法]",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "electrogustometry"
+        }
+    },
+    {
+        "concept_name": "电味觉测定仪",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "electrogustometer"
+        }
+    },
+    {
+        "concept_name": "电声门描记[法]",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "electroglottography"
+        }
+    },
+    {
+        "concept_name": "电子喉",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "electronic larynx"
+        }
+    },
+    {
+        "concept_name": "电透照",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "electrodiaphany"
+        }
+    },
+    {
+        "concept_name": "男性女声",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "falsetto"
+        }
+    },
+    {
+        "concept_name": "登克尔手术",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "Denker operation"
+        }
+    },
+    {
+        "concept_name": "皱缩耳",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "atelectatic ear"
+        }
+    },
+    {
+        "concept_name": "眩晕",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "vertigo"
+        }
+    },
+    {
+        "concept_name": "眼扑动",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "ocular flutter"
+        }
+    },
+    {
+        "concept_name": "眼跟踪试验",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "eye tracking test"
+        }
+    },
+    {
+        "concept_name": "眼震电图",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "electronystagmogram"
+        }
+    },
+    {
+        "concept_name": "眼震电图描记[法]",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "electronystagmography"
+        }
+    },
+    {
+        "concept_name": "短增量敏感指数",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "英文": "short increment sensitivity index ;SISI",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "short increment sensitivity index"
+        }
+    },
+    {
+        "concept_name": "神经性聋",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "nerve deafness"
+        }
+    },
+    {
+        "concept_name": "神经性鼻炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "nervous rhinitis"
+        }
+    },
+    {
+        "concept_name": "神经迷路炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "neurolabyrinthitis"
+        }
+    },
+    {
+        "concept_name": "突发性聋",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "曾称": " 暴聋",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "sudden deafness"
+        }
+    },
+    {
+        "concept_name": "筛前神经痛",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "anterior ethmoidal neuralgia"
+        }
+    },
+    {
+        "concept_name": "筛前神经综合征",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "anterior ethmoid nerve syndrome"
+        }
+    },
+    {
+        "concept_name": "筛窦切开术",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "ethmoidotomy"
+        }
+    },
+    {
+        "concept_name": "筛窦切除术",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "ethmoidectomy"
+        }
+    },
+    {
+        "concept_name": "筛窦泪管炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "dacryosinusitis"
+        }
+    },
+    {
+        "concept_name": "筛窦炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "ethmoiditis"
+        }
+    },
+    {
+        "concept_name": "粘连性中耳炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "adhesive otitis media"
+        }
+    },
+    {
+        "concept_name": "纯音听阈均值",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "英文": "pure tone average ;PTA",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pure tone average"
+        }
+    },
+    {
+        "concept_name": "纯音筛选测听[法]",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pure tone screening audiometry"
+        }
+    },
+    {
+        "concept_name": "绝对骨导",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "英文": "absolute bone conduction ;ABC",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "absolute bone conduction"
+        }
+    },
+    {
+        "concept_name": "缩鼻术",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "rhinomiosis"
+        }
+    },
+    {
+        "concept_name": "缺铁性吞咽困难综合征",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "曾称": " 普-文二氏综合征",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "sideropenic dysphagia syndrome"
+        }
+    },
+    {
+        "concept_name": "老年聋",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "presbyacusis"
+        }
+    },
+    {
+        "concept_name": "耳内助听器",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "英文": "in-the-ear hearing aid ;ITE",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "in-the-ear hearing aid"
+        }
+    },
+    {
+        "concept_name": "耳后助听器",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "behind-the-ear hearing aid"
+        }
+    },
+    {
+        "concept_name": "耳塞",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "ear plug"
+        }
+    },
+    {
+        "concept_name": "耳带状疱疹",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "zoster oticus"
+        }
+    },
+    {
+        "concept_name": "耳廓假囊肿",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pseudocyst of auricle"
+        }
+    },
+    {
+        "concept_name": "耳显微外科",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "otomicrosurgery"
+        }
+    },
+    {
+        "concept_name": "耳模",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "ear mold"
+        }
+    },
+    {
+        "concept_name": "耳毒性",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "ototoxicity"
+        }
+    },
+    {
+        "concept_name": "耳毒性聋",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "ototoxic deafness"
+        }
+    },
+    {
+        "concept_name": "耳漏",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "otorrhea"
+        }
+    },
+    {
+        "concept_name": "耳疖",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "furuncle of ear"
+        }
+    },
+    {
+        "concept_name": "耳痛",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "otalgia"
+        }
+    },
+    {
+        "concept_name": "耳瘘管",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "aural fistula"
+        }
+    },
+    {
+        "concept_name": "耳真菌病",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "otomycosis"
+        }
+    },
+    {
+        "concept_name": "耳石病",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "otolithiasis"
+        }
+    },
+    {
+        "concept_name": "耳石诱发电位",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "otolithic evoked potential"
+        }
+    },
+    {
+        "concept_name": "耳硬化",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "otosclerosis"
+        }
+    },
+    {
+        "concept_name": "耳神经外科",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "otoneurosurgery"
+        }
+    },
+    {
+        "concept_name": "耳神经科学",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "otoneurology"
+        }
+    },
+    {
+        "concept_name": "耳科学",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "otology"
+        }
+    },
+    {
+        "concept_name": "耳级助听器",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "ear level hearing aid"
+        }
+    },
+    {
+        "concept_name": "耳蜗外植入术",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "extracochlear implantation"
+        }
+    },
+    {
+        "concept_name": "耳蜗性聋",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "cochlear deafness"
+        }
+    },
+    {
+        "concept_name": "耳蜗植入术",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "cochlear implantation"
+        }
+    },
+    {
+        "concept_name": "耳蜗电图",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "electrocochleogram"
+        }
+    },
+    {
+        "concept_name": "耳血肿",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "othematoma"
+        }
+    },
+    {
+        "concept_name": "耳语测听[法]",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "whispered sound audiometry"
+        }
+    },
+    {
+        "concept_name": "耳超荷试验",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "aural overload test"
+        }
+    },
+    {
+        "concept_name": "耳软骨膜炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "auricular perichondritis"
+        }
+    },
+    {
+        "concept_name": "耳道内助听器",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "英文": "in-the-canal hearing aid ;ITC",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "in-the-canal hearing aid"
+        }
+    },
+    {
+        "concept_name": "耳间衰减",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "interaural attenuation"
+        }
+    },
+    {
+        "concept_name": "耳鼻咽喉[科]学",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "英文": "otolaryngology ;otorhinolaryngology ;ORL",
+            "曾称": " 耳鼻喉[科]学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "otolaryngology"
+        }
+    },
+    {
+        "concept_name": "耵聍栓塞",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "ceruminal impaction"
+        }
+    },
+    {
+        "concept_name": "职业性喉炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "occupational laryngitis"
+        }
+    },
+    {
+        "concept_name": "胎儿测听[法]",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "fetal audiometry"
+        }
+    },
+    {
+        "concept_name": "胶耳",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "glue ear"
+        }
+    },
+    {
+        "concept_name": "脑脊液耳漏",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "cerebrospinal otorrhea"
+        }
+    },
+    {
+        "concept_name": "脓毒性咽峡炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "septic angina"
+        }
+    },
+    {
+        "concept_name": "腭咽关闭不全",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "velopharyngeal insufficiency"
+        }
+    },
+    {
+        "concept_name": "腺样体切除术",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "adenoidectomy"
+        }
+    },
+    {
+        "concept_name": "自动音量控制",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "automatic volume control"
+        }
+    },
+    {
+        "concept_name": "自听增强",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "autophonia"
+        }
+    },
+    {
+        "concept_name": "自描听力计",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "automatic recording audiometer"
+        }
+    },
+    {
+        "concept_name": "自由场测听[法]",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "free-field audiometry"
+        }
+    },
+    {
+        "concept_name": "臭鼻症",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "ozena"
+        }
+    },
+    {
+        "concept_name": "花粉变应原",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pollen allergen"
+        }
+    },
+    {
+        "concept_name": "花粉抗原",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pollen antigen"
+        }
+    },
+    {
+        "concept_name": "茎突过长",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "elongated styloid process"
+        }
+    },
+    {
+        "concept_name": "药物性鼻炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "medicamentous rhinitis"
+        }
+    },
+    {
+        "concept_name": "萎缩性咽炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "atrophic pharyngitis"
+        }
+    },
+    {
+        "concept_name": "萎缩性喉炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "atrophic laryngitis"
+        }
+    },
+    {
+        "concept_name": "萎缩性鼻炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "atrophic rhinitis"
+        }
+    },
+    {
+        "concept_name": "萎缩性鼻窦炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "atrophic sinusitis"
+        }
+    },
+    {
+        "concept_name": "蜗内电位",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "endocochlear potential"
+        }
+    },
+    {
+        "concept_name": "血管运动性鼻炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "vasomotor rhinitis"
+        }
+    },
+    {
+        "concept_name": "行为听力图",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "behavioral audiogram"
+        }
+    },
+    {
+        "concept_name": "视性眼阵挛",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "opsoclonus"
+        }
+    },
+    {
+        "concept_name": "视辨距不良",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "ocular dysmetria"
+        }
+    },
+    {
+        "concept_name": "言语干扰级",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "英文": "speech interference level ;SIL",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "speech interference level"
+        }
+    },
+    {
+        "concept_name": "言语测听[法]",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "speech audiometry"
+        }
+    },
+    {
+        "concept_name": "语声描记[法]",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "phonautography"
+        }
+    },
+    {
+        "concept_name": "读唇",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "曾称": " 唇读",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "lip-reading"
+        }
+    },
+    {
+        "concept_name": "贝佐尔德脓肿",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "Bezold abscess"
+        }
+    },
+    {
+        "concept_name": "贝凯西顺-逆扫听阈差测定",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "Be&1&ke&1&sy ascending-descending gap evaluation"
+        }
+    },
+    {
+        "concept_name": "超重振",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "over recruitment"
+        }
+    },
+    {
+        "concept_name": "转门法",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "swing-door method"
+        }
+    },
+    {
+        "concept_name": "部分听骨链[重建]赝复物",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "英文": "partial ossicular replacement prosthesis ;PORP",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "partial ossicular replacement prosthesis"
+        }
+    },
+    {
+        "concept_name": "配景听力计",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "peep-show audiometer"
+        }
+    },
+    {
+        "concept_name": "铬溃疡",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "chrome ulcer"
+        }
+    },
+    {
+        "concept_name": "闭塞性鼻音",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "closed rhinolalia"
+        }
+    },
+    {
+        "concept_name": "间接喉镜检查[法]",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "indirect laryngoscopy"
+        }
+    },
+    {
+        "concept_name": "隐性中耳炎",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "latent otitis media"
+        }
+    },
+    {
+        "concept_name": "集体助听器",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "group hearing aid"
+        }
+    },
+    {
+        "concept_name": "非变应性鼻炎伴嗜酸粒细胞增多综合征",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "nonallergic rhinitis with eosinophilia syndrome"
+        }
+    },
+    {
+        "concept_name": "面神经吻合术",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "facial nerve anastomosis"
+        }
+    },
+    {
+        "concept_name": "颅面联合进路",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "combined craniofacial approach"
+        }
+    },
+    {
+        "concept_name": "食管喉切除术",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "esophagolaryngectomy"
+        }
+    },
+    {
+        "concept_name": "食管异物",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "foreign body in esophagus"
+        }
+    },
+    {
+        "concept_name": "食管扩张器",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "esophageal dilator"
+        }
+    },
+    {
+        "concept_name": "食管烧伤",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "esophageal burn"
+        }
+    },
+    {
+        "concept_name": "食管瘢痕狭窄",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "cicatricial stricture of esophagus"
+        }
+    },
+    {
+        "concept_name": "食管言语",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "esophageal speech"
+        }
+    },
+    {
+        "concept_name": "食管镜检查[法]",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "esophagoscopy"
+        }
+    },
+    {
+        "concept_name": "骨鼓传导",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "osteotympanic conduction"
+        }
+    },
+    {
+        "concept_name": "鳄泪综合征",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "crocodile tear syndrome"
+        }
+    },
+    {
+        "concept_name": "鼓环桥",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "annulus bridge"
+        }
+    },
+    {
+        "concept_name": "鼻中隔切除术",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "septectomy"
+        }
+    },
+    {
+        "concept_name": "鼻中隔脓肿",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "nasal septal abscess"
+        }
+    },
+    {
+        "concept_name": "鼻中隔鼻成形术",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "septorhinoplasty"
+        }
+    },
+    {
+        "concept_name": "鼻冲洗",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "nasal irrigation"
+        }
+    },
+    {
+        "concept_name": "鼻出血",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "曾称": " 鼻衄",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "epistaxis"
+        }
+    },
+    {
+        "concept_name": "鼻前庭囊肿",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "nasal vestibular cyst"
+        }
+    },
+    {
+        "concept_name": "鼻变态反应",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "nasal allergy"
+        }
+    },
+    {
+        "concept_name": "鼻咽血管纤维瘤",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "nasopharyngeal angiofibroma"
+        }
+    },
+    {
+        "concept_name": "鼻塞",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "曾称": " 鼻堵",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "nasal obstruction"
+        }
+    },
+    {
+        "concept_name": "鼻孔闭锁",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "atretorrhinia"
+        }
+    },
+    {
+        "concept_name": "鼻尖下垂鼻",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "drooping nose"
+        }
+    },
+    {
+        "concept_name": "鼻性哮喘",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "nasal asthma"
+        }
+    },
+    {
+        "concept_name": "鼻瘘",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "nasal fistula"
+        }
+    },
+    {
+        "concept_name": "鼻硬结病",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "rhinoscleroma"
+        }
+    },
+    {
+        "concept_name": "鼻翼切开术",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "alatomy"
+        }
+    },
+    {
+        "concept_name": "鼻耳窘迫综合征",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "nose-ear distress syndrome"
+        }
+    },
+    {
+        "concept_name": "鼻腔闭锁",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "nasal atresia"
+        }
+    },
+    {
+        "concept_name": "鼻裂",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "bifid nose"
+        }
+    },
+    {
+        "concept_name": "鼻银沉着病",
+        "details": {
+            "学科": "医学_耳鼻喉科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "argyria nasalis"
+        }
+    }
+]

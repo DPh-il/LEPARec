@@ -1,0 +1,1399 @@
+[
+    {
+        "concept_name": "[事件]间隔",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "interval of events"
+        }
+    },
+    {
+        "concept_name": "万有引力",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "universal gravitation"
+        }
+    },
+    {
+        "concept_name": "事件",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "event"
+        }
+    },
+    {
+        "concept_name": "事件排序",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ordering of events"
+        }
+    },
+    {
+        "concept_name": "事件视界",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "event horizon"
+        }
+    },
+    {
+        "concept_name": "人存原理",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "anthropic principle"
+        }
+    },
+    {
+        "concept_name": "从尤参考系",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "preferred frame"
+        }
+    },
+    {
+        "concept_name": "以太",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ether"
+        }
+    },
+    {
+        "concept_name": "以太曳引",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ether drag"
+        }
+    },
+    {
+        "concept_name": "以太漂移",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ether drift"
+        }
+    },
+    {
+        "concept_name": "以太风",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ether wind"
+        }
+    },
+    {
+        "concept_name": "仿射参量",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "affine parameter"
+        }
+    },
+    {
+        "concept_name": "仿射空间",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "affine space"
+        }
+    },
+    {
+        "concept_name": "仿射联络",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "affine connection"
+        }
+    },
+    {
+        "concept_name": "傀标",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "dummy index"
+        }
+    },
+    {
+        "concept_name": "光以太",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "luminiferous ether"
+        }
+    },
+    {
+        "concept_name": "光信号",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "light signal"
+        }
+    },
+    {
+        "concept_name": "光行差",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "aberration"
+        }
+    },
+    {
+        "concept_name": "光锥",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "又称": " 零锥",
+            "见载": "《物理学名词》第二版",
+            "英文名": "light cone"
+        }
+    },
+    {
+        "concept_name": "克尔解",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Kerr solution"
+        }
+    },
+    {
+        "concept_name": "克鲁斯卡尔坐标",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Kruskal coordinates"
+        }
+    },
+    {
+        "concept_name": "共形不变性",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "conformal invariance"
+        }
+    },
+    {
+        "concept_name": "共形变换",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "conformal transformation"
+        }
+    },
+    {
+        "concept_name": "内[禀]曲率",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "intrinsic curvature"
+        }
+    },
+    {
+        "concept_name": "内禀几何",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "intrinsic geometry"
+        }
+    },
+    {
+        "concept_name": "几何化单位",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "geometrized units"
+        }
+    },
+    {
+        "concept_name": "刚性杆",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "rigid rod"
+        }
+    },
+    {
+        "concept_name": "包容图",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "embedding diagram"
+        }
+    },
+    {
+        "concept_name": "协变导数",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "covariant derivative"
+        }
+    },
+    {
+        "concept_name": "协变微分",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "covariant differential"
+        }
+    },
+    {
+        "concept_name": "卡西米尔效应",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Casimir effect"
+        }
+    },
+    {
+        "concept_name": "厄特沃什实验",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Eo&4&tvo&4&s experiment"
+        }
+    },
+    {
+        "concept_name": "双生子佯谬",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "twin paradox"
+        }
+    },
+    {
+        "concept_name": "同时事件",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "simultaneous events"
+        }
+    },
+    {
+        "concept_name": "同时性的相对性",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "relativity of simultaneity"
+        }
+    },
+    {
+        "concept_name": "同步[性]",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "synchronism"
+        }
+    },
+    {
+        "concept_name": "后牛顿近似",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "post-Newtonian approximation"
+        }
+    },
+    {
+        "concept_name": "四维力",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "four-force"
+        }
+    },
+    {
+        "concept_name": "四维加速度",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "four-acceleration"
+        }
+    },
+    {
+        "concept_name": "四维动量",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "four-momentum"
+        }
+    },
+    {
+        "concept_name": "四维张量",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "four-tensor"
+        }
+    },
+    {
+        "concept_name": "四维流[密度]",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "four-current [density]"
+        }
+    },
+    {
+        "concept_name": "四维速度",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "four-velocity"
+        }
+    },
+    {
+        "concept_name": "因果性",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "causality"
+        }
+    },
+    {
+        "concept_name": "固定指标",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "fixed index"
+        }
+    },
+    {
+        "concept_name": "固有加速度",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "proper acceleration"
+        }
+    },
+    {
+        "concept_name": "固有时间隔",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "proper time interval"
+        }
+    },
+    {
+        "concept_name": "固有速度",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "proper velocity"
+        }
+    },
+    {
+        "concept_name": "基灵方程",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Killing equation"
+        }
+    },
+    {
+        "concept_name": "基灵矢量场",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Killing vector field"
+        }
+    },
+    {
+        "concept_name": "外[延]曲率",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "extrinsic curvature"
+        }
+    },
+    {
+        "concept_name": "奇异边界",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "singular boundary"
+        }
+    },
+    {
+        "concept_name": "宇宙学原理",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "cosmological principle"
+        }
+    },
+    {
+        "concept_name": "宇宙学红移",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "cosmological redshift"
+        }
+    },
+    {
+        "concept_name": "宇宙年龄",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "universe age"
+        }
+    },
+    {
+        "concept_name": "宇宙演化",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "universe evolution"
+        }
+    },
+    {
+        "concept_name": "定态宇宙理论",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "steady-state theory of the universe"
+        }
+    },
+    {
+        "concept_name": "巡标",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "running index"
+        }
+    },
+    {
+        "concept_name": "平直时空",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "flat spacetime"
+        }
+    },
+    {
+        "concept_name": "广义相对性原理",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "principle of general relativity"
+        }
+    },
+    {
+        "concept_name": "庞加莱变换",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Poincare&1& transformation"
+        }
+    },
+    {
+        "concept_name": "引力势",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "gravitational potential"
+        }
+    },
+    {
+        "concept_name": "引力场强度",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "intensity of a gravitational field"
+        }
+    },
+    {
+        "concept_name": "引力时间延缓",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "gravitational time dilation"
+        }
+    },
+    {
+        "concept_name": "引力波",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "gravitational wave"
+        }
+    },
+    {
+        "concept_name": "引力透镜",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "gravitational lens"
+        }
+    },
+    {
+        "concept_name": "弗里德曼宇宙",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Friedmann universe"
+        }
+    },
+    {
+        "concept_name": "弱等效原理",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "weak equivalence principle"
+        }
+    },
+    {
+        "concept_name": "强等效原理",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "strong equivalence principle"
+        }
+    },
+    {
+        "concept_name": "恩斯特势",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Ernst potential"
+        }
+    },
+    {
+        "concept_name": "恩斯特方程",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Ernst equation"
+        }
+    },
+    {
+        "concept_name": "指向未来的",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "future pointing"
+        }
+    },
+    {
+        "concept_name": "指向过去的",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "past pointing"
+        }
+    },
+    {
+        "concept_name": "挠率张量",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "torsion tensor"
+        }
+    },
+    {
+        "concept_name": "无毛定理",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "no-hair theorem"
+        }
+    },
+    {
+        "concept_name": "时空图",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "spacetime diagram"
+        }
+    },
+    {
+        "concept_name": "时空均匀性",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "英文": "homogeneity of spacetime ;unifor- mity of spacetime",
+            "见载": "《物理学名词》第二版",
+            "英文名": "homogeneity of spacetime"
+        }
+    },
+    {
+        "concept_name": "时空坐标",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "spacetime coordinates"
+        }
+    },
+    {
+        "concept_name": "时空拓扑",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "topology of spacetime"
+        }
+    },
+    {
+        "concept_name": "时空曲率",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "curvature of spacetime"
+        }
+    },
+    {
+        "concept_name": "时空流形",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "spacetime manifolds"
+        }
+    },
+    {
+        "concept_name": "时空点",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "spacetime point"
+        }
+    },
+    {
+        "concept_name": "时间延缓",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "time dilation"
+        }
+    },
+    {
+        "concept_name": "时间方向",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "time orientation"
+        }
+    },
+    {
+        "concept_name": "普朗克单位",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Planck unit"
+        }
+    },
+    {
+        "concept_name": "暴胀宇宙",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "inflationary universe"
+        }
+    },
+    {
+        "concept_name": "曲率标量",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "curvature scalar"
+        }
+    },
+    {
+        "concept_name": "曳引效应",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "drag effect"
+        }
+    },
+    {
+        "concept_name": "李导数",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Lie derivative"
+        }
+    },
+    {
+        "concept_name": "横向多普勒效应",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "transverse Doppler effect"
+        }
+    },
+    {
+        "concept_name": "横质量",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "transverse mass"
+        }
+    },
+    {
+        "concept_name": "正能定理",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "positive energy theorem"
+        }
+    },
+    {
+        "concept_name": "比安基恒等式",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Bianchi identity"
+        }
+    },
+    {
+        "concept_name": "洛伦兹不变式",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Lorentz invariant"
+        }
+    },
+    {
+        "concept_name": "洛伦兹不变性",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Lorentz invariance"
+        }
+    },
+    {
+        "concept_name": "洛伦兹不变量",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Lorentz invariant"
+        }
+    },
+    {
+        "concept_name": "洛伦兹协变式",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Lorentz covariant"
+        }
+    },
+    {
+        "concept_name": "洛伦兹因子",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Lorentz factor"
+        }
+    },
+    {
+        "concept_name": "洛伦兹度规",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Lorentz metric"
+        }
+    },
+    {
+        "concept_name": "洛伦兹群",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Lorentz group"
+        }
+    },
+    {
+        "concept_name": "渐近平时空",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "asymptotically flat spacetime"
+        }
+    },
+    {
+        "concept_name": "爱因斯坦-麦克斯韦方程",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Einstein-Maxwell equation"
+        }
+    },
+    {
+        "concept_name": "爱因斯坦[曲率]张量",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Einstein [curvature] tensor"
+        }
+    },
+    {
+        "concept_name": "爱因斯坦同步",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Einstein synchronization"
+        }
+    },
+    {
+        "concept_name": "爱因斯坦场方程",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Einstein field equation"
+        }
+    },
+    {
+        "concept_name": "爱因斯坦求和约定",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Einstein summation convention"
+        }
+    },
+    {
+        "concept_name": "爱因斯坦等效原理",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Einstein equivalence principle"
+        }
+    },
+    {
+        "concept_name": "爱因斯坦静态宇宙",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Einstein static universe"
+        }
+    },
+    {
+        "concept_name": "狭义相对性原理",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "principle of special relativity"
+        }
+    },
+    {
+        "concept_name": "狭义相对论",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "special relativity"
+        }
+    },
+    {
+        "concept_name": "理想钟",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ideal clock"
+        }
+    },
+    {
+        "concept_name": "电磁场张量",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electromagnetic field tensor"
+        }
+    },
+    {
+        "concept_name": "相对性",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "relativity"
+        }
+    },
+    {
+        "concept_name": "相对论[性]力学",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "relativistic mechanics"
+        }
+    },
+    {
+        "concept_name": "相对论[性]效应",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "relativistic effect"
+        }
+    },
+    {
+        "concept_name": "相对论[性]运动学",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "relativistic kinematics"
+        }
+    },
+    {
+        "concept_name": "相对论[性]速度加法公式",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "relativistic velocity addition for- mula"
+        }
+    },
+    {
+        "concept_name": "相对论性[的]",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "relativistic"
+        }
+    },
+    {
+        "concept_name": "相对论性不变式",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "relativistic invariant"
+        }
+    },
+    {
+        "concept_name": "相对论性不变性",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "relativistic invariance"
+        }
+    },
+    {
+        "concept_name": "相对论性不变量",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "relativistic invariant"
+        }
+    },
+    {
+        "concept_name": "相对论性协变式",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "relativistic covariant"
+        }
+    },
+    {
+        "concept_name": "相对论性协变性",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "relativistic covariance"
+        }
+    },
+    {
+        "concept_name": "相对论性场方程",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "relativistic field equation"
+        }
+    },
+    {
+        "concept_name": "相对论性粒子",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "relativistic particle"
+        }
+    },
+    {
+        "concept_name": "空间反演",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "space inversion"
+        }
+    },
+    {
+        "concept_name": "符号差",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "signature"
+        }
+    },
+    {
+        "concept_name": "等度规",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "isometry"
+        }
+    },
+    {
+        "concept_name": "等效原理",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "equivalence principle"
+        }
+    },
+    {
+        "concept_name": "类光事件",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "lightlike event"
+        }
+    },
+    {
+        "concept_name": "类光间隔",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "lightlike interval"
+        }
+    },
+    {
+        "concept_name": "类时",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "timelike"
+        }
+    },
+    {
+        "concept_name": "类时事件",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "timelike event"
+        }
+    },
+    {
+        "concept_name": "类时间隔",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "timelike interval"
+        }
+    },
+    {
+        "concept_name": "类空",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "spacelike"
+        }
+    },
+    {
+        "concept_name": "类空事件",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "spacelike event"
+        }
+    },
+    {
+        "concept_name": "类空截面",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "spacelike section"
+        }
+    },
+    {
+        "concept_name": "类空矢量",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "spacelike vector"
+        }
+    },
+    {
+        "concept_name": "类空间隔",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "spacelike interval"
+        }
+    },
+    {
+        "concept_name": "纯虚时间",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "purely imaginary time"
+        }
+    },
+    {
+        "concept_name": "纵质量",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "longitudinal mass"
+        }
+    },
+    {
+        "concept_name": "线元",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "line element"
+        }
+    },
+    {
+        "concept_name": "绝对参考系",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "absolute reference frame"
+        }
+    },
+    {
+        "concept_name": "绝对异地",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "[absolute] elsewhere"
+        }
+    },
+    {
+        "concept_name": "绝对时间",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "absolute time"
+        }
+    },
+    {
+        "concept_name": "绝对未来",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "又称": " 因果未来(causal future)",
+            "见载": "《物理学名词》第二版",
+            "英文名": "absolute future"
+        }
+    },
+    {
+        "concept_name": "绝对空间",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "absolute space"
+        }
+    },
+    {
+        "concept_name": "绝对过去",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "又称": " 因果过去",
+            "见载": "《物理学名词》第二版",
+            "英文名": "absolute past"
+        }
+    },
+    {
+        "concept_name": "能动赝张量",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "energy-momentum pseudotensor"
+        }
+    },
+    {
+        "concept_name": "能层",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ergosphere"
+        }
+    },
+    {
+        "concept_name": "能量动量张量",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "简称": " 能动张量",
+            "见载": "《物理学名词》第二版",
+            "英文名": "energy-momentum tensor"
+        }
+    },
+    {
+        "concept_name": "自由指标",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "free index"
+        }
+    },
+    {
+        "concept_name": "菲佐实验",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Fizeau experiment"
+        }
+    },
+    {
+        "concept_name": "表观形状",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "apparent shape"
+        }
+    },
+    {
+        "concept_name": "视界面积",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "area of horizon"
+        }
+    },
+    {
+        "concept_name": "谐和坐标系",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "harmonic coordinate system"
+        }
+    },
+    {
+        "concept_name": "质能关系",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "mass-energy relation"
+        }
+    },
+    {
+        "concept_name": "质能等价性",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "mass-energy equivalence"
+        }
+    },
+    {
+        "concept_name": "过去",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "past"
+        }
+    },
+    {
+        "concept_name": "递升",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "boost"
+        }
+    },
+    {
+        "concept_name": "里奇[曲率]张量",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Ricci [curvature] tensor"
+        }
+    },
+    {
+        "concept_name": "重复指标",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "repeated index"
+        }
+    },
+    {
+        "concept_name": "量子宇宙学",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "quantum cosmology"
+        }
+    },
+    {
+        "concept_name": "钟的同步",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "synchronization of clocks"
+        }
+    },
+    {
+        "concept_name": "长度收缩",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "length contraction"
+        }
+    },
+    {
+        "concept_name": "闵可夫斯基几何",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Minkowski geometry"
+        }
+    },
+    {
+        "concept_name": "闵可夫斯基图",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Minkowski diagram"
+        }
+    },
+    {
+        "concept_name": "闵可夫斯基坐标",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Minkowski coordinate system"
+        }
+    },
+    {
+        "concept_name": "闵可夫斯基度规",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Minkowski metric"
+        }
+    },
+    {
+        "concept_name": "静[质]能",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "rest [mass] energy"
+        }
+    },
+    {
+        "concept_name": "面积定理",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "area theorem"
+        }
+    },
+    {
+        "concept_name": "马赫原理",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Mach principle"
+        }
+    },
+    {
+        "concept_name": "麦克斯韦方程的四维形式",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "four-dimensional form of Maxwell equations"
+        }
+    },
+    {
+        "concept_name": "黑洞",
+        "details": {
+            "学科": "物理学_相对论、量子理论_相对论",
+            "见载": "《物理学名词》第二版",
+            "英文名": "black hole"
+        }
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "concept_name": "人-机系统",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "human-machine system"
+        }
+    },
+    {
+        "concept_name": "人本主义",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "humanism"
+        }
+    },
+    {
+        "concept_name": "人种心理学",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "又称": " 民族心理学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "ethno-psychology"
+        }
+    },
+    {
+        "concept_name": "信息加工理论",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "information processing theory"
+        }
+    },
+    {
+        "concept_name": "内省",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "introspection"
+        }
+    },
+    {
+        "concept_name": "创造力研究",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "research of creativity"
+        }
+    },
+    {
+        "concept_name": "努斯",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "nous"
+        }
+    },
+    {
+        "concept_name": "发生认识论",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "genetic epistemology"
+        }
+    },
+    {
+        "concept_name": "右脑革命",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "right-brain revolution"
+        }
+    },
+    {
+        "concept_name": "哲学心理学",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "philosophical psychology"
+        }
+    },
+    {
+        "concept_name": "存在[主义]心理学",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "existential psychology"
+        }
+    },
+    {
+        "concept_name": "弗洛伊德主义",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "Freudism"
+        }
+    },
+    {
+        "concept_name": "形质说",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "又称": " 格式塔-性质说",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "Gestalt quality theory"
+        }
+    },
+    {
+        "concept_name": "心灵哲学",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "philosophy of mind"
+        }
+    },
+    {
+        "concept_name": "心灵学",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "parapsychology"
+        }
+    },
+    {
+        "concept_name": "心灵的表象理论",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "representational theory of mind"
+        }
+    },
+    {
+        "concept_name": "心灵的计算理论",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "computational theory of mind"
+        }
+    },
+    {
+        "concept_name": "心理个人主义",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "psychological individualism"
+        }
+    },
+    {
+        "concept_name": "心理主义",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "psychologism"
+        }
+    },
+    {
+        "concept_name": "心理学哲学",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "philosophy of psychology"
+        }
+    },
+    {
+        "concept_name": "心理实验",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "mental experiment"
+        }
+    },
+    {
+        "concept_name": "心理物理学",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "psychophysics"
+        }
+    },
+    {
+        "concept_name": "心理状态",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "mental state"
+        }
+    },
+    {
+        "concept_name": "心理状态的类型同一性理论",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "type-identity theory of psychological states"
+        }
+    },
+    {
+        "concept_name": "心理自主性",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "psychological autonomy"
+        }
+    },
+    {
+        "concept_name": "心理语言学",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "psycholinguistics"
+        }
+    },
+    {
+        "concept_name": "心理还原论",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "psychological reductionism"
+        }
+    },
+    {
+        "concept_name": "心身问题",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "mind-body problem"
+        }
+    },
+    {
+        "concept_name": "思辨心理学",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "speculative psychology"
+        }
+    },
+    {
+        "concept_name": "意会知识",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "tacit knowledge"
+        }
+    },
+    {
+        "concept_name": "意动心理学",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "又称": " 意向心理学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "act psychology"
+        }
+    },
+    {
+        "concept_name": "意识心理",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "conscious mind"
+        }
+    },
+    {
+        "concept_name": "操作心理学",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "operant psychology"
+        }
+    },
+    {
+        "concept_name": "无意识心理",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "unconscious mind"
+        }
+    },
+    {
+        "concept_name": "无意象思维",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "imageless thinking"
+        }
+    },
+    {
+        "concept_name": "智力结构",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "intelligence structure"
+        }
+    },
+    {
+        "concept_name": "机能主义",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "functionalism"
+        }
+    },
+    {
+        "concept_name": "格式塔转换",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "transformation of Gestalt"
+        }
+    },
+    {
+        "concept_name": "模式识别",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "pattern recognition"
+        }
+    },
+    {
+        "concept_name": "灵感",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "inspiration"
+        }
+    },
+    {
+        "concept_name": "灵知",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "gnosis"
+        }
+    },
+    {
+        "concept_name": "理性心理学",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "rational psychology"
+        }
+    },
+    {
+        "concept_name": "直觉思维",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "intuition thinking"
+        }
+    },
+    {
+        "concept_name": "知觉交流",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "perception communication"
+        }
+    },
+    {
+        "concept_name": "知觉结构",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "perceptual structure"
+        }
+    },
+    {
+        "concept_name": "社会心理学",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "social psychology"
+        }
+    },
+    {
+        "concept_name": "神经哲学",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "neuro-philosophy"
+        }
+    },
+    {
+        "concept_name": "神经感动",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "neurosis"
+        }
+    },
+    {
+        "concept_name": "精神分析",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "psychoanalysis"
+        }
+    },
+    {
+        "concept_name": "精神论",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "又称": " 精神主义",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "mentalism"
+        }
+    },
+    {
+        "concept_name": "结构主义",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "structuralism"
+        }
+    },
+    {
+        "concept_name": "联想主义",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "associationism"
+        }
+    },
+    {
+        "concept_name": "联结主义",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "connectionism"
+        }
+    },
+    {
+        "concept_name": "脑研究",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "brain research"
+        }
+    },
+    {
+        "concept_name": "自然主义心理学",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "naturalist psychology"
+        }
+    },
+    {
+        "concept_name": "行为主义心理学",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "behavioristic psychology"
+        }
+    },
+    {
+        "concept_name": "视觉思维",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "visual thinking"
+        }
+    },
+    {
+        "concept_name": "言传知识",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "explicit knowledge"
+        }
+    },
+    {
+        "concept_name": "认知主义",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "cognitivism"
+        }
+    },
+    {
+        "concept_name": "认知科学",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "cognitive science"
+        }
+    },
+    {
+        "concept_name": "超个人心理学",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "transpersonal psychology"
+        }
+    },
+    {
+        "concept_name": "顿悟",
+        "details": {
+            "学科": "自然辩证法_科学哲学_心理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "insight"
+        }
+    }
+]

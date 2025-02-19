@@ -1,0 +1,1427 @@
+[
+    {
+        "concept_name": "Y型管",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Y-piece"
+        }
+    },
+    {
+        "concept_name": "丁卡因",
+        "details": {
+            "学科": "医学_麻醉学",
+            "英文": "tetracaine ;dicaine ;amethocaine",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "tetracaine"
+        }
+    },
+    {
+        "concept_name": "丁哌卡因",
+        "details": {
+            "学科": "医学_麻醉学",
+            "又称": " 布比卡因",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "marcaine"
+        }
+    },
+    {
+        "concept_name": "三氯乙烯",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "trichloroethylene"
+        }
+    },
+    {
+        "concept_name": "丙胺卡因",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "prilocaine"
+        }
+    },
+    {
+        "concept_name": "临床麻醉",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "clinical anesthesia"
+        }
+    },
+    {
+        "concept_name": "临界容积学说",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "critical volume theory"
+        }
+    },
+    {
+        "concept_name": "乙烯醚",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "divinyl ether"
+        }
+    },
+    {
+        "concept_name": "乙酰丙嗪",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "acepromazine"
+        }
+    },
+    {
+        "concept_name": "乙醚",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ether"
+        }
+    },
+    {
+        "concept_name": "二氧化碳吸收器",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "CO2 absorber system"
+        }
+    },
+    {
+        "concept_name": "二氧化碳麻醉",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "carbon dioxide narcosis"
+        }
+    },
+    {
+        "concept_name": "低温",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "hypothermia"
+        }
+    },
+    {
+        "concept_name": "依托咪酯",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "etomidate"
+        }
+    },
+    {
+        "concept_name": "依替卡因",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "etidocaine"
+        }
+    },
+    {
+        "concept_name": "催眠术",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "hypnosis"
+        }
+    },
+    {
+        "concept_name": "光纤喉镜",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "fiberoptic laryngoscope"
+        }
+    },
+    {
+        "concept_name": "全脊椎麻醉",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "total spinal anesthesia"
+        }
+    },
+    {
+        "concept_name": "全身麻醉",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "general anesthesia"
+        }
+    },
+    {
+        "concept_name": "全麻分子学说",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "molecular theory of general anes- thesia"
+        }
+    },
+    {
+        "concept_name": "全麻原理",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "mechanism of general anesthesia"
+        }
+    },
+    {
+        "concept_name": "内脏痛",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "visceral pain"
+        }
+    },
+    {
+        "concept_name": "冷冻麻醉",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "refrigeration anesthesia"
+        }
+    },
+    {
+        "concept_name": "分离麻醉",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "dissociation anesthesia"
+        }
+    },
+    {
+        "concept_name": "利多卡因",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "lidocaine"
+        }
+    },
+    {
+        "concept_name": "刺痛",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "stabbing pain"
+        }
+    },
+    {
+        "concept_name": "区域阻滞",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "field block"
+        }
+    },
+    {
+        "concept_name": "区域麻醉",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "regional anesthesia"
+        }
+    },
+    {
+        "concept_name": "半开放装置",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "semi-open system"
+        }
+    },
+    {
+        "concept_name": "单腔支气管导管",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "single lumen endobronchial tube"
+        }
+    },
+    {
+        "concept_name": "卡芬太尼",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "carfentanil"
+        }
+    },
+    {
+        "concept_name": "压力安全阀",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "pop-off valve"
+        }
+    },
+    {
+        "concept_name": "去极化",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "depolarization"
+        }
+    },
+    {
+        "concept_name": "双乙嗪",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "diethazine"
+        }
+    },
+    {
+        "concept_name": "双腔支气管导管",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "double lumen endobronchial tube"
+        }
+    },
+    {
+        "concept_name": "司可巴比妥",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "secobarbital"
+        }
+    },
+    {
+        "concept_name": "吸入麻醉",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "inhalation anesthesia"
+        }
+    },
+    {
+        "concept_name": "吸入麻醉药",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "inhalation anesthetic"
+        }
+    },
+    {
+        "concept_name": "吸引管",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "suction catheter"
+        }
+    },
+    {
+        "concept_name": "吸气活瓣",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "inspiratory valve"
+        }
+    },
+    {
+        "concept_name": "呼气活瓣",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "expiratory valve"
+        }
+    },
+    {
+        "concept_name": "哌替啶",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "pethidine"
+        }
+    },
+    {
+        "concept_name": "唤醒试验",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "awaken test"
+        }
+    },
+    {
+        "concept_name": "喉头水肿",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "laryngeal edema"
+        }
+    },
+    {
+        "concept_name": "喉罩",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "laryngeal mask"
+        }
+    },
+    {
+        "concept_name": "喷他佐辛",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "pentazocine"
+        }
+    },
+    {
+        "concept_name": "四个成串刺激",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "train of four stimulation"
+        }
+    },
+    {
+        "concept_name": "基础麻醉",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "basal anesthesia"
+        }
+    },
+    {
+        "concept_name": "声门下水肿",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "subglottic edema"
+        }
+    },
+    {
+        "concept_name": "套囊",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "cuff"
+        }
+    },
+    {
+        "concept_name": "安氟醚",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "enflurane"
+        }
+    },
+    {
+        "concept_name": "安泰酮",
+        "details": {
+            "学科": "医学_麻醉学",
+            "英文": "althesin ;alphadione",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "althesin"
+        }
+    },
+    {
+        "concept_name": "局部浸润麻醉",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "local infiltration anesthesia"
+        }
+    },
+    {
+        "concept_name": "局部麻醉",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "local anesthesia"
+        }
+    },
+    {
+        "concept_name": "局部麻醉药",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "local anesthetic"
+        }
+    },
+    {
+        "concept_name": "巴比妥类静脉麻醉药",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "barbiturate intravenous anesthetic"
+        }
+    },
+    {
+        "concept_name": "布托啡诺",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "butorphanol"
+        }
+    },
+    {
+        "concept_name": "平衡麻醉",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "balanced anesthesia"
+        }
+    },
+    {
+        "concept_name": "幻肢痛",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "phantom limb pain"
+        }
+    },
+    {
+        "concept_name": "开放点滴法",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "open drop method"
+        }
+    },
+    {
+        "concept_name": "开放装置",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "open system"
+        }
+    },
+    {
+        "concept_name": "异丙嗪",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "promethazine"
+        }
+    },
+    {
+        "concept_name": "异戊巴比妥",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "amobarbital"
+        }
+    },
+    {
+        "concept_name": "异氟醚",
+        "details": {
+            "学科": "医学_麻醉学",
+            "英文": "isoflurane ;Forane",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "isoflurane"
+        }
+    },
+    {
+        "concept_name": "微晶学说",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "microcrystal theory"
+        }
+    },
+    {
+        "concept_name": "微管学说",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "microtubule theory"
+        }
+    },
+    {
+        "concept_name": "恶性高热",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "malignant hyperthermia"
+        }
+    },
+    {
+        "concept_name": "戊巴比妥",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "pentobarbital"
+        }
+    },
+    {
+        "concept_name": "拔管",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "extubation"
+        }
+    },
+    {
+        "concept_name": "拧痛",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "gripping pain"
+        }
+    },
+    {
+        "concept_name": "控制性降压",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "controlled hypotension"
+        }
+    },
+    {
+        "concept_name": "插管前准备",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "pre-intubation preparation"
+        }
+    },
+    {
+        "concept_name": "插管芯",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "intubating stylet"
+        }
+    },
+    {
+        "concept_name": "插管钳",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "intubating forceps"
+        }
+    },
+    {
+        "concept_name": "支气管内插管",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "endobronchial intubation"
+        }
+    },
+    {
+        "concept_name": "斑氏环路",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Bain circuit"
+        }
+    },
+    {
+        "concept_name": "新鲜气流",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "fresh gas flow"
+        }
+    },
+    {
+        "concept_name": "无复吸入活瓣",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "nonrebreathing valve"
+        }
+    },
+    {
+        "concept_name": "无复吸入装置",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "nonrebreathing system"
+        }
+    },
+    {
+        "concept_name": "最低肺泡有效浓度",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "minimum alveolar concentration"
+        }
+    },
+    {
+        "concept_name": "气体麻醉药",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "gas anesthetic"
+        }
+    },
+    {
+        "concept_name": "气管内插管",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "endotracheal intubation"
+        }
+    },
+    {
+        "concept_name": "气管内麻醉",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "endotracheal anesthesia"
+        }
+    },
+    {
+        "concept_name": "气管导管",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "endotracheal tube"
+        }
+    },
+    {
+        "concept_name": "氟烷",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "halothane"
+        }
+    },
+    {
+        "concept_name": "氧化亚氮",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "nitrous oxide"
+        }
+    },
+    {
+        "concept_name": "氧消耗",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "oxygen consumption"
+        }
+    },
+    {
+        "concept_name": "氨酰胆碱",
+        "details": {
+            "学科": "医学_麻醉学",
+            "英文": "imbretil ;hexacarbocholine bro- mide",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "imbretil"
+        }
+    },
+    {
+        "concept_name": "氯乙烷",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ethyl chloride"
+        }
+    },
+    {
+        "concept_name": "氯仿",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "chloroform"
+        }
+    },
+    {
+        "concept_name": "氯普鲁卡因",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "chloroprocaine"
+        }
+    },
+    {
+        "concept_name": "泮库溴铵",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "pancuronium"
+        }
+    },
+    {
+        "concept_name": "洛芬太尼",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "lofentanil"
+        }
+    },
+    {
+        "concept_name": "流量表",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "flow meter"
+        }
+    },
+    {
+        "concept_name": "深低温",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "profound hypothermia"
+        }
+    },
+    {
+        "concept_name": "清醒插管",
+        "details": {
+            "学科": "医学_麻醉学",
+            "英文": "conscious intubation ;awake intubation",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "conscious intubation"
+        }
+    },
+    {
+        "concept_name": "温觉",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "warmth sensation"
+        }
+    },
+    {
+        "concept_name": "灼痛",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "burning pain"
+        }
+    },
+    {
+        "concept_name": "烯丙吗啡",
+        "details": {
+            "学科": "医学_麻醉学",
+            "又称": " 纳洛芬",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "nalorphine"
+        }
+    },
+    {
+        "concept_name": "牙垫",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "bite block"
+        }
+    },
+    {
+        "concept_name": "特异突触",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "specific synapses"
+        }
+    },
+    {
+        "concept_name": "甲哌卡因",
+        "details": {
+            "学科": "医学_麻醉学",
+            "又称": " 卡波卡因",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "mepivacaine"
+        }
+    },
+    {
+        "concept_name": "甲氧氟烷",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "methoxyflurane"
+        }
+    },
+    {
+        "concept_name": "电麻醉",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "electric anesthesia"
+        }
+    },
+    {
+        "concept_name": "疼痛",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "pain"
+        }
+    },
+    {
+        "concept_name": "疼痛受体",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "pain receptor"
+        }
+    },
+    {
+        "concept_name": "疼痛门诊",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "pain clinic"
+        }
+    },
+    {
+        "concept_name": "痒觉",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "itching sensation"
+        }
+    },
+    {
+        "concept_name": "痛阈",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "pain threshold"
+        }
+    },
+    {
+        "concept_name": "监测",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "monitoring"
+        }
+    },
+    {
+        "concept_name": "知觉",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "perception"
+        }
+    },
+    {
+        "concept_name": "硫喷妥钠",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "thiopental"
+        }
+    },
+    {
+        "concept_name": "硬[脊]膜外阻滞",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "epidural block"
+        }
+    },
+    {
+        "concept_name": "碱石灰",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "soda lime"
+        }
+    },
+    {
+        "concept_name": "神经传导阻滞",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "nerve block"
+        }
+    },
+    {
+        "concept_name": "神经破坏性阻滞",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "neurolytic block"
+        }
+    },
+    {
+        "concept_name": "神经通路",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "nervous pathway"
+        }
+    },
+    {
+        "concept_name": "类固醇静脉麻醉药",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "steroid intravenous anesthetic"
+        }
+    },
+    {
+        "concept_name": "纳洛酮",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "naloxone"
+        }
+    },
+    {
+        "concept_name": "经口明视插管",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "direct vision orotracheal intubation"
+        }
+    },
+    {
+        "concept_name": "经气管多普勒心输出量监测",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "transtracheal Doppler cardiac out- put monitoring"
+        }
+    },
+    {
+        "concept_name": "经鼻气管内插管",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "nasotracheal intubation"
+        }
+    },
+    {
+        "concept_name": "经鼻盲探气管内插管",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "blind nasotracheal intubation"
+        }
+    },
+    {
+        "concept_name": "绞痛",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "colicky pain"
+        }
+    },
+    {
+        "concept_name": "维库溴铵",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "vecuronium"
+        }
+    },
+    {
+        "concept_name": "罗库溴铵",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "rocuronium"
+        }
+    },
+    {
+        "concept_name": "美索比妥",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "methohexital"
+        }
+    },
+    {
+        "concept_name": "美维库铵",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "mivacurium"
+        }
+    },
+    {
+        "concept_name": "肌安松",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "paramyon"
+        }
+    },
+    {
+        "concept_name": "脉搏氧饱和度仪",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "pulse oximeter"
+        }
+    },
+    {
+        "concept_name": "脊椎麻醉",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "spinal anesthesia"
+        }
+    },
+    {
+        "concept_name": "膜膨胀学说",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "membrane expansion theory"
+        }
+    },
+    {
+        "concept_name": "自由容积学说",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "free volume theory"
+        }
+    },
+    {
+        "concept_name": "舌钳",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "tongue forceps"
+        }
+    },
+    {
+        "concept_name": "舒芬太尼",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "sufentanil"
+        }
+    },
+    {
+        "concept_name": "苯巴比妥",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "phenobarbital"
+        }
+    },
+    {
+        "concept_name": "蒸发器",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "vaporizer"
+        }
+    },
+    {
+        "concept_name": "蛛网膜下腔阻滞",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "subarachnoid block"
+        }
+    },
+    {
+        "concept_name": "表面麻醉",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "topical anesthesia"
+        }
+    },
+    {
+        "concept_name": "视觉模拟评分法",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "visual analogue scales"
+        }
+    },
+    {
+        "concept_name": "触觉",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "tactile sensation"
+        }
+    },
+    {
+        "concept_name": "误吸",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "aspiration"
+        }
+    },
+    {
+        "concept_name": "诱导前期",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "preinduction period"
+        }
+    },
+    {
+        "concept_name": "辛可卡因",
+        "details": {
+            "学科": "医学_麻醉学",
+            "又称": " 地布卡因",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "cinchocaine"
+        }
+    },
+    {
+        "concept_name": "逆行导引插管",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "retrograde intubation"
+        }
+    },
+    {
+        "concept_name": "针刺镇痛",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "acupuncture analgesia"
+        }
+    },
+    {
+        "concept_name": "针刺麻醉",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "acupuncture anesthesia"
+        }
+    },
+    {
+        "concept_name": "钡石灰",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "baralyme"
+        }
+    },
+    {
+        "concept_name": "闭式循环装置",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "closed circuit system"
+        }
+    },
+    {
+        "concept_name": "阿曲库铵",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "atracurium"
+        }
+    },
+    {
+        "concept_name": "阿芬太尼",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "alfentanil"
+        }
+    },
+    {
+        "concept_name": "雾化器",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "nebulizer"
+        }
+    },
+    {
+        "concept_name": "静脉局部麻醉",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "intravenous regional anesthesia"
+        }
+    },
+    {
+        "concept_name": "静脉麻醉",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "intravenous anesthesia"
+        }
+    },
+    {
+        "concept_name": "静脉麻醉药",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "intravenous anesthetic"
+        }
+    },
+    {
+        "concept_name": "非去极化",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "non-depolarization"
+        }
+    },
+    {
+        "concept_name": "非巴比妥类静脉麻醉药",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "nonbarbiturate intravenous anes- thetic"
+        }
+    },
+    {
+        "concept_name": "面罩",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "face mask"
+        }
+    },
+    {
+        "concept_name": "鞍区阻滞",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "saddle block"
+        }
+    },
+    {
+        "concept_name": "驱体痛",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "somatic pain"
+        }
+    },
+    {
+        "concept_name": "骶管阻滞",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "caudal block"
+        }
+    },
+    {
+        "concept_name": "麦氏喉镜",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Machintosh laryngoscope"
+        }
+    },
+    {
+        "concept_name": "麦氏插管钳",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Magill intubating forceps"
+        }
+    },
+    {
+        "concept_name": "麻醉",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "anesthesia"
+        }
+    },
+    {
+        "concept_name": "麻醉作用",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "anesthetic action"
+        }
+    },
+    {
+        "concept_name": "麻醉前病情评估",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "preanesthetic evaluation"
+        }
+    },
+    {
+        "concept_name": "麻醉危险性",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "anesthesia risk"
+        }
+    },
+    {
+        "concept_name": "麻醉学",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "anesthesiology"
+        }
+    },
+    {
+        "concept_name": "麻醉强度",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "anesthetic potency"
+        }
+    },
+    {
+        "concept_name": "麻醉性镇痛药",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "narcosis analgesic"
+        }
+    },
+    {
+        "concept_name": "麻醉机",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "anesthetic machine"
+        }
+    },
+    {
+        "concept_name": "麻醉深度",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "depth of anesthesia"
+        }
+    },
+    {
+        "concept_name": "麻醉维持",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "maintenance of anesthesia"
+        }
+    },
+    {
+        "concept_name": "麻醉药",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "anesthetic"
+        }
+    },
+    {
+        "concept_name": "麻醉药浓度",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "anesthetic concentration"
+        }
+    },
+    {
+        "concept_name": "麻醉记录",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "anesthetic record"
+        }
+    },
+    {
+        "concept_name": "麻醉诱导",
+        "details": {
+            "学科": "医学_麻醉学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "induction of anesthesia"
+        }
+    }
+]

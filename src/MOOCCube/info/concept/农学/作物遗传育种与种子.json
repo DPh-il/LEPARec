@@ -1,0 +1,1605 @@
+[
+    {
+        "concept_name": "[油菜]单低育种",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "breeding for single low [erucic acid or glucosinolate] content in rapeseed"
+        }
+    },
+    {
+        "concept_name": "[油菜]双低育种",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "breeding for double low [erucic acid and glucosinolate] content in rapeseed"
+        }
+    },
+    {
+        "concept_name": "[细]胞质突变",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "cytoplasmic mutation"
+        }
+    },
+    {
+        "concept_name": "[育性]恢复基因",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "[fertility] restoring gene"
+        }
+    },
+    {
+        "concept_name": "一般配合力",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "general combining ability"
+        }
+    },
+    {
+        "concept_name": "三系杂种",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "three-way cross hybrid"
+        }
+    },
+    {
+        "concept_name": "不亲和性",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "incompatibility"
+        }
+    },
+    {
+        "concept_name": "乳糖操纵子",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "lac operon"
+        }
+    },
+    {
+        "concept_name": "互交",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "英文": "intercrossing ;intermating",
+            "见载": "《农学名词》第一版",
+            "英文名": "intercrossing"
+        }
+    },
+    {
+        "concept_name": "亲代",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "parental generation"
+        }
+    },
+    {
+        "concept_name": "亲和",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "compatible"
+        }
+    },
+    {
+        "concept_name": "人工授粉",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "artificial pollination"
+        }
+    },
+    {
+        "concept_name": "代换",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "substitution"
+        }
+    },
+    {
+        "concept_name": "体细胞接合",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "somatogamy"
+        }
+    },
+    {
+        "concept_name": "作物起源",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "origin of crop"
+        }
+    },
+    {
+        "concept_name": "作物起源中心",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "center of origin of crop"
+        }
+    },
+    {
+        "concept_name": "供体",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "donor"
+        }
+    },
+    {
+        "concept_name": "保持系",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "maintainer line"
+        }
+    },
+    {
+        "concept_name": "倒位",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "inversion"
+        }
+    },
+    {
+        "concept_name": "克隆",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "又称": " 无性繁殖系",
+            "见载": "《农学名词》第一版",
+            "英文名": "clone"
+        }
+    },
+    {
+        "concept_name": "全同胞交配",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "full-sib mating"
+        }
+    },
+    {
+        "concept_name": "全酶",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "holoenzyme"
+        }
+    },
+    {
+        "concept_name": "内含子",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "intron"
+        }
+    },
+    {
+        "concept_name": "内融合",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "endomixis"
+        }
+    },
+    {
+        "concept_name": "剂量效应",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "dose effect"
+        }
+    },
+    {
+        "concept_name": "加性效应",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "additive effect"
+        }
+    },
+    {
+        "concept_name": "加性遗传方差",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "additive genetic variance"
+        }
+    },
+    {
+        "concept_name": "加温干燥",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "heat drying"
+        }
+    },
+    {
+        "concept_name": "单交",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "single cross"
+        }
+    },
+    {
+        "concept_name": "单倍体育种",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "haploid breeding"
+        }
+    },
+    {
+        "concept_name": "单株选择",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "individual plant selection"
+        }
+    },
+    {
+        "concept_name": "单粒传法",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "single seed descent"
+        }
+    },
+    {
+        "concept_name": "原位分子杂交",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "molecular hybridization in situ"
+        }
+    },
+    {
+        "concept_name": "原球茎",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "protocorm"
+        }
+    },
+    {
+        "concept_name": "原种",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "foundation seed"
+        }
+    },
+    {
+        "concept_name": "原种圃",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "foundation seed nursery"
+        }
+    },
+    {
+        "concept_name": "去雄",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "emasculation"
+        }
+    },
+    {
+        "concept_name": "双二倍体",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "amphidiploid"
+        }
+    },
+    {
+        "concept_name": "双交",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "double cross"
+        }
+    },
+    {
+        "concept_name": "双交种",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "double cross hybrid"
+        }
+    },
+    {
+        "concept_name": "双倍体",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "amphiploid"
+        }
+    },
+    {
+        "concept_name": "双列杂交",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "diallel cross"
+        }
+    },
+    {
+        "concept_name": "发芽势",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "germination vigor"
+        }
+    },
+    {
+        "concept_name": "发芽率",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "germination rate"
+        }
+    },
+    {
+        "concept_name": "发酵工程",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "fermentation engineering"
+        }
+    },
+    {
+        "concept_name": "受体",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "recipient"
+        }
+    },
+    {
+        "concept_name": "同源四倍体",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "autotetraploid"
+        }
+    },
+    {
+        "concept_name": "同源多倍体",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "autopolyploid"
+        }
+    },
+    {
+        "concept_name": "品种",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "variety"
+        }
+    },
+    {
+        "concept_name": "品种区域化",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "variety regionalization"
+        }
+    },
+    {
+        "concept_name": "品种鉴定",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "variety identification"
+        }
+    },
+    {
+        "concept_name": "品种间杂交",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "intervarietal cross"
+        }
+    },
+    {
+        "concept_name": "品种间杂种",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "intervarietal hybrid"
+        }
+    },
+    {
+        "concept_name": "品质育种",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "breeding for quality"
+        }
+    },
+    {
+        "concept_name": "器官培养",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "organ culture"
+        }
+    },
+    {
+        "concept_name": "基因库",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "gene bank"
+        }
+    },
+    {
+        "concept_name": "基因库材料",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "gene bank accession"
+        }
+    },
+    {
+        "concept_name": "基因源",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "gene pool"
+        }
+    },
+    {
+        "concept_name": "基因转移",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "gene transfer"
+        }
+    },
+    {
+        "concept_name": "多系杂交",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "polycross"
+        }
+    },
+    {
+        "concept_name": "奥帕克-2[玉米]突变体",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "opaque-2 mutant [corn]"
+        }
+    },
+    {
+        "concept_name": "孢子体自交不亲和系统",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "sporophytic self-incompatibility system"
+        }
+    },
+    {
+        "concept_name": "家系",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "line"
+        }
+    },
+    {
+        "concept_name": "属间杂交",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "intergeneric cross"
+        }
+    },
+    {
+        "concept_name": "异交",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "outcross"
+        }
+    },
+    {
+        "concept_name": "异地保存",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "ex situ conservation"
+        }
+    },
+    {
+        "concept_name": "异常型种子",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "recalcitrant seed"
+        }
+    },
+    {
+        "concept_name": "异源六倍体",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "allohexaploid"
+        }
+    },
+    {
+        "concept_name": "异源四倍体",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "allotetraploid"
+        }
+    },
+    {
+        "concept_name": "异源多倍体",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "allopolyploid"
+        }
+    },
+    {
+        "concept_name": "引进品种",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "introduced variety"
+        }
+    },
+    {
+        "concept_name": "微效基因抗[病]性",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "minor gene resistance"
+        }
+    },
+    {
+        "concept_name": "拌种",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "seed dressing"
+        }
+    },
+    {
+        "concept_name": "推广品种",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "commercial variety"
+        }
+    },
+    {
+        "concept_name": "操纵子",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "operon"
+        }
+    },
+    {
+        "concept_name": "改良品种",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "improved variety"
+        }
+    },
+    {
+        "concept_name": "改良系谱法",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "modified pedigree method"
+        }
+    },
+    {
+        "concept_name": "数量遗传",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "quantitative inheritance"
+        }
+    },
+    {
+        "concept_name": "整倍体",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "euploid"
+        }
+    },
+    {
+        "concept_name": "无性杂交",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "vegetative hybridization"
+        }
+    },
+    {
+        "concept_name": "无融合生殖",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "apomixis"
+        }
+    },
+    {
+        "concept_name": "早代测验",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "early generation test"
+        }
+    },
+    {
+        "concept_name": "时间隔离",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "time isolation"
+        }
+    },
+    {
+        "concept_name": "易位",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "translocation"
+        }
+    },
+    {
+        "concept_name": "易位系",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "translocation line"
+        }
+    },
+    {
+        "concept_name": "显性效应",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "dominance effect"
+        }
+    },
+    {
+        "concept_name": "杂交不亲和性",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "cross incompatibility"
+        }
+    },
+    {
+        "concept_name": "杂种第一代",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "F1"
+        }
+    },
+    {
+        "concept_name": "杂种第二代",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "F2"
+        }
+    },
+    {
+        "concept_name": "极性",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "polarity"
+        }
+    },
+    {
+        "concept_name": "染色体工程",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "chromosome engineering"
+        }
+    },
+    {
+        "concept_name": "核型",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "karyotype"
+        }
+    },
+    {
+        "concept_name": "核心酶",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "core enzyme"
+        }
+    },
+    {
+        "concept_name": "核移植",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "nucleus transplantation"
+        }
+    },
+    {
+        "concept_name": "核糖核酸",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "简称": " RNA",
+            "见载": "《农学名词》第一版",
+            "英文名": "ribonucleic acid"
+        }
+    },
+    {
+        "concept_name": "核融合",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "karyomixis"
+        }
+    },
+    {
+        "concept_name": "核质互作",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "nucleo-cytoplasmic interaction"
+        }
+    },
+    {
+        "concept_name": "核质杂种",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "nucleo-cytoplasmic hybrid"
+        }
+    },
+    {
+        "concept_name": "核酸",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "nucleic acid"
+        }
+    },
+    {
+        "concept_name": "核雄性不育系",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "genic male sterile line"
+        }
+    },
+    {
+        "concept_name": "植物引种",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "plant introduction"
+        }
+    },
+    {
+        "concept_name": "次级起源中心",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "secondary center of origin"
+        }
+    },
+    {
+        "concept_name": "正反交",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "reciprocal cross"
+        }
+    },
+    {
+        "concept_name": "正常型种子",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "orthodox seed"
+        }
+    },
+    {
+        "concept_name": "母本",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "female parent"
+        }
+    },
+    {
+        "concept_name": "派生系统法",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "derived-line method"
+        }
+    },
+    {
+        "concept_name": "测交",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "test cross"
+        }
+    },
+    {
+        "concept_name": "混合选择",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "又称": " 集团选择",
+            "见载": "《农学名词》第一版",
+            "英文名": "mass selection"
+        }
+    },
+    {
+        "concept_name": "混系品种",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "composite variety"
+        }
+    },
+    {
+        "concept_name": "渐渗杂交",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "introgressive hybridization"
+        }
+    },
+    {
+        "concept_name": "激活子",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "activator"
+        }
+    },
+    {
+        "concept_name": "特殊配合力",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "specific combining ability"
+        }
+    },
+    {
+        "concept_name": "理想株型",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "ideotype"
+        }
+    },
+    {
+        "concept_name": "生殖隔离",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "reproductive isolation"
+        }
+    },
+    {
+        "concept_name": "田间去杂",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "rogueing"
+        }
+    },
+    {
+        "concept_name": "种子仓库",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "seed granary"
+        }
+    },
+    {
+        "concept_name": "种子含水量",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "seed moisture content"
+        }
+    },
+    {
+        "concept_name": "种子容重",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "seed volume-weight"
+        }
+    },
+    {
+        "concept_name": "种子提纯",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "seed purification"
+        }
+    },
+    {
+        "concept_name": "种子整齐度",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "seed uniformity"
+        }
+    },
+    {
+        "concept_name": "种子检验",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "seed inspection"
+        }
+    },
+    {
+        "concept_name": "种子混杂物",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "seed admixture"
+        }
+    },
+    {
+        "concept_name": "种子鉴定",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "seed identification"
+        }
+    },
+    {
+        "concept_name": "种子饱满度",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "seed plumpness"
+        }
+    },
+    {
+        "concept_name": "种质圃",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "field gene bank"
+        }
+    },
+    {
+        "concept_name": "种质基本资料",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "passport data"
+        }
+    },
+    {
+        "concept_name": "种间杂交",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "interspecific cross"
+        }
+    },
+    {
+        "concept_name": "移码",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "frameshift"
+        }
+    },
+    {
+        "concept_name": "穗行法",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "ear-to-row method"
+        }
+    },
+    {
+        "concept_name": "空间隔离",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "distance isolation"
+        }
+    },
+    {
+        "concept_name": "穿梭育种",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "shuttle breeding"
+        }
+    },
+    {
+        "concept_name": "突变体",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "mutant"
+        }
+    },
+    {
+        "concept_name": "突变子",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "muton"
+        }
+    },
+    {
+        "concept_name": "突变第一代",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "M1[in mutation]"
+        }
+    },
+    {
+        "concept_name": "突变第二代",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "M2[in mutation]"
+        }
+    },
+    {
+        "concept_name": "突变谱",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "mutation spectrum"
+        }
+    },
+    {
+        "concept_name": "简并[性]",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "degeneracy"
+        }
+    },
+    {
+        "concept_name": "细胞亲和力",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "cellular affinity"
+        }
+    },
+    {
+        "concept_name": "细胞器移植",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "organelle transplantation"
+        }
+    },
+    {
+        "concept_name": "细胞培养",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "cell culture"
+        }
+    },
+    {
+        "concept_name": "细胞工程",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "cell engineering"
+        }
+    },
+    {
+        "concept_name": "细胞质不亲和性",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "cytoplasmic incompatibility"
+        }
+    },
+    {
+        "concept_name": "终止子",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "terminator"
+        }
+    },
+    {
+        "concept_name": "缺失",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "deletion"
+        }
+    },
+    {
+        "concept_name": "群体",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "population"
+        }
+    },
+    {
+        "concept_name": "群体改良",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "population improvement"
+        }
+    },
+    {
+        "concept_name": "胚乳直感",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "xenia"
+        }
+    },
+    {
+        "concept_name": "胚培养",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "embryo culture"
+        }
+    },
+    {
+        "concept_name": "胚嫁接",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "embryo grafting"
+        }
+    },
+    {
+        "concept_name": "胞质杂种",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "cybrid"
+        }
+    },
+    {
+        "concept_name": "脱氧核糖核酸",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "英文": "deoxyribonucleic acid ;DNA",
+            "简称": " DNA",
+            "见载": "《农学名词》第一版",
+            "英文名": "deoxyribonucleic acid"
+        }
+    },
+    {
+        "concept_name": "脱氧胞苷酸",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "英文": "deoxycytidylic acid ;dCMP",
+            "见载": "《农学名词》第一版",
+            "英文名": "deoxycytidylic acid"
+        }
+    },
+    {
+        "concept_name": "脱氧腺苷酸",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "deoxyadenylic acid"
+        }
+    },
+    {
+        "concept_name": "脱氧鸟苷酸",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "deoxyguanylic acid"
+        }
+    },
+    {
+        "concept_name": "自交不亲和性",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "self-incompatibillity"
+        }
+    },
+    {
+        "concept_name": "自交不亲和系",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "self incompatible line"
+        }
+    },
+    {
+        "concept_name": "自交可育性",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "self-fertility"
+        }
+    },
+    {
+        "concept_name": "自交种子",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "selfed seed"
+        }
+    },
+    {
+        "concept_name": "自交系",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "inbred line"
+        }
+    },
+    {
+        "concept_name": "自然选择",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "natural selection"
+        }
+    },
+    {
+        "concept_name": "自由授粉",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "open pollination"
+        }
+    },
+    {
+        "concept_name": "自花授粉",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "self-pollination"
+        }
+    },
+    {
+        "concept_name": "花粉蒙导",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "pollen mentor"
+        }
+    },
+    {
+        "concept_name": "花药培养",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "anther culture"
+        }
+    },
+    {
+        "concept_name": "诱变效应",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "mutagenic effect"
+        }
+    },
+    {
+        "concept_name": "质量遗传",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "qualitative inheritance"
+        }
+    },
+    {
+        "concept_name": "超亲遗传",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "transgressive inheritance"
+        }
+    },
+    {
+        "concept_name": "超低温保存",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "cryopreservation"
+        }
+    },
+    {
+        "concept_name": "转导",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "transduction"
+        }
+    },
+    {
+        "concept_name": "轮回亲本",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "recurrent parent"
+        }
+    },
+    {
+        "concept_name": "辅助授粉",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "sumplementary pollination"
+        }
+    },
+    {
+        "concept_name": "近交",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "英文": "inbreeding ;close breeding",
+            "又称": " 近亲交配",
+            "见载": "《农学名词》第一版",
+            "英文名": "inbreeding"
+        }
+    },
+    {
+        "concept_name": "近交系数",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "inbreeding coefficient"
+        }
+    },
+    {
+        "concept_name": "近交退化",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "inbreeding depression"
+        }
+    },
+    {
+        "concept_name": "远交",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "outbreeding"
+        }
+    },
+    {
+        "concept_name": "远缘杂种",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "distant hybrid"
+        }
+    },
+    {
+        "concept_name": "选择差",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "selection differential"
+        }
+    },
+    {
+        "concept_name": "选择强度",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "selection intensity"
+        }
+    },
+    {
+        "concept_name": "选择指数",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "selection index"
+        }
+    },
+    {
+        "concept_name": "遗传侵蚀",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "又称": " 遗传冲刷",
+            "见载": "《农学名词》第一版",
+            "英文名": "genetic erosion"
+        }
+    },
+    {
+        "concept_name": "遗传完整性",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "genetic integrity"
+        }
+    },
+    {
+        "concept_name": "遗传工程",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "又称": " 基因工程",
+            "见载": "《农学名词》第一版",
+            "英文名": "genetic engineering"
+        }
+    },
+    {
+        "concept_name": "遗传获得量",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "genetic gain"
+        }
+    },
+    {
+        "concept_name": "配子体自交不亲和系统",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "gametophytic self-incompatibility system"
+        }
+    },
+    {
+        "concept_name": "酶工程",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "enzyme engineering"
+        }
+    },
+    {
+        "concept_name": "释放因子",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "releasing factor"
+        }
+    },
+    {
+        "concept_name": "野生近缘种",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "wild relatives"
+        }
+    },
+    {
+        "concept_name": "附加系",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "addition line"
+        }
+    },
+    {
+        "concept_name": "限制[性内切核酸]酶",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "restriction endonuclease"
+        }
+    },
+    {
+        "concept_name": "随机交配",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "random mating"
+        }
+    },
+    {
+        "concept_name": "雄性不育",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "male sterile"
+        }
+    },
+    {
+        "concept_name": "雄性不育基因",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "male sterile gene"
+        }
+    },
+    {
+        "concept_name": "雄性不育系",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "male sterile line"
+        }
+    },
+    {
+        "concept_name": "非整倍体",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "aneuploid"
+        }
+    },
+    {
+        "concept_name": "非轮回亲本",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "non-recurrent parent"
+        }
+    },
+    {
+        "concept_name": "顺反子",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "cistron"
+        }
+    },
+    {
+        "concept_name": "风干",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "air drying"
+        }
+    },
+    {
+        "concept_name": "驯化",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "acclimatization"
+        }
+    },
+    {
+        "concept_name": "鲜重",
+        "details": {
+            "学科": "农学_作物遗传育种与种子",
+            "见载": "《农学名词》第一版",
+            "英文名": "fresh weight"
+        }
+    }
+]

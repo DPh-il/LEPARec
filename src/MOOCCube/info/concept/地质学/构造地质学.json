@@ -1,0 +1,1724 @@
+[
+    {
+        "concept_name": "B型俯冲",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "B-subduction"
+        }
+    },
+    {
+        "concept_name": "C面",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "C-surface"
+        }
+    },
+    {
+        "concept_name": "[构造]置换",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "transposition"
+        }
+    },
+    {
+        "concept_name": "β图",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "β-diagram"
+        }
+    },
+    {
+        "concept_name": "π图",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "π-diagram"
+        }
+    },
+    {
+        "concept_name": "三联点",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "triple junction"
+        }
+    },
+    {
+        "concept_name": "上冲断层",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "又称": " 逆冲断层",
+            "见载": "《地质学名词》第一版",
+            "英文名": "overthrust"
+        }
+    },
+    {
+        "concept_name": "上盘",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "hangingwall"
+        }
+    },
+    {
+        "concept_name": "下冲断层",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "又称": " 俯冲断层",
+            "见载": "《地质学名词》第一版",
+            "英文名": "underthrust"
+        }
+    },
+    {
+        "concept_name": "下盘",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "footwall"
+        }
+    },
+    {
+        "concept_name": "不对称褶皱",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "asymmetrical fold"
+        }
+    },
+    {
+        "concept_name": "东西构造带",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "latitudinal tectonic belt"
+        }
+    },
+    {
+        "concept_name": "主应力",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "principal stress"
+        }
+    },
+    {
+        "concept_name": "主应力轴",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "principal stress axis"
+        }
+    },
+    {
+        "concept_name": "主应变轴",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "principal strain axis"
+        }
+    },
+    {
+        "concept_name": "产状",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "occurrence"
+        }
+    },
+    {
+        "concept_name": "产状[要素]",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "attitude"
+        }
+    },
+    {
+        "concept_name": "仰冲",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "obduction"
+        }
+    },
+    {
+        "concept_name": "休眠断层",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "dormant fault"
+        }
+    },
+    {
+        "concept_name": "优地槽",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "eugeosyncline"
+        }
+    },
+    {
+        "concept_name": "伸展构造",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "extensional tectonics"
+        }
+    },
+    {
+        "concept_name": "位错",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "dislocation"
+        }
+    },
+    {
+        "concept_name": "位错壁",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "dislocation wall"
+        }
+    },
+    {
+        "concept_name": "位错攀移",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "climb of dislocation"
+        }
+    },
+    {
+        "concept_name": "低角度正断层",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "low angle normal fault"
+        }
+    },
+    {
+        "concept_name": "俯冲",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "subduction"
+        }
+    },
+    {
+        "concept_name": "倒转褶皱",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "overturned fold"
+        }
+    },
+    {
+        "concept_name": "倾角",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "dip angle"
+        }
+    },
+    {
+        "concept_name": "假玻璃熔岩",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "pseudotachylite"
+        }
+    },
+    {
+        "concept_name": "共轭节理",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "conjugate joints"
+        }
+    },
+    {
+        "concept_name": "共轴",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "co-axial"
+        }
+    },
+    {
+        "concept_name": "再造",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "reconstruction"
+        }
+    },
+    {
+        "concept_name": "凯诺拉期",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "Kenoran"
+        }
+    },
+    {
+        "concept_name": "前弧",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "frontal arc"
+        }
+    },
+    {
+        "concept_name": "前进冲断层序列",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "piggyback thrust sequence"
+        }
+    },
+    {
+        "concept_name": "前造山期",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "pre-orogenic"
+        }
+    },
+    {
+        "concept_name": "前陆",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "foreland"
+        }
+    },
+    {
+        "concept_name": "前陆台地",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "foreland basin"
+        }
+    },
+    {
+        "concept_name": "剪[切]应变",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "shear strain"
+        }
+    },
+    {
+        "concept_name": "加里东期",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "Caledonian"
+        }
+    },
+    {
+        "concept_name": "包络面",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "enveloping surface"
+        }
+    },
+    {
+        "concept_name": "华力西期",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "Variscan"
+        }
+    },
+    {
+        "concept_name": "华夏构造体系",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "Cathaysian structural system"
+        }
+    },
+    {
+        "concept_name": "印支期",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "Indosinian"
+        }
+    },
+    {
+        "concept_name": "压扁褶皱",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "flattened fold"
+        }
+    },
+    {
+        "concept_name": "原地岩体",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "英文": "autochthon ;autochthone",
+            "见载": "《地质学名词》第一版",
+            "英文名": "autochthon"
+        }
+    },
+    {
+        "concept_name": "反S型构造",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "reversed S-shaped structure"
+        }
+    },
+    {
+        "concept_name": "反射弧",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "reflex arc"
+        }
+    },
+    {
+        "concept_name": "变形",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "deformation"
+        }
+    },
+    {
+        "concept_name": "叠瓦构造",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "英文": "imbricated structure ;schuppen structure",
+            "见载": "《地质学名词》第一版",
+            "英文名": "imbricated structure"
+        }
+    },
+    {
+        "concept_name": "台向斜",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "syneclise"
+        }
+    },
+    {
+        "concept_name": "台背斜",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "anticlise"
+        }
+    },
+    {
+        "concept_name": "叶内褶皱",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "intrafolial fold"
+        }
+    },
+    {
+        "concept_name": "同心褶皱",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "concentrical fold"
+        }
+    },
+    {
+        "concept_name": "同造山期",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "syn-orogenic"
+        }
+    },
+    {
+        "concept_name": "后撤冲断层序列",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "overstep thrust sequence"
+        }
+    },
+    {
+        "concept_name": "向形背斜",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "synformal anticline"
+        }
+    },
+    {
+        "concept_name": "回返",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "又称": " 反演",
+            "见载": "《地质学名词》第一版",
+            "英文名": "inversion"
+        }
+    },
+    {
+        "concept_name": "地幔隆起",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "mantle bulge"
+        }
+    },
+    {
+        "concept_name": "地洼说",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "tectonics of diwa"
+        }
+    },
+    {
+        "concept_name": "地背斜",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "geanticline"
+        }
+    },
+    {
+        "concept_name": "块断作用",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "block faulting"
+        }
+    },
+    {
+        "concept_name": "增生",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "accretion"
+        }
+    },
+    {
+        "concept_name": "增生楔",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "英文": "accretionary prism ;accretionary widge",
+            "又称": " 增生棱柱",
+            "见载": "《地质学名词》第一版",
+            "英文名": "accretionary prism"
+        }
+    },
+    {
+        "concept_name": "增量应变",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "incremental strain"
+        }
+    },
+    {
+        "concept_name": "复原图",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "palinspastic map"
+        }
+    },
+    {
+        "concept_name": "复活断层",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "revived fault"
+        }
+    },
+    {
+        "concept_name": "复背斜",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "anticlinorium"
+        }
+    },
+    {
+        "concept_name": "外来岩体",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "英文": "allochthon ;allochthone",
+            "见载": "《地质学名词》第一版",
+            "英文名": "allochthon"
+        }
+    },
+    {
+        "concept_name": "外来岩块",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "exotic block"
+        }
+    },
+    {
+        "concept_name": "多旋回构造说",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "polycyclic tectonics"
+        }
+    },
+    {
+        "concept_name": "寄生褶皱",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "parasitic fold"
+        }
+    },
+    {
+        "concept_name": "山字型构造体系",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "epsilon-type structural system"
+        }
+    },
+    {
+        "concept_name": "岛弧",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "island arc"
+        }
+    },
+    {
+        "concept_name": "巨旋回",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "megacycle"
+        }
+    },
+    {
+        "concept_name": "布丁",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "又称": " 石香肠",
+            "见载": "《地质学名词》第一版",
+            "英文名": "boudin"
+        }
+    },
+    {
+        "concept_name": "席状岩墙群",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "sheeted dyke swarm"
+        }
+    },
+    {
+        "concept_name": "平错",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "heave"
+        }
+    },
+    {
+        "concept_name": "应力椭球体",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "stress ellipsoid"
+        }
+    },
+    {
+        "concept_name": "应变椭球体",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "strain ellipsoid"
+        }
+    },
+    {
+        "concept_name": "底板冲断层",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "floor thrust"
+        }
+    },
+    {
+        "concept_name": "建造",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "rock association"
+        }
+    },
+    {
+        "concept_name": "开阔褶皱",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "open fold"
+        }
+    },
+    {
+        "concept_name": "张剪",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "transtension"
+        }
+    },
+    {
+        "concept_name": "弧前盆地",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "fore-arc basin"
+        }
+    },
+    {
+        "concept_name": "弧后扩张",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "back-arc spreading"
+        }
+    },
+    {
+        "concept_name": "弧后盆地",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "back-arc basin"
+        }
+    },
+    {
+        "concept_name": "弯滑褶皱[作用]",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "flexural slip folding"
+        }
+    },
+    {
+        "concept_name": "归并",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "incorporation"
+        }
+    },
+    {
+        "concept_name": "微板块",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "microplate"
+        }
+    },
+    {
+        "concept_name": "扭动构造体系",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "shear structural system"
+        }
+    },
+    {
+        "concept_name": "拉伸线理",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "stretching lineation"
+        }
+    },
+    {
+        "concept_name": "拉分",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "pull-apart"
+        }
+    },
+    {
+        "concept_name": "拗拉槽",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "aulacogen"
+        }
+    },
+    {
+        "concept_name": "挤出构造",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "extrusion tectonics"
+        }
+    },
+    {
+        "concept_name": "撞裂锥",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "shatter cone"
+        }
+    },
+    {
+        "concept_name": "斜卧褶皱",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "reclined fold"
+        }
+    },
+    {
+        "concept_name": "斜向剪切",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "oblique shear"
+        }
+    },
+    {
+        "concept_name": "断块构造说",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "block faulting tectonics"
+        }
+    },
+    {
+        "concept_name": "断层泥",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "faultgouge"
+        }
+    },
+    {
+        "concept_name": "断层滑移",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "fault slip"
+        }
+    },
+    {
+        "concept_name": "断层谷",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "fault valley"
+        }
+    },
+    {
+        "concept_name": "无根背斜",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "rootless anticline"
+        }
+    },
+    {
+        "concept_name": "日尔曼型构造",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "Germanotype tectonics"
+        }
+    },
+    {
+        "concept_name": "显微构造",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "microstructure"
+        }
+    },
+    {
+        "concept_name": "晋宁期",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "Jinningian"
+        }
+    },
+    {
+        "concept_name": "普遍回返",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "general inversion"
+        }
+    },
+    {
+        "concept_name": "有限应变",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "finite strain"
+        }
+    },
+    {
+        "concept_name": "板劈理",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "slaty cleavage"
+        }
+    },
+    {
+        "concept_name": "板块运动",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "plate motion"
+        }
+    },
+    {
+        "concept_name": "板垫作用",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "underplating"
+        }
+    },
+    {
+        "concept_name": "构造[横]剖面",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "structural cross section"
+        }
+    },
+    {
+        "concept_name": "构造侵位",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "tectonic emplacement"
+        }
+    },
+    {
+        "concept_name": "构造剥蚀",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "tectonic denudation"
+        }
+    },
+    {
+        "concept_name": "构造单元",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "英文": "tectonic unit ;tectonic element",
+            "见载": "《地质学名词》第一版",
+            "英文名": "tectonic unit"
+        }
+    },
+    {
+        "concept_name": "构造层次",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "structural level"
+        }
+    },
+    {
+        "concept_name": "构造旋回",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "tectonic cycle"
+        }
+    },
+    {
+        "concept_name": "构造样式",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "tectonic style"
+        }
+    },
+    {
+        "concept_name": "构造模式",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "tectonic model"
+        }
+    },
+    {
+        "concept_name": "构造热事件",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "tectothermal event"
+        }
+    },
+    {
+        "concept_name": "格伦维尔期",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "Grenvillian"
+        }
+    },
+    {
+        "concept_name": "欧拉极",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "Eular pole"
+        }
+    },
+    {
+        "concept_name": "正地槽",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "orthogeosyncline"
+        }
+    },
+    {
+        "concept_name": "歪斜褶皱",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "inclined fold"
+        }
+    },
+    {
+        "concept_name": "歹字型构造",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "eta-type structure"
+        }
+    },
+    {
+        "concept_name": "沟弧盆系",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "trench-arc-basin system"
+        }
+    },
+    {
+        "concept_name": "泛地槽",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "pan-geosyncline"
+        }
+    },
+    {
+        "concept_name": "波浪镶嵌构造说",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "wavy mosaic tectonics"
+        }
+    },
+    {
+        "concept_name": "洋中脊",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "mid-ocean ridge"
+        }
+    },
+    {
+        "concept_name": "洋中隆",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "mid-ocean rise"
+        }
+    },
+    {
+        "concept_name": "洋壳",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "oceanic crust"
+        }
+    },
+    {
+        "concept_name": "活动大陆边缘",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "又称": " 主动大陆边缘",
+            "见载": "《地质学名词》第一版",
+            "英文名": "active continental margin"
+        }
+    },
+    {
+        "concept_name": "活动带",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "active zone"
+        }
+    },
+    {
+        "concept_name": "活动断层",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "active fault"
+        }
+    },
+    {
+        "concept_name": "活动构造",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "active tectonics"
+        }
+    },
+    {
+        "concept_name": "活动褶皱",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "active fold"
+        }
+    },
+    {
+        "concept_name": "活化",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "activation"
+        }
+    },
+    {
+        "concept_name": "流劈理",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "flowcleavage"
+        }
+    },
+    {
+        "concept_name": "海平面升降",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "eustasy"
+        }
+    },
+    {
+        "concept_name": "混杂堆积",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "melange"
+        }
+    },
+    {
+        "concept_name": "滑移系",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "slip system"
+        }
+    },
+    {
+        "concept_name": "滑移线",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "slip line"
+        }
+    },
+    {
+        "concept_name": "火山弧",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "volcanic arc"
+        }
+    },
+    {
+        "concept_name": "热点",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "hot spot"
+        }
+    },
+    {
+        "concept_name": "环带",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "girdle"
+        }
+    },
+    {
+        "concept_name": "环带组构",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "girdle fabric"
+        }
+    },
+    {
+        "concept_name": "环带轴",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "girdle axis"
+        }
+    },
+    {
+        "concept_name": "直立褶皱",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "upright fold"
+        }
+    },
+    {
+        "concept_name": "相似褶皱",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "similar fold"
+        }
+    },
+    {
+        "concept_name": "硅铝层上[的]",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ensialic"
+        }
+    },
+    {
+        "concept_name": "硅镁层上[的]",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ensimatic"
+        }
+    },
+    {
+        "concept_name": "离散边界",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "又称": " 增长边界",
+            "见载": "《地质学名词》第一版",
+            "英文名": "divergent boundary"
+        }
+    },
+    {
+        "concept_name": "窗棂构造",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "mullion"
+        }
+    },
+    {
+        "concept_name": "等倾线",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "dip isogon"
+        }
+    },
+    {
+        "concept_name": "等厚线图",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "isopach map"
+        }
+    },
+    {
+        "concept_name": "等斜褶皱",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "isoclinal fold"
+        }
+    },
+    {
+        "concept_name": "糜棱岩",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "mylonite"
+        }
+    },
+    {
+        "concept_name": "糜棱岩化",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "mylonitization"
+        }
+    },
+    {
+        "concept_name": "纯剪切",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "pure shear"
+        }
+    },
+    {
+        "concept_name": "线状构造",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "linear structure"
+        }
+    },
+    {
+        "concept_name": "组构",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "fabric"
+        }
+    },
+    {
+        "concept_name": "结晶基底",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "crystalline basement"
+        }
+    },
+    {
+        "concept_name": "结构要素",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "structural element"
+        }
+    },
+    {
+        "concept_name": "结构面",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "structural plane"
+        }
+    },
+    {
+        "concept_name": "翻卷褶皱",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "convolute fold"
+        }
+    },
+    {
+        "concept_name": "联合弧",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "conjunct arc"
+        }
+    },
+    {
+        "concept_name": "聚合作用",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "amalgamation"
+        }
+    },
+    {
+        "concept_name": "肠状褶皱",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ptygmatic fold"
+        }
+    },
+    {
+        "concept_name": "背形",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "antiform"
+        }
+    },
+    {
+        "concept_name": "背形向斜",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "antiformal syncline"
+        }
+    },
+    {
+        "concept_name": "花岗片麻岩区",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "granite-gneiss terrain"
+        }
+    },
+    {
+        "concept_name": "莫尔包络线",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "Mohr failure envelope"
+        }
+    },
+    {
+        "concept_name": "莫尔图",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "Mohr diagram"
+        }
+    },
+    {
+        "concept_name": "落错",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "throw"
+        }
+    },
+    {
+        "concept_name": "蛇绿岩套",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ophiolite suite"
+        }
+    },
+    {
+        "concept_name": "蛇绿混杂堆积",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ophiolitic melange"
+        }
+    },
+    {
+        "concept_name": "补偿",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "compensation"
+        }
+    },
+    {
+        "concept_name": "褶皱基底",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "fold basement"
+        }
+    },
+    {
+        "concept_name": "褶皱干涉图像",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "interference pattern of fold"
+        }
+    },
+    {
+        "concept_name": "褶皱轴",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "fold axis"
+        }
+    },
+    {
+        "concept_name": "褶皱轴迹",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "axial trace of fold"
+        }
+    },
+    {
+        "concept_name": "褶皱轴面",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "英文": "axial plane of fold ;axial surface of fold",
+            "见载": "《地质学名词》第一版",
+            "英文名": "axial plane of fold"
+        }
+    },
+    {
+        "concept_name": "西域构造体系",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "Xiyu tectonic system"
+        }
+    },
+    {
+        "concept_name": "视倾角",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "apparent dip"
+        }
+    },
+    {
+        "concept_name": "走滑断层",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "strike-slip fault"
+        }
+    },
+    {
+        "concept_name": "转换断层",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "transform fault"
+        }
+    },
+    {
+        "concept_name": "轴面劈理",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "axial-plane cleavage"
+        }
+    },
+    {
+        "concept_name": "边缘盆地",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "marginal basin"
+        }
+    },
+    {
+        "concept_name": "透入性",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "penetration"
+        }
+    },
+    {
+        "concept_name": "造山作用",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "orogenesis"
+        }
+    },
+    {
+        "concept_name": "造山带",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "英文": "orogenic belt ;orogene ;orogen",
+            "见载": "《地质学名词》第一版",
+            "英文名": "orogenic belt"
+        }
+    },
+    {
+        "concept_name": "造山幕",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "orogenic phase"
+        }
+    },
+    {
+        "concept_name": "造山旋回",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "orogenic cycle"
+        }
+    },
+    {
+        "concept_name": "造山期后",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "post-orogenic"
+        }
+    },
+    {
+        "concept_name": "造山运动",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "英文": "orogeny ;mountain building",
+            "见载": "《地质学名词》第一版",
+            "英文名": "orogeny"
+        }
+    },
+    {
+        "concept_name": "造陆作用",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "epeirogenesis"
+        }
+    },
+    {
+        "concept_name": "造陆运动",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "epeirogeny"
+        }
+    },
+    {
+        "concept_name": "重力滑动",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "gravitational gliding"
+        }
+    },
+    {
+        "concept_name": "重叠",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "overlaying"
+        }
+    },
+    {
+        "concept_name": "铲形断层",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "曾称": " 犁形断层",
+            "见载": "《地质学名词》第一版",
+            "英文名": "listric fault"
+        }
+    },
+    {
+        "concept_name": "锥状褶皱",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "conical fold"
+        }
+    },
+    {
+        "concept_name": "阿尔卑斯型构造",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "Alpinotype tectonics"
+        }
+    },
+    {
+        "concept_name": "阿尔卑斯期",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "Alpine"
+        }
+    },
+    {
+        "concept_name": "陆内碰撞",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "intracontinental collision"
+        }
+    },
+    {
+        "concept_name": "隆起",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "uplift"
+        }
+    },
+    {
+        "concept_name": "雁列",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "又称": " 斜列",
+            "见载": "《地质学名词》第一版",
+            "英文名": "en echelon"
+        }
+    },
+    {
+        "concept_name": "非共轴",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "non-co-axial"
+        }
+    },
+    {
+        "concept_name": "非均匀应变",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "英文": "heterogeneous strain ;inhomogeneous strain",
+            "见载": "《地质学名词》第一版",
+            "英文名": "heterogeneous strain"
+        }
+    },
+    {
+        "concept_name": "非强干",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "incompetent"
+        }
+    },
+    {
+        "concept_name": "韧性剪切变形",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ductile shear deformation"
+        }
+    },
+    {
+        "concept_name": "韧性变形",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ductile deformation"
+        }
+    },
+    {
+        "concept_name": "顶板冲断层",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "roof thrust"
+        }
+    },
+    {
+        "concept_name": "马蹄形盾地",
+        "details": {
+            "学科": "地质学_构造地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "horseshoe shaped betwixtoland"
+        }
+    }
+]

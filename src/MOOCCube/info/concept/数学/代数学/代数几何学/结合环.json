@@ -1,0 +1,1448 @@
+[
+    {
+        "concept_name": "[双边]理想",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "[two-sided] ideal"
+        }
+    },
+    {
+        "concept_name": "中心代数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "central algebra"
+        }
+    },
+    {
+        "concept_name": "中心单代数的指数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "exponent of a central simple algebra"
+        }
+    },
+    {
+        "concept_name": "中心单代数的次数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "degree of a central simple algebra"
+        }
+    },
+    {
+        "concept_name": "主幂等元",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "principal idempotent element"
+        }
+    },
+    {
+        "concept_name": "乘法结合律",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "associative law of multiplication"
+        }
+    },
+    {
+        "concept_name": "交换律",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "commutative law"
+        }
+    },
+    {
+        "concept_name": "代数同态",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "algebra homomorphism"
+        }
+    },
+    {
+        "concept_name": "代数同构",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "algebra isomorphism"
+        }
+    },
+    {
+        "concept_name": "代数的中心",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "center of an algebra"
+        }
+    },
+    {
+        "concept_name": "代数的分裂域",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "splitting fields of algebras"
+        }
+    },
+    {
+        "concept_name": "代数的分裂扩张",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "split extension of algebras"
+        }
+    },
+    {
+        "concept_name": "代数的张量积",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "tensor product of algebras"
+        }
+    },
+    {
+        "concept_name": "代数的恒等式",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "identities of algebras"
+        }
+    },
+    {
+        "concept_name": "代数的标量扩张",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "scalar extension of algebras"
+        }
+    },
+    {
+        "concept_name": "代数的根",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "radical of an algebra"
+        }
+    },
+    {
+        "concept_name": "代数的表示",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "representation of algebras"
+        }
+    },
+    {
+        "concept_name": "代数论",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "theory of algebras"
+        }
+    },
+    {
+        "concept_name": "余乘法",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "comultiplication"
+        }
+    },
+    {
+        "concept_name": "余代数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "coalgebra"
+        }
+    },
+    {
+        "concept_name": "余代数同态",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "coalgebra homomorphism"
+        }
+    },
+    {
+        "concept_name": "余单位",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "counit"
+        }
+    },
+    {
+        "concept_name": "克特根",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "Koethe radical"
+        }
+    },
+    {
+        "concept_name": "全矩阵环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "total matrix ring"
+        }
+    },
+    {
+        "concept_name": "准环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "near ring"
+        }
+    },
+    {
+        "concept_name": "准素环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "primary ring"
+        }
+    },
+    {
+        "concept_name": "分次代数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "graded algebra"
+        }
+    },
+    {
+        "concept_name": "分离箭图",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "separated quiver"
+        }
+    },
+    {
+        "concept_name": "分裂因子组",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "splitting factor set"
+        }
+    },
+    {
+        "concept_name": "分配律",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "distributive law"
+        }
+    },
+    {
+        "concept_name": "列环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "serial ring"
+        }
+    },
+    {
+        "concept_name": "加法交换律",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "commutative law of addition"
+        }
+    },
+    {
+        "concept_name": "加法消去律",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "cancellation law for addition"
+        }
+    },
+    {
+        "concept_name": "加法结合律",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "associative law of addition"
+        }
+    },
+    {
+        "concept_name": "包络代数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "enveloping algebra"
+        }
+    },
+    {
+        "concept_name": "半准素环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "semi-primary ring"
+        }
+    },
+    {
+        "concept_name": "半单代数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "semi-simple algebra"
+        }
+    },
+    {
+        "concept_name": "半单环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "semi-simple ring"
+        }
+    },
+    {
+        "concept_name": "半本原环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "semi-primitive ring"
+        }
+    },
+    {
+        "concept_name": "单代数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "simple algebra"
+        }
+    },
+    {
+        "concept_name": "单代数的ζ函数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "英文": "ζ-function of simple algebra ;zeta-function of simple algebra",
+            "见载": "《数学名词》第一版",
+            "英文名": "ζ-function of simple algebra"
+        }
+    },
+    {
+        "concept_name": "单代数的判别式",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "discriminant of a simple algebra"
+        }
+    },
+    {
+        "concept_name": "单代数的差积",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "different of a simple algebra"
+        }
+    },
+    {
+        "concept_name": "单位元[素]",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "英文": "identity element ;unit element",
+            "简称": " 幺元",
+            "见载": "《数学名词》第一版",
+            "英文名": "identity element"
+        }
+    },
+    {
+        "concept_name": "单位理想",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "unit ideal"
+        }
+    },
+    {
+        "concept_name": "单同态",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "injective homomorphism"
+        }
+    },
+    {
+        "concept_name": "单环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "simple ring"
+        }
+    },
+    {
+        "concept_name": "双代数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "bialgebra"
+        }
+    },
+    {
+        "concept_name": "反代数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "opposite algebra"
+        }
+    },
+    {
+        "concept_name": "反同态",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "anti-homomorphism"
+        }
+    },
+    {
+        "concept_name": "反同构",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "anti-isomorphism"
+        }
+    },
+    {
+        "concept_name": "反自同构",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "anti-automorphism"
+        }
+    },
+    {
+        "concept_name": "可分代数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "separable algebra"
+        }
+    },
+    {
+        "concept_name": "可除代数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "division algebra"
+        }
+    },
+    {
+        "concept_name": "右v环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "right v-ring"
+        }
+    },
+    {
+        "concept_name": "右幺元",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "right identity element"
+        }
+    },
+    {
+        "concept_name": "右序模",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "right order"
+        }
+    },
+    {
+        "concept_name": "右拟正则元",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "right quasi-regular element"
+        }
+    },
+    {
+        "concept_name": "右理想",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "right ideal"
+        }
+    },
+    {
+        "concept_name": "右自内射环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "right selfinjective ring"
+        }
+    },
+    {
+        "concept_name": "右逆元",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "right inverse element"
+        }
+    },
+    {
+        "concept_name": "右阿廷局部代数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "right Artinian local algebra"
+        }
+    },
+    {
+        "concept_name": "右阿廷环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "right Artinian ring"
+        }
+    },
+    {
+        "concept_name": "右零因子",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "right zero divisor"
+        }
+    },
+    {
+        "concept_name": "同态像",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "homomorphic image"
+        }
+    },
+    {
+        "concept_name": "同态的核",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "kernel of a homomorphism"
+        }
+    },
+    {
+        "concept_name": "商环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "又称": " 剩余类环",
+            "见载": "《数学名词》第一版",
+            "英文名": "quotient ring"
+        }
+    },
+    {
+        "concept_name": "因子组",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "factor set"
+        }
+    },
+    {
+        "concept_name": "子代数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "subalgebra"
+        }
+    },
+    {
+        "concept_name": "子环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "subring"
+        }
+    },
+    {
+        "concept_name": "完满环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "perfect ring"
+        }
+    },
+    {
+        "concept_name": "局部代数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "local algebra"
+        }
+    },
+    {
+        "concept_name": "局部幂零代数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "locally nilpotent algebra"
+        }
+    },
+    {
+        "concept_name": "局部幂零根",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "locally nilpotent radical"
+        }
+    },
+    {
+        "concept_name": "局部幂零理想",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "locally nilpotent ideal"
+        }
+    },
+    {
+        "concept_name": "局部有限代数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "locally finite algebra"
+        }
+    },
+    {
+        "concept_name": "局部次理想",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "local subideal"
+        }
+    },
+    {
+        "concept_name": "左乘环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "left multiplication ring"
+        }
+    },
+    {
+        "concept_name": "左分式环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "left quotient ring"
+        }
+    },
+    {
+        "concept_name": "左奥尔环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "left Ore ring"
+        }
+    },
+    {
+        "concept_name": "左幺元",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "left identity element"
+        }
+    },
+    {
+        "concept_name": "左序模",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "left order"
+        }
+    },
+    {
+        "concept_name": "左拟正则元",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "left quasi-regular element"
+        }
+    },
+    {
+        "concept_name": "左理想",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "left ideal"
+        }
+    },
+    {
+        "concept_name": "左理想升链条件",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "ascending chain condition for left ideals"
+        }
+    },
+    {
+        "concept_name": "左理想极大条件",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "maximum condition for left ideals"
+        }
+    },
+    {
+        "concept_name": "左理想极小条件",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "minimum condition for left ideals"
+        }
+    },
+    {
+        "concept_name": "左理想降链条件",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "descending chain condition for left ideals"
+        }
+    },
+    {
+        "concept_name": "左逆元",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "left inverse element"
+        }
+    },
+    {
+        "concept_name": "左阿廷环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "left Artinian ring"
+        }
+    },
+    {
+        "concept_name": "左零因子",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "left zero divisor"
+        }
+    },
+    {
+        "concept_name": "布朗-麦科伊根",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "Brown-McCoy radical"
+        }
+    },
+    {
+        "concept_name": "幂等元",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "idempotent element"
+        }
+    },
+    {
+        "concept_name": "幂零代数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "nilpotent algebra"
+        }
+    },
+    {
+        "concept_name": "幂零元",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "nilpotent element"
+        }
+    },
+    {
+        "concept_name": "幂零理想",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "nilpotent ideal"
+        }
+    },
+    {
+        "concept_name": "幺环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "英文": "unitary ring ;rings with identity",
+            "见载": "《数学名词》第一版",
+            "英文名": "unitary ring"
+        }
+    },
+    {
+        "concept_name": "广义四元数环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "generalized quaternion ring"
+        }
+    },
+    {
+        "concept_name": "弗罗贝尼乌斯环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "Frobenius ring"
+        }
+    },
+    {
+        "concept_name": "循环代数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "cyclic algebra"
+        }
+    },
+    {
+        "concept_name": "拟弗罗贝尼乌斯代数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "quasi-Frobenius algebra"
+        }
+    },
+    {
+        "concept_name": "拟弗罗贝尼乌斯环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "quasi-Frobenius ring"
+        }
+    },
+    {
+        "concept_name": "拟正则元",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "quasi-regular element"
+        }
+    },
+    {
+        "concept_name": "拟正则右理想",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "quasi-regular right ideal"
+        }
+    },
+    {
+        "concept_name": "拟正则左理想",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "quasi-regular left ideal"
+        }
+    },
+    {
+        "concept_name": "整双边零理想",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "integral two-sided 0-ideal"
+        }
+    },
+    {
+        "concept_name": "整左零理想",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "integral left 0-ideal"
+        }
+    },
+    {
+        "concept_name": "有理中心单代数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "rational central simple algebra"
+        }
+    },
+    {
+        "concept_name": "有理单代数的类数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "class number of a rational simple algebra"
+        }
+    },
+    {
+        "concept_name": "有理可除代数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "rational division algebra"
+        }
+    },
+    {
+        "concept_name": "有界表示型",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "bounded representation type"
+        }
+    },
+    {
+        "concept_name": "有限维代数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "finite dimensional algebra"
+        }
+    },
+    {
+        "concept_name": "有限表示型代数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "algebra of finite representation type"
+        }
+    },
+    {
+        "concept_name": "本原幂等元",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "primitive idempotent element"
+        }
+    },
+    {
+        "concept_name": "本原环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "primitive ring"
+        }
+    },
+    {
+        "concept_name": "极大右理想",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "maximal right ideal"
+        }
+    },
+    {
+        "concept_name": "极大左理想",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "maximal left ideal"
+        }
+    },
+    {
+        "concept_name": "极大序模",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "maximal order"
+        }
+    },
+    {
+        "concept_name": "极小右理想",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "minimal right ideal"
+        }
+    },
+    {
+        "concept_name": "极小左理想",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "minimal left ideal"
+        }
+    },
+    {
+        "concept_name": "极小理想",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "minimal ideal"
+        }
+    },
+    {
+        "concept_name": "标准恒等式",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "standard identities"
+        }
+    },
+    {
+        "concept_name": "根[基]",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "radical"
+        }
+    },
+    {
+        "concept_name": "根环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "radical ring"
+        }
+    },
+    {
+        "concept_name": "模整数剩余类环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "ring of residue classes modulo an integer"
+        }
+    },
+    {
+        "concept_name": "次理想",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "subideal"
+        }
+    },
+    {
+        "concept_name": "次直和",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "subdirect sum"
+        }
+    },
+    {
+        "concept_name": "次直积",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "subdirect product"
+        }
+    },
+    {
+        "concept_name": "殆分裂序列",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "almost splitting sequence"
+        }
+    },
+    {
+        "concept_name": "殆分裂扩张",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "almost splitting extension"
+        }
+    },
+    {
+        "concept_name": "泛矩阵代数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "generic matrix algebra"
+        }
+    },
+    {
+        "concept_name": "满同态",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "surjective homomorphism"
+        }
+    },
+    {
+        "concept_name": "滤过代数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "filtered algebra"
+        }
+    },
+    {
+        "concept_name": "环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "ring"
+        }
+    },
+    {
+        "concept_name": "环同构",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "ring isomorphism"
+        }
+    },
+    {
+        "concept_name": "环的中心",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "center of a ring"
+        }
+    },
+    {
+        "concept_name": "环的对合",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "involution of a ring"
+        }
+    },
+    {
+        "concept_name": "环的导子",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "derivation of a ring"
+        }
+    },
+    {
+        "concept_name": "环的直和",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "direct sum of rings"
+        }
+    },
+    {
+        "concept_name": "环论",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "ring theory"
+        }
+    },
+    {
+        "concept_name": "理想的和",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "sum of ideals"
+        }
+    },
+    {
+        "concept_name": "理想的商",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "quotient of ideals"
+        }
+    },
+    {
+        "concept_name": "理想的积",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "product of ideals"
+        }
+    },
+    {
+        "concept_name": "白尔根",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "Baer radical"
+        }
+    },
+    {
+        "concept_name": "皮尔斯分解",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "Peirce decomposition"
+        }
+    },
+    {
+        "concept_name": "直积代数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "direct product algebra"
+        }
+    },
+    {
+        "concept_name": "简化范",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "reduced norm"
+        }
+    },
+    {
+        "concept_name": "简化迹",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "reduced trace"
+        }
+    },
+    {
+        "concept_name": "箭图",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "quiver"
+        }
+    },
+    {
+        "concept_name": "箭图的二次空间",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "quadratic space of quiver"
+        }
+    },
+    {
+        "concept_name": "箭图的刚体表示",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "rigid representation of quiver"
+        }
+    },
+    {
+        "concept_name": "素环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "prime ring"
+        }
+    },
+    {
+        "concept_name": "约化怀特黑德群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "reduced Whitehead group"
+        }
+    },
+    {
+        "concept_name": "结合代数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "associative algebra"
+        }
+    },
+    {
+        "concept_name": "结合代数的算术",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "arithmetic of associative algebra"
+        }
+    },
+    {
+        "concept_name": "结合代数簇",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "variety of associative algebras"
+        }
+    },
+    {
+        "concept_name": "结合律",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "associative law"
+        }
+    },
+    {
+        "concept_name": "结合环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "associative ring"
+        }
+    },
+    {
+        "concept_name": "维数向量",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "dimension vector"
+        }
+    },
+    {
+        "concept_name": "自内射环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "self-injective ring"
+        }
+    },
+    {
+        "concept_name": "自同态",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "endomorphism"
+        }
+    },
+    {
+        "concept_name": "自同构",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "automorphism"
+        }
+    },
+    {
+        "concept_name": "自由代数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "free algebra"
+        }
+    },
+    {
+        "concept_name": "舒尔指数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "Schur index"
+        }
+    },
+    {
+        "concept_name": "诣零环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "nilring"
+        }
+    },
+    {
+        "concept_name": "诣零理想",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "nil-ideal"
+        }
+    },
+    {
+        "concept_name": "负元[素]",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "negative element"
+        }
+    },
+    {
+        "concept_name": "迪厄多内行列式",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "Dieudonne&1& determinant"
+        }
+    },
+    {
+        "concept_name": "逆元",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "inverse element"
+        }
+    },
+    {
+        "concept_name": "除环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "曾称": " 体",
+            "见载": "《数学名词》第一版",
+            "英文名": "division ring"
+        }
+    },
+    {
+        "concept_name": "雅各布森-布巴基对应",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "Jacobson-Bourbaki one-to-one correspondence"
+        }
+    },
+    {
+        "concept_name": "零元[素]",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "zero element"
+        }
+    },
+    {
+        "concept_name": "零理想",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "zero ideal"
+        }
+    },
+    {
+        "concept_name": "零调箭图",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "acyclic quiver"
+        }
+    },
+    {
+        "concept_name": "霍普夫代数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "Hopf algebra"
+        }
+    },
+    {
+        "concept_name": "非交换主理想整环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "non-commutative principal ideal domain"
+        }
+    },
+    {
+        "concept_name": "非交换唯一因子分解",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "non-commutative unique factori- zation"
+        }
+    },
+    {
+        "concept_name": "非交换局部化",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "non-commutative localization"
+        }
+    },
+    {
+        "concept_name": "非交换局部环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "non-commutative local ring"
+        }
+    },
+    {
+        "concept_name": "非交换整环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_结合环",
+            "见载": "《数学名词》第一版",
+            "英文名": "non-commutative domain"
+        }
+    }
+]

@@ -1,0 +1,749 @@
+[
+    {
+        "concept_name": "人文照射",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "humanist fix"
+        }
+    },
+    {
+        "concept_name": "人道化的技术",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "humanized technology"
+        }
+    },
+    {
+        "concept_name": "作为意识形态的技术",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technology as ideology"
+        }
+    },
+    {
+        "concept_name": "勒德主义",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "Ludditism"
+        }
+    },
+    {
+        "concept_name": "勒德派",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "Luddites"
+        }
+    },
+    {
+        "concept_name": "单一技术",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "monotechnics"
+        }
+    },
+    {
+        "concept_name": "反技术",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "anti-technology"
+        }
+    },
+    {
+        "concept_name": "反技术者",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "anti-technologist"
+        }
+    },
+    {
+        "concept_name": "实用主义技术论",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "pragmatic technology"
+        }
+    },
+    {
+        "concept_name": "实质主义技术论",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "substantive theory of technology"
+        }
+    },
+    {
+        "concept_name": "实践学",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "praxiology"
+        }
+    },
+    {
+        "concept_name": "展现",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "revealing"
+        }
+    },
+    {
+        "concept_name": "工具主义技术论",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "instrumental theory of technology"
+        }
+    },
+    {
+        "concept_name": "工具价值",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "instrumental value"
+        }
+    },
+    {
+        "concept_name": "工具合理性",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "instrumental rationality"
+        }
+    },
+    {
+        "concept_name": "工具理性",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "instrumental reason"
+        }
+    },
+    {
+        "concept_name": "巨型机器",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "megamachine"
+        }
+    },
+    {
+        "concept_name": "座架",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "德文名": "Gestell(德)",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "enframing"
+        }
+    },
+    {
+        "concept_name": "弗兰肯斯坦困境",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "Frankenstein's dilemma"
+        }
+    },
+    {
+        "concept_name": "技术",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technology"
+        }
+    },
+    {
+        "concept_name": "技术世界",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technological world"
+        }
+    },
+    {
+        "concept_name": "技术主义",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technicism"
+        }
+    },
+    {
+        "concept_name": "技术乌托邦",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technological utopia"
+        }
+    },
+    {
+        "concept_name": "技术乐观主义",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technological optimism"
+        }
+    },
+    {
+        "concept_name": "技术价值",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technological value"
+        }
+    },
+    {
+        "concept_name": "技术价值论",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "axiology of technology"
+        }
+    },
+    {
+        "concept_name": "技术决定论",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "determinism of technology"
+        }
+    },
+    {
+        "concept_name": "技术制品",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technological artifacts"
+        }
+    },
+    {
+        "concept_name": "技术化环境",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technical milieu"
+        }
+    },
+    {
+        "concept_name": "技术化社会",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technopolis"
+        }
+    },
+    {
+        "concept_name": "技术变迁",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technological change"
+        }
+    },
+    {
+        "concept_name": "技术合理性",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technological rationality"
+        }
+    },
+    {
+        "concept_name": "技术命令",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technological imperative"
+        }
+    },
+    {
+        "concept_name": "技术哲学",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "philosophy of technology"
+        }
+    },
+    {
+        "concept_name": "技术异化",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "alienation of technology"
+        }
+    },
+    {
+        "concept_name": "技术恐惧症",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technophobia"
+        }
+    },
+    {
+        "concept_name": "技术悲观主义",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technological pessimism"
+        }
+    },
+    {
+        "concept_name": "技术批判理论",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "critical theory of technology"
+        }
+    },
+    {
+        "concept_name": "技术敌托邦",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technological dystopia"
+        }
+    },
+    {
+        "concept_name": "技术文化",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technological culture"
+        }
+    },
+    {
+        "concept_name": "技术文明",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technological civilization"
+        }
+    },
+    {
+        "concept_name": "技术无政府主义",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technological anarchy"
+        }
+    },
+    {
+        "concept_name": "技术本体论",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "ontology of technology"
+        }
+    },
+    {
+        "concept_name": "技术权力",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "power of technology"
+        }
+    },
+    {
+        "concept_name": "技术梦游症",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technological drift"
+        }
+    },
+    {
+        "concept_name": "技术照射",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technological fix"
+        }
+    },
+    {
+        "concept_name": "技术狂热症",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technomania"
+        }
+    },
+    {
+        "concept_name": "技术理性",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technological reason"
+        }
+    },
+    {
+        "concept_name": "技术的中立性",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "neutrality of technology"
+        }
+    },
+    {
+        "concept_name": "技术的人道化",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "humanization of technology"
+        }
+    },
+    {
+        "concept_name": "技术的价值中立性",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "value-neutrality of technology"
+        }
+    },
+    {
+        "concept_name": "技术的价值负载性",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "value-ladenness of technology"
+        }
+    },
+    {
+        "concept_name": "技术的工具论",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "instrumentalism of technology"
+        }
+    },
+    {
+        "concept_name": "技术的形而上学",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "metaphysics of technology"
+        }
+    },
+    {
+        "concept_name": "技术的社会决定论",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "social determinism of technology"
+        }
+    },
+    {
+        "concept_name": "技术的背景论",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "contextualism of technology"
+        }
+    },
+    {
+        "concept_name": "技术的非中立性",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "non-neutrality of technology"
+        }
+    },
+    {
+        "concept_name": "技术的非人道化",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "dehumanization of technology"
+        }
+    },
+    {
+        "concept_name": "技术知识",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technological knowledge"
+        }
+    },
+    {
+        "concept_name": "技术秩序",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technological order"
+        }
+    },
+    {
+        "concept_name": "技术精英",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technological elite"
+        }
+    },
+    {
+        "concept_name": "技术系统",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technological system"
+        }
+    },
+    {
+        "concept_name": "技术素养",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technological literacy"
+        }
+    },
+    {
+        "concept_name": "技术统治",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technocracy"
+        }
+    },
+    {
+        "concept_name": "技术自主性",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "autonomy of technology"
+        }
+    },
+    {
+        "concept_name": "技术范式",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technological paradigm"
+        }
+    },
+    {
+        "concept_name": "技术虚无主义",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technological nihilism"
+        }
+    },
+    {
+        "concept_name": "技术认识论",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "epistemology of technology"
+        }
+    },
+    {
+        "concept_name": "技术评估",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technology assessment"
+        }
+    },
+    {
+        "concept_name": "技术轨道",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technological trajectory"
+        }
+    },
+    {
+        "concept_name": "技术进化",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "evolution of technology"
+        }
+    },
+    {
+        "concept_name": "技术进步",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technological progress"
+        }
+    },
+    {
+        "concept_name": "技术阶层",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technostructure"
+        }
+    },
+    {
+        "concept_name": "技术隐喻",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technological metaphor"
+        }
+    },
+    {
+        "concept_name": "技术霸权",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "hegemony of technology"
+        }
+    },
+    {
+        "concept_name": "技术革命",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technological revolution"
+        }
+    },
+    {
+        "concept_name": "技术风格",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "technological style"
+        }
+    },
+    {
+        "concept_name": "持存物",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "Bestand"
+        }
+    },
+    {
+        "concept_name": "挑战",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "德文名": "Herausforden(德)",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "challenging"
+        }
+    },
+    {
+        "concept_name": "新勒德主义",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "neo-Ludditism"
+        }
+    },
+    {
+        "concept_name": "新技术",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "new technology"
+        }
+    },
+    {
+        "concept_name": "新科学",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "new science"
+        }
+    },
+    {
+        "concept_name": "温和的技术决定论",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "soft determinism of technology"
+        }
+    },
+    {
+        "concept_name": "物化",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "reification"
+        }
+    },
+    {
+        "concept_name": "科学技术合理性",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientific-technical rationality"
+        }
+    },
+    {
+        "concept_name": "第四王国",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "又称": " 技术王国",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "the Fourth Realm"
+        }
+    },
+    {
+        "concept_name": "综合技术",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "polytechnics"
+        }
+    },
+    {
+        "concept_name": "自主技术论",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "theory of autonomous technology"
+        }
+    },
+    {
+        "concept_name": "装置范式",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "device paradigm"
+        }
+    },
+    {
+        "concept_name": "计算机统治",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "computerocracy"
+        }
+    },
+    {
+        "concept_name": "计算机隐喻",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "computational metaphor"
+        }
+    },
+    {
+        "concept_name": "适用技术",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "appropriate technology"
+        }
+    },
+    {
+        "concept_name": "限定",
+        "details": {
+            "学科": "自然辩证法_技术哲学_技术哲学总论",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "setting-upon"
+        }
+    }
+]

@@ -1,0 +1,2059 @@
+[
+    {
+        "concept_name": "[固有]闭合时间",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "又称": " [固有]合时间",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "[inherent] closing time"
+        }
+    },
+    {
+        "concept_name": "[电弧]电流零区",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "[arc] current zero period"
+        }
+    },
+    {
+        "concept_name": "[闭]合位置",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "又称": " 合位",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "closed position"
+        }
+    },
+    {
+        "concept_name": "[闭]合操作",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "closing operation"
+        }
+    },
+    {
+        "concept_name": "n级起动器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "n-step starter"
+        }
+    },
+    {
+        "concept_name": "不动作剩余电流",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "residual non-operating current"
+        }
+    },
+    {
+        "concept_name": "不动作泄漏电流",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "leakage non-operating current"
+        }
+    },
+    {
+        "concept_name": "不成功自动重合操作",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "unsuccessful auto-reclosing opera- tion"
+        }
+    },
+    {
+        "concept_name": "临界开断电流",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "critical breaking current"
+        }
+    },
+    {
+        "concept_name": "主令开关",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "master switch"
+        }
+    },
+    {
+        "concept_name": "主令控制器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "master controller"
+        }
+    },
+    {
+        "concept_name": "交接电流",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "take-over current"
+        }
+    },
+    {
+        "concept_name": "产气开关",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "gas-evolving switch"
+        }
+    },
+    {
+        "concept_name": "产气断路器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "gas-evolving circuit-breaker"
+        }
+    },
+    {
+        "concept_name": "人力[操作]起动器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "manual starter"
+        }
+    },
+    {
+        "concept_name": "人力储能操作",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "independent manual operation"
+        }
+    },
+    {
+        "concept_name": "人力储能操作机构",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "independent manual operating mechanism"
+        }
+    },
+    {
+        "concept_name": "人力操作",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "dependent manual operation"
+        }
+    },
+    {
+        "concept_name": "人力操作机构",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "dependent manual operating mech- anism"
+        }
+    },
+    {
+        "concept_name": "位置指示器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "position indicating device"
+        }
+    },
+    {
+        "concept_name": "低压开关装置",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "low voltage switching device"
+        }
+    },
+    {
+        "concept_name": "低压电器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "low voltage apparatus"
+        }
+    },
+    {
+        "concept_name": "保持[闭]合操作",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "hold-closed operation"
+        }
+    },
+    {
+        "concept_name": "保持操作",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "lockout operation"
+        }
+    },
+    {
+        "concept_name": "保持闭合机构",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "hold-closed device"
+        }
+    },
+    {
+        "concept_name": "储能操作",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "stored-energy operation"
+        }
+    },
+    {
+        "concept_name": "储能操作机构",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "stored-energy operating mecha- nism"
+        }
+    },
+    {
+        "concept_name": "分别支承接地开关",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "divided support earthing switch"
+        }
+    },
+    {
+        "concept_name": "分断操作",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "又称": " 开断操作",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "breaking operation"
+        }
+    },
+    {
+        "concept_name": "分极操作",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "individual pole operation"
+        }
+    },
+    {
+        "concept_name": "分离",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "segregation"
+        }
+    },
+    {
+        "concept_name": "分隔",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "separation"
+        }
+    },
+    {
+        "concept_name": "制动电磁铁",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "braking electromagnet"
+        }
+    },
+    {
+        "concept_name": "剩余电流[动作]保护器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "residual current operated protec- tive device"
+        }
+    },
+    {
+        "concept_name": "动作剩余电流",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "residual operating current"
+        }
+    },
+    {
+        "concept_name": "动作泄漏电流",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "leakage operating current"
+        }
+    },
+    {
+        "concept_name": "动作电流",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "operating current"
+        }
+    },
+    {
+        "concept_name": "动力操作",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "dependent power operation"
+        }
+    },
+    {
+        "concept_name": "动力操作机构",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "dependent power operating mecha- nism"
+        }
+    },
+    {
+        "concept_name": "半波",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "loop"
+        }
+    },
+    {
+        "concept_name": "单元变电站",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "unit substation"
+        }
+    },
+    {
+        "concept_name": "单元试验",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "unit test"
+        }
+    },
+    {
+        "concept_name": "单断点触头组",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "single-break contact assembly"
+        }
+    },
+    {
+        "concept_name": "单极切换",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "single-pole switching"
+        }
+    },
+    {
+        "concept_name": "单电容器组开断电流",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "single capacitor bank breaking cur- rent"
+        }
+    },
+    {
+        "concept_name": "卸出位置",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "removed position"
+        }
+    },
+    {
+        "concept_name": "压缩空气断路器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "air-blast circuit-breaker"
+        }
+    },
+    {
+        "concept_name": "双向开关",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "two-direction switch"
+        }
+    },
+    {
+        "concept_name": "双断点触头组",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "double-break contact assembly"
+        }
+    },
+    {
+        "concept_name": "反时延动作",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "inverse time-delay operation"
+        }
+    },
+    {
+        "concept_name": "反时延过[电]流脱扣器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "inverse time-delay overcurrent re- lease"
+        }
+    },
+    {
+        "concept_name": "发光按钮",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "illuminated push-button"
+        }
+    },
+    {
+        "concept_name": "变阻起动器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "rheostatic starter"
+        }
+    },
+    {
+        "concept_name": "可动电接触",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "movable electric contact"
+        }
+    },
+    {
+        "concept_name": "可移动单元变电站",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "mobile unit-substation"
+        }
+    },
+    {
+        "concept_name": "可调定温开关",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "adjustable thermostatic switch"
+        }
+    },
+    {
+        "concept_name": "可逆转换",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "reversible change over"
+        }
+    },
+    {
+        "concept_name": "合-开操作",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "又称": " 合-分操作",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "close-open operation"
+        }
+    },
+    {
+        "concept_name": "吸合",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "attracting"
+        }
+    },
+    {
+        "concept_name": "吸合电流",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "attract current"
+        }
+    },
+    {
+        "concept_name": "吹弧线圈",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "blow-out coil"
+        }
+    },
+    {
+        "concept_name": "固定电接触",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "stationary electric contact"
+        }
+    },
+    {
+        "concept_name": "固定联结",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "fixed connection"
+        }
+    },
+    {
+        "concept_name": "固定脱扣机械开关装置",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "fixed trip mechanical switching de- vice"
+        }
+    },
+    {
+        "concept_name": "复燃",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "re-ignition"
+        }
+    },
+    {
+        "concept_name": "外施电压",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "applied voltage"
+        }
+    },
+    {
+        "concept_name": "外能灭弧室",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "external-energy extinguishing chamber"
+        }
+    },
+    {
+        "concept_name": "多极操作",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "multipole operation"
+        }
+    },
+    {
+        "concept_name": "多油断路器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "bulk oil circuit-breaker"
+        }
+    },
+    {
+        "concept_name": "失步开断电流",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "out-of-phase breaking current"
+        }
+    },
+    {
+        "concept_name": "定时延动作",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "definite time-delay operation"
+        }
+    },
+    {
+        "concept_name": "定时延过[电]流脱扣器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "definite time-delay overcurrent re- lease"
+        }
+    },
+    {
+        "concept_name": "对接触头",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "butt contact"
+        }
+    },
+    {
+        "concept_name": "封闭式开关板",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "enclosed switchboard"
+        }
+    },
+    {
+        "concept_name": "封闭式组合电器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "又称": " 气体绝缘金属封闭开关设备(GIS)",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "gas insulated metal-enclosed swit- chgear"
+        }
+    },
+    {
+        "concept_name": "封闭式组合装置",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "enclosed assembly"
+        }
+    },
+    {
+        "concept_name": "小半波",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "minor loop"
+        }
+    },
+    {
+        "concept_name": "小电感开断电流",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "small inductive breaking current"
+        }
+    },
+    {
+        "concept_name": "少油断路器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "oil-minimum circuit-breaker"
+        }
+    },
+    {
+        "concept_name": "峰值电弧电压",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "peak arc voltage"
+        }
+    },
+    {
+        "concept_name": "工厂组装式组合装置",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "英文": "factory-built assembly ;FBA",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "factory-built assembly"
+        }
+    },
+    {
+        "concept_name": "带熔断器断路器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "integrally-fused circuit-breaker"
+        }
+    },
+    {
+        "concept_name": "带熔断器隔离器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "disconnector-fuse"
+        }
+    },
+    {
+        "concept_name": "带电箱壳断路器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "又称": " 瓷柱式断路器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "live tank circuit-breaker"
+        }
+    },
+    {
+        "concept_name": "延时动作",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "time-delay operation"
+        }
+    },
+    {
+        "concept_name": "延时动作按钮",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "delayed action push-button"
+        }
+    },
+    {
+        "concept_name": "延时型剩余电流[动作]保护器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "time-delay residual current operated protective device"
+        }
+    },
+    {
+        "concept_name": "延时型漏电[动作]保护器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "time-delay leakage current operated protective device"
+        }
+    },
+    {
+        "concept_name": "开-合时间",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "又称": " 分-合时间",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "open-close time"
+        }
+    },
+    {
+        "concept_name": "开关设备",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "switchgear"
+        }
+    },
+    {
+        "concept_name": "开路转换",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "open [circuit] transition"
+        }
+    },
+    {
+        "concept_name": "弧后电流",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "post-arc current"
+        }
+    },
+    {
+        "concept_name": "弧触头",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "arcing contact"
+        }
+    },
+    {
+        "concept_name": "往复机构",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "reciprocating device"
+        }
+    },
+    {
+        "concept_name": "微动开关",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "又称": " 灵敏开关",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "sensitive switch"
+        }
+    },
+    {
+        "concept_name": "快动作触头",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "quick-action contact"
+        }
+    },
+    {
+        "concept_name": "快速断路器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "high-speed circuit-breaker"
+        }
+    },
+    {
+        "concept_name": "恢复电压",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "recovery voltage"
+        }
+    },
+    {
+        "concept_name": "慢动作触头",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "slow-action contact"
+        }
+    },
+    {
+        "concept_name": "截断",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "英文": "cut-off ;chopping",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "cut-off"
+        }
+    },
+    {
+        "concept_name": "截断电流",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "又称": " 允通电流(let-through cur-rent)",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "cut-off current"
+        }
+    },
+    {
+        "concept_name": "截断电流特性",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "cut-off [current] characteristic"
+        }
+    },
+    {
+        "concept_name": "扭转机构",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "torsional device"
+        }
+    },
+    {
+        "concept_name": "扼流圈",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "又称": " 平滑电感器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "choke"
+        }
+    },
+    {
+        "concept_name": "抽屉式断路器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "withdrawable circuit-breaker"
+        }
+    },
+    {
+        "concept_name": "指示控制开关",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "indicating control switch"
+        }
+    },
+    {
+        "concept_name": "振荡回路试验",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "oscillating circuit test"
+        }
+    },
+    {
+        "concept_name": "接地位置",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "earthing position"
+        }
+    },
+    {
+        "concept_name": "接地开关",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "earthing switch"
+        }
+    },
+    {
+        "concept_name": "接地箱壳断路器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "又称": " 落地罐式断路器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "dead tank circuit-breaker"
+        }
+    },
+    {
+        "concept_name": "接近开关",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "proximity switch"
+        }
+    },
+    {
+        "concept_name": "接通",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "又称": " 关合",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "making"
+        }
+    },
+    {
+        "concept_name": "接通操作",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "又称": " 关合操作",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "making operation"
+        }
+    },
+    {
+        "concept_name": "接通能力试验",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "又称": " 关合能力试验",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "making capacity test"
+        }
+    },
+    {
+        "concept_name": "控制板",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "control board"
+        }
+    },
+    {
+        "concept_name": "控制电器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "control apparatus"
+        }
+    },
+    {
+        "concept_name": "插入式断路器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "plug-in circuit-breaker"
+        }
+    },
+    {
+        "concept_name": "操作",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "operation"
+        }
+    },
+    {
+        "concept_name": "操作机构",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "又称": " 操动机构",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "operating mechanism"
+        }
+    },
+    {
+        "concept_name": "操作线圈",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "operating coil"
+        }
+    },
+    {
+        "concept_name": "操作顺序",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "operating sequence"
+        }
+    },
+    {
+        "concept_name": "操作频率",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "frequency of operation"
+        }
+    },
+    {
+        "concept_name": "操动件",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "actuator"
+        }
+    },
+    {
+        "concept_name": "操动力",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "actuating force"
+        }
+    },
+    {
+        "concept_name": "操动力矩",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "actuating torque"
+        }
+    },
+    {
+        "concept_name": "断开",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "又称": " 分",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "opening"
+        }
+    },
+    {
+        "concept_name": "断开位置",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "又称": " 分位",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "open position"
+        }
+    },
+    {
+        "concept_name": "断开同期性",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "又称": " 分同期性",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "opening simultaneity"
+        }
+    },
+    {
+        "concept_name": "断开操作",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "又称": " 分操作",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "opening operation"
+        }
+    },
+    {
+        "concept_name": "断相保护热过载脱扣器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "phase failure sensitive thermal- overload release"
+        }
+    },
+    {
+        "concept_name": "断路器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "circuit-breaker"
+        }
+    },
+    {
+        "concept_name": "最低[闭]合操作电压",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "minimum closing voltage"
+        }
+    },
+    {
+        "concept_name": "机械耐久性",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "曾称": " 机械寿命",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "mechanical endurance"
+        }
+    },
+    {
+        "concept_name": "机械耐久性试验",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "曾称": " 机械寿命试验",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "mechanical endurance test"
+        }
+    },
+    {
+        "concept_name": "极",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "pole"
+        }
+    },
+    {
+        "concept_name": "模压外壳断路器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "曾称": " 塑料外壳式断路器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "moulded case circuit-breaker"
+        }
+    },
+    {
+        "concept_name": "横吹灭弧室",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "cross-blast extinguishing chamber"
+        }
+    },
+    {
+        "concept_name": "欠电压脱扣器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "under-voltage release"
+        }
+    },
+    {
+        "concept_name": "气体电弧",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "gaseous arc"
+        }
+    },
+    {
+        "concept_name": "气动起动器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "pneumatic starter"
+        }
+    },
+    {
+        "concept_name": "油开关",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "oil switch"
+        }
+    },
+    {
+        "concept_name": "油断路器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "oil circuit-breaker"
+        }
+    },
+    {
+        "concept_name": "油浸开关装置",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "oil-immersed switching device"
+        }
+    },
+    {
+        "concept_name": "泄漏电流断路器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "leakage current circuit-breaker"
+        }
+    },
+    {
+        "concept_name": "滑动接触",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "sliding contact"
+        }
+    },
+    {
+        "concept_name": "滑线式变阻器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "slider type rheostat"
+        }
+    },
+    {
+        "concept_name": "滚动触头",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "rolling contact"
+        }
+    },
+    {
+        "concept_name": "漏电[动作]保护器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "leakage current operated protective device"
+        }
+    },
+    {
+        "concept_name": "灭弧栅",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "arc-chute"
+        }
+    },
+    {
+        "concept_name": "灭弧管",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "arc-extinguishing tube"
+        }
+    },
+    {
+        "concept_name": "灭弧装置",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "又称": " 灭弧室(arc-extinguishing chamber)",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "arc-control device"
+        }
+    },
+    {
+        "concept_name": "热过载脱扣器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "thermal-overload release"
+        }
+    },
+    {
+        "concept_name": "燃弧时差",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "difference of arcing time"
+        }
+    },
+    {
+        "concept_name": "燃弧时间",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "arcing time"
+        }
+    },
+    {
+        "concept_name": "牵引电磁铁",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "tractive electromagnet"
+        }
+    },
+    {
+        "concept_name": "环网柜",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "ring main unit"
+        }
+    },
+    {
+        "concept_name": "电力液压推动器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electro-hydraulicthruster"
+        }
+    },
+    {
+        "concept_name": "电动机操作起动器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "motor operated starter"
+        }
+    },
+    {
+        "concept_name": "电压引入",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "voltage injection"
+        }
+    },
+    {
+        "concept_name": "电容器组关合涌流",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "capacitor bank inrush making current"
+        }
+    },
+    {
+        "concept_name": "电接触",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric contact"
+        }
+    },
+    {
+        "concept_name": "电气气动接触器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electropneumatic contactor"
+        }
+    },
+    {
+        "concept_name": "电气气动起动器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electropneumatic starter"
+        }
+    },
+    {
+        "concept_name": "电流引入",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "current injection"
+        }
+    },
+    {
+        "concept_name": "电流整定值范围",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "current setting range"
+        }
+    },
+    {
+        "concept_name": "电流零点",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "current zero"
+        }
+    },
+    {
+        "concept_name": "电磁接触器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electromagnetic contactor"
+        }
+    },
+    {
+        "concept_name": "电磁气动接触器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electromagnetic pneumatic contac- tor"
+        }
+    },
+    {
+        "concept_name": "电磁起动器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electromagnetic starter"
+        }
+    },
+    {
+        "concept_name": "电磁铁",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electromagnet"
+        }
+    },
+    {
+        "concept_name": "电耐久性",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "曾称": " 电寿命",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electrical endurance"
+        }
+    },
+    {
+        "concept_name": "电耐久性试验",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "曾称": " 电寿命试验",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electrical endurance test"
+        }
+    },
+    {
+        "concept_name": "监控开关",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "pilot switch"
+        }
+    },
+    {
+        "concept_name": "直接过[电]流脱扣器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "direct overcurrent release"
+        }
+    },
+    {
+        "concept_name": "真空电弧",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "vacuum arc"
+        }
+    },
+    {
+        "concept_name": "瞬态恢复电压振幅因数",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "amplitude factor of transient recovery voltage"
+        }
+    },
+    {
+        "concept_name": "瞬态恢复电压时延",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "time-delay of transient recovery voltage"
+        }
+    },
+    {
+        "concept_name": "瞬时动作",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "instantaneous operation"
+        }
+    },
+    {
+        "concept_name": "瞬时脱扣器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "instantaneous release"
+        }
+    },
+    {
+        "concept_name": "短时耐受电流试验",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "又称": " 热稳定性试验",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "short-time withstand current test"
+        }
+    },
+    {
+        "concept_name": "短路分断能力",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "又称": " 短路开断能力",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "short-circuit breaking capacity"
+        }
+    },
+    {
+        "concept_name": "短路接通",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "又称": " 短路关合",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "short-circuit making"
+        }
+    },
+    {
+        "concept_name": "短路接通电流",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "又称": " 短路关合电流",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "short-circuit making current"
+        }
+    },
+    {
+        "concept_name": "磁吹断路器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "英文": "air-break circuit-breaker ;magnetic blow-out circuit-breaker",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "air-break circuit-breaker"
+        }
+    },
+    {
+        "concept_name": "磁过载脱扣器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "magnetic-overload release"
+        }
+    },
+    {
+        "concept_name": "空气开关装置",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "air switching device"
+        }
+    },
+    {
+        "concept_name": "空气接触器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "air contactor"
+        }
+    },
+    {
+        "concept_name": "空气断路器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "air circuit-breaker"
+        }
+    },
+    {
+        "concept_name": "箱式充气开关设备",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "cubicle gas-insulated switchgear"
+        }
+    },
+    {
+        "concept_name": "纵吹灭弧室",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "axial-blast extinguishing chamber"
+        }
+    },
+    {
+        "concept_name": "纵横吹灭弧室",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "mixed-blast extinguishing chamber"
+        }
+    },
+    {
+        "concept_name": "线路瞬态恢复电压峰值因数",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "peak factor of line transient recov- ery voltage"
+        }
+    },
+    {
+        "concept_name": "组合电器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "composite apparatus"
+        }
+    },
+    {
+        "concept_name": "组合装置",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "assembly"
+        }
+    },
+    {
+        "concept_name": "绝缘封闭开关设备",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "insulation-enclosed switchgear"
+        }
+    },
+    {
+        "concept_name": "联络断路器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "network interconnecting circuit- breaker"
+        }
+    },
+    {
+        "concept_name": "联锁",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "interlocking"
+        }
+    },
+    {
+        "concept_name": "联锁机构",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "interlocking device"
+        }
+    },
+    {
+        "concept_name": "肯定断开操作",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "又称": " 肯定分操作",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "positive opening operation"
+        }
+    },
+    {
+        "concept_name": "肯定驱动操作",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "positive driven operation"
+        }
+    },
+    {
+        "concept_name": "背对背电容器组开断电流",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "back-to-back capacitor bank breaking current"
+        }
+    },
+    {
+        "concept_name": "脚踏开关",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "foot switch"
+        }
+    },
+    {
+        "concept_name": "脱扣器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "release"
+        }
+    },
+    {
+        "concept_name": "自动重[闭]合",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "auto-reclosing"
+        }
+    },
+    {
+        "concept_name": "自动重合操作",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "auto-reclosing operation"
+        }
+    },
+    {
+        "concept_name": "自动重合机构",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "automatic reclosing device"
+        }
+    },
+    {
+        "concept_name": "自耦变压器起动器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "auto-transformer starter"
+        }
+    },
+    {
+        "concept_name": "自能灭弧室",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "self-energy extinguishing chamber"
+        }
+    },
+    {
+        "concept_name": "自锁",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "autolocking"
+        }
+    },
+    {
+        "concept_name": "触头刚分速度",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "speed at instant of contacts sepa- rating"
+        }
+    },
+    {
+        "concept_name": "触头刚合速度",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "speed at instant of contacts touch- ing"
+        }
+    },
+    {
+        "concept_name": "触头初压力",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "contact initial pressure"
+        }
+    },
+    {
+        "concept_name": "触头开距",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "clearance between open contacts"
+        }
+    },
+    {
+        "concept_name": "触头超[额行]程",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "contact over-travel"
+        }
+    },
+    {
+        "concept_name": "负载因数",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "on-load factor"
+        }
+    },
+    {
+        "concept_name": "起始瞬态恢复电压",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "英文": "initial transient recovery voltage ;ITRV",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "initial transient recovery voltage"
+        }
+    },
+    {
+        "concept_name": "起重电磁铁",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "lifting electromagnet"
+        }
+    },
+    {
+        "concept_name": "转换开关",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "又称": " 选择开关(selector switch)",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "change-over switch"
+        }
+    },
+    {
+        "concept_name": "转换触头",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "change-over contact"
+        }
+    },
+    {
+        "concept_name": "软联结",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "flexible connection"
+        }
+    },
+    {
+        "concept_name": "辅助开关",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "auxiliary switch"
+        }
+    },
+    {
+        "concept_name": "辅助触头",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "auxiliary contact"
+        }
+    },
+    {
+        "concept_name": "过[电]流脱扣器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "overcurrent release"
+        }
+    },
+    {
+        "concept_name": "过载脱扣器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "overload release"
+        }
+    },
+    {
+        "concept_name": "近区故障开断电流",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "short-line fault breaking current"
+        }
+    },
+    {
+        "concept_name": "逆电流脱扣器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "reverse-current release"
+        }
+    },
+    {
+        "concept_name": "选择性断开",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "又称": " 选择性分",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "selective opening"
+        }
+    },
+    {
+        "concept_name": "选择性脱扣器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "selective release"
+        }
+    },
+    {
+        "concept_name": "配电开关板",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "distribution switchboard"
+        }
+    },
+    {
+        "concept_name": "配电电器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "distribution apparatus"
+        }
+    },
+    {
+        "concept_name": "释放电流",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "release current"
+        }
+    },
+    {
+        "concept_name": "重[闭]合时间",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "reclosing time"
+        }
+    },
+    {
+        "concept_name": "重合器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "automatic circuit-recloser"
+        }
+    },
+    {
+        "concept_name": "金属封闭开关设备",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "metal-enclosed switchgear"
+        }
+    },
+    {
+        "concept_name": "金属铠装开关设备",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "metal-clad switchgear"
+        }
+    },
+    {
+        "concept_name": "钥匙操作按钮",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "key operated push-button"
+        }
+    },
+    {
+        "concept_name": "闭合-延时-断开操作",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "又称": " 合-延时-分操作",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "close-time delay-open operation"
+        }
+    },
+    {
+        "concept_name": "闭合-断开时间",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "又称": " 合-分时间",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "close-open time"
+        }
+    },
+    {
+        "concept_name": "间接过[电]流脱扣器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "indirect overcurrent release"
+        }
+    },
+    {
+        "concept_name": "防跳机构",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "anti-pumping device"
+        }
+    },
+    {
+        "concept_name": "防闭合锁定断路器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "circuit-breaker with lock-out pre- venting closing"
+        }
+    },
+    {
+        "concept_name": "限流断路器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "current-limiting circuit-breaker"
+        }
+    },
+    {
+        "concept_name": "隔离器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "英文": "disconnector ;isolator",
+            "曾称": " 隔离开关",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "disconnector"
+        }
+    },
+    {
+        "concept_name": "非对称分断",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "又称": " 非对称开断",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "asymmetrical breaking"
+        }
+    },
+    {
+        "concept_name": "非对称电流",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "asymmetrical current"
+        }
+    },
+    {
+        "concept_name": "预击穿时间",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "pre-arcing time"
+        }
+    },
+    {
+        "concept_name": "预期对称电流",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "prospective symmetrical current"
+        }
+    },
+    {
+        "concept_name": "预期电流",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "prospective current"
+        }
+    },
+    {
+        "concept_name": "预期瞬态恢复电压",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "prospective transient recovery vol- tage"
+        }
+    },
+    {
+        "concept_name": "频繁操作断路器",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "increased operating frequency cir- cuit-breaker"
+        }
+    },
+    {
+        "concept_name": "高压开关装置",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "high voltage switching device"
+        }
+    },
+    {
+        "concept_name": "高压开关设备",
+        "details": {
+            "学科": "电气工程_开关设备和控制设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "high voltage switchgear"
+        }
+    }
+]

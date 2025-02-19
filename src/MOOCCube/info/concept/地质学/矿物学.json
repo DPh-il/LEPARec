@@ -1,0 +1,2048 @@
+[
+    {
+        "concept_name": "X射线衍射",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "X-ray diffraction"
+        }
+    },
+    {
+        "concept_name": "[寻]常光",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ordinary ray"
+        }
+    },
+    {
+        "concept_name": "一轴晶",
+        "details": {
+            "学科": "地质学_矿物学",
+            "又称": " 单轴晶体",
+            "见载": "《地质学名词》第一版",
+            "英文名": "uniaxial crystal"
+        }
+    },
+    {
+        "concept_name": "不对称",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "asymmetry"
+        }
+    },
+    {
+        "concept_name": "不透明",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "opaque"
+        }
+    },
+    {
+        "concept_name": "中长石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "andesine"
+        }
+    },
+    {
+        "concept_name": "主折射率",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "principal refractive index"
+        }
+    },
+    {
+        "concept_name": "乌光泽",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "dull luster"
+        }
+    },
+    {
+        "concept_name": "二十面体",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "icosahedron"
+        }
+    },
+    {
+        "concept_name": "二圈测角仪",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "two circle goniometer"
+        }
+    },
+    {
+        "concept_name": "二连石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "erlianite"
+        }
+    },
+    {
+        "concept_name": "五角三八面体",
+        "details": {
+            "学科": "地质学_矿物学",
+            "英文": "pentagonal icositetrahedron ;pentagonal trioctahedron",
+            "见载": "《地质学名词》第一版",
+            "英文名": "pentagonal icositetrahedron"
+        }
+    },
+    {
+        "concept_name": "人造矿物",
+        "details": {
+            "学科": "地质学_矿物学",
+            "又称": " 合成矿物",
+            "见载": "《地质学名词》第一版",
+            "英文名": "artificial mineral"
+        }
+    },
+    {
+        "concept_name": "介电常量",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "dielectric constant"
+        }
+    },
+    {
+        "concept_name": "他型",
+        "details": {
+            "学科": "地质学_矿物学",
+            "又称": " 异型",
+            "见载": "《地质学名词》第一版",
+            "英文名": "allotype"
+        }
+    },
+    {
+        "concept_name": "伊利石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "illite"
+        }
+    },
+    {
+        "concept_name": "假蓝宝石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "sapphirine"
+        }
+    },
+    {
+        "concept_name": "偏振角",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "angle of polarization"
+        }
+    },
+    {
+        "concept_name": "偏方十二面体",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "deltohedron"
+        }
+    },
+    {
+        "concept_name": "偏方形",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "deltoid"
+        }
+    },
+    {
+        "concept_name": "元素",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "element"
+        }
+    },
+    {
+        "concept_name": "光性异常",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "optical anormaly"
+        }
+    },
+    {
+        "concept_name": "光性方位",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "optical orientation"
+        }
+    },
+    {
+        "concept_name": "光率体",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "indicatrix"
+        }
+    },
+    {
+        "concept_name": "光轴",
+        "details": {
+            "学科": "地质学_矿物学",
+            "英文": "optical axis ;OA",
+            "见载": "《地质学名词》第一版",
+            "英文名": "optical axis"
+        }
+    },
+    {
+        "concept_name": "光轴角",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "optical angle"
+        }
+    },
+    {
+        "concept_name": "光轴面",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "optical axial plane"
+        }
+    },
+    {
+        "concept_name": "克列里奇液",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "Clerici's solution"
+        }
+    },
+    {
+        "concept_name": "全型",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "holotype"
+        }
+    },
+    {
+        "concept_name": "八面体",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "octahedron"
+        }
+    },
+    {
+        "concept_name": "内反射",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "internal reflection"
+        }
+    },
+    {
+        "concept_name": "冰晶石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "cryolite"
+        }
+    },
+    {
+        "concept_name": "冰长石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "adularia"
+        }
+    },
+    {
+        "concept_name": "副矿物",
+        "details": {
+            "学科": "地质学_矿物学",
+            "英文": "accessory mineral ;synthetic mineral",
+            "见载": "《地质学名词》第一版",
+            "英文名": "accessory mineral"
+        }
+    },
+    {
+        "concept_name": "劳厄群",
+        "details": {
+            "学科": "地质学_矿物学",
+            "曾称": " 劳埃群",
+            "见载": "《地质学名词》第一版",
+            "英文名": "Laue group"
+        }
+    },
+    {
+        "concept_name": "半面体",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "hemihedron"
+        }
+    },
+    {
+        "concept_name": "单圈测角仪",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "one circle goniometer"
+        }
+    },
+    {
+        "concept_name": "单斜辉石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "clinopyroxene"
+        }
+    },
+    {
+        "concept_name": "双晶轴",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "twin axis"
+        }
+    },
+    {
+        "concept_name": "反伸中心",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "inversion center"
+        }
+    },
+    {
+        "concept_name": "反射颜色指数",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "reflection color index"
+        }
+    },
+    {
+        "concept_name": "反应力矿物",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "antistress mineral"
+        }
+    },
+    {
+        "concept_name": "反磁性",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "antimagnetism"
+        }
+    },
+    {
+        "concept_name": "叶蛇纹石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "antigorite"
+        }
+    },
+    {
+        "concept_name": "叶蜡石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "pyrophyllite"
+        }
+    },
+    {
+        "concept_name": "吸收[性]",
+        "details": {
+            "学科": "地质学_矿物学",
+            "英文": "absorption ;absorptivity",
+            "见载": "《地质学名词》第一版",
+            "英文名": "absorption"
+        }
+    },
+    {
+        "concept_name": "吸收指数",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "absorption index"
+        }
+    },
+    {
+        "concept_name": "土光泽",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "earth luster"
+        }
+    },
+    {
+        "concept_name": "均质",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "isotropic"
+        }
+    },
+    {
+        "concept_name": "均键结构",
+        "details": {
+            "学科": "地质学_矿物学",
+            "又称": " 等键结构",
+            "见载": "《地质学名词》第一版",
+            "英文名": "isodesmic structure"
+        }
+    },
+    {
+        "concept_name": "复稀金矿",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "polycrase"
+        }
+    },
+    {
+        "concept_name": "多型",
+        "details": {
+            "学科": "地质学_矿物学",
+            "又称": " 多型体",
+            "见载": "《地质学名词》第一版",
+            "英文名": "polytype"
+        }
+    },
+    {
+        "concept_name": "天河石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "amazonite"
+        }
+    },
+    {
+        "concept_name": "奥长石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "曾称": " 更长石",
+            "见载": "《地质学名词》第一版",
+            "英文名": "oligoclase"
+        }
+    },
+    {
+        "concept_name": "安多矿",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "anduoite"
+        }
+    },
+    {
+        "concept_name": "安康矿",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ankangite"
+        }
+    },
+    {
+        "concept_name": "实验矿物学",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "experimental mineralogy"
+        }
+    },
+    {
+        "concept_name": "差热分析",
+        "details": {
+            "学科": "地质学_矿物学",
+            "英文": "differential thermal analysis ;DTA",
+            "见载": "《地质学名词》第一版",
+            "英文名": "differential thermal analysis"
+        }
+    },
+    {
+        "concept_name": "巴西双晶",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "Brazil twin"
+        }
+    },
+    {
+        "concept_name": "布拉维指数",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "Bravais indices"
+        }
+    },
+    {
+        "concept_name": "干涉图",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "interference figure"
+        }
+    },
+    {
+        "concept_name": "干涉色",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "interference color"
+        }
+    },
+    {
+        "concept_name": "平行消光",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "parallel extinction"
+        }
+    },
+    {
+        "concept_name": "平面偏振",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "plane polarization"
+        }
+    },
+    {
+        "concept_name": "应用矿物学",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "applied mineralogy"
+        }
+    },
+    {
+        "concept_name": "延长[性]",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "elongation"
+        }
+    },
+    {
+        "concept_name": "异极矿",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "hemimorphite"
+        }
+    },
+    {
+        "concept_name": "弗氏旋转台",
+        "details": {
+            "学科": "地质学_矿物学",
+            "英文": "universal stage ;Fedorov stage",
+            "见载": "《地质学名词》第一版",
+            "英文名": "universal stage"
+        }
+    },
+    {
+        "concept_name": "心射极平投影",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "gnomonic projection"
+        }
+    },
+    {
+        "concept_name": "折射率",
+        "details": {
+            "学科": "地质学_矿物学",
+            "又称": " 折光率",
+            "见载": "《地质学名词》第一版",
+            "英文名": "refractive index"
+        }
+    },
+    {
+        "concept_name": "指示矿物",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "index mineral"
+        }
+    },
+    {
+        "concept_name": "放射性",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "radioactivity"
+        }
+    },
+    {
+        "concept_name": "文石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "又称": " 霰石",
+            "见载": "《地质学名词》第一版",
+            "英文名": "aragonite"
+        }
+    },
+    {
+        "concept_name": "斑铜矿",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "bornite"
+        }
+    },
+    {
+        "concept_name": "斜方晶系",
+        "details": {
+            "学科": "地质学_矿物学",
+            "又称": " 正交晶系",
+            "见载": "《地质学名词》第一版",
+            "英文名": "orthorhombic system"
+        }
+    },
+    {
+        "concept_name": "斜方辉石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "orthopyroxene"
+        }
+    },
+    {
+        "concept_name": "斜方闪叶石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ortholamprophyllite"
+        }
+    },
+    {
+        "concept_name": "斜消光",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "oblique extinction"
+        }
+    },
+    {
+        "concept_name": "斜长石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "plagioclase"
+        }
+    },
+    {
+        "concept_name": "斧石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "axinite"
+        }
+    },
+    {
+        "concept_name": "方沸石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "analcime"
+        }
+    },
+    {
+        "concept_name": "方镁石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "periclase"
+        }
+    },
+    {
+        "concept_name": "旋转反伸对称",
+        "details": {
+            "学科": "地质学_矿物学",
+            "又称": " 反伸",
+            "见载": "《地质学名词》第一版",
+            "英文名": "rotation inversion"
+        }
+    },
+    {
+        "concept_name": "明矾石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "alunite"
+        }
+    },
+    {
+        "concept_name": "易变辉石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "pigeonite"
+        }
+    },
+    {
+        "concept_name": "普通辉石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "augite"
+        }
+    },
+    {
+        "concept_name": "晶体光学",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "crystal optics"
+        }
+    },
+    {
+        "concept_name": "晶体取向",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "crystal orientation"
+        }
+    },
+    {
+        "concept_name": "晶体对称",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "crystal symmetry"
+        }
+    },
+    {
+        "concept_name": "晶带指数",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "zone index"
+        }
+    },
+    {
+        "concept_name": "晶带轴",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "zone axis"
+        }
+    },
+    {
+        "concept_name": "晶胞",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "unit cell"
+        }
+    },
+    {
+        "concept_name": "晶胞参数",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "unit cell parameter"
+        }
+    },
+    {
+        "concept_name": "晶质铀矿",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "uraninite"
+        }
+    },
+    {
+        "concept_name": "晶面指数",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "index of crystal face"
+        }
+    },
+    {
+        "concept_name": "有序",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "order"
+        }
+    },
+    {
+        "concept_name": "有理指数定律",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "law of rational indices"
+        }
+    },
+    {
+        "concept_name": "架状硅酸盐",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "framework silicate"
+        }
+    },
+    {
+        "concept_name": "柯石英",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "coesite"
+        }
+    },
+    {
+        "concept_name": "柱",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "prism"
+        }
+    },
+    {
+        "concept_name": "柴达木石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "chaidamuite"
+        }
+    },
+    {
+        "concept_name": "椭圆偏振",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "elliptical polarization"
+        }
+    },
+    {
+        "concept_name": "橄榄石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "olivine"
+        }
+    },
+    {
+        "concept_name": "橄榄铜矿",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "olivenite"
+        }
+    },
+    {
+        "concept_name": "正延长",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "length slow"
+        }
+    },
+    {
+        "concept_name": "正长石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "orthoclase"
+        }
+    },
+    {
+        "concept_name": "歪长石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "anorthoclase"
+        }
+    },
+    {
+        "concept_name": "毒砂",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "arsenopyrite"
+        }
+    },
+    {
+        "concept_name": "氟碳铈矿",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "bastnaesite"
+        }
+    },
+    {
+        "concept_name": "氧化物",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "oxide"
+        }
+    },
+    {
+        "concept_name": "油浸法",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "immersionmethod"
+        }
+    },
+    {
+        "concept_name": "泻利盐",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "epsomite"
+        }
+    },
+    {
+        "concept_name": "浅闪石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "edenite"
+        }
+    },
+    {
+        "concept_name": "消光",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "extinction"
+        }
+    },
+    {
+        "concept_name": "消光位",
+        "details": {
+            "学科": "地质学_矿物学",
+            "又称": " 消光方向",
+            "见载": "《地质学名词》第一版",
+            "英文名": "direction of extinction"
+        }
+    },
+    {
+        "concept_name": "消光角",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "extinction angle"
+        }
+    },
+    {
+        "concept_name": "烧绿石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "pyrochlore"
+        }
+    },
+    {
+        "concept_name": "热重分析",
+        "details": {
+            "学科": "地质学_矿物学",
+            "英文": "gravitational thermal analysis ;GTA",
+            "见载": "《地质学名词》第一版",
+            "英文名": "gravitational thermal analysis"
+        }
+    },
+    {
+        "concept_name": "玉髓",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "chalcedony"
+        }
+    },
+    {
+        "concept_name": "玻璃光泽",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "vitreous luster"
+        }
+    },
+    {
+        "concept_name": "珍珠云母",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "margarite"
+        }
+    },
+    {
+        "concept_name": "申弗利斯符号",
+        "details": {
+            "学科": "地质学_矿物学",
+            "曾称": " 圣弗利斯符号",
+            "见载": "《地质学名词》第一版",
+            "英文名": "Schoenflies symbol"
+        }
+    },
+    {
+        "concept_name": "电子探针",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "electron probe"
+        }
+    },
+    {
+        "concept_name": "电子显微镜",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "electron microscope"
+        }
+    },
+    {
+        "concept_name": "电子衍射",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "electron diffraction"
+        }
+    },
+    {
+        "concept_name": "白云母",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "muscovite"
+        }
+    },
+    {
+        "concept_name": "白云鄂博矿",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "baiyuneboite"
+        }
+    },
+    {
+        "concept_name": "白铅矿",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "cerussite"
+        }
+    },
+    {
+        "concept_name": "直闪石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "anthophyllite"
+        }
+    },
+    {
+        "concept_name": "石盐",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "halite"
+        }
+    },
+    {
+        "concept_name": "石膏",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "gypsum"
+        }
+    },
+    {
+        "concept_name": "矿物学",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "mineralogy"
+        }
+    },
+    {
+        "concept_name": "矿物物性",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "physical property"
+        }
+    },
+    {
+        "concept_name": "矿物物理学",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "mineral physics"
+        }
+    },
+    {
+        "concept_name": "矿相学",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ore microscopy"
+        }
+    },
+    {
+        "concept_name": "矿相显微镜",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ore microscope"
+        }
+    },
+    {
+        "concept_name": "砷酸盐",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "arsenate"
+        }
+    },
+    {
+        "concept_name": "砷锑矿",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "stibarsen"
+        }
+    },
+    {
+        "concept_name": "硅硼钙石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "datolite"
+        }
+    },
+    {
+        "concept_name": "硅镁石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "humite"
+        }
+    },
+    {
+        "concept_name": "硫化物",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "sulfide"
+        }
+    },
+    {
+        "concept_name": "硫酸盐",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "sulfate"
+        }
+    },
+    {
+        "concept_name": "硬石膏",
+        "details": {
+            "学科": "地质学_矿物学",
+            "又称": " 无水石膏",
+            "见载": "《地质学名词》第一版",
+            "英文名": "anhydrite"
+        }
+    },
+    {
+        "concept_name": "硼镁铁矿",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ludwigite"
+        }
+    },
+    {
+        "concept_name": "磁赤铁矿",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "maghemite"
+        }
+    },
+    {
+        "concept_name": "磷灰石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "apatite"
+        }
+    },
+    {
+        "concept_name": "磷酸盐",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "phosphate"
+        }
+    },
+    {
+        "concept_name": "离子交换",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ion exchange"
+        }
+    },
+    {
+        "concept_name": "离子探针",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ionic probe"
+        }
+    },
+    {
+        "concept_name": "穆斯堡尔效应",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "Moessbauer effect"
+        }
+    },
+    {
+        "concept_name": "穆斯堡尔谱",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "Moessbauer spectrum"
+        }
+    },
+    {
+        "concept_name": "空晶石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "chiastolite"
+        }
+    },
+    {
+        "concept_name": "立方体",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "cube"
+        }
+    },
+    {
+        "concept_name": "符山石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "英文": "vesuvianite ;idocrase",
+            "见载": "《地质学名词》第一版",
+            "英文名": "vesuvianite"
+        }
+    },
+    {
+        "concept_name": "等同周期",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "identity period"
+        }
+    },
+    {
+        "concept_name": "等型",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "isotype"
+        }
+    },
+    {
+        "concept_name": "等效应点系",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "equiposition"
+        }
+    },
+    {
+        "concept_name": "等轴晶系",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "isometric system"
+        }
+    },
+    {
+        "concept_name": "米勒指数",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "Miller indices"
+        }
+    },
+    {
+        "concept_name": "类质同象",
+        "details": {
+            "学科": "地质学_矿物学",
+            "英文": "isomorphism ;allomerism",
+            "见载": "《地质学名词》第一版",
+            "英文名": "isomorphism"
+        }
+    },
+    {
+        "concept_name": "索伦石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "suolunite"
+        }
+    },
+    {
+        "concept_name": "红外光谱",
+        "details": {
+            "学科": "地质学_矿物学",
+            "英文": "infrared spectrum ;IR",
+            "见载": "《地质学名词》第一版",
+            "英文名": "infrared spectrum"
+        }
+    },
+    {
+        "concept_name": "红柱石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "andalusite"
+        }
+    },
+    {
+        "concept_name": "结晶轴",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "crystallographic axis"
+        }
+    },
+    {
+        "concept_name": "绢云母",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "sericite"
+        }
+    },
+    {
+        "concept_name": "维氏硬度",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "Vickers hardness"
+        }
+    },
+    {
+        "concept_name": "绿帘石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "epidote"
+        }
+    },
+    {
+        "concept_name": "绿柱石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "beryl"
+        }
+    },
+    {
+        "concept_name": "绿辉石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "omphacite"
+        }
+    },
+    {
+        "concept_name": "绿钙闪石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "hastingsite"
+        }
+    },
+    {
+        "concept_name": "羟砷锌石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "adamite"
+        }
+    },
+    {
+        "concept_name": "羟钒锌铅石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "descloizite"
+        }
+    },
+    {
+        "concept_name": "聚片双晶",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "multiple twin"
+        }
+    },
+    {
+        "concept_name": "自形",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "automorphic"
+        }
+    },
+    {
+        "concept_name": "自然铜",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "native copper"
+        }
+    },
+    {
+        "concept_name": "自生矿物",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "authigenic mineral"
+        }
+    },
+    {
+        "concept_name": "臭葱石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "scorodite"
+        }
+    },
+    {
+        "concept_name": "色散",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "dispersion"
+        }
+    },
+    {
+        "concept_name": "莫来石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "mullite"
+        }
+    },
+    {
+        "concept_name": "莱河矿",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "laihunite"
+        }
+    },
+    {
+        "concept_name": "菱锰矿",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "rhodochrosite"
+        }
+    },
+    {
+        "concept_name": "萤石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "fluorite"
+        }
+    },
+    {
+        "concept_name": "蓝铁矿",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "vivianite"
+        }
+    },
+    {
+        "concept_name": "蓝铜矿",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "azurite"
+        }
+    },
+    {
+        "concept_name": "蔷薇辉石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "rhodonite"
+        }
+    },
+    {
+        "concept_name": "蚀象",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "etch figure"
+        }
+    },
+    {
+        "concept_name": "蛋白石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "opal"
+        }
+    },
+    {
+        "concept_name": "蜜黄长石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "meliphanite"
+        }
+    },
+    {
+        "concept_name": "螺旋轴",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "screw axis"
+        }
+    },
+    {
+        "concept_name": "褐帘石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "英文": "allanite ;orthite",
+            "见载": "《地质学名词》第一版",
+            "英文名": "allanite"
+        }
+    },
+    {
+        "concept_name": "角银矿",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "chlorargyrite"
+        }
+    },
+    {
+        "concept_name": "贵橄榄石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "chrysolite"
+        }
+    },
+    {
+        "concept_name": "赤铜矿",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "cuprite"
+        }
+    },
+    {
+        "concept_name": "软玉",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "nephrite"
+        }
+    },
+    {
+        "concept_name": "软锰矿",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "pyrolusite"
+        }
+    },
+    {
+        "concept_name": "轴率",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "axial ratio"
+        }
+    },
+    {
+        "concept_name": "轴角",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "axial angle"
+        }
+    },
+    {
+        "concept_name": "轴面",
+        "details": {
+            "学科": "地质学_矿物学",
+            "英文": "axial plane ;pinacoid",
+            "见载": "《地质学名词》第一版",
+            "英文名": "axial plane"
+        }
+    },
+    {
+        "concept_name": "辉钼矿",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "molybdenite"
+        }
+    },
+    {
+        "concept_name": "辉铜矿",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "chalcocite"
+        }
+    },
+    {
+        "concept_name": "辉银矿",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "argentite"
+        }
+    },
+    {
+        "concept_name": "透辉石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "diopside"
+        }
+    },
+    {
+        "concept_name": "配位多面体",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "coordinate polyhedron"
+        }
+    },
+    {
+        "concept_name": "重结晶[作用]",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "recrystallization"
+        }
+    },
+    {
+        "concept_name": "金云母",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "phlogopite"
+        }
+    },
+    {
+        "concept_name": "金刚光泽",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "adamantine luster"
+        }
+    },
+    {
+        "concept_name": "金刚石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "diamond"
+        }
+    },
+    {
+        "concept_name": "鉴定矿物学",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "determinative mineralogy"
+        }
+    },
+    {
+        "concept_name": "钒钙铀矿",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "tyuyamunite"
+        }
+    },
+    {
+        "concept_name": "钓鱼岛石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "diaoyudaoite"
+        }
+    },
+    {
+        "concept_name": "钙铁榴石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "andradite"
+        }
+    },
+    {
+        "concept_name": "钙铝榴石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "grossularite"
+        }
+    },
+    {
+        "concept_name": "钙铬榴石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "uvarovite"
+        }
+    },
+    {
+        "concept_name": "钙长石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "anorthite"
+        }
+    },
+    {
+        "concept_name": "钛铁矿",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ilmenite"
+        }
+    },
+    {
+        "concept_name": "钠铁闪石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "又称": " 亚铁钠闪石",
+            "见载": "《地质学名词》第一版",
+            "英文名": "arfvedsonite"
+        }
+    },
+    {
+        "concept_name": "钠长石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "albite"
+        }
+    },
+    {
+        "concept_name": "铁白云石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ankerite"
+        }
+    },
+    {
+        "concept_name": "铁磁性",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ferromagnetism"
+        }
+    },
+    {
+        "concept_name": "铁铝榴石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "英文": "almandite ;almandine",
+            "见载": "《地质学名词》第一版",
+            "英文名": "almandite"
+        }
+    },
+    {
+        "concept_name": "铜蓝",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "covellite"
+        }
+    },
+    {
+        "concept_name": "铬酸盐",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "chromate"
+        }
+    },
+    {
+        "concept_name": "铬钾矿",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "lopezite"
+        }
+    },
+    {
+        "concept_name": "银金矿",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "electrum"
+        }
+    },
+    {
+        "concept_name": "锂云母",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "lepidolite"
+        }
+    },
+    {
+        "concept_name": "锂电气石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "elbaite"
+        }
+    },
+    {
+        "concept_name": "锆石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "zircon"
+        }
+    },
+    {
+        "concept_name": "锡石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "cassiterite"
+        }
+    },
+    {
+        "concept_name": "锥",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "pyramid"
+        }
+    },
+    {
+        "concept_name": "锰铝榴石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "spessartite"
+        }
+    },
+    {
+        "concept_name": "镁橄榄石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "forsterite"
+        }
+    },
+    {
+        "concept_name": "镁电气石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "dravite"
+        }
+    },
+    {
+        "concept_name": "闪石[类]",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "amphibole"
+        }
+    },
+    {
+        "concept_name": "阳起石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "actinolite"
+        }
+    },
+    {
+        "concept_name": "阿贝折射计",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "Abbe refractometer"
+        }
+    },
+    {
+        "concept_name": "雌黄",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "orpiment"
+        }
+    },
+    {
+        "concept_name": "霓石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "aegirine"
+        }
+    },
+    {
+        "concept_name": "非[寻]常光",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "extraordinary ray"
+        }
+    },
+    {
+        "concept_name": "非均质",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "anisotropic"
+        }
+    },
+    {
+        "concept_name": "非均键结构",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "anisodesmic structure"
+        }
+    },
+    {
+        "concept_name": "非晶质",
+        "details": {
+            "学科": "地质学_矿物学",
+            "英文": "amorphous ;noncrystalline",
+            "见载": "《地质学名词》第一版",
+            "英文名": "amorphous"
+        }
+    },
+    {
+        "concept_name": "面角守恒定律",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "law of constancy of angle"
+        }
+    },
+    {
+        "concept_name": "顽辉石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "曾称": " 顽火辉石",
+            "见载": "《地质学名词》第一版",
+            "英文名": "enstatite"
+        }
+    },
+    {
+        "concept_name": "额尔齐斯石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ertixiite"
+        }
+    },
+    {
+        "concept_name": "鱼眼石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "apophyllite"
+        }
+    },
+    {
+        "concept_name": "鲕绿泥石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "chamosite"
+        }
+    },
+    {
+        "concept_name": "鳞绿泥石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "thuringite"
+        }
+    },
+    {
+        "concept_name": "黄玉",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "topaz"
+        }
+    },
+    {
+        "concept_name": "黄钾铁矾",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "jarosite"
+        }
+    },
+    {
+        "concept_name": "黄锑矿",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "cervantite"
+        }
+    },
+    {
+        "concept_name": "黑硬绿泥石",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "stilpnomelane"
+        }
+    },
+    {
+        "concept_name": "黑钨矿",
+        "details": {
+            "学科": "地质学_矿物学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "wolframite"
+        }
+    }
+]

@@ -1,0 +1,204 @@
+[
+    {
+        "concept_name": "关联处理机",
+        "details": {
+            "学科": "计算机科学技术_计算机体系结构_计算机类型",
+            "定义": "用相联存储器，即按内容访问的存储器，来实现存储操作的并行处理机。",
+            "见载": "《计算机科学技术名词 》第三版",
+            "英文名": "associative processor"
+        }
+    },
+    {
+        "concept_name": "单地址计算机",
+        "details": {
+            "学科": "计算机科学技术_计算机体系结构_计算机类型",
+            "定义": "机器指令中只有一个地址码的计算机。",
+            "见载": "《计算机科学技术名词 》第三版",
+            "英文名": "single-address computer"
+        }
+    },
+    {
+        "concept_name": "单指令流单数据流系统",
+        "details": {
+            "学科": "计算机科学技术_计算机体系结构_计算机类型",
+            "英文": "single-instruction stream single-data stream system ;SISD system",
+            "简称": " 单指令单数据流系统(single-instruction single-data stream system)",
+            "定义": "执行一个指令序列，对一个数据流进行操作的计算机系统。",
+            "见载": "《计算机科学技术名词 》第三版",
+            "英文名": "single-instruction stream single-data stream system"
+        }
+    },
+    {
+        "concept_name": "单指令流多数据流系统",
+        "details": {
+            "学科": "计算机科学技术_计算机体系结构_计算机类型",
+            "英文": "single-instruction stream multiple-data stream system ;SIMD system",
+            "简称": " 单指令多数据流系统(single-instruction multiple-data stream system)",
+            "定义": "执行一个指令序列，对多个数据流同时进行操作的计算机系统。",
+            "见载": "《计算机科学技术名词 》第三版",
+            "英文名": "single-instruction stream multiple-data stream system"
+        }
+    },
+    {
+        "concept_name": "单计算机系统",
+        "details": {
+            "学科": "计算机科学技术_计算机体系结构_计算机类型",
+            "定义": "只有一个处理机的计算机系统。",
+            "见载": "《计算机科学技术名词 》第三版",
+            "英文名": "unicomputer system"
+        }
+    },
+    {
+        "concept_name": "复杂指令集计算机",
+        "details": {
+            "学科": "计算机科学技术_计算机体系结构_计算机类型",
+            "英文": "complex instruction set computer ;CISC",
+            "定义": "采用功能强大而复杂的指令集的计算机。其主要特点是：指令类型多、功能强，指令格式复杂，实现庞大指令集的硬件较为复杂。",
+            "见载": "《计算机科学技术名词 》第三版",
+            "英文名": "complex instruction set computer"
+        }
+    },
+    {
+        "concept_name": "多发射处理机",
+        "details": {
+            "学科": "计算机科学技术_计算机体系结构_计算机类型",
+            "定义": "在超标量或超流水线处理机中，每个时钟周期发射的指令数大于1，称为多发射处理机。",
+            "见载": "《计算机科学技术名词 》第三版",
+            "英文名": "multiple issue processor"
+        }
+    },
+    {
+        "concept_name": "多地址计算机",
+        "details": {
+            "学科": "计算机科学技术_计算机体系结构_计算机类型",
+            "定义": "机器指令中有多个地址码的计算机。",
+            "见载": "《计算机科学技术名词 》第三版",
+            "英文名": "multiple-address computer"
+        }
+    },
+    {
+        "concept_name": "多指令流单数据流系统",
+        "details": {
+            "学科": "计算机科学技术_计算机体系结构_计算机类型",
+            "英文": "multiple-instruction stream single-data stream system ;MISD system",
+            "简称": " 多指令单数据流系统(multiple-instruction single-data stream system)",
+            "定义": "同时执行多个指令序列，但对单一数据流进行操作的计算机系统。",
+            "见载": "《计算机科学技术名词 》第三版",
+            "英文名": "multiple-instruction stream single-data stream system"
+        }
+    },
+    {
+        "concept_name": "多指令流多数据流系统",
+        "details": {
+            "学科": "计算机科学技术_计算机体系结构_计算机类型",
+            "英文": "multiple-instruction stream multiple-data stream system ;MIMD system",
+            "简称": " 多指令多数据流系统(multiple-instruction multiple-data stream system)",
+            "定义": "同时执行多个指令序列，对多个数据流同时进行操作的计算机系统。",
+            "见载": "《计算机科学技术名词 》第三版",
+            "英文名": "multiple-instruction stream multiple-data stream system"
+        }
+    },
+    {
+        "concept_name": "并行推理机",
+        "details": {
+            "学科": "计算机科学技术_计算机体系结构_计算机类型",
+            "定义": "一种可并行执行逻辑推理操作的计算机。",
+            "见载": "《计算机科学技术名词 》第三版",
+            "英文名": "parallel inference machine"
+        }
+    },
+    {
+        "concept_name": "数组处理机",
+        "details": {
+            "学科": "计算机科学技术_计算机体系结构_计算机类型",
+            "定义": "对数组而不是对单个操作数进行高速计算的处理机，需要与一台主机相连，与主机共享主存和外围设备。",
+            "见载": "《计算机科学技术名词 》第三版",
+            "英文名": "array processor"
+        }
+    },
+    {
+        "concept_name": "精简指令集计算机",
+        "details": {
+            "学科": "计算机科学技术_计算机体系结构_计算机类型",
+            "英文": "reduced instruction set computer ;RISC",
+            "定义": "采用高效简洁的指令集的计算机。其主要特点是：指令字的长度和格式固定，能在一个时钟周期内装入完成一条指令，完成复杂功能的指令用软件实现，对编译优化要求高。",
+            "见载": "《计算机科学技术名词 》第三版",
+            "英文名": "reduced instruction set computer"
+        }
+    },
+    {
+        "concept_name": "细胞阵列处理机",
+        "details": {
+            "学科": "计算机科学技术_计算机体系结构_计算机类型",
+            "定义": "具有众多相同处理单元，可对任务的不同部分进行并行处理，所用单元的数量可以成千上万，所构成的阵列一般是二维的，也可以是多维的。",
+            "见载": "《计算机科学技术名词 》第三版",
+            "英文名": "cellular array processor"
+        }
+    },
+    {
+        "concept_name": "脉动阵列机",
+        "details": {
+            "学科": "计算机科学技术_计算机体系结构_计算机类型",
+            "定义": "一种阵列结构的处理机。数据按流水方式在阵列处理单元间传送，所有的处理单元同时并行地对流经它的数据进行处理。",
+            "见载": "《计算机科学技术名词 》第三版",
+            "英文名": "systolic arrays"
+        }
+    },
+    {
+        "concept_name": "输入输出处理机",
+        "details": {
+            "学科": "计算机科学技术_计算机体系结构_计算机类型",
+            "英文": "input、output processor ;I、O processor",
+            "定义": "在多处理机系统中，主要承担输入输出任务的处理机。",
+            "见载": "《计算机科学技术名词 》第三版",
+            "英文名": "input/output processor"
+        }
+    },
+    {
+        "concept_name": "阵列计算机",
+        "details": {
+            "学科": "计算机科学技术_计算机体系结构_计算机类型",
+            "定义": "在同一个控制器控制下，多个处理单元同时对各自的数据进行处理的计算机。",
+            "见载": "《计算机科学技术名词 》第三版",
+            "英文名": "array computer"
+        }
+    },
+    {
+        "concept_name": "附属处理器",
+        "details": {
+            "学科": "计算机科学技术_计算机体系结构_计算机类型",
+            "定义": "附接于主处理器并在主处理器控制下完成特定功能（如数组运算）的一种专用处理器。",
+            "见载": "《计算机科学技术名词 》第三版",
+            "英文名": "attached processor"
+        }
+    },
+    {
+        "concept_name": "非对称式多处理机",
+        "details": {
+            "学科": "计算机科学技术_计算机体系结构_计算机类型",
+            "简称": " 非对称多处理机",
+            "定义": "由若干个功能不同的处理机构成的多处理机系统。",
+            "见载": "《计算机科学技术名词 》第三版",
+            "英文名": "asymmetric multiprocessor"
+        }
+    },
+    {
+        "concept_name": "顺序推理机",
+        "details": {
+            "学科": "计算机科学技术_计算机体系结构_计算机类型",
+            "定义": "一种按预定顺序完成逻辑推理操作的计算机。",
+            "见载": "《计算机科学技术名词 》第三版",
+            "英文名": "sequential inference machine"
+        }
+    },
+    {
+        "concept_name": "高可用性集群",
+        "details": {
+            "学科": "计算机科学技术_计算机体系结构_计算机类型",
+            "英文": "high availability cluster ;HA cluster",
+            "定义": "采用多机热备份等技术，出现故障时只需停顿较短时间的计算机集群系统。",
+            "见载": "《计算机科学技术名词 》第三版",
+            "英文名": "high availability cluster"
+        }
+    }
+]

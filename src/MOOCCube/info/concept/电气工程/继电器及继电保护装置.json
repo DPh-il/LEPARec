@@ -1,0 +1,1376 @@
+[
+    {
+        "concept_name": "[继电]保护装置",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "[relaying] protection equipment"
+        }
+    },
+    {
+        "concept_name": "[自]保持继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "latching relay"
+        }
+    },
+    {
+        "concept_name": "[触点]回跳",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "[contact] bouncing"
+        }
+    },
+    {
+        "concept_name": "一次继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "primary relay"
+        }
+    },
+    {
+        "concept_name": "不动作值",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "non-operating value"
+        }
+    },
+    {
+        "concept_name": "不正确动作",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "incorrect operation"
+        }
+    },
+    {
+        "concept_name": "不释放值",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "non-releasing value"
+        }
+    },
+    {
+        "concept_name": "中介继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "interposing relay"
+        }
+    },
+    {
+        "concept_name": "中位转换触点",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "change-over contact with neutral position"
+        }
+    },
+    {
+        "concept_name": "中间继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "又称": " 辅助继电器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "auxiliary relay"
+        }
+    },
+    {
+        "concept_name": "临界冲击",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "critical impulse"
+        }
+    },
+    {
+        "concept_name": "主保护",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "main protection"
+        }
+    },
+    {
+        "concept_name": "主保护装置",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "main protection equipment"
+        }
+    },
+    {
+        "concept_name": "二次继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "secondary relay"
+        }
+    },
+    {
+        "concept_name": "他定时限量度继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "dependent-time measuring relay"
+        }
+    },
+    {
+        "concept_name": "保护动作时间",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "operate time of protection"
+        }
+    },
+    {
+        "concept_name": "保护继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "protection relay"
+        }
+    },
+    {
+        "concept_name": "允许式保护",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "permissive protection"
+        }
+    },
+    {
+        "concept_name": "先断后通转换触点",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "change-over break before make contact"
+        }
+    },
+    {
+        "concept_name": "先通后断转换触点",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "change-over make before break contact"
+        }
+    },
+    {
+        "concept_name": "初始状态",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "initial condition"
+        }
+    },
+    {
+        "concept_name": "判别元件",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "discriminating element"
+        }
+    },
+    {
+        "concept_name": "制动电流",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "restraint current"
+        }
+    },
+    {
+        "concept_name": "制动系数",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "restraint coefficient"
+        }
+    },
+    {
+        "concept_name": "功率方向继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "directional power relay"
+        }
+    },
+    {
+        "concept_name": "功率继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "power relay"
+        }
+    },
+    {
+        "concept_name": "动作",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "operating"
+        }
+    },
+    {
+        "concept_name": "动作值",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "operating value"
+        }
+    },
+    {
+        "concept_name": "动作安匝",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "operating ampere-turns"
+        }
+    },
+    {
+        "concept_name": "动作指示器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "operation indicator"
+        }
+    },
+    {
+        "concept_name": "动作时间",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "operate time"
+        }
+    },
+    {
+        "concept_name": "动作特性",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "operating characteristic"
+        }
+    },
+    {
+        "concept_name": "动作状态",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "operate condition"
+        }
+    },
+    {
+        "concept_name": "动合触点",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "曾称": " 常开触点",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "make contact"
+        }
+    },
+    {
+        "concept_name": "动合输出电路",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "output make circuit"
+        }
+    },
+    {
+        "concept_name": "动断输出电路",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "output break circuit"
+        }
+    },
+    {
+        "concept_name": "动触点",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "moving contact"
+        }
+    },
+    {
+        "concept_name": "单元保护系统",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "unit protection system"
+        }
+    },
+    {
+        "concept_name": "单稳态继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "monostable relay"
+        }
+    },
+    {
+        "concept_name": "双断触点",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "double-break contact"
+        }
+    },
+    {
+        "concept_name": "双稳态继电器状态",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "condition of a bistable relay"
+        }
+    },
+    {
+        "concept_name": "反向回复",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "reverse-reverting"
+        }
+    },
+    {
+        "concept_name": "反向回复值",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "reverse-reverting value"
+        }
+    },
+    {
+        "concept_name": "反时限继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "inverse-time relay"
+        }
+    },
+    {
+        "concept_name": "发电机保护装置",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "protection equipment for generator"
+        }
+    },
+    {
+        "concept_name": "变化率继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "rate-of-change relay"
+        }
+    },
+    {
+        "concept_name": "变压器保护装置",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "protection equipment for trans- former"
+        }
+    },
+    {
+        "concept_name": "后备保护",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "backup protection"
+        }
+    },
+    {
+        "concept_name": "后备保护装置",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "backup protection equipment"
+        }
+    },
+    {
+        "concept_name": "回复",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "reverting"
+        }
+    },
+    {
+        "concept_name": "回跳时间",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "bounce time"
+        }
+    },
+    {
+        "concept_name": "基准一致性",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "reference consistency"
+        }
+    },
+    {
+        "concept_name": "基本电流",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "basic current"
+        }
+    },
+    {
+        "concept_name": "增量继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "increment relay"
+        }
+    },
+    {
+        "concept_name": "备用电源保护装置",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "automatic switching-on equipment of standby power supply"
+        }
+    },
+    {
+        "concept_name": "复归时间",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "又称": " 返回时间",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "reset time"
+        }
+    },
+    {
+        "concept_name": "定时欠电压保护",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "time-undervoltage protection"
+        }
+    },
+    {
+        "concept_name": "定时限继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "specified-time relay"
+        }
+    },
+    {
+        "concept_name": "差动电流",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "differential current"
+        }
+    },
+    {
+        "concept_name": "差动继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "differential relay"
+        }
+    },
+    {
+        "concept_name": "带输出触点的静态继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "static relay with output contact"
+        }
+    },
+    {
+        "concept_name": "平衡继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "balance relay"
+        }
+    },
+    {
+        "concept_name": "影响因素",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "influencing factor"
+        }
+    },
+    {
+        "concept_name": "影响量基准值",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "reference value of an influencing quantity"
+        }
+    },
+    {
+        "concept_name": "微波[纵联]保护装置",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "microwave-pilot protection equip- ment"
+        }
+    },
+    {
+        "concept_name": "快动快释继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "fast-operate fast-release relay"
+        }
+    },
+    {
+        "concept_name": "快动慢释继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "fast-operate slow-release relay"
+        }
+    },
+    {
+        "concept_name": "快动继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "fast-operate relay"
+        }
+    },
+    {
+        "concept_name": "恢复时间",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "recovery time"
+        }
+    },
+    {
+        "concept_name": "惯性继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "inertia relay"
+        }
+    },
+    {
+        "concept_name": "感应[式]继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "induction relay"
+        }
+    },
+    {
+        "concept_name": "慢动继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "slow-operate relay"
+        }
+    },
+    {
+        "concept_name": "手动复归继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "hand-reset relay"
+        }
+    },
+    {
+        "concept_name": "接地故障保护",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "earth fault protection"
+        }
+    },
+    {
+        "concept_name": "接地继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "earth fault relay"
+        }
+    },
+    {
+        "concept_name": "接触力",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "contact force"
+        }
+    },
+    {
+        "concept_name": "接触压降",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "contact voltage drop"
+        }
+    },
+    {
+        "concept_name": "控制继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "control relay"
+        }
+    },
+    {
+        "concept_name": "故障母线保护",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "fault bus protection"
+        }
+    },
+    {
+        "concept_name": "数字式保护装置",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "digital protection equipment"
+        }
+    },
+    {
+        "concept_name": "整定值",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "setting value"
+        }
+    },
+    {
+        "concept_name": "整定比",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "setting ratio"
+        }
+    },
+    {
+        "concept_name": "整定范围",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "setting range"
+        }
+    },
+    {
+        "concept_name": "整步继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "synchronizing relay"
+        }
+    },
+    {
+        "concept_name": "整流式继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "rectifying relay"
+        }
+    },
+    {
+        "concept_name": "断开时间",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "opening time"
+        }
+    },
+    {
+        "concept_name": "断相继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "open-phase relay"
+        }
+    },
+    {
+        "concept_name": "断路器失效保护装置",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "circuit-breaker failure protection equipment"
+        }
+    },
+    {
+        "concept_name": "无输出触点的静态继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "static relay without output contact"
+        }
+    },
+    {
+        "concept_name": "有或无继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "all-or-nothing relay"
+        }
+    },
+    {
+        "concept_name": "未激励状态",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "unenergized condition"
+        }
+    },
+    {
+        "concept_name": "机电[式]继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electromechanical relay"
+        }
+    },
+    {
+        "concept_name": "极化继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "polarized relay"
+        }
+    },
+    {
+        "concept_name": "欠电压继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "under-voltage relay"
+        }
+    },
+    {
+        "concept_name": "欠电流继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "under-current relay"
+        }
+    },
+    {
+        "concept_name": "欠范围保护",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "underreaching protection"
+        }
+    },
+    {
+        "concept_name": "正序继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "positive-phase-sequence relay"
+        }
+    },
+    {
+        "concept_name": "正确动作",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "correct operation"
+        }
+    },
+    {
+        "concept_name": "死区",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "dead zone"
+        }
+    },
+    {
+        "concept_name": "母线保护装置",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "protection equipment for bus-bar"
+        }
+    },
+    {
+        "concept_name": "测量元件",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "measuring element"
+        }
+    },
+    {
+        "concept_name": "潜动",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "creeping"
+        }
+    },
+    {
+        "concept_name": "激励状态",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "energized condition"
+        }
+    },
+    {
+        "concept_name": "激励量",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "energizing quantity"
+        }
+    },
+    {
+        "concept_name": "特性角",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "characteristic angle"
+        }
+    },
+    {
+        "concept_name": "特性量",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "characteristic quantity"
+        }
+    },
+    {
+        "concept_name": "电动[式]继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electromotive relay"
+        }
+    },
+    {
+        "concept_name": "电抗继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "reactance relay"
+        }
+    },
+    {
+        "concept_name": "电热继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "thermal electrical relay"
+        }
+    },
+    {
+        "concept_name": "电磁[式]继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electromagnetic relay"
+        }
+    },
+    {
+        "concept_name": "电磁系统",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electromagnetic system"
+        }
+    },
+    {
+        "concept_name": "电纳继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "susceptance relay"
+        }
+    },
+    {
+        "concept_name": "监控继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "monitoring relay"
+        }
+    },
+    {
+        "concept_name": "相位比较继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "phase-comparator relay"
+        }
+    },
+    {
+        "concept_name": "相序继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "phase-sequence relay"
+        }
+    },
+    {
+        "concept_name": "相间电流平衡保护",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "current phase-balance protection"
+        }
+    },
+    {
+        "concept_name": "瞬接触点",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "snap-on contact"
+        }
+    },
+    {
+        "concept_name": "短时极限电流",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "limiting short-time current"
+        }
+    },
+    {
+        "concept_name": "磁电[式]继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "magneto-electric relay"
+        }
+    },
+    {
+        "concept_name": "等级指数",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "class index"
+        }
+    },
+    {
+        "concept_name": "系统阻抗比",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "system impedance ratio"
+        }
+    },
+    {
+        "concept_name": "终止状态",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "final condition"
+        }
+    },
+    {
+        "concept_name": "联锁继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "interlocking relay"
+        }
+    },
+    {
+        "concept_name": "自动复归继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "automatically reset relay"
+        }
+    },
+    {
+        "concept_name": "自定时限量度继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "independent-time measuring relay"
+        }
+    },
+    {
+        "concept_name": "衔铁",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "armature"
+        }
+    },
+    {
+        "concept_name": "触点滑动",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "contact wipe"
+        }
+    },
+    {
+        "concept_name": "触点组件",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "contact assembly"
+        }
+    },
+    {
+        "concept_name": "触点耐久性",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "曾称": " 触点寿命",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "contact endurance"
+        }
+    },
+    {
+        "concept_name": "触点负载",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "contact load"
+        }
+    },
+    {
+        "concept_name": "触点跟随",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "又称": " 触点超行程",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "contact follow"
+        }
+    },
+    {
+        "concept_name": "触点间隙",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "contact gap"
+        }
+    },
+    {
+        "concept_name": "误动",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "unwanted operation"
+        }
+    },
+    {
+        "concept_name": "调节继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "regulating relay"
+        }
+    },
+    {
+        "concept_name": "起动值",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "starting value"
+        }
+    },
+    {
+        "concept_name": "起动元件",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "starting element"
+        }
+    },
+    {
+        "concept_name": "距离保护装置",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "distance protection equipment"
+        }
+    },
+    {
+        "concept_name": "距离继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "distance relay"
+        }
+    },
+    {
+        "concept_name": "转换时间",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "change-over time"
+        }
+    },
+    {
+        "concept_name": "转换触点",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "change-over contact"
+        }
+    },
+    {
+        "concept_name": "载波[纵联]保护装置",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "carrier-pilot protection equipment"
+        }
+    },
+    {
+        "concept_name": "载波纵联保护",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "carrier-pilot protection"
+        }
+    },
+    {
+        "concept_name": "载波继电保护",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "carrier-relaying protection"
+        }
+    },
+    {
+        "concept_name": "辅助激励量",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "auxiliary energizing quantity"
+        }
+    },
+    {
+        "concept_name": "输入激励量",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "input energizing quantity"
+        }
+    },
+    {
+        "concept_name": "输入电路",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "input circuit"
+        }
+    },
+    {
+        "concept_name": "输出电路",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "output circuit"
+        }
+    },
+    {
+        "concept_name": "过电压继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "overvoltage relay"
+        }
+    },
+    {
+        "concept_name": "过电流继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "overcurrent relay"
+        }
+    },
+    {
+        "concept_name": "过范围保护",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "overreaching protection"
+        }
+    },
+    {
+        "concept_name": "过载继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "overload relay"
+        }
+    },
+    {
+        "concept_name": "连续极限电流",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "limiting continuous current"
+        }
+    },
+    {
+        "concept_name": "退出比",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "disengaging ratio"
+        }
+    },
+    {
+        "concept_name": "退出百分数",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "disengaging percentage"
+        }
+    },
+    {
+        "concept_name": "适时值",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "just value"
+        }
+    },
+    {
+        "concept_name": "选择性",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "selectivity"
+        }
+    },
+    {
+        "concept_name": "选相继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "phase-selector relay"
+        }
+    },
+    {
+        "concept_name": "释放值",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "releasing value"
+        }
+    },
+    {
+        "concept_name": "释放安匝",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "release ampere-turns"
+        }
+    },
+    {
+        "concept_name": "释放时间",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "release time"
+        }
+    },
+    {
+        "concept_name": "重[闭]合继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "reclosing relay"
+        }
+    },
+    {
+        "concept_name": "量度继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "又称": " 测量继电器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "measuring relay"
+        }
+    },
+    {
+        "concept_name": "闭锁继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "blocking relay"
+        }
+    },
+    {
+        "concept_name": "阻抗继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "impedance relay"
+        }
+    },
+    {
+        "concept_name": "零序继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "zero-phase-sequence relay"
+        }
+    },
+    {
+        "concept_name": "静电继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electrostatic relay"
+        }
+    },
+    {
+        "concept_name": "静触点",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "fixed contact"
+        }
+    },
+    {
+        "concept_name": "非单元保护系统",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "non-unit protection system"
+        }
+    },
+    {
+        "concept_name": "非定时限继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "non-specified-time relay"
+        }
+    },
+    {
+        "concept_name": "高速继电器",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "high-speed relay"
+        }
+    },
+    {
+        "concept_name": "鸟啄",
+        "details": {
+            "学科": "电气工程_继电器及继电保护装置",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "unfirm closing"
+        }
+    }
+]

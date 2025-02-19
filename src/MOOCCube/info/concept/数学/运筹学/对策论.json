@@ -1,0 +1,789 @@
+[
+    {
+        "concept_name": "n人合作对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "n-person cooperative game"
+        }
+    },
+    {
+        "concept_name": "n人对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "n-person game"
+        }
+    },
+    {
+        "concept_name": "n人常和对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "n-person constant-sum game"
+        }
+    },
+    {
+        "concept_name": "n人零和对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "n-person zero-sum game"
+        }
+    },
+    {
+        "concept_name": "一般和对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "general sum game"
+        }
+    },
+    {
+        "concept_name": "两人一般和对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "two-person general sum game"
+        }
+    },
+    {
+        "concept_name": "两人对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "two-person game"
+        }
+    },
+    {
+        "concept_name": "两人常和对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "two-person constant-sum game"
+        }
+    },
+    {
+        "concept_name": "两人零和对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "two-person zero-sum game"
+        }
+    },
+    {
+        "concept_name": "人为步",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "又称": " 人为抉择",
+            "见载": "《数学名词》第一版",
+            "英文名": "personal move"
+        }
+    },
+    {
+        "concept_name": "全信息对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "game with perfect information"
+        }
+    },
+    {
+        "concept_name": "全记忆对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "game with perfect recall"
+        }
+    },
+    {
+        "concept_name": "冯·诺伊曼-莫根施特恩解",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "von Neumann-Morgenstern solution"
+        }
+    },
+    {
+        "concept_name": "凸合作对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "convex cooperative game"
+        }
+    },
+    {
+        "concept_name": "凸对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "convex games"
+        }
+    },
+    {
+        "concept_name": "双矩阵对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "bimatrix game"
+        }
+    },
+    {
+        "concept_name": "反常对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "improper game"
+        }
+    },
+    {
+        "concept_name": "可分对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "separable game"
+        }
+    },
+    {
+        "concept_name": "合作对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "cooperative game"
+        }
+    },
+    {
+        "concept_name": "商对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "quotient game"
+        }
+    },
+    {
+        "concept_name": "回避对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "eluding game"
+        }
+    },
+    {
+        "concept_name": "多人对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "multi-person games"
+        }
+    },
+    {
+        "concept_name": "多阶段对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "multistage game"
+        }
+    },
+    {
+        "concept_name": "多面体对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "polyhedral game"
+        }
+    },
+    {
+        "concept_name": "多项式对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "polynomial game"
+        }
+    },
+    {
+        "concept_name": "失败联盟",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "又称": " 输联盟",
+            "见载": "《数学名词》第一版",
+            "英文名": "losing coalition"
+        }
+    },
+    {
+        "concept_name": "威胁策略",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "threat strategy"
+        }
+    },
+    {
+        "concept_name": "子对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "subgame"
+        }
+    },
+    {
+        "concept_name": "完全混合对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "completely mixed game"
+        }
+    },
+    {
+        "concept_name": "定时对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "game of timing"
+        }
+    },
+    {
+        "concept_name": "对称对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "symmetric game"
+        }
+    },
+    {
+        "concept_name": "对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "又称": " 博弈",
+            "见载": "《数学名词》第一版",
+            "英文名": "game"
+        }
+    },
+    {
+        "concept_name": "对策元素",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "game element"
+        }
+    },
+    {
+        "concept_name": "对策树",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "game tree"
+        }
+    },
+    {
+        "concept_name": "对策模型",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "gaming models"
+        }
+    },
+    {
+        "concept_name": "对策模拟",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "gaming"
+        }
+    },
+    {
+        "concept_name": "对策的值",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "value of a game"
+        }
+    },
+    {
+        "concept_name": "对策的阶段",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "stage of game"
+        }
+    },
+    {
+        "concept_name": "对策论",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "又称": " 博奕论",
+            "见载": "《数学名词》第一版",
+            "英文名": "game theory"
+        }
+    },
+    {
+        "concept_name": "局",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "play"
+        }
+    },
+    {
+        "concept_name": "局中人",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "又称": " 参预者",
+            "见载": "《数学名词》第一版",
+            "英文名": "player"
+        }
+    },
+    {
+        "concept_name": "局势",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "situation"
+        }
+    },
+    {
+        "concept_name": "常和对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "constant-sum game"
+        }
+    },
+    {
+        "concept_name": "循环对称对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "circular symmetric game"
+        }
+    },
+    {
+        "concept_name": "微分对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "differential game"
+        }
+    },
+    {
+        "concept_name": "支付",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "payment"
+        }
+    },
+    {
+        "concept_name": "支付[矩]阵",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "payoff matrix"
+        }
+    },
+    {
+        "concept_name": "支付函数",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "payoff function"
+        }
+    },
+    {
+        "concept_name": "支付向量",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "payoff vector"
+        }
+    },
+    {
+        "concept_name": "支付期望",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "payoff expected"
+        }
+    },
+    {
+        "concept_name": "旁支付",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "side payment"
+        }
+    },
+    {
+        "concept_name": "无限对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "infinite game"
+        }
+    },
+    {
+        "concept_name": "最小获胜联盟",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "又称": " 最小赢联盟",
+            "见载": "《数学名词》第一版",
+            "英文名": "minimal winning coalition"
+        }
+    },
+    {
+        "concept_name": "有限对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "finite game"
+        }
+    },
+    {
+        "concept_name": "本质对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "又称": " 实质性对策",
+            "见载": "《数学名词》第一版",
+            "英文名": "essential game"
+        }
+    },
+    {
+        "concept_name": "机会对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "game of chance"
+        }
+    },
+    {
+        "concept_name": "极小极大定理",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "minimax theorem"
+        }
+    },
+    {
+        "concept_name": "极小极大策略",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "minimax strategy"
+        }
+    },
+    {
+        "concept_name": "极限策略",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "limiting strategy"
+        }
+    },
+    {
+        "concept_name": "次凸对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "subconvex game"
+        }
+    },
+    {
+        "concept_name": "正常对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "proper game"
+        }
+    },
+    {
+        "concept_name": "正规型对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "game in normal form"
+        }
+    },
+    {
+        "concept_name": "混合策略",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "mixed strategy"
+        }
+    },
+    {
+        "concept_name": "矩阵对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "matrix game"
+        }
+    },
+    {
+        "concept_name": "穷竭对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "game of exhaustion"
+        }
+    },
+    {
+        "concept_name": "竞争",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "competition"
+        }
+    },
+    {
+        "concept_name": "竞争均衡",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "competitive equilibrium"
+        }
+    },
+    {
+        "concept_name": "策略",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "policy"
+        }
+    },
+    {
+        "concept_name": "策略决策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "strategied decision"
+        }
+    },
+    {
+        "concept_name": "策略变量",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "strategic variable"
+        }
+    },
+    {
+        "concept_name": "简单多数对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "simple majority game"
+        }
+    },
+    {
+        "concept_name": "简单对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "simple game"
+        }
+    },
+    {
+        "concept_name": "约束对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "constrained game"
+        }
+    },
+    {
+        "concept_name": "纯策略",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "pure strategy"
+        }
+    },
+    {
+        "concept_name": "终止面",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "又称": " 终结面",
+            "见载": "《数学名词》第一版",
+            "英文名": "terminal surface"
+        }
+    },
+    {
+        "concept_name": "终结支付",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "terminal payoff"
+        }
+    },
+    {
+        "concept_name": "结局",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "outcome"
+        }
+    },
+    {
+        "concept_name": "结局空间",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "outcome space"
+        }
+    },
+    {
+        "concept_name": "获胜联盟",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "又称": " 赢联盟",
+            "见载": "《数学名词》第一版",
+            "英文名": "winning coalition"
+        }
+    },
+    {
+        "concept_name": "虚构对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "fictitious play"
+        }
+    },
+    {
+        "concept_name": "虚设局中人",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "又称": " 傀儡",
+            "见载": "《数学名词》第一版",
+            "英文名": "dummy"
+        }
+    },
+    {
+        "concept_name": "行为策略",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "behavioral strategy"
+        }
+    },
+    {
+        "concept_name": "规避对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "evasion game"
+        }
+    },
+    {
+        "concept_name": "谈判解",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "bargaining solution"
+        }
+    },
+    {
+        "concept_name": "谈判集",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "bargaining set"
+        }
+    },
+    {
+        "concept_name": "连续对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "continuous game"
+        }
+    },
+    {
+        "concept_name": "追逃对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "pursuit evasion games"
+        }
+    },
+    {
+        "concept_name": "递归对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "recursive game"
+        }
+    },
+    {
+        "concept_name": "限制对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "restricted game"
+        }
+    },
+    {
+        "concept_name": "随机对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "stochastic games"
+        }
+    },
+    {
+        "concept_name": "零和对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "zero-sum game"
+        }
+    },
+    {
+        "concept_name": "零对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "zero game"
+        }
+    },
+    {
+        "concept_name": "需求对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "demand game"
+        }
+    },
+    {
+        "concept_name": "非合作对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "non-cooperative game"
+        }
+    },
+    {
+        "concept_name": "非本质对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "又称": " 非实质性对策",
+            "见载": "《数学名词》第一版",
+            "英文名": "inessential game"
+        }
+    },
+    {
+        "concept_name": "非零和对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "non-zero-sum game"
+        }
+    },
+    {
+        "concept_name": "鞍点对策",
+        "details": {
+            "学科": "数学_运筹学_对策论",
+            "见载": "《数学名词》第一版",
+            "英文名": "saddle point game"
+        }
+    }
+]

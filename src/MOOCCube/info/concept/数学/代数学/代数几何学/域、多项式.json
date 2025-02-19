@@ -1,0 +1,1321 @@
+[
+    {
+        "concept_name": "p进数域",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "p-adic number field"
+        }
+    },
+    {
+        "concept_name": "p进整数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "p-adic integer"
+        }
+    },
+    {
+        "concept_name": "p进绝对值",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "p-adic absolute value"
+        }
+    },
+    {
+        "concept_name": "一元一次方程",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "linear equation with one unknown"
+        }
+    },
+    {
+        "concept_name": "一元二次方程",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "quadratic equation with one unknown",
+            "prerequisite": [
+                "K_精确解_数学"
+            ]
+        }
+    },
+    {
+        "concept_name": "一元二次方程的判别式",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "discriminant of a quadratic equa-tion in one unknown"
+        }
+    },
+    {
+        "concept_name": "一元多项式",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "polynomial of one indeterminate"
+        }
+    },
+    {
+        "concept_name": "一元多项式的分裂域",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "splitting field of a polynomial in an indeterminate"
+        }
+    },
+    {
+        "concept_name": "一元多项式的判别式",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "discriminant of a polynomial in one unknown"
+        }
+    },
+    {
+        "concept_name": "一般方程",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "general equation"
+        }
+    },
+    {
+        "concept_name": "三次方程",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "cubic equation"
+        }
+    },
+    {
+        "concept_name": "三重根",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "triple root"
+        }
+    },
+    {
+        "concept_name": "三项式",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "trinomial"
+        }
+    },
+    {
+        "concept_name": "三项方程",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "trinomial equation"
+        }
+    },
+    {
+        "concept_name": "不可分扩张",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "inseparable extension"
+        }
+    },
+    {
+        "concept_name": "不可分次数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "inseparable degree"
+        }
+    },
+    {
+        "concept_name": "不可约多项式",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "irreducible polynomial"
+        }
+    },
+    {
+        "concept_name": "不可约方程",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "irreducible equation"
+        }
+    },
+    {
+        "concept_name": "二进域",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "dyadic field"
+        }
+    },
+    {
+        "concept_name": "二重根",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "double root"
+        }
+    },
+    {
+        "concept_name": "二项方程",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "binomial equation"
+        }
+    },
+    {
+        "concept_name": "互反方程",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "reciprocal equation"
+        }
+    },
+    {
+        "concept_name": "亚循环方程",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "metacyclic equation"
+        }
+    },
+    {
+        "concept_name": "亨泽尔赋值",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "Hensel valuation"
+        }
+    },
+    {
+        "concept_name": "亨泽尔赋值域",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "Hensel valuation field"
+        }
+    },
+    {
+        "concept_name": "代数元",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "algebraic element"
+        }
+    },
+    {
+        "concept_name": "代数学",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "algebra"
+        }
+    },
+    {
+        "concept_name": "代数式",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "algebraic expression"
+        }
+    },
+    {
+        "concept_name": "代数扩张",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "algebraic extension"
+        }
+    },
+    {
+        "concept_name": "代数方程",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "algebraic equation"
+        }
+    },
+    {
+        "concept_name": "代数方程论",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "theory of algebraic equations"
+        }
+    },
+    {
+        "concept_name": "代数无关[的]",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "algebraically independent"
+        }
+    },
+    {
+        "concept_name": "代数的",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "algebraic",
+            "prerequisite": [
+                "K_组合逻辑_数学",
+                "K_传递函数_数学",
+                "K_正弦_数学",
+                "K_概率_数学",
+                "K_下界_数学",
+                "K_整的_数学",
+                "K_级数求和_数学",
+                "K_逻辑运算_数学",
+                "K_逻辑表达式_数学",
+                "K_微分_数学",
+                "K_方程_数学",
+                "K_小数点_数学",
+                "K_上积_数学",
+                "K_部分和_数学",
+                "K_方面_计算机科学技术",
+                "K_左值_计算机科学技术"
+            ]
+        }
+    },
+    {
+        "concept_name": "代数相关[的]",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "algebraically dependent"
+        }
+    },
+    {
+        "concept_name": "代数闭包",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "algebraic closure"
+        }
+    },
+    {
+        "concept_name": "代数闭域",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "algebraically closed field"
+        }
+    },
+    {
+        "concept_name": "伽罗瓦对应",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "Galois correspondence"
+        }
+    },
+    {
+        "concept_name": "伽罗瓦扩张",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "Galois extension"
+        }
+    },
+    {
+        "concept_name": "伽罗瓦方程",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "Galois equation"
+        }
+    },
+    {
+        "concept_name": "伽罗瓦群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "Galois group"
+        }
+    },
+    {
+        "concept_name": "伽罗瓦论",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "Galois theory"
+        }
+    },
+    {
+        "concept_name": "倍式",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "multiple"
+        }
+    },
+    {
+        "concept_name": "全分歧扩张",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "totally ramifield extension"
+        }
+    },
+    {
+        "concept_name": "全实域",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "totally real field"
+        }
+    },
+    {
+        "concept_name": "全次数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "total degree"
+        }
+    },
+    {
+        "concept_name": "全正元",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "totally positive element"
+        }
+    },
+    {
+        "concept_name": "共轭域",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "conjugate field"
+        }
+    },
+    {
+        "concept_name": "共轭根",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "conjugate roots"
+        }
+    },
+    {
+        "concept_name": "典范赋值",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "canonical valuation"
+        }
+    },
+    {
+        "concept_name": "准域",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "near field"
+        }
+    },
+    {
+        "concept_name": "分圆域",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "cyclotomic field"
+        }
+    },
+    {
+        "concept_name": "分圆多项式",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "cyclotomic polynomial"
+        }
+    },
+    {
+        "concept_name": "分歧指数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "ramification index"
+        }
+    },
+    {
+        "concept_name": "分离超越基",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "separating transcendental basis"
+        }
+    },
+    {
+        "concept_name": "初等对称多项式",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "elementary symmetric polynomial"
+        }
+    },
+    {
+        "concept_name": "剩余域",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "residue field"
+        }
+    },
+    {
+        "concept_name": "半域",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "semi-field"
+        }
+    },
+    {
+        "concept_name": "单扩张",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "simple extension"
+        }
+    },
+    {
+        "concept_name": "单根",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "simple root"
+        }
+    },
+    {
+        "concept_name": "单项式",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "monomial"
+        }
+    },
+    {
+        "concept_name": "可分代数扩张",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "separable algebraic extension"
+        }
+    },
+    {
+        "concept_name": "可分代数闭包",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "separable algebraic closure"
+        }
+    },
+    {
+        "concept_name": "可分元",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "separable element"
+        }
+    },
+    {
+        "concept_name": "可分扩张域",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "separable extension field"
+        }
+    },
+    {
+        "concept_name": "可分次数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "separable degree"
+        }
+    },
+    {
+        "concept_name": "同类项",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "like term"
+        }
+    },
+    {
+        "concept_name": "四元数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "quaternion"
+        }
+    },
+    {
+        "concept_name": "四元数可除代数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "又称": " 四元数体",
+            "见载": "《数学名词》第一版",
+            "英文名": "quaternion division algebra"
+        }
+    },
+    {
+        "concept_name": "因式",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "factor"
+        }
+    },
+    {
+        "concept_name": "域",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "field"
+        }
+    },
+    {
+        "concept_name": "域完全化",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "completion of a field"
+        }
+    },
+    {
+        "concept_name": "域扩张",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "field extension"
+        }
+    },
+    {
+        "concept_name": "域扩张次数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "degree of field extension"
+        }
+    },
+    {
+        "concept_name": "域特征[数]",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "characteristic of field"
+        }
+    },
+    {
+        "concept_name": "域的绝对值",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "absolute value of a field"
+        }
+    },
+    {
+        "concept_name": "复共轭的",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "complex conjugate"
+        }
+    },
+    {
+        "concept_name": "复根",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "complex root"
+        }
+    },
+    {
+        "concept_name": "多元多项式",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "polynomial in several indeter- minates"
+        }
+    },
+    {
+        "concept_name": "多项式",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "polynomial",
+            "prerequisite": [
+                "K_微分方程_数学",
+                "K_等于_数学",
+                "K_幂集_数学",
+                "K_级数求和_数学",
+                "K_等式_数学",
+                "K_算法_数学"
+            ]
+        }
+    },
+    {
+        "concept_name": "多项式伽罗瓦群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "Galois group of polynomial"
+        }
+    },
+    {
+        "concept_name": "多项式环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "polynomial ring"
+        }
+    },
+    {
+        "concept_name": "多项式的容度",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "content of a polynomial"
+        }
+    },
+    {
+        "concept_name": "多项式的次数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "degree of a polynomial"
+        }
+    },
+    {
+        "concept_name": "完全域",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "complete field"
+        }
+    },
+    {
+        "concept_name": "完满平方",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "perfect square"
+        }
+    },
+    {
+        "concept_name": "实封闭的",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "real closed"
+        }
+    },
+    {
+        "concept_name": "实数域",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "real number field"
+        }
+    },
+    {
+        "concept_name": "实根",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "real root"
+        }
+    },
+    {
+        "concept_name": "实闭包",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "real closure"
+        }
+    },
+    {
+        "concept_name": "局部域的布饶尔群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "Brauer group of a local field"
+        }
+    },
+    {
+        "concept_name": "局部紧可除代数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "locally compact division algebra"
+        }
+    },
+    {
+        "concept_name": "差代数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "difference algebra"
+        }
+    },
+    {
+        "concept_name": "平凡绝对值",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "trivial absolute value"
+        }
+    },
+    {
+        "concept_name": "序域",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "ordered field"
+        }
+    },
+    {
+        "concept_name": "库默尔扩张",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "Kummer extension"
+        }
+    },
+    {
+        "concept_name": "弱分歧扩张",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "tamely ramified extension"
+        }
+    },
+    {
+        "concept_name": "强分歧扩张",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "wildly ramified extension"
+        }
+    },
+    {
+        "concept_name": "形式实域",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "formally real field"
+        }
+    },
+    {
+        "concept_name": "待定系数法",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "method of undetermined coeffi-cient"
+        }
+    },
+    {
+        "concept_name": "循环扩张",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "cyclic extension"
+        }
+    },
+    {
+        "concept_name": "循环方程",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "cyclic equation"
+        }
+    },
+    {
+        "concept_name": "微分代数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "differential algebra"
+        }
+    },
+    {
+        "concept_name": "恒等代换",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "identical substitution"
+        }
+    },
+    {
+        "concept_name": "扩域",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "extension field"
+        }
+    },
+    {
+        "concept_name": "拓扑除环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "topological division ring"
+        }
+    },
+    {
+        "concept_name": "拟代数闭域",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "quasi-algebraically closed field"
+        }
+    },
+    {
+        "concept_name": "指数赋值",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "exponential valuation"
+        }
+    },
+    {
+        "concept_name": "整式",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "integral expression"
+        }
+    },
+    {
+        "concept_name": "施图姆定理",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "Sturm theorem"
+        }
+    },
+    {
+        "concept_name": "无理根",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "irrational root"
+        }
+    },
+    {
+        "concept_name": "无限扩张",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "infinite extension"
+        }
+    },
+    {
+        "concept_name": "有序阿贝尔群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "ordered Abelian group"
+        }
+    },
+    {
+        "concept_name": "有理分式",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "rational fraction"
+        }
+    },
+    {
+        "concept_name": "有理分式域",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "field of rational fractions"
+        }
+    },
+    {
+        "concept_name": "有理根",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "rational root"
+        }
+    },
+    {
+        "concept_name": "有限扩张",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "finite extension"
+        }
+    },
+    {
+        "concept_name": "未定元",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "indeterminate"
+        }
+    },
+    {
+        "concept_name": "本原元",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "primitive element"
+        }
+    },
+    {
+        "concept_name": "本原多项式",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "primitive polynomial"
+        }
+    },
+    {
+        "concept_name": "极小多项式",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "minimal polynomial"
+        }
+    },
+    {
+        "concept_name": "根",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "root"
+        }
+    },
+    {
+        "concept_name": "根式扩张",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "radical extension"
+        }
+    },
+    {
+        "concept_name": "根添加",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "adjunction of roots"
+        }
+    },
+    {
+        "concept_name": "正规扩张",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "normal extension"
+        }
+    },
+    {
+        "concept_name": "牛顿恒等式",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "Newton identities"
+        }
+    },
+    {
+        "concept_name": "离散赋值环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "discrete valuation ring"
+        }
+    },
+    {
+        "concept_name": "简化方程",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "reduced equation"
+        }
+    },
+    {
+        "concept_name": "纯不可分扩张",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "pure inseparable extension"
+        }
+    },
+    {
+        "concept_name": "纯超越扩张",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "purely transcendental extension"
+        }
+    },
+    {
+        "concept_name": "线性无缘",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "linearly disjoint"
+        }
+    },
+    {
+        "concept_name": "结式",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "resultant"
+        }
+    },
+    {
+        "concept_name": "维特向量",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "Witt vector"
+        }
+    },
+    {
+        "concept_name": "综合除法",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "synthetic division"
+        }
+    },
+    {
+        "concept_name": "艾森斯坦多项式",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "Eisenstein polynomial"
+        }
+    },
+    {
+        "concept_name": "范",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "norm"
+        }
+    },
+    {
+        "concept_name": "虚根",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "imaginary root"
+        }
+    },
+    {
+        "concept_name": "赋值环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "valuation ring"
+        }
+    },
+    {
+        "concept_name": "赋值的扩张",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "又称": " 赋值的开拓",
+            "见载": "《数学名词》第一版",
+            "英文名": "extension of a valuation"
+        }
+    },
+    {
+        "concept_name": "赋值的阶",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "rank of a valuation"
+        }
+    },
+    {
+        "concept_name": "赋值等价",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "equivalence of valuations"
+        }
+    },
+    {
+        "concept_name": "赋值论",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "valuation theory"
+        }
+    },
+    {
+        "concept_name": "超越元",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "transcendental element"
+        }
+    },
+    {
+        "concept_name": "超越基",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "transcendental basis"
+        }
+    },
+    {
+        "concept_name": "超越扩张",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "transcendental extension"
+        }
+    },
+    {
+        "concept_name": "超越次数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "degree of transcendence"
+        }
+    },
+    {
+        "concept_name": "超越的",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "transcendental"
+        }
+    },
+    {
+        "concept_name": "部分分式",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "partial fraction"
+        }
+    },
+    {
+        "concept_name": "重根",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "multiple root"
+        }
+    },
+    {
+        "concept_name": "长除法",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "long division"
+        }
+    },
+    {
+        "concept_name": "阿基米德序域",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "Archimedean ordered field"
+        }
+    },
+    {
+        "concept_name": "阿基米德绝对值",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "Archimedean absolute value"
+        }
+    },
+    {
+        "concept_name": "阿贝尔扩张",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "Abelian extension"
+        }
+    },
+    {
+        "concept_name": "零次",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "zero degree"
+        }
+    },
+    {
+        "concept_name": "非分歧扩张",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "unramified extension"
+        }
+    },
+    {
+        "concept_name": "非阿基米德序域",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "non-Archimedean ordered field"
+        }
+    },
+    {
+        "concept_name": "非阿基米德绝对值",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "non-Archimedean absolute value"
+        }
+    },
+    {
+        "concept_name": "非齐次多项式",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "inhomogeneous polynomial"
+        }
+    },
+    {
+        "concept_name": "项",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "term"
+        }
+    },
+    {
+        "concept_name": "首一多项式",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "monic polynomial"
+        }
+    },
+    {
+        "concept_name": "首项系数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "leading coefficient"
+        }
+    },
+    {
+        "concept_name": "高斯插值公式",
+        "details": {
+            "学科": "数学_代数学_代数几何学_域、多项式",
+            "见载": "《数学名词》第一版",
+            "英文名": "Gauss interpolation formula"
+        }
+    }
+]

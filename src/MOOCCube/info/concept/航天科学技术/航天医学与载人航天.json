@@ -1,0 +1,1951 @@
+[
+    {
+        "concept_name": "下体负压试验",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "lower body negative pressure test"
+        }
+    },
+    {
+        "concept_name": "中水分食品",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "intermediate moisture food"
+        }
+    },
+    {
+        "concept_name": "临床选拔",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "clinical selection"
+        }
+    },
+    {
+        "concept_name": "二氧化碳浓缩器",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "carbon dioxide concentrator"
+        }
+    },
+    {
+        "concept_name": "二氧化碳还原技术",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "carbon dioxide reduction technique"
+        }
+    },
+    {
+        "concept_name": "人员失误",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "human error"
+        }
+    },
+    {
+        "concept_name": "人机交互",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "man-machine interaction"
+        }
+    },
+    {
+        "concept_name": "人机功能分配",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "man-machine function allocation"
+        }
+    },
+    {
+        "concept_name": "人机界面",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "man-machine interface"
+        }
+    },
+    {
+        "concept_name": "代谢仿真装置",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "metabolic simulation device"
+        }
+    },
+    {
+        "concept_name": "低压敏感性检查",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "hypobaric susceptibility test"
+        }
+    },
+    {
+        "concept_name": "低压缺氧检查",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "hypobaric hypoxia examination"
+        }
+    },
+    {
+        "concept_name": "体液沸腾",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ebullism"
+        }
+    },
+    {
+        "concept_name": "供气组件",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "gas supply assembly"
+        }
+    },
+    {
+        "concept_name": "供气调压系统",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "atmosphere supply and pressure control system"
+        }
+    },
+    {
+        "concept_name": "供气调节器",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "gas supply regulator"
+        }
+    },
+    {
+        "concept_name": "供水压力调节器",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "water supply pressure regulator"
+        }
+    },
+    {
+        "concept_name": "侧向加速度",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "定义": "符号为±Gy",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "lateral acceleration"
+        }
+    },
+    {
+        "concept_name": "催化氧化器",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "catalytic oxidizer"
+        }
+    },
+    {
+        "concept_name": "充氧阀",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "oxygen fill valve"
+        }
+    },
+    {
+        "concept_name": "全任务航天训练仿真器",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "full-mission space flight simulator"
+        }
+    },
+    {
+        "concept_name": "再生式热交换器",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "heat regenerative exchanger"
+        }
+    },
+    {
+        "concept_name": "冲击加速度耐受限值",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "impact acceleration tolerance limit"
+        }
+    },
+    {
+        "concept_name": "冲击塔",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "impact tower"
+        }
+    },
+    {
+        "concept_name": "冷凝热交换器",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "condensate and heat exchanger"
+        }
+    },
+    {
+        "concept_name": "冷却板",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "cold plates"
+        }
+    },
+    {
+        "concept_name": "冷水器",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "water chiller"
+        }
+    },
+    {
+        "concept_name": "减压器",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "pressure reducer"
+        }
+    },
+    {
+        "concept_name": "前庭功能不对称假说",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "vestibular function asymmetry hypothesis"
+        }
+    },
+    {
+        "concept_name": "前庭功能检查",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "vestibular function examination"
+        }
+    },
+    {
+        "concept_name": "加速度耐力检查",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "acceleration tolerance examination"
+        }
+    },
+    {
+        "concept_name": "加速度耐力训练",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "acceleration tolerance training"
+        }
+    },
+    {
+        "concept_name": "加速度防护",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "acceleration protection"
+        }
+    },
+    {
+        "concept_name": "化学氧发生器",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "chemical oxygen generator"
+        }
+    },
+    {
+        "concept_name": "化学氧贮存",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "chemical oxygen storage"
+        }
+    },
+    {
+        "concept_name": "半再生式生命保障系统",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "semiregenerative life support system"
+        }
+    },
+    {
+        "concept_name": "卧床实验",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "bed rest experiment"
+        }
+    },
+    {
+        "concept_name": "卧床实验设备",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "bed rest experiment facilities"
+        }
+    },
+    {
+        "concept_name": "即食食品",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ready-to-eat food"
+        }
+    },
+    {
+        "concept_name": "压力平衡阀",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "pressure balance valve"
+        }
+    },
+    {
+        "concept_name": "受控生态生命保障系统",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "controlled ecological life support system"
+        }
+    },
+    {
+        "concept_name": "听觉告警",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "auditory warning"
+        }
+    },
+    {
+        "concept_name": "吸气阻力",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "inspiratory resistance"
+        }
+    },
+    {
+        "concept_name": "呼吸代偿障碍",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "respiratory decompensation"
+        }
+    },
+    {
+        "concept_name": "固定基[训练]仿真器",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "fixed base training simulator"
+        }
+    },
+    {
+        "concept_name": "地面医监台",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ground-based medical monitoring station"
+        }
+    },
+    {
+        "concept_name": "基础训练",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "basic training"
+        }
+    },
+    {
+        "concept_name": "声环境实验室",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "sound environment test chamber"
+        }
+    },
+    {
+        "concept_name": "大便收集",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "feces collection"
+        }
+    },
+    {
+        "concept_name": "大气参数检测",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "atmospheric parameter measurement"
+        }
+    },
+    {
+        "concept_name": "大气微量污染控制",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "atmospheric trace contamination control"
+        }
+    },
+    {
+        "concept_name": "天-地通信",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "space-ground communication"
+        }
+    },
+    {
+        "concept_name": "天象仪",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "planetarium"
+        }
+    },
+    {
+        "concept_name": "失重生理效应",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "weightlessness physiological effect"
+        }
+    },
+    {
+        "concept_name": "失重试验飞机",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "parabolic flight test aircraft"
+        }
+    },
+    {
+        "concept_name": "头高位倾斜",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "英文": "head up tilt ;HUT",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "head up tilt"
+        }
+    },
+    {
+        "concept_name": "姿态控制训练器",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "attitude control trainer"
+        }
+    },
+    {
+        "concept_name": "小便收集",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "urine collection"
+        }
+    },
+    {
+        "concept_name": "尿收集袋",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "urine collection bag"
+        }
+    },
+    {
+        "concept_name": "工作负荷",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "workload"
+        }
+    },
+    {
+        "concept_name": "差定温探测器",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "又称": " 固定温升探测器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "rate-of-rise fixed temperature detector"
+        }
+    },
+    {
+        "concept_name": "干浸法",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "dry immersion"
+        }
+    },
+    {
+        "concept_name": "应急供氧系统",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "emergency oxygen supply system"
+        }
+    },
+    {
+        "concept_name": "应急供氧阀",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "emergency oxygen supply valve"
+        }
+    },
+    {
+        "concept_name": "应急氧源",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "emergency oxygen tank"
+        }
+    },
+    {
+        "concept_name": "应急训练",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "emergency training"
+        }
+    },
+    {
+        "concept_name": "废水收集器",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "waste water collector"
+        }
+    },
+    {
+        "concept_name": "废物收集与管理系统",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "waste collection and management system"
+        }
+    },
+    {
+        "concept_name": "座舱仪表系统",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "cabin instrument system"
+        }
+    },
+    {
+        "concept_name": "座舱压力调节器",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "cabin pressure regulator"
+        }
+    },
+    {
+        "concept_name": "座舱增压",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "cabin pressurization"
+        }
+    },
+    {
+        "concept_name": "座舱热交换器",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "cabin heat exchanger"
+        }
+    },
+    {
+        "concept_name": "开伞冲击",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "parachute opening shock"
+        }
+    },
+    {
+        "concept_name": "开伞冲击耐力",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "parachute opening shock tolerance"
+        }
+    },
+    {
+        "concept_name": "弹射加速度",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ejection acceleration"
+        }
+    },
+    {
+        "concept_name": "弹射救生",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ejection survival"
+        }
+    },
+    {
+        "concept_name": "微生物污染控制",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "microbial contaminant control"
+        }
+    },
+    {
+        "concept_name": "心理应激",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "psychological stress"
+        }
+    },
+    {
+        "concept_name": "心理精神检查",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "psycho-psychiatric examination"
+        }
+    },
+    {
+        "concept_name": "心理训练",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "psychological training"
+        }
+    },
+    {
+        "concept_name": "心肺功能检查",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "cardiovascular and pulmonary function test"
+        }
+    },
+    {
+        "concept_name": "心血管功能检查",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "cardiovascular function examination"
+        }
+    },
+    {
+        "concept_name": "急性缺氧检查",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "acute hypoxia examination"
+        }
+    },
+    {
+        "concept_name": "感觉冲突假说",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "sensory conflict hypothesis"
+        }
+    },
+    {
+        "concept_name": "抗荷动作",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "anti-G maneuver"
+        }
+    },
+    {
+        "concept_name": "抗荷装备",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "anti-G equipment"
+        }
+    },
+    {
+        "concept_name": "持续性加速度",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "sustained acceleration"
+        }
+    },
+    {
+        "concept_name": "振动加速度",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "vibration acceleration"
+        }
+    },
+    {
+        "concept_name": "排气组件",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "gas deflation assembly"
+        }
+    },
+    {
+        "concept_name": "救生食品",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "survival food"
+        }
+    },
+    {
+        "concept_name": "教员台",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "instructor station"
+        }
+    },
+    {
+        "concept_name": "新陈代谢",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "metabolism"
+        }
+    },
+    {
+        "concept_name": "无人航天器",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "unmanned spacecraft"
+        }
+    },
+    {
+        "concept_name": "昼夜节律",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "circadian rhythm"
+        }
+    },
+    {
+        "concept_name": "服装供氧",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "suit oxygen supply"
+        }
+    },
+    {
+        "concept_name": "标准化大纲",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "standardization program"
+        }
+    },
+    {
+        "concept_name": "检测与控制系统",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "detect and control system"
+        }
+    },
+    {
+        "concept_name": "横向加速度",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "定义": "符号为±Gx",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "transverse acceleration"
+        }
+    },
+    {
+        "concept_name": "正向加速度",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "定义": "符号为＋Gz",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "positive acceleration"
+        }
+    },
+    {
+        "concept_name": "气密限制层",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "encapsulating layer"
+        }
+    },
+    {
+        "concept_name": "氧债",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "oxygen debt"
+        }
+    },
+    {
+        "concept_name": "氧分压强",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "oxygen partial pressure"
+        }
+    },
+    {
+        "concept_name": "氧分压控制",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "oxygen partial pressure control"
+        }
+    },
+    {
+        "concept_name": "氧张力",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "oxygen tension"
+        }
+    },
+    {
+        "concept_name": "氧气面罩",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "oxygen mask"
+        }
+    },
+    {
+        "concept_name": "水分配器",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "water dispenser"
+        }
+    },
+    {
+        "concept_name": "水蒸发器",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "water evaporator"
+        }
+    },
+    {
+        "concept_name": "浸水试验",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "water immersion test"
+        }
+    },
+    {
+        "concept_name": "火焰检测系统",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "fire detection system"
+        }
+    },
+    {
+        "concept_name": "灭火器",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "fire extinguisher"
+        }
+    },
+    {
+        "concept_name": "灭火系统",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "fire suppression system"
+        }
+    },
+    {
+        "concept_name": "热应激",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "heat stress"
+        }
+    },
+    {
+        "concept_name": "热水器",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "water heater"
+        }
+    },
+    {
+        "concept_name": "生物卫星",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "biological satellite"
+        }
+    },
+    {
+        "concept_name": "生物反馈",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "biofeedback"
+        }
+    },
+    {
+        "concept_name": "生物舱",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "biological module"
+        }
+    },
+    {
+        "concept_name": "生理效应",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "physiological effect"
+        }
+    },
+    {
+        "concept_name": "电动四柱秋千",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "electrical four-pole swing"
+        }
+    },
+    {
+        "concept_name": "界面热交换器",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "inter exchanger"
+        }
+    },
+    {
+        "concept_name": "着陆冲击耐力",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "landing impact tolerance"
+        }
+    },
+    {
+        "concept_name": "短时间加速度",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "short-duration acceleration"
+        }
+    },
+    {
+        "concept_name": "社会隔绝",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "social isolation"
+        }
+    },
+    {
+        "concept_name": "离子感烟探测器",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ionization smoke detector"
+        }
+    },
+    {
+        "concept_name": "科里奥利刺激效应",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "Coriolis stimulation effect"
+        }
+    },
+    {
+        "concept_name": "空气再生器",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "air regenerator"
+        }
+    },
+    {
+        "concept_name": "空气净化装置",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "air purification unit"
+        }
+    },
+    {
+        "concept_name": "空气过滤器",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "air filter"
+        }
+    },
+    {
+        "concept_name": "空间制氧",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "space oxygen generation"
+        }
+    },
+    {
+        "concept_name": "空间定向",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "spatial orientation"
+        }
+    },
+    {
+        "concept_name": "空间实验操作训练",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "space experiment operation training"
+        }
+    },
+    {
+        "concept_name": "空间辐射",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "space radiation"
+        }
+    },
+    {
+        "concept_name": "立位耐力",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "orthostatic tolerance"
+        }
+    },
+    {
+        "concept_name": "立位耐力检查",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "orthostatic tolerance examination"
+        }
+    },
+    {
+        "concept_name": "系统安全性",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "system safety"
+        }
+    },
+    {
+        "concept_name": "系统接口",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "system interface"
+        }
+    },
+    {
+        "concept_name": "系统评价",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "system evaluation"
+        }
+    },
+    {
+        "concept_name": "系统集成",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "system integration"
+        }
+    },
+    {
+        "concept_name": "细菌过滤器",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "bacteria filter"
+        }
+    },
+    {
+        "concept_name": "综合演练",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "integrated rehearsal"
+        }
+    },
+    {
+        "concept_name": "综合训练",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "integrated training"
+        }
+    },
+    {
+        "concept_name": "缺氧耐力",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "hypoxia tolerance"
+        }
+    },
+    {
+        "concept_name": "耗氧量",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "oxygen consumption"
+        }
+    },
+    {
+        "concept_name": "脐带式生命保障系统",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "umbilical life support system"
+        }
+    },
+    {
+        "concept_name": "自我心理调节",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "self psychological regulation"
+        }
+    },
+    {
+        "concept_name": "自行车功量计",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "bicycle ergometer"
+        }
+    },
+    {
+        "concept_name": "航天人体测量学",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "space anthropometry"
+        }
+    },
+    {
+        "concept_name": "航天免疫学",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "space flight immunology"
+        }
+    },
+    {
+        "concept_name": "航天内分泌学",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "space endocrinology"
+        }
+    },
+    {
+        "concept_name": "航天动力因素与救生",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "space dynamic factors and survival"
+        }
+    },
+    {
+        "concept_name": "航天医学工程设施",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "space medico-engineering facilities"
+        }
+    },
+    {
+        "concept_name": "航天医监医保设备",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "space medical monitoring and support facilities"
+        }
+    },
+    {
+        "concept_name": "航天卫生学",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "space hygienics"
+        }
+    },
+    {
+        "concept_name": "航天员",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "英文": "astronaut ;cosmonaut",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "astronaut"
+        }
+    },
+    {
+        "concept_name": "航天员[保健]医师",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "astronaut care doctor"
+        }
+    },
+    {
+        "concept_name": "航天员作息制度",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "astronaut work rest schedule"
+        }
+    },
+    {
+        "concept_name": "航天员健康状况判断",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "astronaut health state assessment"
+        }
+    },
+    {
+        "concept_name": "航天员健康管理",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "astronaut health care"
+        }
+    },
+    {
+        "concept_name": "航天员决策",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "astronaut decision-making"
+        }
+    },
+    {
+        "concept_name": "航天员医学监督",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "astronaut medical monitoring"
+        }
+    },
+    {
+        "concept_name": "航天员医学监督与保障",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "astronaut medical monitoring and support"
+        }
+    },
+    {
+        "concept_name": "航天员医学监督中心",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "简称": " 航天医监中心",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "astronaut medical monitoring center"
+        }
+    },
+    {
+        "concept_name": "航天员医学鉴定",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "astronaut medical certification"
+        }
+    },
+    {
+        "concept_name": "航天员工作能力",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "astronaut work capacity"
+        }
+    },
+    {
+        "concept_name": "航天员心理学评定",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "astronaut psychological evaluation"
+        }
+    },
+    {
+        "concept_name": "航天员检疫",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "astronaut quarantine"
+        }
+    },
+    {
+        "concept_name": "航天员生产能力",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "astronaut productivity"
+        }
+    },
+    {
+        "concept_name": "航天员系统",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "astronaut system"
+        }
+    },
+    {
+        "concept_name": "航天员药箱",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "astronaut medical kit"
+        }
+    },
+    {
+        "concept_name": "航天员营养",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "astronaut nutrition"
+        }
+    },
+    {
+        "concept_name": "航天员训练",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "astronaut training"
+        }
+    },
+    {
+        "concept_name": "航天员训练大纲",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "astronaut training program"
+        }
+    },
+    {
+        "concept_name": "航天员选拔",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "astronaut selection"
+        }
+    },
+    {
+        "concept_name": "航天员选拔标准",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "astronaut selection criteria"
+        }
+    },
+    {
+        "concept_name": "航天员选拔训练中心",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "英文": "astronaut selection and training center ;ASTC",
+            "简称": " 航天员选训中心",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "astronaut selection and training center"
+        }
+    },
+    {
+        "concept_name": "航天员通信头戴",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "astronaut communication headsets"
+        }
+    },
+    {
+        "concept_name": "航天员飞行手册",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "astronaut flight handbook"
+        }
+    },
+    {
+        "concept_name": "航天器消毒",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "spacecraft sterilization"
+        }
+    },
+    {
+        "concept_name": "航天器环境污染",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "spacecraft environment contaminant"
+        }
+    },
+    {
+        "concept_name": "航天头盔",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "space helmet"
+        }
+    },
+    {
+        "concept_name": "航天实施医学",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "space operational medicine"
+        }
+    },
+    {
+        "concept_name": "航天心血管失调",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "cardiovascular deconditioning in space"
+        }
+    },
+    {
+        "concept_name": "航天服压力制度",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "space suit pressure schedule"
+        }
+    },
+    {
+        "concept_name": "航天服循环系统",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "space suit circulation system"
+        }
+    },
+    {
+        "concept_name": "航天环境仿真设备",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "space flight environment simulation facilities"
+        }
+    },
+    {
+        "concept_name": "航天环境医学",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "space environmental medicine"
+        }
+    },
+    {
+        "concept_name": "航天环境控制与生命保障系统",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "space environment control and life support system"
+        }
+    },
+    {
+        "concept_name": "航天环境适应性训练",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "space environment adaptation training"
+        }
+    },
+    {
+        "concept_name": "航天红细胞量减少",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "red blood cell mass reduction in space"
+        }
+    },
+    {
+        "concept_name": "航天肌肉萎缩",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "muscle atrophy in space"
+        }
+    },
+    {
+        "concept_name": "航天药剂学",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "space pharmaceutics"
+        }
+    },
+    {
+        "concept_name": "航天药物动力学",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "space pharmacokinetics"
+        }
+    },
+    {
+        "concept_name": "航天贫血症",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "space anemia"
+        }
+    },
+    {
+        "concept_name": "航天适应综合征",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "space adaptation syndrome"
+        }
+    },
+    {
+        "concept_name": "航天驾驶员",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "英文": "pilot astronaut ;PA",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "pilot astronaut"
+        }
+    },
+    {
+        "concept_name": "航天骨疏松",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "space bone osteoporosis"
+        }
+    },
+    {
+        "concept_name": "舱内保健设备",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "onboard health care facilities"
+        }
+    },
+    {
+        "concept_name": "舱内医监设备",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "onboard medical monitoring instrument"
+        }
+    },
+    {
+        "concept_name": "舱内活动服",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "英文": "intravehicular activity clothing ;IVA clothing",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "intravehicular activity clothing"
+        }
+    },
+    {
+        "concept_name": "舱内航天服",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "intravehicular space suit"
+        }
+    },
+    {
+        "concept_name": "舱外活动",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "extravehicular activity"
+        }
+    },
+    {
+        "concept_name": "舱外航天服",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "extravehicular space suit"
+        }
+    },
+    {
+        "concept_name": "视-前庭失匹配",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "oculo-vestibular disconjugation"
+        }
+    },
+    {
+        "concept_name": "视反转试验",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ocular counter rolling test"
+        }
+    },
+    {
+        "concept_name": "视景系统",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "visual system"
+        }
+    },
+    {
+        "concept_name": "警觉",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "vigilance"
+        }
+    },
+    {
+        "concept_name": "计算机辅助训练器",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "computer aided trainer"
+        }
+    },
+    {
+        "concept_name": "训练综合评定",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "training comprehensive evaluation"
+        }
+    },
+    {
+        "concept_name": "设计输入",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "design input"
+        }
+    },
+    {
+        "concept_name": "设计输出",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "design output"
+        }
+    },
+    {
+        "concept_name": "负向加速度",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "定义": "符号为－Gz",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "negative acceleration"
+        }
+    },
+    {
+        "concept_name": "载人航天器",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "manned spacecraft"
+        }
+    },
+    {
+        "concept_name": "辐照食品",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "irradiated food"
+        }
+    },
+    {
+        "concept_name": "过载引起的意识丧失",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "英文": "G-induced loss of consciousness ;G-LOC",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "G-induced loss of consciousness"
+        }
+    },
+    {
+        "concept_name": "运动基[训练]仿真器",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "motion base training simulator"
+        }
+    },
+    {
+        "concept_name": "运动耐力",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "exercise tolerance"
+        }
+    },
+    {
+        "concept_name": "连续供氧流量调节器",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "constant oxygen flow regulator"
+        }
+    },
+    {
+        "concept_name": "适居性",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "habitability"
+        }
+    },
+    {
+        "concept_name": "选拔综合评定",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "selection integrated evaluation"
+        }
+    },
+    {
+        "concept_name": "通风净化系统",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "air ventilation and purification system"
+        }
+    },
+    {
+        "concept_name": "通风服",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ventilation garment"
+        }
+    },
+    {
+        "concept_name": "长期航天效应",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "long term space flight effect"
+        }
+    },
+    {
+        "concept_name": "除臭装置",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "odor removal"
+        }
+    },
+    {
+        "concept_name": "随船工程师",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "mission engineer"
+        }
+    },
+    {
+        "concept_name": "隔声室",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "sound insulating chamber"
+        }
+    },
+    {
+        "concept_name": "隔离实验室",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "isolation laboratory"
+        }
+    },
+    {
+        "concept_name": "隔绝训练",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "isolation training"
+        }
+    },
+    {
+        "concept_name": "音响环境仿真",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "audio environment simulation"
+        }
+    },
+    {
+        "concept_name": "预备航天员",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "astronaut candidate"
+        }
+    },
+    {
+        "concept_name": "飞行中医学分析",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "inflight medical analysis"
+        }
+    },
+    {
+        "concept_name": "飞行中止标准",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "flight abortion criteria"
+        }
+    },
+    {
+        "concept_name": "飞行前医学分析",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "preflight medical analysis"
+        }
+    },
+    {
+        "concept_name": "飞行前医学检查",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "preflight medical examination"
+        }
+    },
+    {
+        "concept_name": "飞行后医学分析",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "postflight medical analysis"
+        }
+    },
+    {
+        "concept_name": "飞行后医学监督和保障",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "postflight medical monitoring and support"
+        }
+    },
+    {
+        "concept_name": "食品加热装置",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "foods heat unit"
+        }
+    },
+    {
+        "concept_name": "食品残渣收集器",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "foods debris taper"
+        }
+    },
+    {
+        "concept_name": "餐具",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "eating utensils"
+        }
+    },
+    {
+        "concept_name": "饮水器",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "water drinker"
+        }
+    },
+    {
+        "concept_name": "饮水箱",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "potable water tank"
+        }
+    },
+    {
+        "concept_name": "骨-肌",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "bone-muscle"
+        }
+    },
+    {
+        "concept_name": "高压氧气系统",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "high pressure oxygen system"
+        }
+    },
+    {
+        "concept_name": "高压氧舱",
+        "details": {
+            "学科": "航天科学技术_航天医学与载人航天",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "hyperbaric oxygen chamber"
+        }
+    }
+]

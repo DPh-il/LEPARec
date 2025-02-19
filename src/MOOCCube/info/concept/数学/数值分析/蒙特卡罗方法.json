@@ -1,0 +1,627 @@
+[
+    {
+        "concept_name": "δ散射方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "δ-scattering method"
+        }
+    },
+    {
+        "concept_name": "三排列方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "triplets permutation method"
+        }
+    },
+    {
+        "concept_name": "乘加抽样方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "multiplicative-additional sampling technique"
+        }
+    },
+    {
+        "concept_name": "乘同余方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "multiplicative congruential me- thod"
+        }
+    },
+    {
+        "concept_name": "乘抽样方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "multiplicative sampling technique"
+        }
+    },
+    {
+        "concept_name": "二次碰撞概率方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "quadratic collision probability method"
+        }
+    },
+    {
+        "concept_name": "传递抽样方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "pass sampling technique"
+        }
+    },
+    {
+        "concept_name": "伪随机数",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "pseudo-random number"
+        }
+    },
+    {
+        "concept_name": "伪随机数的周期",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "period of pseudo-random numbers"
+        }
+    },
+    {
+        "concept_name": "伴随指数变换方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "adjoint exponential transformation method"
+        }
+    },
+    {
+        "concept_name": "伴随权重方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "adjoint weight method"
+        }
+    },
+    {
+        "concept_name": "伴随统计估计方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "adjoint statistical estimation method"
+        }
+    },
+    {
+        "concept_name": "伴随蒙特卡罗方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "adjoint Monte Carlo method"
+        }
+    },
+    {
+        "concept_name": "倒易蒙特卡罗方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "reciprocity Monte Carlo method"
+        }
+    },
+    {
+        "concept_name": "偏倚抽样方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "bias sampling technique"
+        }
+    },
+    {
+        "concept_name": "共域变换方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "corregion transformation method"
+        }
+    },
+    {
+        "concept_name": "再选择方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "reselection method"
+        }
+    },
+    {
+        "concept_name": "加同余方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "additional congruential method"
+        }
+    },
+    {
+        "concept_name": "加抽样方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "additional sampling technique"
+        }
+    },
+    {
+        "concept_name": "加权方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "weight method"
+        }
+    },
+    {
+        "concept_name": "半解析蒙特卡罗方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "semi-analytic Monte Carlo method"
+        }
+    },
+    {
+        "concept_name": "博克斯-米勒抽样方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "Box-Müller sampling technique"
+        }
+    },
+    {
+        "concept_name": "向量蒙特卡罗方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "vectorized Monte Carlo method"
+        }
+    },
+    {
+        "concept_name": "均匀偏度",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "uniform departureness"
+        }
+    },
+    {
+        "concept_name": "复合抽样方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "composition sampling technique"
+        }
+    },
+    {
+        "concept_name": "多代矩估计方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "multigeneration moment estimator method"
+        }
+    },
+    {
+        "concept_name": "多群蒙特卡罗方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "multigroup Monte Carlo method"
+        }
+    },
+    {
+        "concept_name": "对偶变数方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "antithetic variates method"
+        }
+    },
+    {
+        "concept_name": "对称抽样方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "symmetry sampling technique"
+        }
+    },
+    {
+        "concept_name": "小区域方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "small region method"
+        }
+    },
+    {
+        "concept_name": "差分蒙特卡罗方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "difference Monte Carlo method"
+        }
+    },
+    {
+        "concept_name": "平方取中方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "mid-square method"
+        }
+    },
+    {
+        "concept_name": "序列相关方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "serial correlation method"
+        }
+    },
+    {
+        "concept_name": "序贯蒙特卡罗方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "sequential Monte Carlo method"
+        }
+    },
+    {
+        "concept_name": "强迫碰撞方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "forced collision method"
+        }
+    },
+    {
+        "concept_name": "径迹长度方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "track length method"
+        }
+    },
+    {
+        "concept_name": "微分蒙特卡罗方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "differential Monte Carlo method"
+        }
+    },
+    {
+        "concept_name": "抽样",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "sampling"
+        }
+    },
+    {
+        "concept_name": "抽样效率",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "sampling efficiency"
+        }
+    },
+    {
+        "concept_name": "拟蒙特卡罗方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "quasi-Monte Carlo method"
+        }
+    },
+    {
+        "concept_name": "指向概率方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "directive probability method"
+        }
+    },
+    {
+        "concept_name": "指数变换方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "exponential transformation me- thod"
+        }
+    },
+    {
+        "concept_name": "控制变数方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "control variates method"
+        }
+    },
+    {
+        "concept_name": "方向偏倚抽样方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "direction bias sampling method"
+        }
+    },
+    {
+        "concept_name": "时间平均方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "time average method"
+        }
+    },
+    {
+        "concept_name": "最大截面方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "maximum cross section method"
+        }
+    },
+    {
+        "concept_name": "有界估计方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "bounded estimator method"
+        }
+    },
+    {
+        "concept_name": "条件蒙特卡罗方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "conditional Monte Carlo method"
+        }
+    },
+    {
+        "concept_name": "格林函数蒙特卡罗方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "Green function Monte Carlo method"
+        }
+    },
+    {
+        "concept_name": "正贡献蒙特卡罗方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "positive contribution Monte Carlo method"
+        }
+    },
+    {
+        "concept_name": "混合同余方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "mixed congruential method"
+        }
+    },
+    {
+        "concept_name": "热浴抽样方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "heat bath sampling technique"
+        }
+    },
+    {
+        "concept_name": "独立偏度",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "independent departureness"
+        }
+    },
+    {
+        "concept_name": "直接抽样方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "direct sampling technique"
+        }
+    },
+    {
+        "concept_name": "相关方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "correlation method"
+        }
+    },
+    {
+        "concept_name": "相关蒙特卡罗方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "correlated Monte Carlo method"
+        }
+    },
+    {
+        "concept_name": "碰撞概率方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "collision probability method"
+        }
+    },
+    {
+        "concept_name": "积分抽样方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "integration sampling technique"
+        }
+    },
+    {
+        "concept_name": "米特罗波利斯抽样方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "Metropolis sampling technique"
+        }
+    },
+    {
+        "concept_name": "线性同余方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "linear congruential method"
+        }
+    },
+    {
+        "concept_name": "统计估计方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "statistical estimation method"
+        }
+    },
+    {
+        "concept_name": "舍选抽样方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "rejection sampling technique"
+        }
+    },
+    {
+        "concept_name": "蒙特卡罗估计",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "Monte Carlo estimator"
+        }
+    },
+    {
+        "concept_name": "蒙特卡罗方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "又称": " 统计试验方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "Monte Carlo method"
+        }
+    },
+    {
+        "concept_name": "表面增殖因子方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "surface multiplication factor method"
+        }
+    },
+    {
+        "concept_name": "表面密度方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "surface density method"
+        }
+    },
+    {
+        "concept_name": "裂变矩阵方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "fission matrix method"
+        }
+    },
+    {
+        "concept_name": "贡献蒙特卡罗方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "contribution Monte Carlo method"
+        }
+    },
+    {
+        "concept_name": "赌与分裂方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "roulette and splitting method"
+        }
+    },
+    {
+        "concept_name": "近似抽样方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "approaching sampling technique"
+        }
+    },
+    {
+        "concept_name": "迭代抽样方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "iteration sampling technique"
+        }
+    },
+    {
+        "concept_name": "重要性抽样[方]法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "importance sampling method"
+        }
+    },
+    {
+        "concept_name": "陶斯沃特方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "Tausworthe method"
+        }
+    },
+    {
+        "concept_name": "随机数",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "random number"
+        }
+    },
+    {
+        "concept_name": "集团蒙特卡罗方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "cluster Monte Carlo method"
+        }
+    },
+    {
+        "concept_name": "零方差技巧",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "zero variance technique"
+        }
+    },
+    {
+        "concept_name": "非模拟蒙特卡罗方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "non-analog Monte Carlo method"
+        }
+    },
+    {
+        "concept_name": "非线性同余方法",
+        "details": {
+            "学科": "数学_数值分析_蒙特卡罗方法",
+            "见载": "《数学名词》第一版",
+            "英文名": "non-linear congruential method"
+        }
+    }
+]

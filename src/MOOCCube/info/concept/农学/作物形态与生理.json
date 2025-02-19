@@ -1,0 +1,708 @@
+[
+    {
+        "concept_name": "临界生长期",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "critical period of growth"
+        }
+    },
+    {
+        "concept_name": "乳熟",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "milky ripe"
+        }
+    },
+    {
+        "concept_name": "倒伏",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "lodging"
+        }
+    },
+    {
+        "concept_name": "光合强度",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "photosynthetic intensity"
+        }
+    },
+    {
+        "concept_name": "光合效率",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "photosynthetic efficiency"
+        }
+    },
+    {
+        "concept_name": "光周期",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "photoperiod"
+        }
+    },
+    {
+        "concept_name": "光周期现象",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "photoperiodism"
+        }
+    },
+    {
+        "concept_name": "冬性",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "winterness"
+        }
+    },
+    {
+        "concept_name": "冷害",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "cold injury"
+        }
+    },
+    {
+        "concept_name": "冻害",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "freezing injury"
+        }
+    },
+    {
+        "concept_name": "净光合作用",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "net photosynthesis"
+        }
+    },
+    {
+        "concept_name": "分蘖",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "tiller"
+        }
+    },
+    {
+        "concept_name": "分蘖力",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "tillering ability"
+        }
+    },
+    {
+        "concept_name": "分蘖期",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "tillering stage"
+        }
+    },
+    {
+        "concept_name": "分蘖节",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "tillering node"
+        }
+    },
+    {
+        "concept_name": "功能叶",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "functional leaf"
+        }
+    },
+    {
+        "concept_name": "半冬性",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "semiwinterness"
+        }
+    },
+    {
+        "concept_name": "叶面积",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "leaf area"
+        }
+    },
+    {
+        "concept_name": "叶面积指数",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "英文": "leaf area index ;LAI",
+            "见载": "《农学名词》第一版",
+            "英文名": "leaf area index"
+        }
+    },
+    {
+        "concept_name": "叶龄",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "leaf age"
+        }
+    },
+    {
+        "concept_name": "后熟",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "after ripening"
+        }
+    },
+    {
+        "concept_name": "呼吸系数",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "coefficient of respiration"
+        }
+    },
+    {
+        "concept_name": "坐果",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "fruit setting"
+        }
+    },
+    {
+        "concept_name": "块茎指数",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "tuber index"
+        }
+    },
+    {
+        "concept_name": "孕穗期",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "booting stage"
+        }
+    },
+    {
+        "concept_name": "完熟",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "full ripe"
+        }
+    },
+    {
+        "concept_name": "幼穗分化期",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "panicle [spike] primordium differentiation stage"
+        }
+    },
+    {
+        "concept_name": "开花期",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "flowering stage"
+        }
+    },
+    {
+        "concept_name": "成熟期",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "maturing stage"
+        }
+    },
+    {
+        "concept_name": "抗倒伏性",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "lodging resistance"
+        }
+    },
+    {
+        "concept_name": "抗寒性",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "cold resistance"
+        }
+    },
+    {
+        "concept_name": "抗病性",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "disease resistance"
+        }
+    },
+    {
+        "concept_name": "抗裂荚[落粒]性",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "shattering resistance"
+        }
+    },
+    {
+        "concept_name": "抗风性",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "wind resistance"
+        }
+    },
+    {
+        "concept_name": "抽穗期",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "heading stage"
+        }
+    },
+    {
+        "concept_name": "抽薹",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "bolting"
+        }
+    },
+    {
+        "concept_name": "拔节期",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "shooting stage"
+        }
+    },
+    {
+        "concept_name": "旗叶",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "flag leaf"
+        }
+    },
+    {
+        "concept_name": "无效分蘖",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "ineffective tiller"
+        }
+    },
+    {
+        "concept_name": "无限生长",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "indeterminate growth"
+        }
+    },
+    {
+        "concept_name": "早熟性",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "earliness"
+        }
+    },
+    {
+        "concept_name": "早衰",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "presenility"
+        }
+    },
+    {
+        "concept_name": "春化[作用]",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "vernalization"
+        }
+    },
+    {
+        "concept_name": "春性",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "springness"
+        }
+    },
+    {
+        "concept_name": "晚熟性",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "lateness"
+        }
+    },
+    {
+        "concept_name": "有效分蘖",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "effective tiller"
+        }
+    },
+    {
+        "concept_name": "有限生长",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "determinate growth"
+        }
+    },
+    {
+        "concept_name": "根冠比",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "root/shoot ratio"
+        }
+    },
+    {
+        "concept_name": "棉铃",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "cotton boll"
+        }
+    },
+    {
+        "concept_name": "生理干旱",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "physiological drought"
+        }
+    },
+    {
+        "concept_name": "生理成熟",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "physiological maturity"
+        }
+    },
+    {
+        "concept_name": "生理病害",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "physiological disease"
+        }
+    },
+    {
+        "concept_name": "生长习性",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "growth habit"
+        }
+    },
+    {
+        "concept_name": "生长期",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "growing period"
+        }
+    },
+    {
+        "concept_name": "生长率",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "growth rate"
+        }
+    },
+    {
+        "concept_name": "盛果期",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "full bearing period"
+        }
+    },
+    {
+        "concept_name": "短果枝",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "fruit spur"
+        }
+    },
+    {
+        "concept_name": "穗密度",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "spike density"
+        }
+    },
+    {
+        "concept_name": "空秆",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "barreness"
+        }
+    },
+    {
+        "concept_name": "结果习性",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "fruit bearing habit"
+        }
+    },
+    {
+        "concept_name": "结果周期性",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "periodicity of fruiting"
+        }
+    },
+    {
+        "concept_name": "结果期",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "fruiting period"
+        }
+    },
+    {
+        "concept_name": "结果枝",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "fruit bearing shoot"
+        }
+    },
+    {
+        "concept_name": "结球期",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "heading stage"
+        }
+    },
+    {
+        "concept_name": "耐渍性",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "waterlogging tolerance"
+        }
+    },
+    {
+        "concept_name": "耐热性",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "heat tolerance"
+        }
+    },
+    {
+        "concept_name": "耐盐性",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "saline tolerance"
+        }
+    },
+    {
+        "concept_name": "耐碱性",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "alkali tolerance"
+        }
+    },
+    {
+        "concept_name": "苗期",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "seedling stage"
+        }
+    },
+    {
+        "concept_name": "茎叶比",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "stem/leaf ratio"
+        }
+    },
+    {
+        "concept_name": "茎秆强度",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "straw stiffness"
+        }
+    },
+    {
+        "concept_name": "莲座期",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "rosette stage"
+        }
+    },
+    {
+        "concept_name": "营养枝",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "vegetative shoot"
+        }
+    },
+    {
+        "concept_name": "落果",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "fruit dropping"
+        }
+    },
+    {
+        "concept_name": "落花",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "blossom dropping"
+        }
+    },
+    {
+        "concept_name": "落荚",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "pod dropping"
+        }
+    },
+    {
+        "concept_name": "落蕾",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "flower bud dropping"
+        }
+    },
+    {
+        "concept_name": "蕾期",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "bud stage"
+        }
+    },
+    {
+        "concept_name": "蜡熟",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "dough stage"
+        }
+    },
+    {
+        "concept_name": "衰老",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "senescence"
+        }
+    },
+    {
+        "concept_name": "越冬性",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "winter hardiness"
+        }
+    },
+    {
+        "concept_name": "适应性",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "adaptability"
+        }
+    },
+    {
+        "concept_name": "采摘期",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "picking period"
+        }
+    },
+    {
+        "concept_name": "锻炼",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "hardening"
+        }
+    },
+    {
+        "concept_name": "阶段发育",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "phasic development"
+        }
+    },
+    {
+        "concept_name": "隔年结果",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "又称": " 大小年",
+            "见载": "《农学名词》第一版",
+            "英文名": "biennial bearing"
+        }
+    },
+    {
+        "concept_name": "霜害",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "frost injury"
+        }
+    },
+    {
+        "concept_name": "黄熟",
+        "details": {
+            "学科": "农学_作物形态与生理",
+            "见载": "《农学名词》第一版",
+            "英文名": "yellow ripe"
+        }
+    }
+]

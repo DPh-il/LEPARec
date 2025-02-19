@@ -1,0 +1,703 @@
+[
+    {
+        "concept_name": "不变统计量",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "invariant statistic"
+        }
+    },
+    {
+        "concept_name": "不相关样本",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "uncorrelated samples"
+        }
+    },
+    {
+        "concept_name": "个体",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "individual"
+        }
+    },
+    {
+        "concept_name": "中程数",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "mid range"
+        }
+    },
+    {
+        "concept_name": "从属统计量",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "ancillary statistic"
+        }
+    },
+    {
+        "concept_name": "位置参数",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "location parameter"
+        }
+    },
+    {
+        "concept_name": "充分统计量",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "sufficient statistic"
+        }
+    },
+    {
+        "concept_name": "冗余参数",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "nuisance parameter"
+        }
+    },
+    {
+        "concept_name": "删失样本",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "censored sample"
+        }
+    },
+    {
+        "concept_name": "半参数模型",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "semi-parameter model"
+        }
+    },
+    {
+        "concept_name": "半样本",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "semi-sample"
+        }
+    },
+    {
+        "concept_name": "参数模型",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "parameter model"
+        }
+    },
+    {
+        "concept_name": "参数空间",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "parameter space"
+        }
+    },
+    {
+        "concept_name": "同方差性",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "homoscedasticity"
+        }
+    },
+    {
+        "concept_name": "子样本",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "subsample"
+        }
+    },
+    {
+        "concept_name": "完全分布族",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "complete family of distributions"
+        }
+    },
+    {
+        "concept_name": "完全统计量",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "complete statistic"
+        }
+    },
+    {
+        "concept_name": "定性观察",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "qualitative observation"
+        }
+    },
+    {
+        "concept_name": "定量观测",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "quantitative observation"
+        }
+    },
+    {
+        "concept_name": "尺度参数",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "scale parameter"
+        }
+    },
+    {
+        "concept_name": "异方差性",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "heteroscedasticity"
+        }
+    },
+    {
+        "concept_name": "形状参数",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "shape parameter"
+        }
+    },
+    {
+        "concept_name": "总体",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "population",
+            "prerequisite": [
+                "K_子集_数学",
+                "K_补集_数学"
+            ]
+        }
+    },
+    {
+        "concept_name": "总体分布",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "population distribution"
+        }
+    },
+    {
+        "concept_name": "总体分布族",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "family of population distributions"
+        }
+    },
+    {
+        "concept_name": "截尾样本",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "truncated sample"
+        }
+    },
+    {
+        "concept_name": "指数型分布族",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "exponential family of distributions"
+        }
+    },
+    {
+        "concept_name": "描述性统计[学]",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "descriptive statistics"
+        }
+    },
+    {
+        "concept_name": "数理统计[学]",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "mathematical statistics"
+        }
+    },
+    {
+        "concept_name": "无穷总体",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "infinite population"
+        }
+    },
+    {
+        "concept_name": "曲指数族",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "curved exponential family"
+        }
+    },
+    {
+        "concept_name": "最大不变统计量",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "maximal invariant statistic"
+        }
+    },
+    {
+        "concept_name": "最小充分统计量",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "minimal sufficient statistic"
+        }
+    },
+    {
+        "concept_name": "有界完全充分统计量",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "boundedly complete sufficient statistic"
+        }
+    },
+    {
+        "concept_name": "有界完全分布族",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "boundedly complete family of distributions"
+        }
+    },
+    {
+        "concept_name": "有界完全统计量",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "boundedly complete statistic"
+        }
+    },
+    {
+        "concept_name": "有限总体",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "finite population"
+        }
+    },
+    {
+        "concept_name": "极差",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "range"
+        }
+    },
+    {
+        "concept_name": "样本",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "sample"
+        }
+    },
+    {
+        "concept_name": "样本k阶矩",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "sample moment of order k"
+        }
+    },
+    {
+        "concept_name": "样本个数",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "number of samples"
+        }
+    },
+    {
+        "concept_name": "样本中位数",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "sample median"
+        }
+    },
+    {
+        "concept_name": "样本中心矩",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "sample central moment"
+        }
+    },
+    {
+        "concept_name": "样本值",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "sample value"
+        }
+    },
+    {
+        "concept_name": "样本分位数",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "sample fractile"
+        }
+    },
+    {
+        "concept_name": "样本分布",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "sample distribution"
+        }
+    },
+    {
+        "concept_name": "样本十分位数",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "sample deciles"
+        }
+    },
+    {
+        "concept_name": "样本协方差",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "sample covariance"
+        }
+    },
+    {
+        "concept_name": "样本变异系数",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "sample coefficient of variation"
+        }
+    },
+    {
+        "concept_name": "样本四分位数",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "sample quartile"
+        }
+    },
+    {
+        "concept_name": "样本均值",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "sample mean"
+        }
+    },
+    {
+        "concept_name": "样本方差",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "sample variance"
+        }
+    },
+    {
+        "concept_name": "样本标准差",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "sample standard deviation"
+        }
+    },
+    {
+        "concept_name": "样本百分位数",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "sample percentile"
+        }
+    },
+    {
+        "concept_name": "样本相关系数",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "sample correlation coefficient"
+        }
+    },
+    {
+        "concept_name": "样本矩",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "sample moment"
+        }
+    },
+    {
+        "concept_name": "样本量",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "又称": " 样本大小",
+            "见载": "《数学名词》第一版",
+            "英文名": "sample size"
+        }
+    },
+    {
+        "concept_name": "概率[坐标]纸",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "probability paper"
+        }
+    },
+    {
+        "concept_name": "正态概率纸",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "normal probability paper"
+        }
+    },
+    {
+        "concept_name": "混合分布",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "mixing distribution"
+        }
+    },
+    {
+        "concept_name": "直方图",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "histogram"
+        }
+    },
+    {
+        "concept_name": "离群值",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "outlier"
+        }
+    },
+    {
+        "concept_name": "简单随机样本",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "simple random sample"
+        }
+    },
+    {
+        "concept_name": "累积频数",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "cumulative absolute frequency"
+        }
+    },
+    {
+        "concept_name": "累积频率",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "cumulative relative frequency"
+        }
+    },
+    {
+        "concept_name": "组",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "class"
+        }
+    },
+    {
+        "concept_name": "组中值",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "mid-point of class"
+        }
+    },
+    {
+        "concept_name": "组距",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "class width"
+        }
+    },
+    {
+        "concept_name": "组限",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "class limits"
+        }
+    },
+    {
+        "concept_name": "经验分布函数",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "empirical distribution function"
+        }
+    },
+    {
+        "concept_name": "统计[学]",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "statistics"
+        }
+    },
+    {
+        "concept_name": "统计函数",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "statistical function"
+        }
+    },
+    {
+        "concept_name": "统计分析",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "statistical analysis"
+        }
+    },
+    {
+        "concept_name": "统计分析纸",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "stochastic paper"
+        }
+    },
+    {
+        "concept_name": "统计图",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "statistical chart"
+        }
+    },
+    {
+        "concept_name": "统计推断",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "statistical inference"
+        }
+    },
+    {
+        "concept_name": "统计空间",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "statistical space"
+        }
+    },
+    {
+        "concept_name": "统计表",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "statistical table"
+        }
+    },
+    {
+        "concept_name": "统计量",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "statistic"
+        }
+    },
+    {
+        "concept_name": "超总体",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "superpopulation"
+        }
+    },
+    {
+        "concept_name": "随机样本",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "random sample"
+        }
+    },
+    {
+        "concept_name": "随机过程统计[学]",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "statistics of random processes"
+        }
+    },
+    {
+        "concept_name": "非中心参数",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "non-centrality parameter"
+        }
+    },
+    {
+        "concept_name": "非齐性总体",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "heterogeneous populations"
+        }
+    },
+    {
+        "concept_name": "顺序统计量",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "order statistic"
+        }
+    },
+    {
+        "concept_name": "频数",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "absolute frequency"
+        }
+    },
+    {
+        "concept_name": "频率",
+        "details": {
+            "学科": "数学_概率论_数理统计_样本、统计量",
+            "见载": "《数学名词》第一版",
+            "英文名": "relative frequency"
+        }
+    }
+]

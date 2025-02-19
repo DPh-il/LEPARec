@@ -1,0 +1,1385 @@
+[
+    {
+        "concept_name": "三联机车",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "triple locomotive"
+        }
+    },
+    {
+        "concept_name": "中性区段",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "又称": " 分相段",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "neutral section"
+        }
+    },
+    {
+        "concept_name": "主发电机",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "main generator"
+        }
+    },
+    {
+        "concept_name": "主承力索",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "main catenary"
+        }
+    },
+    {
+        "concept_name": "信号复示器",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "signal repeater"
+        }
+    },
+    {
+        "concept_name": "公称输出功率",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "dimensional output"
+        }
+    },
+    {
+        "concept_name": "净运输量",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "net traffic"
+        }
+    },
+    {
+        "concept_name": "减速制动",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "retarding braking"
+        }
+    },
+    {
+        "concept_name": "减速力",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "decelerative force"
+        }
+    },
+    {
+        "concept_name": "分段绝缘器",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "section insulator"
+        }
+    },
+    {
+        "concept_name": "分路转换",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "shunt transition"
+        }
+    },
+    {
+        "concept_name": "列车-公里",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "train-kilometer"
+        }
+    },
+    {
+        "concept_name": "列车阻力",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "train resistance"
+        }
+    },
+    {
+        "concept_name": "刚性定位臂",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "steady arm"
+        }
+    },
+    {
+        "concept_name": "加强馈电线",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "line feeder"
+        }
+    },
+    {
+        "concept_name": "加速力",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "accelerative force"
+        }
+    },
+    {
+        "concept_name": "单位列车阻力",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "specific train resistance"
+        }
+    },
+    {
+        "concept_name": "单侧传动",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "unilateral transmission"
+        }
+    },
+    {
+        "concept_name": "单侧齿轮机构",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "unilateral gearing"
+        }
+    },
+    {
+        "concept_name": "单动式间控牵引设备",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "individual contactor controlled tra- ction equipment"
+        }
+    },
+    {
+        "concept_name": "单接触导线的悬链",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "catenary suspension with one con- tact wire"
+        }
+    },
+    {
+        "concept_name": "单接触导线系统",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "single-contact wire system"
+        }
+    },
+    {
+        "concept_name": "单机运行",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "light running"
+        }
+    },
+    {
+        "concept_name": "单架空线接触网",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "single overhead contact line"
+        }
+    },
+    {
+        "concept_name": "单独驱动",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "又称": " 独立驱动",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "individual drive"
+        }
+    },
+    {
+        "concept_name": "单线圈感应分流器",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "single inductive shunt"
+        }
+    },
+    {
+        "concept_name": "卷绳器",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "ropewinder"
+        }
+    },
+    {
+        "concept_name": "双接触导线系统",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "double-contact wire system"
+        }
+    },
+    {
+        "concept_name": "双机运行",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "assisted running"
+        }
+    },
+    {
+        "concept_name": "双架空线接触网",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "double overhead contact line"
+        }
+    },
+    {
+        "concept_name": "双线圈感应分流器",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "double inductive shunt"
+        }
+    },
+    {
+        "concept_name": "受电器",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "current collector"
+        }
+    },
+    {
+        "concept_name": "受电头",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "trolley-head"
+        }
+    },
+    {
+        "concept_name": "受电弓",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "pantograph"
+        }
+    },
+    {
+        "concept_name": "受电弓通过限界",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "clearance gauge for pantographs"
+        }
+    },
+    {
+        "concept_name": "受电杆座",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "trolley-base"
+        }
+    },
+    {
+        "concept_name": "变阻制动临界建立速度",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "critical build-up speed under rheo- static braking conditions"
+        }
+    },
+    {
+        "concept_name": "变阻起动末级速度",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "speed at end of rheostatic starting period"
+        }
+    },
+    {
+        "concept_name": "可逆运行列车",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "reversible self-propelled train"
+        }
+    },
+    {
+        "concept_name": "吊线夹",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "suspension clamp"
+        }
+    },
+    {
+        "concept_name": "回流电缆",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "return cable"
+        }
+    },
+    {
+        "concept_name": "多动力单元列车",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "multiple unit train"
+        }
+    },
+    {
+        "concept_name": "多线圈感应分流器",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "multiple inductive shunt"
+        }
+    },
+    {
+        "concept_name": "定位臂",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "registration arm"
+        }
+    },
+    {
+        "concept_name": "容许营业载荷",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "permitted payload"
+        }
+    },
+    {
+        "concept_name": "小功率机车",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "small-power locomotive"
+        }
+    },
+    {
+        "concept_name": "小时牵引力",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "tractive effort at hourly rating"
+        }
+    },
+    {
+        "concept_name": "小时输出功率",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "one-hour rated output"
+        }
+    },
+    {
+        "concept_name": "小时速度",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "英文": "speed at one-hour rating ;one-hour speed",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "speed at one-hour rating"
+        }
+    },
+    {
+        "concept_name": "工业机车",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "industrial locomotive"
+        }
+    },
+    {
+        "concept_name": "平衡桥式转换",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "balanced bridge transition"
+        }
+    },
+    {
+        "concept_name": "张力调整器",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "tensioning device"
+        }
+    },
+    {
+        "concept_name": "弹簧传动",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "spring transmission"
+        }
+    },
+    {
+        "concept_name": "总运输量",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "total gross traffic"
+        }
+    },
+    {
+        "concept_name": "总阻力",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "total resistance"
+        }
+    },
+    {
+        "concept_name": "恒速制动",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "holding braking"
+        }
+    },
+    {
+        "concept_name": "恒速制动力",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "holding braking force"
+        }
+    },
+    {
+        "concept_name": "悬臂",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "bracket"
+        }
+    },
+    {
+        "concept_name": "悬链",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "catenary suspension"
+        }
+    },
+    {
+        "concept_name": "惯性蓄能牵引",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "inertia storage traction"
+        }
+    },
+    {
+        "concept_name": "惰行",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "coasting"
+        }
+    },
+    {
+        "concept_name": "感应分流器",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "inductive shunt"
+        }
+    },
+    {
+        "concept_name": "承力索",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "catenary [wire]"
+        }
+    },
+    {
+        "concept_name": "折线悬链",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "polygonal catenary"
+        }
+    },
+    {
+        "concept_name": "拖车",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "trailer"
+        }
+    },
+    {
+        "concept_name": "持续牵引力",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "tractive effort at continuous ra- ting"
+        }
+    },
+    {
+        "concept_name": "持续输出功率",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "continuous output"
+        }
+    },
+    {
+        "concept_name": "持续速度",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "speed at continuous rating"
+        }
+    },
+    {
+        "concept_name": "指示灯",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "indicator light"
+        }
+    },
+    {
+        "concept_name": "换级前值",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "value before notching"
+        }
+    },
+    {
+        "concept_name": "接地回流电刷",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "earth return brush"
+        }
+    },
+    {
+        "concept_name": "接触导线",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "contact wire"
+        }
+    },
+    {
+        "concept_name": "推拉运行",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "push-pull running"
+        }
+    },
+    {
+        "concept_name": "整备重量",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "weight in working order"
+        }
+    },
+    {
+        "concept_name": "整流器式电力机车",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "rectifier electric locomotive"
+        }
+    },
+    {
+        "concept_name": "整流器式电动车辆",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "rectifier electric motor vehicle"
+        }
+    },
+    {
+        "concept_name": "斜悬链",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "inclined catenary"
+        }
+    },
+    {
+        "concept_name": "旋转悬臂",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "hinged cantilever"
+        }
+    },
+    {
+        "concept_name": "无轨电车",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "trolley bus"
+        }
+    },
+    {
+        "concept_name": "有效磁场比",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "effective field ratio"
+        }
+    },
+    {
+        "concept_name": "有效营业载荷",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "effective payload"
+        }
+    },
+    {
+        "concept_name": "有轨电车",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "tramcar"
+        }
+    },
+    {
+        "concept_name": "机车-公里",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "locomotive-kilometer"
+        }
+    },
+    {
+        "concept_name": "杆形受电器",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "trolley"
+        }
+    },
+    {
+        "concept_name": "极性反向器",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "polarity reverser"
+        }
+    },
+    {
+        "concept_name": "架承式电动机",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "frame mounted motor"
+        }
+    },
+    {
+        "concept_name": "架空导电轨",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "overhead conductor rail"
+        }
+    },
+    {
+        "concept_name": "架空接触网",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "overhead contact line"
+        }
+    },
+    {
+        "concept_name": "架空线网交叉器",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "overhead crossing"
+        }
+    },
+    {
+        "concept_name": "架空线网分线器",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "overhead switching"
+        }
+    },
+    {
+        "concept_name": "架空线网并线器",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "overhead junction crossing"
+        }
+    },
+    {
+        "concept_name": "架空线网线岔",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "overhead junction knuckle"
+        }
+    },
+    {
+        "concept_name": "桥接导线",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "又称": " 旁路线",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "bridging conductor"
+        }
+    },
+    {
+        "concept_name": "槽内导电轨",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "conduit conductor rail"
+        }
+    },
+    {
+        "concept_name": "正常超载",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "normal overload"
+        }
+    },
+    {
+        "concept_name": "正常载荷",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "normal load"
+        }
+    },
+    {
+        "concept_name": "热-电牵引",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "thermo-electric traction"
+        }
+    },
+    {
+        "concept_name": "牵引力",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "tractive effort"
+        }
+    },
+    {
+        "concept_name": "牵引总重",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "又称": " 牵引载荷",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "gross load hauled"
+        }
+    },
+    {
+        "concept_name": "牵引运输量",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "gross traffic hauled"
+        }
+    },
+    {
+        "concept_name": "独立轴机车",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "individual axle drive locomotive"
+        }
+    },
+    {
+        "concept_name": "电分段器",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "sectioning device"
+        }
+    },
+    {
+        "concept_name": "电力机车",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric locomotive"
+        }
+    },
+    {
+        "concept_name": "电力牵引",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric traction"
+        }
+    },
+    {
+        "concept_name": "电力牵引架空线路",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric traction overhead line"
+        }
+    },
+    {
+        "concept_name": "电力牵引设备",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric traction equipment"
+        }
+    },
+    {
+        "concept_name": "电动凸轮式间控牵引设备",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "motor-driven camshaft controlled traction equipment"
+        }
+    },
+    {
+        "concept_name": "电动制动系统",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electrodynamic braking system"
+        }
+    },
+    {
+        "concept_name": "电动客车",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "[electric] motor coach"
+        }
+    },
+    {
+        "concept_name": "电动行李车",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "[electric] motor luggage car"
+        }
+    },
+    {
+        "concept_name": "电动车组",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "[electric] motor train unit"
+        }
+    },
+    {
+        "concept_name": "电动车辆",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "[electric] motor vehicle"
+        }
+    },
+    {
+        "concept_name": "电气联锁",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electrical interlock"
+        }
+    },
+    {
+        "concept_name": "电磁螺线管制动",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electromagnetic solenoid braking"
+        }
+    },
+    {
+        "concept_name": "电磁轨制动",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electromagnetic track braking"
+        }
+    },
+    {
+        "concept_name": "电阻制动",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "resistance braking"
+        }
+    },
+    {
+        "concept_name": "皮重",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "tare weight"
+        }
+    },
+    {
+        "concept_name": "直控牵引设备",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "directly controlled traction equip- ment"
+        }
+    },
+    {
+        "concept_name": "矿山机车",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "mine locomotive"
+        }
+    },
+    {
+        "concept_name": "磁场减弱",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "field weakening"
+        }
+    },
+    {
+        "concept_name": "磁场分接减弱",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "field weakening by tapping"
+        }
+    },
+    {
+        "concept_name": "磁场分流",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "field shunting"
+        }
+    },
+    {
+        "concept_name": "空心轴电动机驱动",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "hollow shaft motor drive"
+        }
+    },
+    {
+        "concept_name": "空心轴驱动",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "quill drive"
+        }
+    },
+    {
+        "concept_name": "空载[荷]运行",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "empty running"
+        }
+    },
+    {
+        "concept_name": "站间平均速度",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "average speed between stops"
+        }
+    },
+    {
+        "concept_name": "绝缘回流系统",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "insulated return system"
+        }
+    },
+    {
+        "concept_name": "绝缘端交叠分段",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "insulated overlap"
+        }
+    },
+    {
+        "concept_name": "联轴机车",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "coupled axle locomotive"
+        }
+    },
+    {
+        "concept_name": "联轴驱动",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "coupled axle drive"
+        }
+    },
+    {
+        "concept_name": "能耗率",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "specific energy consumption"
+        }
+    },
+    {
+        "concept_name": "自动张力调整器",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "automatic tension regulator"
+        }
+    },
+    {
+        "concept_name": "自动磁场减弱",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "automatic field weakening"
+        }
+    },
+    {
+        "concept_name": "自动降杆器",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "pole retriever"
+        }
+    },
+    {
+        "concept_name": "自控牵引设备",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "automatic traction equipment"
+        }
+    },
+    {
+        "concept_name": "营业载荷",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "又称": " 牵引净重",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "payload"
+        }
+    },
+    {
+        "concept_name": "蓄电池电力牵引",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "battery electric traction"
+        }
+    },
+    {
+        "concept_name": "补机",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "assisting vehicle"
+        }
+    },
+    {
+        "concept_name": "补机推送",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "pusher operation"
+        }
+    },
+    {
+        "concept_name": "装载限界",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "loading gauge"
+        }
+    },
+    {
+        "concept_name": "触轮",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "trolley-wheel"
+        }
+    },
+    {
+        "concept_name": "触靴",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "又称": " 接触滑块",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "contact shoe"
+        }
+    },
+    {
+        "concept_name": "调车机车",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "shunting locomotive"
+        }
+    },
+    {
+        "concept_name": "车轴发电机",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "axle driven generator"
+        }
+    },
+    {
+        "concept_name": "车轴电路",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "axle circuit"
+        }
+    },
+    {
+        "concept_name": "车辆",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "vehicle"
+        }
+    },
+    {
+        "concept_name": "车辆结构最高速度",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "maximum speed of vehicle"
+        }
+    },
+    {
+        "concept_name": "车辆限界",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "vehicle gauge"
+        }
+    },
+    {
+        "concept_name": "车钩牵引力",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "draw-bar pull"
+        }
+    },
+    {
+        "concept_name": "车钩输出功率",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "output at the draw-bar"
+        }
+    },
+    {
+        "concept_name": "轨道回流系统",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "track return system"
+        }
+    },
+    {
+        "concept_name": "转动惯量系数",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "coefficient of rotary inertia"
+        }
+    },
+    {
+        "concept_name": "轮周输出功率",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "output at the wheel rim"
+        }
+    },
+    {
+        "concept_name": "软定位器",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "pull-off"
+        }
+    },
+    {
+        "concept_name": "轴挂发电机",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "axle hung generator"
+        }
+    },
+    {
+        "concept_name": "轴挂电动机",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "axle hung motor"
+        }
+    },
+    {
+        "concept_name": "轴载重",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "axle load"
+        }
+    },
+    {
+        "concept_name": "辅助发电机组",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "auxiliary generator set"
+        }
+    },
+    {
+        "concept_name": "辅助变压器调压",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "auxiliary transformer regulation"
+        }
+    },
+    {
+        "concept_name": "辅助承力索",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "auxiliary catenary"
+        }
+    },
+    {
+        "concept_name": "速度比",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "speed ratio"
+        }
+    },
+    {
+        "concept_name": "间控牵引设备",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "contactor controlled traction equip- ment"
+        }
+    },
+    {
+        "concept_name": "附加极分流",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "auxiliary-pole shunting"
+        }
+    },
+    {
+        "concept_name": "限制速度",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "speed restriction"
+        }
+    },
+    {
+        "concept_name": "障碍限界",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "obstruction gauge limit"
+        }
+    },
+    {
+        "concept_name": "额外超载",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "exceptional overload"
+        }
+    },
+    {
+        "concept_name": "馈电电缆",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "feeder cable"
+        }
+    },
+    {
+        "concept_name": "馈电线夹",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "feeder clamp"
+        }
+    },
+    {
+        "concept_name": "驾驶型拖车",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "driving trailer"
+        }
+    },
+    {
+        "concept_name": "高峰载荷",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "crush load"
+        }
+    },
+    {
+        "concept_name": "黏着系数",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "adhesion coefficient"
+        }
+    },
+    {
+        "concept_name": "黏重",
+        "details": {
+            "学科": "电气工程_电力牵引",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "adhesive weight"
+        }
+    }
+]

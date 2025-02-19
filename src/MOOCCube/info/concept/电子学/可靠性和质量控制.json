@@ -1,0 +1,1206 @@
+[
+    {
+        "concept_name": "一次抽样",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "single sampling"
+        }
+    },
+    {
+        "concept_name": "不合格品",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "defective item"
+        }
+    },
+    {
+        "concept_name": "不合格品率",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "fraction defective"
+        }
+    },
+    {
+        "concept_name": "不能工作时间",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "down time"
+        }
+    },
+    {
+        "concept_name": "中间检查",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "简称": " 中检",
+            "见载": "《电子学名词》第一版",
+            "英文名": "middle inspection"
+        }
+    },
+    {
+        "concept_name": "二次抽样",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "double sampling"
+        }
+    },
+    {
+        "concept_name": "交付批",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "consignment lot"
+        }
+    },
+    {
+        "concept_name": "交变潮热试验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "alternate humidity test"
+        }
+    },
+    {
+        "concept_name": "交收检查",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "receiving inspection"
+        }
+    },
+    {
+        "concept_name": "任务故障率",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "mission failure rate"
+        }
+    },
+    {
+        "concept_name": "低气压试验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "low atmospheric pressure test"
+        }
+    },
+    {
+        "concept_name": "低温试验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "low-temperature test"
+        }
+    },
+    {
+        "concept_name": "使用寿命",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "useful life"
+        }
+    },
+    {
+        "concept_name": "例行试验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "routine test"
+        }
+    },
+    {
+        "concept_name": "保管期",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "maintaining period"
+        }
+    },
+    {
+        "concept_name": "保险期",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "insurance period"
+        }
+    },
+    {
+        "concept_name": "修复性维修",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "又称": " 改正性维护",
+            "见载": "《电子学名词》第一版",
+            "英文名": "corrective maintenance"
+        }
+    },
+    {
+        "concept_name": "修复时间",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "repair time"
+        }
+    },
+    {
+        "concept_name": "修复率",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "repair rate"
+        }
+    },
+    {
+        "concept_name": "修理准备时间",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "administrative time"
+        }
+    },
+    {
+        "concept_name": "修理实施时间",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "active repair time"
+        }
+    },
+    {
+        "concept_name": "偶然失效期",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "accidental failure period"
+        }
+    },
+    {
+        "concept_name": "入库检验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "warehouse-in inspection"
+        }
+    },
+    {
+        "concept_name": "冲击试验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "shock test"
+        }
+    },
+    {
+        "concept_name": "出库检验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "warehouse-out inspection"
+        }
+    },
+    {
+        "concept_name": "初始检查",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "简称": " 初检",
+            "见载": "《电子学名词》第一版",
+            "英文名": "initial inspection"
+        }
+    },
+    {
+        "concept_name": "力学试验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "mechanical test"
+        }
+    },
+    {
+        "concept_name": "参数检验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "parametric test"
+        }
+    },
+    {
+        "concept_name": "反应速率模型",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "rate process model"
+        }
+    },
+    {
+        "concept_name": "变频振动试验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "variable frequency vibration test"
+        }
+    },
+    {
+        "concept_name": "可信性",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "dependability"
+        }
+    },
+    {
+        "concept_name": "可接收质量水平",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "acceptable quality level"
+        }
+    },
+    {
+        "concept_name": "可焊性试验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "solderability test"
+        }
+    },
+    {
+        "concept_name": "可用性",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "availability"
+        }
+    },
+    {
+        "concept_name": "可达性",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "又称": " 可及性",
+            "见载": "《电子学名词》第一版",
+            "英文名": "accessibility"
+        }
+    },
+    {
+        "concept_name": "可靠寿命",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "q-percentile life"
+        }
+    },
+    {
+        "concept_name": "可靠度",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "reliability"
+        }
+    },
+    {
+        "concept_name": "可靠性",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "reliability"
+        }
+    },
+    {
+        "concept_name": "可靠性认证",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "reliability certification"
+        }
+    },
+    {
+        "concept_name": "可靠性试验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "reliability test"
+        }
+    },
+    {
+        "concept_name": "合格品",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "qualified product"
+        }
+    },
+    {
+        "concept_name": "多次抽样",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "multiple sampling"
+        }
+    },
+    {
+        "concept_name": "天然气候试验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "natural climate test"
+        }
+    },
+    {
+        "concept_name": "失效",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "failure"
+        }
+    },
+    {
+        "concept_name": "失效前平均时间",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "又称": " 平均无故障时间",
+            "见载": "《电子学名词》第一版",
+            "英文名": "mean time to failure"
+        }
+    },
+    {
+        "concept_name": "失效率",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "failure rate"
+        }
+    },
+    {
+        "concept_name": "子样本",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "subsample"
+        }
+    },
+    {
+        "concept_name": "定失效数寿命试验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "fixed failure number test"
+        }
+    },
+    {
+        "concept_name": "密封性试验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "seal tightness test"
+        }
+    },
+    {
+        "concept_name": "寿命试验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "life test"
+        }
+    },
+    {
+        "concept_name": "封装因子",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "package factor"
+        }
+    },
+    {
+        "concept_name": "工作冗余",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "active redundancy"
+        }
+    },
+    {
+        "concept_name": "工作时间",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "operating time"
+        }
+    },
+    {
+        "concept_name": "工序检验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "process inspection"
+        }
+    },
+    {
+        "concept_name": "平均无故障工作时间",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "又称": " 平均故障间隔时间",
+            "见载": "《电子学名词》第一版",
+            "英文名": "mean time between failures"
+        }
+    },
+    {
+        "concept_name": "平均检出质量",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "average outgoing quality"
+        }
+    },
+    {
+        "concept_name": "序贯取样",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "sequential sampling"
+        }
+    },
+    {
+        "concept_name": "应力腐蚀",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "stress corrosion"
+        }
+    },
+    {
+        "concept_name": "待命时间",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "stand-by time"
+        }
+    },
+    {
+        "concept_name": "恒温恒湿试验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "constant temperature and moisture test"
+        }
+    },
+    {
+        "concept_name": "成品检验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "product inspection"
+        }
+    },
+    {
+        "concept_name": "截尾检查",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "curtailed inspection"
+        }
+    },
+    {
+        "concept_name": "批",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "lot"
+        }
+    },
+    {
+        "concept_name": "批容许不合格率",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "lot tolerance percent defective"
+        }
+    },
+    {
+        "concept_name": "批量",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "lot size"
+        }
+    },
+    {
+        "concept_name": "抽样方案",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "sampling plan"
+        }
+    },
+    {
+        "concept_name": "拒收",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "rejection"
+        }
+    },
+    {
+        "concept_name": "拒绝域",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "critical region"
+        }
+    },
+    {
+        "concept_name": "振动试验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "vibration test"
+        }
+    },
+    {
+        "concept_name": "接收",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "acceptance"
+        }
+    },
+    {
+        "concept_name": "故障",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "failure"
+        }
+    },
+    {
+        "concept_name": "故障树分析",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "fault tree analysis"
+        }
+    },
+    {
+        "concept_name": "故障率",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "failure rate"
+        }
+    },
+    {
+        "concept_name": "旁联系统",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "stand-by system"
+        }
+    },
+    {
+        "concept_name": "无放回抽样",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "sampling without replacement"
+        }
+    },
+    {
+        "concept_name": "早期失效期",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "early failure period"
+        }
+    },
+    {
+        "concept_name": "显著性水平",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "significance level"
+        }
+    },
+    {
+        "concept_name": "显著性结果",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "significant result"
+        }
+    },
+    {
+        "concept_name": "最终检查",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "简称": " 终检",
+            "见载": "《电子学名词》第一版",
+            "英文名": "final inspection"
+        }
+    },
+    {
+        "concept_name": "有放回抽样",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "sampling with replacement"
+        }
+    },
+    {
+        "concept_name": "本质失效",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "inherent weakness failure"
+        }
+    },
+    {
+        "concept_name": "极限质量",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "limiting quality"
+        }
+    },
+    {
+        "concept_name": "样品",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "specimen"
+        }
+    },
+    {
+        "concept_name": "样本",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "sample"
+        }
+    },
+    {
+        "concept_name": "检查批",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "inspection lot"
+        }
+    },
+    {
+        "concept_name": "检漏试验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "leakage-check test"
+        }
+    },
+    {
+        "concept_name": "次品",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "degraded product"
+        }
+    },
+    {
+        "concept_name": "沙尘试验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "sand and dust test"
+        }
+    },
+    {
+        "concept_name": "温度循环试验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "temperature cycling test"
+        }
+    },
+    {
+        "concept_name": "湿度试验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "humid test"
+        }
+    },
+    {
+        "concept_name": "湿热试验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "humid heat test"
+        }
+    },
+    {
+        "concept_name": "潮湿试验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "moisture test"
+        }
+    },
+    {
+        "concept_name": "热冲击试验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "thermal shock test"
+        }
+    },
+    {
+        "concept_name": "热疲劳",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "thermal fatigue"
+        }
+    },
+    {
+        "concept_name": "热设计",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "thermal design"
+        }
+    },
+    {
+        "concept_name": "环境因数",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "environment factor"
+        }
+    },
+    {
+        "concept_name": "环境试验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "environmental test"
+        }
+    },
+    {
+        "concept_name": "现场试验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "field test"
+        }
+    },
+    {
+        "concept_name": "生产批",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "production lot"
+        }
+    },
+    {
+        "concept_name": "盐雾试验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "salt atmosphere test"
+        }
+    },
+    {
+        "concept_name": "离心试验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "centrifugal test"
+        }
+    },
+    {
+        "concept_name": "离散分布",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "discrete distribution"
+        }
+    },
+    {
+        "concept_name": "管理图",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "control chart"
+        }
+    },
+    {
+        "concept_name": "累积和图",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "cumulative sum chart"
+        }
+    },
+    {
+        "concept_name": "累积故障概率",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "又称": " 累积失效概率",
+            "见载": "《电子学名词》第一版",
+            "英文名": "cumulative failure probability"
+        }
+    },
+    {
+        "concept_name": "累积频数",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "cumulative frequency"
+        }
+    },
+    {
+        "concept_name": "统计容许区间",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "statistical tolerance interval"
+        }
+    },
+    {
+        "concept_name": "统计容许限",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "statistical tolerance limits"
+        }
+    },
+    {
+        "concept_name": "统计检验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "statistical test"
+        }
+    },
+    {
+        "concept_name": "维修",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "又称": " 维护",
+            "见载": "《电子学名词》第一版",
+            "英文名": "maintenance"
+        }
+    },
+    {
+        "concept_name": "维修性",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "又称": " 可维护性",
+            "见载": "《电子学名词》第一版",
+            "英文名": "maintainability"
+        }
+    },
+    {
+        "concept_name": "维护时间",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "preventive maintenance time"
+        }
+    },
+    {
+        "concept_name": "耐久性",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "durability"
+        }
+    },
+    {
+        "concept_name": "耐久性试验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "endurance test"
+        }
+    },
+    {
+        "concept_name": "耗损失效期",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "wear-out failure period"
+        }
+    },
+    {
+        "concept_name": "能工作时间",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "up time"
+        }
+    },
+    {
+        "concept_name": "致命缺陷",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "critical defect"
+        }
+    },
+    {
+        "concept_name": "虫蛀试验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "moth bite test"
+        }
+    },
+    {
+        "concept_name": "表决系统",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "英文": "k-out-of-n system ;voting system",
+            "见载": "《电子学名词》第一版",
+            "英文名": "k-out-of-n system"
+        }
+    },
+    {
+        "concept_name": "计数型检查",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "inspection by attributes"
+        }
+    },
+    {
+        "concept_name": "计量型检查",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "inspection by variables"
+        }
+    },
+    {
+        "concept_name": "设计评审",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "design review"
+        }
+    },
+    {
+        "concept_name": "试验样品",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "test piece"
+        }
+    },
+    {
+        "concept_name": "误判失效",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "misjudgement failure"
+        }
+    },
+    {
+        "concept_name": "误用失效",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "misuse failure"
+        }
+    },
+    {
+        "concept_name": "质量反馈",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "quality feedback"
+        }
+    },
+    {
+        "concept_name": "质量指标",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "quality index"
+        }
+    },
+    {
+        "concept_name": "质量控制",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "quality control"
+        }
+    },
+    {
+        "concept_name": "质量管理",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "quality management"
+        }
+    },
+    {
+        "concept_name": "贮存寿命",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "storage life"
+        }
+    },
+    {
+        "concept_name": "贮存期",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "storage period"
+        }
+    },
+    {
+        "concept_name": "跌落试验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "fall-down test"
+        }
+    },
+    {
+        "concept_name": "辐射试验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "radiation test"
+        }
+    },
+    {
+        "concept_name": "过程平均",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "process average"
+        }
+    },
+    {
+        "concept_name": "运输试验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "transport test"
+        }
+    },
+    {
+        "concept_name": "返修品",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "reprocessed product"
+        }
+    },
+    {
+        "concept_name": "连续分布",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "continuous distribution"
+        }
+    },
+    {
+        "concept_name": "逐步截尾试验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "step-by-step cut-off test"
+        }
+    },
+    {
+        "concept_name": "鉴定试验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "qualification test"
+        }
+    },
+    {
+        "concept_name": "降额因数",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "derating factor"
+        }
+    },
+    {
+        "concept_name": "零假设",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "null hypothesis"
+        }
+    },
+    {
+        "concept_name": "需求时间",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "required time"
+        }
+    },
+    {
+        "concept_name": "霉菌试验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "mould test"
+        }
+    },
+    {
+        "concept_name": "露点试验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "dew point test"
+        }
+    },
+    {
+        "concept_name": "预处理",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "pretreatment"
+        }
+    },
+    {
+        "concept_name": "预防性维修",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "又称": " 预防性维护",
+            "见载": "《电子学名词》第一版",
+            "英文名": "preventive maintenance"
+        }
+    },
+    {
+        "concept_name": "频数直方图",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "frequency histogram"
+        }
+    },
+    {
+        "concept_name": "验收试验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "acceptance test"
+        }
+    },
+    {
+        "concept_name": "高温试验",
+        "details": {
+            "学科": "电子学_可靠性和质量控制",
+            "见载": "《电子学名词》第一版",
+            "英文名": "high-temperature test"
+        }
+    }
+]

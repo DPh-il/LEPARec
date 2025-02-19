@@ -1,0 +1,1974 @@
+[
+    {
+        "concept_name": "不整合圈闭",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "unconformity trap"
+        }
+    },
+    {
+        "concept_name": "不整合脉型铀矿",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "unconformity-vein type uranium deposit"
+        }
+    },
+    {
+        "concept_name": "丝炭",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "fusain"
+        }
+    },
+    {
+        "concept_name": "丝炭化作用",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "fusinization"
+        }
+    },
+    {
+        "concept_name": "乐平煤",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "Loping coal"
+        }
+    },
+    {
+        "concept_name": "乳滴状结构",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "emulsion texture"
+        }
+    },
+    {
+        "concept_name": "产油区",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "oil producing region"
+        }
+    },
+    {
+        "concept_name": "产铀岩体",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "uranium productive massif"
+        }
+    },
+    {
+        "concept_name": "伟晶岩型铀矿",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "pegmatite uranium deposit"
+        }
+    },
+    {
+        "concept_name": "伴生气",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "associated gas"
+        }
+    },
+    {
+        "concept_name": "伴生矿物",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "associate mineral"
+        }
+    },
+    {
+        "concept_name": "低温水热矿床",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "epithermal deposit"
+        }
+    },
+    {
+        "concept_name": "储油构造",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "oil-bearing structure"
+        }
+    },
+    {
+        "concept_name": "光学石英矿床",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "optical quartz deposit"
+        }
+    },
+    {
+        "concept_name": "内生作用",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "endogenesis"
+        }
+    },
+    {
+        "concept_name": "凝析油",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "condensate oil"
+        }
+    },
+    {
+        "concept_name": "凹凸棒石矿床",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "attapulgite deposit"
+        }
+    },
+    {
+        "concept_name": "勒辛型铀矿床",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "Rossing-type uranium deposit"
+        }
+    },
+    {
+        "concept_name": "勘查地质学",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "exploration and prospecting geology"
+        }
+    },
+    {
+        "concept_name": "半暗煤",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "semidull coal"
+        }
+    },
+    {
+        "concept_name": "卷状铀矿体",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "uranium roll"
+        }
+    },
+    {
+        "concept_name": "原地生成煤",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "autochthonous coal"
+        }
+    },
+    {
+        "concept_name": "原油",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "crude oil"
+        }
+    },
+    {
+        "concept_name": "双断裂夹持区",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "sandwiched area of double fracture zone"
+        }
+    },
+    {
+        "concept_name": "反射率分析法",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "reflectance analysis"
+        }
+    },
+    {
+        "concept_name": "受变质硅铁建造",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "metamorphosed cherty iron formation"
+        }
+    },
+    {
+        "concept_name": "后生矿床",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "epigenetic deposit"
+        }
+    },
+    {
+        "concept_name": "含氧系数",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "oxygen coefficient"
+        }
+    },
+    {
+        "concept_name": "含水饱和度",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "water saturation"
+        }
+    },
+    {
+        "concept_name": "含油地层",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "oil-bearing formation"
+        }
+    },
+    {
+        "concept_name": "含油气圈闭",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "oil gas trap"
+        }
+    },
+    {
+        "concept_name": "含油气构造",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "oil gas structure"
+        }
+    },
+    {
+        "concept_name": "含油气盆地",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "petroliferous basin"
+        }
+    },
+    {
+        "concept_name": "含油面积",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "oil-bearing area"
+        }
+    },
+    {
+        "concept_name": "含油饱和度",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "oil saturation"
+        }
+    },
+    {
+        "concept_name": "含煤岩系",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "coal-bearing series"
+        }
+    },
+    {
+        "concept_name": "含煤岩系古地理",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "paleogeography of coal-bearing series"
+        }
+    },
+    {
+        "concept_name": "含铀硅岩",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "uranium-bearing silicalite"
+        }
+    },
+    {
+        "concept_name": "含铀胶磷矿",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "uraniferous collophane"
+        }
+    },
+    {
+        "concept_name": "含铀页岩",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "uranium-bearing shale"
+        }
+    },
+    {
+        "concept_name": "吸附铀",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "adsorption uranium"
+        }
+    },
+    {
+        "concept_name": "喷流矿床",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "exhalation deposit"
+        }
+    },
+    {
+        "concept_name": "围岩蚀变",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "wallrock alteration"
+        }
+    },
+    {
+        "concept_name": "地沥青",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "land asphalt"
+        }
+    },
+    {
+        "concept_name": "地蜡",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ozocerite"
+        }
+    },
+    {
+        "concept_name": "垂直分带",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "vertical zoning"
+        }
+    },
+    {
+        "concept_name": "基底成熟度",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "basement maturity"
+        }
+    },
+    {
+        "concept_name": "壳质组",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "又称": " 稳定组",
+            "见载": "《地质学名词》第一版",
+            "英文名": "exinite"
+        }
+    },
+    {
+        "concept_name": "外生作用",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "exogenesis"
+        }
+    },
+    {
+        "concept_name": "孢子体",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "sporinite"
+        }
+    },
+    {
+        "concept_name": "宝石",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "gemstone"
+        }
+    },
+    {
+        "concept_name": "富矿体",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ore shoot"
+        }
+    },
+    {
+        "concept_name": "富铀岩体",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "uranium-rich massif"
+        }
+    },
+    {
+        "concept_name": "岩浆贯入型矿床",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "magmatic injection-type deposit"
+        }
+    },
+    {
+        "concept_name": "工业矿物和岩石",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "industrial minerals and rocks"
+        }
+    },
+    {
+        "concept_name": "希尔特规律",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "Hilt's rule"
+        }
+    },
+    {
+        "concept_name": "席状矿体",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "又称": " 平卧矿体",
+            "见载": "《地质学名词》第一版",
+            "英文名": "manto"
+        }
+    },
+    {
+        "concept_name": "建筑材料",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "constructional materials"
+        }
+    },
+    {
+        "concept_name": "异地生成煤",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "allochthonous coal"
+        }
+    },
+    {
+        "concept_name": "微亮煤",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "clarite"
+        }
+    },
+    {
+        "concept_name": "微惰煤",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "inertite"
+        }
+    },
+    {
+        "concept_name": "微晶石英型铀矿",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "U-ore of microcrystalline quartz type"
+        }
+    },
+    {
+        "concept_name": "微暗煤",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "durite"
+        }
+    },
+    {
+        "concept_name": "微粒体",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "micrinite"
+        }
+    },
+    {
+        "concept_name": "微镜惰煤",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "vitrinertite"
+        }
+    },
+    {
+        "concept_name": "惰性铀",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "immobile uranium"
+        }
+    },
+    {
+        "concept_name": "惰质组",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "inertinite"
+        }
+    },
+    {
+        "concept_name": "成矿域",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "metallogenic domain"
+        }
+    },
+    {
+        "concept_name": "成矿壳层",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ore-forming level"
+        }
+    },
+    {
+        "concept_name": "成矿期",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "metallogenic epoch"
+        }
+    },
+    {
+        "concept_name": "成矿省",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "metallogenic province"
+        }
+    },
+    {
+        "concept_name": "探井",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "exploratory well"
+        }
+    },
+    {
+        "concept_name": "放射性测量",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "radioactive measurement"
+        }
+    },
+    {
+        "concept_name": "方解石化",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "calcitization"
+        }
+    },
+    {
+        "concept_name": "无烟煤",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "anthracite"
+        }
+    },
+    {
+        "concept_name": "无结构镜质体",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "collinite"
+        }
+    },
+    {
+        "concept_name": "早期岩浆分凝型矿床",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "early magmatic segregation-type deposit"
+        }
+    },
+    {
+        "concept_name": "显微组分",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "maceral"
+        }
+    },
+    {
+        "concept_name": "晶簇构造",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "drusy structure"
+        }
+    },
+    {
+        "concept_name": "暗淡煤",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "dull coal"
+        }
+    },
+    {
+        "concept_name": "暗煤",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "durain"
+        }
+    },
+    {
+        "concept_name": "有效渗透率",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "effective permeability"
+        }
+    },
+    {
+        "concept_name": "条带状硅铁建造",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "banded cherty iron formation"
+        }
+    },
+    {
+        "concept_name": "板状铀矿体",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "tabular U-ore body"
+        }
+    },
+    {
+        "concept_name": "构造圈闭",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "structural trap"
+        }
+    },
+    {
+        "concept_name": "树脂体",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "resinite"
+        }
+    },
+    {
+        "concept_name": "次生富集带",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "zone of secondary enrichment"
+        }
+    },
+    {
+        "concept_name": "正岩浆矿床",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "orthomagmatic mineral deposit"
+        }
+    },
+    {
+        "concept_name": "气油比",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "gas-oil ratio"
+        }
+    },
+    {
+        "concept_name": "水热喷发",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "hydrothermal eruption"
+        }
+    },
+    {
+        "concept_name": "水热蚀变",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "曾称": " 热液蚀变",
+            "见载": "《地质学名词》第一版",
+            "英文名": "hydrothermal alteration"
+        }
+    },
+    {
+        "concept_name": "沉淀分带",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "precipitation zoning"
+        }
+    },
+    {
+        "concept_name": "沉积喷流矿床",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "sedimentary exhalative deposit"
+        }
+    },
+    {
+        "concept_name": "沥青",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "英文": "bitumen ;asphalt",
+            "见载": "《地质学名词》第一版",
+            "英文名": "bitumen"
+        }
+    },
+    {
+        "concept_name": "沸石矿床",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "zeolite deposit"
+        }
+    },
+    {
+        "concept_name": "油柱高度",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "又称": " 油藏含油高度",
+            "见载": "《地质学名词》第一版",
+            "英文名": "oil column height"
+        }
+    },
+    {
+        "concept_name": "油气界面",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "oil-gas contact"
+        }
+    },
+    {
+        "concept_name": "油水界面",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "oil-water contact"
+        }
+    },
+    {
+        "concept_name": "油田",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "oil field"
+        }
+    },
+    {
+        "concept_name": "油砂",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "oil sand"
+        }
+    },
+    {
+        "concept_name": "油苗",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "oil seepage"
+        }
+    },
+    {
+        "concept_name": "油藏",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "oil pool"
+        }
+    },
+    {
+        "concept_name": "油页岩",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "oil shale"
+        }
+    },
+    {
+        "concept_name": "泥化",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "argillization"
+        }
+    },
+    {
+        "concept_name": "泥炭化作用",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "peat formation"
+        }
+    },
+    {
+        "concept_name": "注水[油]井",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "water injection well"
+        }
+    },
+    {
+        "concept_name": "活性碳法",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "absorbent charcoal method"
+        }
+    },
+    {
+        "concept_name": "活性铀",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "mobile uranium"
+        }
+    },
+    {
+        "concept_name": "流体-岩石交互作用",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "fluid-rock interaction"
+        }
+    },
+    {
+        "concept_name": "海上油气田",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "offshore oil gas field"
+        }
+    },
+    {
+        "concept_name": "海底喷流作用",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "submarine exhalative process"
+        }
+    },
+    {
+        "concept_name": "淋积型铀矿",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "leaching type uranium deposit"
+        }
+    },
+    {
+        "concept_name": "淋积矿床",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "leaching deposit"
+        }
+    },
+    {
+        "concept_name": "滚动背斜构造",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "rollover anticline structure"
+        }
+    },
+    {
+        "concept_name": "漂白土",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "fuller's earth"
+        }
+    },
+    {
+        "concept_name": "火山岩型铀矿",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "volcanic type U-ore"
+        }
+    },
+    {
+        "concept_name": "烟煤",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "bituminous coal"
+        }
+    },
+    {
+        "concept_name": "热改造型铀矿",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "thermal reworked type uranium deposit"
+        }
+    },
+    {
+        "concept_name": "煤层",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "coal seam"
+        }
+    },
+    {
+        "concept_name": "煤岩学",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "coal petrology"
+        }
+    },
+    {
+        "concept_name": "煤成气",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "coal gas"
+        }
+    },
+    {
+        "concept_name": "煤核",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "coal ball"
+        }
+    },
+    {
+        "concept_name": "煤沉积模式",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "sedimantary model of coal"
+        }
+    },
+    {
+        "concept_name": "煤盆地",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "又称": " 聚煤盆地",
+            "见载": "《地质学名词》第一版",
+            "英文名": "coal basin"
+        }
+    },
+    {
+        "concept_name": "爆破角砾岩型铀矿",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "U-ore of explosion-breccia type"
+        }
+    },
+    {
+        "concept_name": "玢岩铁矿床",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "porphyrite iron deposit"
+        }
+    },
+    {
+        "concept_name": "珍珠岩矿床",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "perlite deposit"
+        }
+    },
+    {
+        "concept_name": "生物成因作用",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "biogenic process"
+        }
+    },
+    {
+        "concept_name": "盐丘圈闭[构造]",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "salt dome trap [structure]"
+        }
+    },
+    {
+        "concept_name": "盲矿",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "blind ore"
+        }
+    },
+    {
+        "concept_name": "石墨矿床",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "graphite deposit"
+        }
+    },
+    {
+        "concept_name": "石棉矿床",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "asbestos deposit"
+        }
+    },
+    {
+        "concept_name": "石油二次运移",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "oil secondary migration"
+        }
+    },
+    {
+        "concept_name": "石油产状",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "oil occurrence"
+        }
+    },
+    {
+        "concept_name": "石油产量",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "oil production rate"
+        }
+    },
+    {
+        "concept_name": "石油初次运移",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "oil primary migration"
+        }
+    },
+    {
+        "concept_name": "石油聚集",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "oil accumulation"
+        }
+    },
+    {
+        "concept_name": "石膏矿床",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "gypsum deposit"
+        }
+    },
+    {
+        "concept_name": "石英喷流岩",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "quartz exhalite"
+        }
+    },
+    {
+        "concept_name": "矿-岩时差",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "rock-ore formation time interval"
+        }
+    },
+    {
+        "concept_name": "矿产勘查",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "mineral exploration"
+        }
+    },
+    {
+        "concept_name": "矿产开发",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "mineral exploitation"
+        }
+    },
+    {
+        "concept_name": "矿产经济学",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "mineral economics"
+        }
+    },
+    {
+        "concept_name": "矿化剂",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "mineralizer"
+        }
+    },
+    {
+        "concept_name": "矿化流体",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "mineralizing fluid"
+        }
+    },
+    {
+        "concept_name": "矿区",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ore district"
+        }
+    },
+    {
+        "concept_name": "矿床品位",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "grade of ore"
+        }
+    },
+    {
+        "concept_name": "矿床地质学",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "mineral deposit geology"
+        }
+    },
+    {
+        "concept_name": "矿根相",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "facies of ore body root"
+        }
+    },
+    {
+        "concept_name": "矿浆",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ore magma"
+        }
+    },
+    {
+        "concept_name": "矿浆型铁矿床",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ore magma iron deposit"
+        }
+    },
+    {
+        "concept_name": "矿点",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ore occurrence"
+        }
+    },
+    {
+        "concept_name": "矿物组合",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "英文": "mineral association ;mineral assemblage",
+            "见载": "《地质学名词》第一版",
+            "英文名": "mineral association"
+        }
+    },
+    {
+        "concept_name": "矿田",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ore field"
+        }
+    },
+    {
+        "concept_name": "矿石",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ore"
+        }
+    },
+    {
+        "concept_name": "矿石矿物学",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ore mineralogy"
+        }
+    },
+    {
+        "concept_name": "矿顶相",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "facies of ore body top"
+        }
+    },
+    {
+        "concept_name": "砂岩型铀矿",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "sandstone type U-ore"
+        }
+    },
+    {
+        "concept_name": "研磨材料",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "abrasive materials"
+        }
+    },
+    {
+        "concept_name": "砾岩型铀矿",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "conglomerate type U-ore"
+        }
+    },
+    {
+        "concept_name": "硅化带型铀矿",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "silicified zone type U-ore"
+        }
+    },
+    {
+        "concept_name": "硫化物矿床氧化带",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "oxidized zone of sulfide deposit"
+        }
+    },
+    {
+        "concept_name": "硼镁石矿床",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "英文": "ascharite deposit ;szaibelyite deposit",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ascharite deposit"
+        }
+    },
+    {
+        "concept_name": "碎屑壳质体",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "又称": " 碎屑稳定体",
+            "见载": "《地质学名词》第一版",
+            "英文名": "liptodetrinite"
+        }
+    },
+    {
+        "concept_name": "碎屑惰质体",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "inertodetrinite"
+        }
+    },
+    {
+        "concept_name": "碘矿床",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "iodine deposit"
+        }
+    },
+    {
+        "concept_name": "碱交代型铀矿",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "alkalic-metasomatism type uranium deposit"
+        }
+    },
+    {
+        "concept_name": "碱性岩型铀矿",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "alkaline rock type uranium deposit"
+        }
+    },
+    {
+        "concept_name": "碳硅泥岩型铀矿",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "carbonaceous siliceous-pelitic rock type U-ore"
+        }
+    },
+    {
+        "concept_name": "碳酸岩型稀土矿床",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "carbonatite-type rare earth deposit"
+        }
+    },
+    {
+        "concept_name": "磷灰石矿床",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "apatite deposit"
+        }
+    },
+    {
+        "concept_name": "磷酸盐矿床",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "phosphate deposit"
+        }
+    },
+    {
+        "concept_name": "稀土金属矿床",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "rare earth metal deposit"
+        }
+    },
+    {
+        "concept_name": "等反射率线",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "isoreflectance line"
+        }
+    },
+    {
+        "concept_name": "等煤级线",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "isorank"
+        }
+    },
+    {
+        "concept_name": "粗粒体",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "macrinite"
+        }
+    },
+    {
+        "concept_name": "红土化",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "lateritization"
+        }
+    },
+    {
+        "concept_name": "经济地质学",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "economic geology"
+        }
+    },
+    {
+        "concept_name": "经济矿床",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "economic mineral deposit"
+        }
+    },
+    {
+        "concept_name": "结构镜质体",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "telinite"
+        }
+    },
+    {
+        "concept_name": "绢英带",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "phyllic zone"
+        }
+    },
+    {
+        "concept_name": "绿泥石型铀矿",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "U-ore of chlorite type"
+        }
+    },
+    {
+        "concept_name": "网脉状矿石带",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "stockwork ore zone"
+        }
+    },
+    {
+        "concept_name": "聚煤作用",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "coal accumulation"
+        }
+    },
+    {
+        "concept_name": "聚煤区",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "coal acumulating region"
+        }
+    },
+    {
+        "concept_name": "聚煤期",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "coal-forming period"
+        }
+    },
+    {
+        "concept_name": "背斜构造理论",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "anticline theory"
+        }
+    },
+    {
+        "concept_name": "胶状构造",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "colloform structure"
+        }
+    },
+    {
+        "concept_name": "脉动分带",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "pulsative zoning"
+        }
+    },
+    {
+        "concept_name": "脉状构造",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "vein structure"
+        }
+    },
+    {
+        "concept_name": "腐植腐泥煤",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "又称": " 腐殖腐泥煤",
+            "见载": "《地质学名词》第一版",
+            "英文名": "humosapropelic coal"
+        }
+    },
+    {
+        "concept_name": "腐泥化作用",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "putrefaction"
+        }
+    },
+    {
+        "concept_name": "自然硫矿床",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "native sulfur deposit"
+        }
+    },
+    {
+        "concept_name": "花岗岩型铀矿",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "granite type U-ore"
+        }
+    },
+    {
+        "concept_name": "萤石型铀矿",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "fluorite type U-ore"
+        }
+    },
+    {
+        "concept_name": "蒸发岩矿床",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "evaporite deposit"
+        }
+    },
+    {
+        "concept_name": "藻类体",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "alginite"
+        }
+    },
+    {
+        "concept_name": "褪色作用",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "decolourization"
+        }
+    },
+    {
+        "concept_name": "角质体",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "cutinite"
+        }
+    },
+    {
+        "concept_name": "评价井",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "又称": " 详探井",
+            "见载": "《地质学名词》第一版",
+            "英文名": "evaluation well"
+        }
+    },
+    {
+        "concept_name": "豆状构造",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "pisolitic structrue"
+        }
+    },
+    {
+        "concept_name": "资源评价",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "resources assessment"
+        }
+    },
+    {
+        "concept_name": "轻质油",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "light oil"
+        }
+    },
+    {
+        "concept_name": "边界品位",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "cut-off grade"
+        }
+    },
+    {
+        "concept_name": "近火山活动金属矿床",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "proximal ore deposit"
+        }
+    },
+    {
+        "concept_name": "远火山活动金属矿床",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "distal ore deposit"
+        }
+    },
+    {
+        "concept_name": "酸性白土",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "acid clay"
+        }
+    },
+    {
+        "concept_name": "重质油",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "heavy oil"
+        }
+    },
+    {
+        "concept_name": "金刚石矿床",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "diamond deposit"
+        }
+    },
+    {
+        "concept_name": "金属矿床",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ore deposit"
+        }
+    },
+    {
+        "concept_name": "钍铀比",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "Th/U ratio"
+        }
+    },
+    {
+        "concept_name": "钠交代型铀矿",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "sodic-metasomatism type uranium deposit"
+        }
+    },
+    {
+        "concept_name": "钾交代型铀矿",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "potassic-metasomatism type uranium deposit"
+        }
+    },
+    {
+        "concept_name": "铀-汞型矿化",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "mineralization of U-Hg type"
+        }
+    },
+    {
+        "concept_name": "铀-磷型矿化",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "mineralization of U-P type"
+        }
+    },
+    {
+        "concept_name": "铀-钛型矿化",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "mineralization of U-Ti type"
+        }
+    },
+    {
+        "concept_name": "铀-铁型矿化",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "mineralization of U-Fe type"
+        }
+    },
+    {
+        "concept_name": "铀-镭平衡",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "U-Ra equilibrium"
+        }
+    },
+    {
+        "concept_name": "铀地球化学旋回",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "geochemical cycle of uranium"
+        }
+    },
+    {
+        "concept_name": "铀氧化-还原过渡带",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "redox transitional zone of uranium"
+        }
+    },
+    {
+        "concept_name": "铀氧化带",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "uranium oxidized zone"
+        }
+    },
+    {
+        "concept_name": "铀活化",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "uranium mobilization"
+        }
+    },
+    {
+        "concept_name": "铀矿地质学",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "uranium geology"
+        }
+    },
+    {
+        "concept_name": "铀矿床",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "uranium deposit"
+        }
+    },
+    {
+        "concept_name": "铀还原带",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "uranium reduction zone"
+        }
+    },
+    {
+        "concept_name": "铀黑",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "uranium black"
+        }
+    },
+    {
+        "concept_name": "铁英岩",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "英文": "itabirite ;taconite",
+            "见载": "《地质学名词》第一版",
+            "英文名": "itabirite"
+        }
+    },
+    {
+        "concept_name": "铬铁矿浆",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "chromite ore magma"
+        }
+    },
+    {
+        "concept_name": "镜质组",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "vitrinite"
+        }
+    },
+    {
+        "concept_name": "长焰煤",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "long-flame coal"
+        }
+    },
+    {
+        "concept_name": "间歇分带",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "intermittent zoning"
+        }
+    },
+    {
+        "concept_name": "阿尔卑斯型铬铁矿床",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "chromite deposit of Alpine-type"
+        }
+    },
+    {
+        "concept_name": "陆上油气田",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "onshore oil gas field"
+        }
+    },
+    {
+        "concept_name": "隐伏矿",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "buried ore"
+        }
+    },
+    {
+        "concept_name": "隐蔽圈闭",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "subtle trap"
+        }
+    },
+    {
+        "concept_name": "隔热隔音材料",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "thermal and sound insulating materials"
+        }
+    },
+    {
+        "concept_name": "集料",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "aggregate"
+        }
+    },
+    {
+        "concept_name": "青磐岩化",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "propylitization"
+        }
+    },
+    {
+        "concept_name": "鞍山式铁矿床",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "Anshan-type of iron deposit"
+        }
+    },
+    {
+        "concept_name": "预探井",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "preliminary prospecting well"
+        }
+    },
+    {
+        "concept_name": "风化壳离子吸附型稀土矿床",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "weathering crust ion-adsorbed REE deposit"
+        }
+    },
+    {
+        "concept_name": "骸晶结构",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "skeleton texture"
+        }
+    },
+    {
+        "concept_name": "高铝矿物",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "high aluminum mineral"
+        }
+    },
+    {
+        "concept_name": "鲕状构造",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "oolitic structure"
+        }
+    },
+    {
+        "concept_name": "黏土化蚀变型铀矿",
+        "details": {
+            "学科": "地质学_矿床地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "argillified type U-ore"
+        }
+    }
+]

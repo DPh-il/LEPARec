@@ -1,0 +1,1191 @@
+[
+    {
+        "concept_name": "中曲率",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "又称": " 平均曲率",
+            "见载": "《数学名词》第一版",
+            "英文名": "mean curvature"
+        }
+    },
+    {
+        "concept_name": "主方向",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "principal direction"
+        }
+    },
+    {
+        "concept_name": "主曲率",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "principal curvature"
+        }
+    },
+    {
+        "concept_name": "主法线",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "principal normal"
+        }
+    },
+    {
+        "concept_name": "从切[平]面",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "rectifying plane"
+        }
+    },
+    {
+        "concept_name": "仿射微分几何[学]",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "affine differential geometry"
+        }
+    },
+    {
+        "concept_name": "仿射曲率",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "affine curvature"
+        }
+    },
+    {
+        "concept_name": "仿射法线",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "affine normal"
+        }
+    },
+    {
+        "concept_name": "仿射联络",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "affine connection"
+        }
+    },
+    {
+        "concept_name": "体积元",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "volume element"
+        }
+    },
+    {
+        "concept_name": "余切向量",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "cotangent vector"
+        }
+    },
+    {
+        "concept_name": "余切空间",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "cotangent space"
+        }
+    },
+    {
+        "concept_name": "余标架",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "coframe"
+        }
+    },
+    {
+        "concept_name": "克氏符号",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "全称": " 克里斯托费尔符号",
+            "见载": "《数学名词》第一版",
+            "英文名": "Christoffel symbol"
+        }
+    },
+    {
+        "concept_name": "全曲率",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "total curvature"
+        }
+    },
+    {
+        "concept_name": "共变",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "covariant"
+        }
+    },
+    {
+        "concept_name": "共变导数",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "covariant derivative"
+        }
+    },
+    {
+        "concept_name": "共变微分",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "covariant differential"
+        }
+    },
+    {
+        "concept_name": "共形的",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "conformal"
+        }
+    },
+    {
+        "concept_name": "共轭点",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "conjugate point"
+        }
+    },
+    {
+        "concept_name": "共轭轨迹",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "conjugate locus"
+        }
+    },
+    {
+        "concept_name": "内法线",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "inward normal"
+        }
+    },
+    {
+        "concept_name": "内蕴几何[学]",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "intrinsic geometry"
+        }
+    },
+    {
+        "concept_name": "再见曲面",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "wiedersehen surface"
+        }
+    },
+    {
+        "concept_name": "凸半径",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "convexity radius"
+        }
+    },
+    {
+        "concept_name": "切割点",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "tangent cut point"
+        }
+    },
+    {
+        "concept_name": "切割迹",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "tangent cut locus"
+        }
+    },
+    {
+        "concept_name": "切向量",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "tangent vector"
+        }
+    },
+    {
+        "concept_name": "切空间",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "tangent space"
+        }
+    },
+    {
+        "concept_name": "切线曲面",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "tangent surface"
+        }
+    },
+    {
+        "concept_name": "切触",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "contact"
+        }
+    },
+    {
+        "concept_name": "切触变换",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "contact transformation"
+        }
+    },
+    {
+        "concept_name": "列维-奇维塔联络",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "Levi-Civita connection"
+        }
+    },
+    {
+        "concept_name": "刚性",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "rigidity"
+        }
+    },
+    {
+        "concept_name": "副法线",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "binormal"
+        }
+    },
+    {
+        "concept_name": "割迹",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "cut locus"
+        }
+    },
+    {
+        "concept_name": "单参数测地线族",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "1-parameter family of geodesics"
+        }
+    },
+    {
+        "concept_name": "单射半径",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "injective radius"
+        }
+    },
+    {
+        "concept_name": "卵形面",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "ovaloid"
+        }
+    },
+    {
+        "concept_name": "双曲点",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "hyperbolic point"
+        }
+    },
+    {
+        "concept_name": "反变",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "contravariant"
+        }
+    },
+    {
+        "concept_name": "可展曲面",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "developable surface"
+        }
+    },
+    {
+        "concept_name": "可求长曲线",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "rectifiable curve"
+        }
+    },
+    {
+        "concept_name": "基本张量",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "fundamental tensor"
+        }
+    },
+    {
+        "concept_name": "外法线",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "exterior normal"
+        }
+    },
+    {
+        "concept_name": "大范围变分法",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "calculus of variation in the large"
+        }
+    },
+    {
+        "concept_name": "套紧[的]",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "taut"
+        }
+    },
+    {
+        "concept_name": "定倾曲线",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "curve of constant inclination"
+        }
+    },
+    {
+        "concept_name": "定幅曲面",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "equidistant surface"
+        }
+    },
+    {
+        "concept_name": "定阔曲线",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "curve of constant breadth"
+        }
+    },
+    {
+        "concept_name": "密切[平]面",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "osculating plane"
+        }
+    },
+    {
+        "concept_name": "密切圆",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "osculating circle"
+        }
+    },
+    {
+        "concept_name": "对偶向量",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "dual vector"
+        }
+    },
+    {
+        "concept_name": "射影微分几何[学]",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "projective differential geometry"
+        }
+    },
+    {
+        "concept_name": "常曲率空间",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "space of constant curvature"
+        }
+    },
+    {
+        "concept_name": "平坦空间",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "flat space"
+        }
+    },
+    {
+        "concept_name": "平点",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "planar point"
+        }
+    },
+    {
+        "concept_name": "平行移动",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "parallel translation"
+        }
+    },
+    {
+        "concept_name": "度量密度",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "metric density"
+        }
+    },
+    {
+        "concept_name": "张量分析",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "tensor calculus"
+        }
+    },
+    {
+        "concept_name": "形状算子",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "shape operator"
+        }
+    },
+    {
+        "concept_name": "径向测地线",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "radical geodesic"
+        }
+    },
+    {
+        "concept_name": "微分几何[学]",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "differential geometry"
+        }
+    },
+    {
+        "concept_name": "悬链面",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "catenoid"
+        }
+    },
+    {
+        "concept_name": "截[面]曲率",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "sectional curvature"
+        }
+    },
+    {
+        "concept_name": "抛物点",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "parabolic point"
+        }
+    },
+    {
+        "concept_name": "拟设",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "ansatz"
+        }
+    },
+    {
+        "concept_name": "挠率",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "torsion"
+        }
+    },
+    {
+        "concept_name": "挠率张量",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "torsion tensor"
+        }
+    },
+    {
+        "concept_name": "数量曲率",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "scalar curvature"
+        }
+    },
+    {
+        "concept_name": "斜驶线",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "loxodrome"
+        }
+    },
+    {
+        "concept_name": "族参数",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "family parameter"
+        }
+    },
+    {
+        "concept_name": "无挠的",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "torsionfree"
+        }
+    },
+    {
+        "concept_name": "星形区域",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "star-shaped domain"
+        }
+    },
+    {
+        "concept_name": "曲率",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "curvature"
+        }
+    },
+    {
+        "concept_name": "曲率中心",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "center of curvature"
+        }
+    },
+    {
+        "concept_name": "曲率半径",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "radius of curvature"
+        }
+    },
+    {
+        "concept_name": "曲率圆",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "circle of curvature"
+        }
+    },
+    {
+        "concept_name": "曲率张量",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "curvature tensor"
+        }
+    },
+    {
+        "concept_name": "曲率线",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "line of curvature"
+        }
+    },
+    {
+        "concept_name": "最短测地线",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "minimal geodesic"
+        }
+    },
+    {
+        "concept_name": "杨-米尔斯联络",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "Yang-Mills connection"
+        }
+    },
+    {
+        "concept_name": "极小子流形",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "minimal submanifold"
+        }
+    },
+    {
+        "concept_name": "极小曲面",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "minimal surface"
+        }
+    },
+    {
+        "concept_name": "柱面",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "cylindrical surface"
+        }
+    },
+    {
+        "concept_name": "标架",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "frame"
+        }
+    },
+    {
+        "concept_name": "椭圆点",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "elliptic point"
+        }
+    },
+    {
+        "concept_name": "椭球复形",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "elliptical complex"
+        }
+    },
+    {
+        "concept_name": "椭球算子的指标",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "index of an elliptic operator"
+        }
+    },
+    {
+        "concept_name": "正交坐标",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "orthogonal coordinates"
+        }
+    },
+    {
+        "concept_name": "正劈锥曲面",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "right conoid"
+        }
+    },
+    {
+        "concept_name": "正常变分",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "proper variation"
+        }
+    },
+    {
+        "concept_name": "正螺[旋]面",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "right helicoid"
+        }
+    },
+    {
+        "concept_name": "殆平坦流形",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "almost flat manifold"
+        }
+    },
+    {
+        "concept_name": "比安基恒等式",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "Bianchi identities"
+        }
+    },
+    {
+        "concept_name": "比较定理",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "comparison theorem"
+        }
+    },
+    {
+        "concept_name": "水平子空间",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "又称": " 横子空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "horizontal subspace"
+        }
+    },
+    {
+        "concept_name": "法坐标",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "normal coordinates"
+        }
+    },
+    {
+        "concept_name": "法平面",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "normal plane"
+        }
+    },
+    {
+        "concept_name": "法曲率",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "normal curvature"
+        }
+    },
+    {
+        "concept_name": "活动三面形",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "moving trihedral"
+        }
+    },
+    {
+        "concept_name": "活动标架",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "moving frame"
+        }
+    },
+    {
+        "concept_name": "测地坐标",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "geodesic coordinates"
+        }
+    },
+    {
+        "concept_name": "测地曲率",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "geodesic curvature"
+        }
+    },
+    {
+        "concept_name": "测地流",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "geodesic flow"
+        }
+    },
+    {
+        "concept_name": "测地线",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "geodesic"
+        }
+    },
+    {
+        "concept_name": "测地线环路",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "geodesic loop"
+        }
+    },
+    {
+        "concept_name": "渐伸线",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "involute"
+        }
+    },
+    {
+        "concept_name": "渐屈线",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "evolute"
+        }
+    },
+    {
+        "concept_name": "渐近方向",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "asymptotic direction"
+        }
+    },
+    {
+        "concept_name": "渐近曲线",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "asymptotic curve"
+        }
+    },
+    {
+        "concept_name": "焦散曲面",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "caustic surface"
+        }
+    },
+    {
+        "concept_name": "焦集",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "focal set"
+        }
+    },
+    {
+        "concept_name": "球面定理",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "sphere theorem"
+        }
+    },
+    {
+        "concept_name": "球面表示",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "spherical representation"
+        }
+    },
+    {
+        "concept_name": "直纹[曲]面",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "ruled surface"
+        }
+    },
+    {
+        "concept_name": "直线族",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "family of straight lines"
+        }
+    },
+    {
+        "concept_name": "积分几何[学]",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "integral geometry"
+        }
+    },
+    {
+        "concept_name": "空间坐标",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "space coordinates"
+        }
+    },
+    {
+        "concept_name": "空间型",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "space form"
+        }
+    },
+    {
+        "concept_name": "空隙现象",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "gap phenomenon"
+        }
+    },
+    {
+        "concept_name": "第一基本型",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "又称": " 第一基本形式",
+            "见载": "《数学名词》第一版",
+            "英文名": "first fundamental form"
+        }
+    },
+    {
+        "concept_name": "第二基本型",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "又称": " 第二基本形式",
+            "见载": "《数学名词》第一版",
+            "英文名": "second fundamental form"
+        }
+    },
+    {
+        "concept_name": "等参超曲面",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "isoparametric hypersurface"
+        }
+    },
+    {
+        "concept_name": "等周不等式",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "isoperimetric inequality"
+        }
+    },
+    {
+        "concept_name": "等温坐标",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "isothermal coordinates"
+        }
+    },
+    {
+        "concept_name": "绝妙定理",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "theorema egregium"
+        }
+    },
+    {
+        "concept_name": "绝对微分学",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "absolute differential calculus"
+        }
+    },
+    {
+        "concept_name": "联络",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "connection"
+        }
+    },
+    {
+        "concept_name": "联络系数",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "coefficients of connection"
+        }
+    },
+    {
+        "concept_name": "胎紧[的]",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "tight"
+        }
+    },
+    {
+        "concept_name": "脊线",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "line of regression"
+        }
+    },
+    {
+        "concept_name": "脐点",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "umbilical point"
+        }
+    },
+    {
+        "concept_name": "自对偶联络",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "self-dual connection"
+        }
+    },
+    {
+        "concept_name": "螺[旋]线",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "helix"
+        }
+    },
+    {
+        "concept_name": "螺[旋]面",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "helicoidal surface"
+        }
+    },
+    {
+        "concept_name": "规范群",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "gauge group"
+        }
+    },
+    {
+        "concept_name": "调和映射",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "harmonic map"
+        }
+    },
+    {
+        "concept_name": "超曲面",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "hypersurface"
+        }
+    },
+    {
+        "concept_name": "迪潘标形",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "Dupin indicatrix"
+        }
+    },
+    {
+        "concept_name": "里奇曲率",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "Ricci curvature"
+        }
+    },
+    {
+        "concept_name": "锥面",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "conical surface"
+        }
+    },
+    {
+        "concept_name": "闭测地线",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "closed geodesic"
+        }
+    },
+    {
+        "concept_name": "雅可比场",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "Jacobian field"
+        }
+    },
+    {
+        "concept_name": "高斯映射",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "Gauss mapping"
+        }
+    },
+    {
+        "concept_name": "高斯曲率",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "Gaussian curvature"
+        }
+    },
+    {
+        "concept_name": "黎曼几何[学]",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "Riemannian geometry"
+        }
+    },
+    {
+        "concept_name": "黎曼度量",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分几何学",
+            "见载": "《数学名词》第一版",
+            "英文名": "Riemann metric"
+        }
+    }
+]

@@ -1,0 +1,1246 @@
+[
+    {
+        "concept_name": "仪表误差",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "instrumental error"
+        }
+    },
+    {
+        "concept_name": "信号分析仪",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "signal analyzer"
+        }
+    },
+    {
+        "concept_name": "信号发生器",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "signal generator"
+        }
+    },
+    {
+        "concept_name": "修正",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "又称": " 校正",
+            "见载": "《电子学名词》第一版",
+            "英文名": "correction"
+        }
+    },
+    {
+        "concept_name": "偏转系数",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "deflection coefficient"
+        }
+    },
+    {
+        "concept_name": "傅里叶分析仪",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Fourier analyzer"
+        }
+    },
+    {
+        "concept_name": "允许误差",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "permissible error"
+        }
+    },
+    {
+        "concept_name": "全景频谱分析仪",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "panoramic spectrum analyzer"
+        }
+    },
+    {
+        "concept_name": "六端口自动网络分析仪",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "six-port automatic network analyzer"
+        }
+    },
+    {
+        "concept_name": "准确度",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "accuracy"
+        }
+    },
+    {
+        "concept_name": "分辨带宽",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "resolution bandwidth"
+        }
+    },
+    {
+        "concept_name": "剩余响应",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "residual response"
+        }
+    },
+    {
+        "concept_name": "动态范围",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "dynamic range"
+        }
+    },
+    {
+        "concept_name": "协议分析仪",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "protocol analyzer"
+        }
+    },
+    {
+        "concept_name": "反射电桥",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "reflection bridge"
+        }
+    },
+    {
+        "concept_name": "反射计",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "reflectometer"
+        }
+    },
+    {
+        "concept_name": "取样器",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "又称": " 采样器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "sampler"
+        }
+    },
+    {
+        "concept_name": "取样示波器",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "sampling oscilloscope"
+        }
+    },
+    {
+        "concept_name": "合成信号发生器",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "synthesized signal generator"
+        }
+    },
+    {
+        "concept_name": "合成扫频发生器",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "synthesized sweep generator"
+        }
+    },
+    {
+        "concept_name": "噪声发生器",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "noise generator"
+        }
+    },
+    {
+        "concept_name": "噪声系数测试仪",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "noise figure meter"
+        }
+    },
+    {
+        "concept_name": "回波损耗",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "return loss"
+        }
+    },
+    {
+        "concept_name": "固有误差",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "intrinsic error"
+        }
+    },
+    {
+        "concept_name": "地电阻表",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "earth resistance meter"
+        }
+    },
+    {
+        "concept_name": "场强测量仪",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "field strength meter"
+        }
+    },
+    {
+        "concept_name": "复现性",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "又称": " 再现性",
+            "见载": "《电子学名词》第一版",
+            "英文名": "reproducibility"
+        }
+    },
+    {
+        "concept_name": "多用表",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "multimeter"
+        }
+    },
+    {
+        "concept_name": "失真分析仪",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "distortion analyzer"
+        }
+    },
+    {
+        "concept_name": "失配误差",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "mismatch error"
+        }
+    },
+    {
+        "concept_name": "存储示波器",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "storage oscilloscope"
+        }
+    },
+    {
+        "concept_name": "实时示波器",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "real time oscilloscope"
+        }
+    },
+    {
+        "concept_name": "导抗电桥",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "immittance bridge"
+        }
+    },
+    {
+        "concept_name": "峰值功率计",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "peak power meter"
+        }
+    },
+    {
+        "concept_name": "干扰测量仪",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "interference measuring set"
+        }
+    },
+    {
+        "concept_name": "平均功率计",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "average power meter"
+        }
+    },
+    {
+        "concept_name": "平衡不平衡变换器",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "balanced to unbalanced transformer"
+        }
+    },
+    {
+        "concept_name": "影响量",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "influence quantity"
+        }
+    },
+    {
+        "concept_name": "性能特性",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "performance characteristic"
+        }
+    },
+    {
+        "concept_name": "扫频反射计",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "swept frequency reflectometer"
+        }
+    },
+    {
+        "concept_name": "扫频宽度",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "scan width"
+        }
+    },
+    {
+        "concept_name": "数[据]域测量",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "data domain measurement"
+        }
+    },
+    {
+        "concept_name": "数字仪器",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "digital instrument"
+        }
+    },
+    {
+        "concept_name": "数字多用表",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "digital multimeter"
+        }
+    },
+    {
+        "concept_name": "数字电压表",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "digital voltmeter"
+        }
+    },
+    {
+        "concept_name": "数字电路测试器",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "digital circuit tester"
+        }
+    },
+    {
+        "concept_name": "数字示波器",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "digital oscilloscope"
+        }
+    },
+    {
+        "concept_name": "数据分析仪",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "data analyzer"
+        }
+    },
+    {
+        "concept_name": "数据发生器",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "data generator"
+        }
+    },
+    {
+        "concept_name": "数据记录仪",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "data logger"
+        }
+    },
+    {
+        "concept_name": "数据误差分析仪",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "data error analyzer"
+        }
+    },
+    {
+        "concept_name": "数据采集系统",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "data acquisition system"
+        }
+    },
+    {
+        "concept_name": "方法误差",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "methodical error"
+        }
+    },
+    {
+        "concept_name": "方波发生器",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "square-wave generator"
+        }
+    },
+    {
+        "concept_name": "时域测量",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "time domain measurement"
+        }
+    },
+    {
+        "concept_name": "时域自动网络分析仪",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "time-domain automatic network analyzer"
+        }
+    },
+    {
+        "concept_name": "时基",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "time base"
+        }
+    },
+    {
+        "concept_name": "智能仪器",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "又称": " 智能仪表(smart instrument)",
+            "见载": "《电子学名词》第一版",
+            "英文名": "intelligent instrument"
+        }
+    },
+    {
+        "concept_name": "替代误差",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "substitution error"
+        }
+    },
+    {
+        "concept_name": "有效效率",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "effective efficiency"
+        }
+    },
+    {
+        "concept_name": "杂散响应",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "spurious response"
+        }
+    },
+    {
+        "concept_name": "标准信号发生器",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "standard signal generator"
+        }
+    },
+    {
+        "concept_name": "标准条件",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "reference condition"
+        }
+    },
+    {
+        "concept_name": "标量网络分析仪",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "scalar network analyzer"
+        }
+    },
+    {
+        "concept_name": "校准",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "又称": " 标定",
+            "见载": "《电子学名词》第一版",
+            "英文名": "calibration"
+        }
+    },
+    {
+        "concept_name": "校准因数",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "calibration factor"
+        }
+    },
+    {
+        "concept_name": "检定",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "又称": " 验证",
+            "见载": "《电子学名词》第一版",
+            "英文名": "verification"
+        }
+    },
+    {
+        "concept_name": "检流计",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "又称": " 灵敏电流计",
+            "见载": "《电子学名词》第一版",
+            "英文名": "galvanometer"
+        }
+    },
+    {
+        "concept_name": "模拟仪器",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "analog instrument"
+        }
+    },
+    {
+        "concept_name": "模拟示波器",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "analog oscilloscope"
+        }
+    },
+    {
+        "concept_name": "横电磁波室",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "TEM cell"
+        }
+    },
+    {
+        "concept_name": "步进衰减器",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "step attenuator"
+        }
+    },
+    {
+        "concept_name": "比值计",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ratio meter"
+        }
+    },
+    {
+        "concept_name": "波形合成器",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "wave-form synthesizer"
+        }
+    },
+    {
+        "concept_name": "波长计",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "wavemeter"
+        }
+    },
+    {
+        "concept_name": "测试",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "test"
+        }
+    },
+    {
+        "concept_name": "测试接收机",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "test receiver"
+        }
+    },
+    {
+        "concept_name": "测量方法",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "method of measurement"
+        }
+    },
+    {
+        "concept_name": "测量范围",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "measuring range"
+        }
+    },
+    {
+        "concept_name": "测量设备",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "measuring equipment"
+        }
+    },
+    {
+        "concept_name": "漂移",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "drift"
+        }
+    },
+    {
+        "concept_name": "电压表",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "又称": " 伏特表",
+            "见载": "《电子学名词》第一版",
+            "英文名": "voltmeter"
+        }
+    },
+    {
+        "concept_name": "电压驻波比",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "voltage standing wave ratio"
+        }
+    },
+    {
+        "concept_name": "电子仪器仪表",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "electronic instruments"
+        }
+    },
+    {
+        "concept_name": "电子测量",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "electronic measurements"
+        }
+    },
+    {
+        "concept_name": "电子电压表",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "electronic voltmeter"
+        }
+    },
+    {
+        "concept_name": "电平表",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "level meter"
+        }
+    },
+    {
+        "concept_name": "电桥",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "bridge"
+        }
+    },
+    {
+        "concept_name": "电波暗室",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "anechoic chamber"
+        }
+    },
+    {
+        "concept_name": "电流表",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "又称": " 安培表",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ammeter"
+        }
+    },
+    {
+        "concept_name": "电磁屏蔽室",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "EM shielded room"
+        }
+    },
+    {
+        "concept_name": "电阻表",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "又称": " 欧姆表",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ohmmeter"
+        }
+    },
+    {
+        "concept_name": "相位噪声",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "phase noise"
+        }
+    },
+    {
+        "concept_name": "相位计",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "phase meter"
+        }
+    },
+    {
+        "concept_name": "真值",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "true value"
+        }
+    },
+    {
+        "concept_name": "矢量导抗测量仪",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "vector immittance meter"
+        }
+    },
+    {
+        "concept_name": "矢量网络分析仪",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "vector network analyzer"
+        }
+    },
+    {
+        "concept_name": "磁导计",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "permeameter"
+        }
+    },
+    {
+        "concept_name": "磁强计",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "magnetometer"
+        }
+    },
+    {
+        "concept_name": "示值",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "英文": "indication ;indicated value",
+            "见载": "《电子学名词》第一版",
+            "英文名": "indication"
+        }
+    },
+    {
+        "concept_name": "示波器",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "oscilloscope"
+        }
+    },
+    {
+        "concept_name": "程控仪器",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "programmable instrument"
+        }
+    },
+    {
+        "concept_name": "程控信号发生器",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "programmable signal generator"
+        }
+    },
+    {
+        "concept_name": "程控衰减器",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "programmable attenuator"
+        }
+    },
+    {
+        "concept_name": "稳定电源",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "stabilized power supply"
+        }
+    },
+    {
+        "concept_name": "精密度",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "precision"
+        }
+    },
+    {
+        "concept_name": "系统电压表",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "system voltmeter"
+        }
+    },
+    {
+        "concept_name": "系统误差",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "systematic error"
+        }
+    },
+    {
+        "concept_name": "约定真值",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "conventional true value"
+        }
+    },
+    {
+        "concept_name": "绝缘电阻表",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "insulation resistance meter"
+        }
+    },
+    {
+        "concept_name": "网络分析仪",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "network analyzer"
+        }
+    },
+    {
+        "concept_name": "脉冲发生器",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "pulse generator"
+        }
+    },
+    {
+        "concept_name": "自动测试设备",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "automatic test equipment"
+        }
+    },
+    {
+        "concept_name": "自动测量系统",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "automatic measuring system"
+        }
+    },
+    {
+        "concept_name": "观测值",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "measured value"
+        }
+    },
+    {
+        "concept_name": "触发",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "triggering"
+        }
+    },
+    {
+        "concept_name": "计量",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "metrology"
+        }
+    },
+    {
+        "concept_name": "计量单位",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "unit of measurement"
+        }
+    },
+    {
+        "concept_name": "计量标准",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "measurement standard"
+        }
+    },
+    {
+        "concept_name": "误差",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "error"
+        }
+    },
+    {
+        "concept_name": "调制失真",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "modulation distortion"
+        }
+    },
+    {
+        "concept_name": "调幅度表",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "amplitude modulation meter"
+        }
+    },
+    {
+        "concept_name": "调整",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "adjustment"
+        }
+    },
+    {
+        "concept_name": "调配反射计",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "tuned reflectometer"
+        }
+    },
+    {
+        "concept_name": "调频失真",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "frequency modulation distortion"
+        }
+    },
+    {
+        "concept_name": "负载特性",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "load characteristic"
+        }
+    },
+    {
+        "concept_name": "超噪比",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "excess noise ratio"
+        }
+    },
+    {
+        "concept_name": "载波频移",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "carrier frequency shift"
+        }
+    },
+    {
+        "concept_name": "选频电平表",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "selective level meter"
+        }
+    },
+    {
+        "concept_name": "通用接口总线",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "英文": "general-purpose interface bus ;GPIB",
+            "见载": "《电子学名词》第一版",
+            "英文名": "general-purpose interface bus"
+        }
+    },
+    {
+        "concept_name": "通用示波器",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "general-purpose oscilloscope"
+        }
+    },
+    {
+        "concept_name": "通用计数器",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "universal counter"
+        }
+    },
+    {
+        "concept_name": "通过式功率计",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "feed-through type power meter"
+        }
+    },
+    {
+        "concept_name": "逻辑分析仪",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "logic analyzer"
+        }
+    },
+    {
+        "concept_name": "逻辑故障测试器",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "logic trouble-shooting tool"
+        }
+    },
+    {
+        "concept_name": "逻辑特征分析仪",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "logic signature analyzer"
+        }
+    },
+    {
+        "concept_name": "逻辑状态分析仪",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "logic state analyzer"
+        }
+    },
+    {
+        "concept_name": "重复性",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "repeatability"
+        }
+    },
+    {
+        "concept_name": "量程",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "span"
+        }
+    },
+    {
+        "concept_name": "阿伦方差",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Allan variance"
+        }
+    },
+    {
+        "concept_name": "随机误差",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "random error"
+        }
+    },
+    {
+        "concept_name": "静电计",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "electrometer"
+        }
+    },
+    {
+        "concept_name": "预热时间",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "warm-up time"
+        }
+    },
+    {
+        "concept_name": "频偏表",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "frequency deviation meter"
+        }
+    },
+    {
+        "concept_name": "频域测量",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "frequency domain measurement"
+        }
+    },
+    {
+        "concept_name": "频域自动网络分析仪",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "frequency-domain automatic network analyzer"
+        }
+    },
+    {
+        "concept_name": "频率合成器",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "frequency synthesizer"
+        }
+    },
+    {
+        "concept_name": "频率响应",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "frequency response"
+        }
+    },
+    {
+        "concept_name": "频率计",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "frequency meter"
+        }
+    },
+    {
+        "concept_name": "频谱分析仪",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "spectrum analyzer"
+        }
+    },
+    {
+        "concept_name": "频谱纯度",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "spectral purity"
+        }
+    },
+    {
+        "concept_name": "驻波比表",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "standing-wave meter"
+        }
+    },
+    {
+        "concept_name": "Ｑ表",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Q meter"
+        }
+    },
+    {
+        "concept_name": "Ｘ-Ｙ记录器",
+        "details": {
+            "学科": "电子学_电子测量与仪器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "X-Y recorder"
+        }
+    }
+]

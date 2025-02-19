@@ -1,0 +1,1285 @@
+[
+    {
+        "concept_name": "介电陶瓷",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "dielectric ceramic"
+        }
+    },
+    {
+        "concept_name": "低碱瓷",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "low-alkali ceramic"
+        }
+    },
+    {
+        "concept_name": "偏磁",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "biasing"
+        }
+    },
+    {
+        "concept_name": "光敏微晶玻璃",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "photaceram"
+        }
+    },
+    {
+        "concept_name": "光磁效应",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "photomagnetic effect"
+        }
+    },
+    {
+        "concept_name": "光致变色性",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "photochromism"
+        }
+    },
+    {
+        "concept_name": "光致变色玻璃",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "photochromic glass"
+        }
+    },
+    {
+        "concept_name": "克尔效应",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Kerr effect"
+        }
+    },
+    {
+        "concept_name": "刚玉-莫来石瓷",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "corundum-mullite ceramic"
+        }
+    },
+    {
+        "concept_name": "功能材料",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "functional material"
+        }
+    },
+    {
+        "concept_name": "功能陶瓷",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "functional ceramic"
+        }
+    },
+    {
+        "concept_name": "助熔剂提拉法",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "又称": " 基鲁普罗斯法",
+            "见载": "《电子学名词》第一版",
+            "英文名": "flux pulling technique"
+        }
+    },
+    {
+        "concept_name": "助熔剂法",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "flux growth method"
+        }
+    },
+    {
+        "concept_name": "半导体玻璃",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "semiconducting glass"
+        }
+    },
+    {
+        "concept_name": "半永磁材料",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "semi-permanent magnetic material"
+        }
+    },
+    {
+        "concept_name": "单轴型铁氧体",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "uniaxial ferrite"
+        }
+    },
+    {
+        "concept_name": "压电加速度计",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "piezoelectric accelerometer"
+        }
+    },
+    {
+        "concept_name": "压电压力敏感器",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "piezoelectric pressure sensor"
+        }
+    },
+    {
+        "concept_name": "压电常量",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "piezoelectric constant"
+        }
+    },
+    {
+        "concept_name": "压电振子",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "piezoelectric vibrator"
+        }
+    },
+    {
+        "concept_name": "压电晶体",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "piezoelectric crystal"
+        }
+    },
+    {
+        "concept_name": "压电流量计",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "piezoelectric flowmeter"
+        }
+    },
+    {
+        "concept_name": "压电陀螺",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "piezoelectric gyroscope"
+        }
+    },
+    {
+        "concept_name": "压电陶瓷",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "piezoelectric ceramic"
+        }
+    },
+    {
+        "concept_name": "压电陶瓷延迟线",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "piezoelectric ceramic delay line"
+        }
+    },
+    {
+        "concept_name": "压电音叉",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "piezoelectric tuning fork"
+        }
+    },
+    {
+        "concept_name": "压磁效应",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "piezomagnetic effect"
+        }
+    },
+    {
+        "concept_name": "反向损耗",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "reverse loss"
+        }
+    },
+    {
+        "concept_name": "反铁电晶体",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "antiferroelectric crystal"
+        }
+    },
+    {
+        "concept_name": "反铁电陶瓷",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "antiferroelectric ceramic"
+        }
+    },
+    {
+        "concept_name": "受夹介电常量",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "clamped dielectric constant"
+        }
+    },
+    {
+        "concept_name": "声光晶体",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "acoustooptic crystal"
+        }
+    },
+    {
+        "concept_name": "声光陶瓷",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "acoustooptic ceramic"
+        }
+    },
+    {
+        "concept_name": "多孔玻璃",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "porous glass"
+        }
+    },
+    {
+        "concept_name": "多孔陶瓷",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "porous ceramic"
+        }
+    },
+    {
+        "concept_name": "寄生频率",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "parasitic frequency"
+        }
+    },
+    {
+        "concept_name": "对位黄碲矿晶体",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "又称": " 聚合亚碲酸晶体",
+            "见载": "《电子学名词》第一版",
+            "英文名": "para-tellurite crystal"
+        }
+    },
+    {
+        "concept_name": "尖晶石型铁氧体",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "spinel type ferrite"
+        }
+    },
+    {
+        "concept_name": "尺寸共振",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "dimensional resonance"
+        }
+    },
+    {
+        "concept_name": "工业纯铁",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "又称": " 阿姆可铁",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Armco iron"
+        }
+    },
+    {
+        "concept_name": "工作点",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "working point"
+        }
+    },
+    {
+        "concept_name": "带基",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "tape base"
+        }
+    },
+    {
+        "concept_name": "弹性劲度常量",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "elastic stiffness constant"
+        }
+    },
+    {
+        "concept_name": "弹性顺服常量",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "elastic compliance constant"
+        }
+    },
+    {
+        "concept_name": "录像带",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "video tape"
+        }
+    },
+    {
+        "concept_name": "微波磁学",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "microwave magnetics"
+        }
+    },
+    {
+        "concept_name": "微波铁氧体",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "microwave ferrite"
+        }
+    },
+    {
+        "concept_name": "擦除",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "又称": " 消磁",
+            "见载": "《电子学名词》第一版",
+            "英文名": "erasure"
+        }
+    },
+    {
+        "concept_name": "擦除头",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "erasing head"
+        }
+    },
+    {
+        "concept_name": "放像头",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "video reproducing head"
+        }
+    },
+    {
+        "concept_name": "旋磁振荡器",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "gyromagnetic oscillator"
+        }
+    },
+    {
+        "concept_name": "旋磁效应",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "gyromagnetic effect"
+        }
+    },
+    {
+        "concept_name": "旋磁限幅器",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "gyromagnetic limiter"
+        }
+    },
+    {
+        "concept_name": "机械品质因数",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "mechanical quality factor"
+        }
+    },
+    {
+        "concept_name": "机电耦合系数",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "electromechanical coupling factor"
+        }
+    },
+    {
+        "concept_name": "正向损耗",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "forward loss"
+        }
+    },
+    {
+        "concept_name": "正铁氧体",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "orthoferrite"
+        }
+    },
+    {
+        "concept_name": "比损耗因数",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "relative loss factor"
+        }
+    },
+    {
+        "concept_name": "氧化铍瓷",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "beryllia ceramic"
+        }
+    },
+    {
+        "concept_name": "氧化铝瓷",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "alumina ceramic"
+        }
+    },
+    {
+        "concept_name": "氮化铝瓷",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "aluminium nitride ceramic"
+        }
+    },
+    {
+        "concept_name": "水热法",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "hydro-thermal method"
+        }
+    },
+    {
+        "concept_name": "永磁体",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "permanent magnet"
+        }
+    },
+    {
+        "concept_name": "永磁材料",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "permanent magnetic material"
+        }
+    },
+    {
+        "concept_name": "法拉第效应",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Faraday effect"
+        }
+    },
+    {
+        "concept_name": "泡径",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "bubble diameter"
+        }
+    },
+    {
+        "concept_name": "泡迁移率",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "bubble [domain] mobility"
+        }
+    },
+    {
+        "concept_name": "热[释]电晶体",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "pyroelectric crystal"
+        }
+    },
+    {
+        "concept_name": "热敏铁氧体",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "heat sensitive ferrite"
+        }
+    },
+    {
+        "concept_name": "热磁写入",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "thermomagnetic writing"
+        }
+    },
+    {
+        "concept_name": "热补偿合金",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "thermal compensation alloy"
+        }
+    },
+    {
+        "concept_name": "焰熔法",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Verneuil's method"
+        }
+    },
+    {
+        "concept_name": "熔盐法",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "molten-salt growth method"
+        }
+    },
+    {
+        "concept_name": "特斯拉计",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "teslameter"
+        }
+    },
+    {
+        "concept_name": "瑞利区",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Rayleigh region"
+        }
+    },
+    {
+        "concept_name": "电光晶体",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "electrooptic crystal"
+        }
+    },
+    {
+        "concept_name": "电光陶瓷",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "electrooptic ceramic"
+        }
+    },
+    {
+        "concept_name": "电子陶瓷",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "electronic ceramic"
+        }
+    },
+    {
+        "concept_name": "电致伸缩陶瓷",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "electrostrictive ceramic"
+        }
+    },
+    {
+        "concept_name": "电调振荡器",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "electrically tunable oscillator"
+        }
+    },
+    {
+        "concept_name": "电调滤波器",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "electrically tunable filter"
+        }
+    },
+    {
+        "concept_name": "盘[式磁]带",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "open reel tape"
+        }
+    },
+    {
+        "concept_name": "石英晶体",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "quartz crystal"
+        }
+    },
+    {
+        "concept_name": "砷酸二氘铯",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "cesium dideuterium arsenate"
+        }
+    },
+    {
+        "concept_name": "硫酸三甘肽",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "triglycine sulfide"
+        }
+    },
+    {
+        "concept_name": "硬泡",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "hard bubble"
+        }
+    },
+    {
+        "concept_name": "碘酸锂晶体",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "英文": "lithium iodate ;LI",
+            "见载": "《电子学名词》第一版",
+            "英文名": "lithium iodate"
+        }
+    },
+    {
+        "concept_name": "磁光效应",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "magneto-optical effect"
+        }
+    },
+    {
+        "concept_name": "磁光盘",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "magneto-optical disk"
+        }
+    },
+    {
+        "concept_name": "磁光调制器",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "magneto-optical modulator"
+        }
+    },
+    {
+        "concept_name": "磁共振",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "magnetic resonance"
+        }
+    },
+    {
+        "concept_name": "磁分离",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "magnetic separation"
+        }
+    },
+    {
+        "concept_name": "磁化器",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "magnetizer"
+        }
+    },
+    {
+        "concept_name": "磁卡",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "magnetic card"
+        }
+    },
+    {
+        "concept_name": "磁头",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "magnetic head"
+        }
+    },
+    {
+        "concept_name": "磁头缝隙",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "magnetic head gap"
+        }
+    },
+    {
+        "concept_name": "磁存储器",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "magnetic memory"
+        }
+    },
+    {
+        "concept_name": "磁性材料",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "magnetic material"
+        }
+    },
+    {
+        "concept_name": "磁放大器",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "magnetic amplifier"
+        }
+    },
+    {
+        "concept_name": "磁流体",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "magnetic fluid"
+        }
+    },
+    {
+        "concept_name": "磁浮轴承",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "magnetic bearing"
+        }
+    },
+    {
+        "concept_name": "磁热效应",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "magneto-caloric effect"
+        }
+    },
+    {
+        "concept_name": "磁秤",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "magnetic balance"
+        }
+    },
+    {
+        "concept_name": "磁粉",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "magnetic powder"
+        }
+    },
+    {
+        "concept_name": "磁老化",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "magnetic aging"
+        }
+    },
+    {
+        "concept_name": "磁聚焦",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "magnetic focusing"
+        }
+    },
+    {
+        "concept_name": "磁致伸缩效应",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "magnetostrictive effect"
+        }
+    },
+    {
+        "concept_name": "磁记录媒质",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "又称": " 磁记录媒体",
+            "见载": "《电子学名词》第一版",
+            "英文名": "magnetic recording medium"
+        }
+    },
+    {
+        "concept_name": "磁轭",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "magnet yoke"
+        }
+    },
+    {
+        "concept_name": "磁迹",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "magnetic track"
+        }
+    },
+    {
+        "concept_name": "磁铅石型铁氧体",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "magneto plumbite type ferrite"
+        }
+    },
+    {
+        "concept_name": "磁阻效应",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "magneto-resistance effect"
+        }
+    },
+    {
+        "concept_name": "磷酸二氘钾",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "potassium dideuterium phosphate"
+        }
+    },
+    {
+        "concept_name": "磷酸二氢钾",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "potassium dihydrogen phosphate"
+        }
+    },
+    {
+        "concept_name": "磷酸二氢铵",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ammonium dihydrogen phosphate"
+        }
+    },
+    {
+        "concept_name": "稀土磁体",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "rare earth magnet"
+        }
+    },
+    {
+        "concept_name": "稀土钴永磁体",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "rare earth-cobalt permanent magnet"
+        }
+    },
+    {
+        "concept_name": "等静压",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "isostatic pressing"
+        }
+    },
+    {
+        "concept_name": "罗谢尔盐",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "又称": " 酒石酸钾钠 ；Seignette salt)",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Rochelle salt"
+        }
+    },
+    {
+        "concept_name": "羰基铁",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "carbonyl iron"
+        }
+    },
+    {
+        "concept_name": "装置瓷",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ceramic for mounting purposes"
+        }
+    },
+    {
+        "concept_name": "透明铁电陶瓷",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "transparent ferroelectric ceramic"
+        }
+    },
+    {
+        "concept_name": "透明陶瓷",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "transparent ceramic"
+        }
+    },
+    {
+        "concept_name": "透红外晶体",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "infrared transmitting crystal"
+        }
+    },
+    {
+        "concept_name": "透红外陶瓷",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "infrared transmitting ceramic"
+        }
+    },
+    {
+        "concept_name": "重放头",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "reproducing head"
+        }
+    },
+    {
+        "concept_name": "金属带",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "metal tape"
+        }
+    },
+    {
+        "concept_name": "金属软磁材料",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "metal soft magnetic material"
+        }
+    },
+    {
+        "concept_name": "钇铁石榴石单晶器件",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "英文": "yttrium iron garnet single crystal device ;YIG single crystal device",
+            "见载": "《电子学名词》第一版",
+            "英文名": "yttrium iron garnet single crystal device"
+        }
+    },
+    {
+        "concept_name": "钛酸钡",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "barium titanate"
+        }
+    },
+    {
+        "concept_name": "钛酸钡陶瓷",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "barium titanate ceramic"
+        }
+    },
+    {
+        "concept_name": "钛酸镧",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "lanthanium titanate"
+        }
+    },
+    {
+        "concept_name": "钡长石瓷",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "celsian ceramic"
+        }
+    },
+    {
+        "concept_name": "铁氧体天线",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ferrite antenna"
+        }
+    },
+    {
+        "concept_name": "铁氧体永磁体",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ferrite permanent magnet"
+        }
+    },
+    {
+        "concept_name": "铁氧体磁芯存储器",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ferrite core memory"
+        }
+    },
+    {
+        "concept_name": "铁氧体记忆磁芯",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ferrite memory core"
+        }
+    },
+    {
+        "concept_name": "铁氧磁带",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ferrooxide tape"
+        }
+    },
+    {
+        "concept_name": "铁电半导体釉",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ferroelectric semiconducting glaze"
+        }
+    },
+    {
+        "concept_name": "铁电晶体",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ferroelectric crystal"
+        }
+    },
+    {
+        "concept_name": "铁电电滞回线",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ferroelectric hysteresis loop"
+        }
+    },
+    {
+        "concept_name": "铁电陶瓷",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ferroelectric ceramic"
+        }
+    },
+    {
+        "concept_name": "铁磁共振",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ferromagnetic resonance"
+        }
+    },
+    {
+        "concept_name": "铁磁弹性体",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ferromagneto-elastic"
+        }
+    },
+    {
+        "concept_name": "铌酸盐系陶瓷",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "niobate system ceramic"
+        }
+    },
+    {
+        "concept_name": "铌酸钡钠",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "barium sodium niobate"
+        }
+    },
+    {
+        "concept_name": "铌酸钾",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "potassium niobate"
+        }
+    },
+    {
+        "concept_name": "铌酸锂",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "lithium niobate"
+        }
+    },
+    {
+        "concept_name": "铝镍钴永磁体",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Al-Ni-Co permanent magnet"
+        }
+    },
+    {
+        "concept_name": "铬氧磁带",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "又称": " 铬带",
+            "见载": "《电子学名词》第一版",
+            "英文名": "chromium-oxide tape"
+        }
+    },
+    {
+        "concept_name": "锆钛酸铅陶瓷",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "lead zirconate titanate ceramic"
+        }
+    },
+    {
+        "concept_name": "锗酸铋",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "bismuth germanate"
+        }
+    },
+    {
+        "concept_name": "锗酸锂",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "lithium germanate"
+        }
+    },
+    {
+        "concept_name": "锗铋氧化物",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "英文": "bismuth germanium oxide ;BGO",
+            "见载": "《电子学名词》第一版",
+            "英文名": "bismuth germanium oxide"
+        }
+    },
+    {
+        "concept_name": "锗锂氧化物",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "英文": "lithium germanium oxide ;LGO",
+            "见载": "《电子学名词》第一版",
+            "英文名": "lithium germanium oxide"
+        }
+    },
+    {
+        "concept_name": "镁-镧-钛系陶瓷",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "magnesia-lanthana-titania system ceramic"
+        }
+    },
+    {
+        "concept_name": "镁橄榄石瓷",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "forsterite ceramic"
+        }
+    },
+    {
+        "concept_name": "陶瓷滤波器",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ceramic filter"
+        }
+    },
+    {
+        "concept_name": "非晶磁性材料",
+        "details": {
+            "学科": "电子学_电子陶瓷、压电、铁电与磁性元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "amorphous magnetic material"
+        }
+    }
+]

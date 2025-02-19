@@ -1,0 +1,210 @@
+[
+    {
+        "concept_name": "傅里叶-拉普拉斯变换",
+        "details": {
+            "学科": "数学_分析学_积分变换",
+            "见载": "《数学名词》第一版",
+            "英文名": "Fourier-Laplace transform"
+        }
+    },
+    {
+        "concept_name": "傅里叶-斯蒂尔切斯变换",
+        "details": {
+            "学科": "数学_分析学_积分变换",
+            "见载": "《数学名词》第一版",
+            "英文名": "Fourier-Stieltjes transform"
+        }
+    },
+    {
+        "concept_name": "傅里叶-贝塞尔变换",
+        "details": {
+            "学科": "数学_分析学_积分变换",
+            "见载": "《数学名词》第一版",
+            "英文名": "Fourier-Bessel transform"
+        }
+    },
+    {
+        "concept_name": "傅里叶余弦变换",
+        "details": {
+            "学科": "数学_分析学_积分变换",
+            "见载": "《数学名词》第一版",
+            "英文名": "Fourier cosine transform"
+        }
+    },
+    {
+        "concept_name": "傅里叶反演公式",
+        "details": {
+            "学科": "数学_分析学_积分变换",
+            "见载": "《数学名词》第一版",
+            "英文名": "Fourier inversion formula"
+        }
+    },
+    {
+        "concept_name": "傅里叶变换",
+        "details": {
+            "学科": "数学_分析学_积分变换",
+            "见载": "《数学名词》第一版",
+            "英文名": "Fourier transform"
+        }
+    },
+    {
+        "concept_name": "傅里叶正弦变换",
+        "details": {
+            "学科": "数学_分析学_积分变换",
+            "见载": "《数学名词》第一版",
+            "英文名": "Fourier sine transform"
+        }
+    },
+    {
+        "concept_name": "傅里叶积分",
+        "details": {
+            "学科": "数学_分析学_积分变换",
+            "见载": "《数学名词》第一版",
+            "英文名": "Fourier integral"
+        }
+    },
+    {
+        "concept_name": "傅里叶逆变换",
+        "details": {
+            "学科": "数学_分析学_积分变换",
+            "见载": "《数学名词》第一版",
+            "英文名": "inverse Fourier transform"
+        }
+    },
+    {
+        "concept_name": "共轭傅里叶积分",
+        "details": {
+            "学科": "数学_分析学_积分变换",
+            "见载": "《数学名词》第一版",
+            "英文名": "conjugate Fourier integral"
+        }
+    },
+    {
+        "concept_name": "反演公式",
+        "details": {
+            "学科": "数学_分析学_积分变换",
+            "见载": "《数学名词》第一版",
+            "英文名": "inversion formula"
+        }
+    },
+    {
+        "concept_name": "小波变换",
+        "details": {
+            "学科": "数学_分析学_积分变换",
+            "见载": "《数学名词》第一版",
+            "英文名": "wavelet transform"
+        }
+    },
+    {
+        "concept_name": "希尔伯特变换",
+        "details": {
+            "学科": "数学_分析学_积分变换",
+            "见载": "《数学名词》第一版",
+            "英文名": "Hilbert transform"
+        }
+    },
+    {
+        "concept_name": "广义傅里叶积分",
+        "details": {
+            "学科": "数学_分析学_积分变换",
+            "见载": "《数学名词》第一版",
+            "英文名": "generalized Fourier integral"
+        }
+    },
+    {
+        "concept_name": "拉东变换",
+        "details": {
+            "学科": "数学_分析学_积分变换",
+            "见载": "《数学名词》第一版",
+            "英文名": "Radon transform"
+        }
+    },
+    {
+        "concept_name": "拉普拉斯-斯蒂尔切斯变换",
+        "details": {
+            "学科": "数学_分析学_积分变换",
+            "见载": "《数学名词》第一版",
+            "英文名": "Laplace-Stieltjes transform"
+        }
+    },
+    {
+        "concept_name": "拉普拉斯变换",
+        "details": {
+            "学科": "数学_分析学_积分变换",
+            "见载": "《数学名词》第一版",
+            "英文名": "Laplace transform"
+        }
+    },
+    {
+        "concept_name": "拉普拉斯逆变换",
+        "details": {
+            "学科": "数学_分析学_积分变换",
+            "见载": "《数学名词》第一版",
+            "英文名": "inverse Laplace transform"
+        }
+    },
+    {
+        "concept_name": "斯蒂尔切斯变换",
+        "details": {
+            "学科": "数学_分析学_积分变换",
+            "见载": "《数学名词》第一版",
+            "英文名": "Stieltjes transform"
+        }
+    },
+    {
+        "concept_name": "梅林变换",
+        "details": {
+            "学科": "数学_分析学_积分变换",
+            "见载": "《数学名词》第一版",
+            "英文名": "Mellin transform"
+        }
+    },
+    {
+        "concept_name": "汉克尔变换",
+        "details": {
+            "学科": "数学_分析学_积分变换",
+            "见载": "《数学名词》第一版",
+            "英文名": "Hankel transform"
+        }
+    },
+    {
+        "concept_name": "沃森变换",
+        "details": {
+            "学科": "数学_分析学_积分变换",
+            "见载": "《数学名词》第一版",
+            "英文名": "Watson transform"
+        }
+    },
+    {
+        "concept_name": "积分变换",
+        "details": {
+            "学科": "数学_分析学_积分变换",
+            "见载": "《数学名词》第一版",
+            "英文名": "integral transform"
+        }
+    },
+    {
+        "concept_name": "自反函数",
+        "details": {
+            "学科": "数学_分析学_积分变换",
+            "见载": "《数学名词》第一版",
+            "英文名": "self-reciprocal function"
+        }
+    },
+    {
+        "concept_name": "逆变换",
+        "details": {
+            "学科": "数学_分析学_积分变换",
+            "见载": "《数学名词》第一版",
+            "英文名": "inverse transform"
+        }
+    },
+    {
+        "concept_name": "里斯变换",
+        "details": {
+            "学科": "数学_分析学_积分变换",
+            "见载": "《数学名词》第一版",
+            "英文名": "Riesz transform"
+        }
+    }
+]

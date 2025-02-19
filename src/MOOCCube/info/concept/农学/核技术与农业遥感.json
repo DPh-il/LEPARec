@@ -1,0 +1,1410 @@
+[
+    {
+        "concept_name": "γ射线密度测量仪",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "γ-ray densitometer"
+        }
+    },
+    {
+        "concept_name": "γ温室",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "γ-greenhouse"
+        }
+    },
+    {
+        "concept_name": "中子发生器",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "neutron generator"
+        }
+    },
+    {
+        "concept_name": "中子活化分析",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "neutron activation analysis"
+        }
+    },
+    {
+        "concept_name": "亮度",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "brightness"
+        }
+    },
+    {
+        "concept_name": "人工饲料",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "artificial diet"
+        }
+    },
+    {
+        "concept_name": "传能线密度",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "曾称": " 线性能量转换",
+            "见载": "《农学名词》第一版",
+            "英文名": "linear energy transfer"
+        }
+    },
+    {
+        "concept_name": "估产",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "yield estimation"
+        }
+    },
+    {
+        "concept_name": "作物清查",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "crop inventory"
+        }
+    },
+    {
+        "concept_name": "修复错误",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "mis-repair"
+        }
+    },
+    {
+        "concept_name": "假彩色",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "false color"
+        }
+    },
+    {
+        "concept_name": "光谱信息",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "spectral information"
+        }
+    },
+    {
+        "concept_name": "光谱测量",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "spectral measurement"
+        }
+    },
+    {
+        "concept_name": "光谱范围",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "spectral range"
+        }
+    },
+    {
+        "concept_name": "养虫工厂",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "insect mass-rearing plant"
+        }
+    },
+    {
+        "concept_name": "农业产量预测系统",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "agricultural yield forecast system"
+        }
+    },
+    {
+        "concept_name": "农业信息中心",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "agricultural information center"
+        }
+    },
+    {
+        "concept_name": "农业信息系统",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "英文": "agricultural information system ;AIS",
+            "见载": "《农学名词》第一版",
+            "英文名": "agricultural information system"
+        }
+    },
+    {
+        "concept_name": "农业系统模型",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "agricultural system model"
+        }
+    },
+    {
+        "concept_name": "农业遥感",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "agricultural remote sensing"
+        }
+    },
+    {
+        "concept_name": "几何衰减",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "geometrical attenuation"
+        }
+    },
+    {
+        "concept_name": "分辨力",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "resolving ability"
+        }
+    },
+    {
+        "concept_name": "分辨时间",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "resolving time"
+        }
+    },
+    {
+        "concept_name": "分辨率",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "resolution"
+        }
+    },
+    {
+        "concept_name": "切连科夫辐射",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "Cerenkov radiation"
+        }
+    },
+    {
+        "concept_name": "前辐照",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "pre-irradiation"
+        }
+    },
+    {
+        "concept_name": "卫生性",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "wholesomeness"
+        }
+    },
+    {
+        "concept_name": "危害分析",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "hazard analysis"
+        }
+    },
+    {
+        "concept_name": "反刍动物生产力",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "ruminant productivity"
+        }
+    },
+    {
+        "concept_name": "反射率",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "reflectivity"
+        }
+    },
+    {
+        "concept_name": "反散射",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "back scatter"
+        }
+    },
+    {
+        "concept_name": "发情探测",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "oestrus detection"
+        }
+    },
+    {
+        "concept_name": "合成孔径雷达",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "synthetic aperture radar"
+        }
+    },
+    {
+        "concept_name": "同位素",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "isotope"
+        }
+    },
+    {
+        "concept_name": "同位素丰度",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "isotope abundance"
+        }
+    },
+    {
+        "concept_name": "同位素交换",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "isotope exchange"
+        }
+    },
+    {
+        "concept_name": "同位素分离",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "isotope separation"
+        }
+    },
+    {
+        "concept_name": "同位素富集度",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "isotope enrichment"
+        }
+    },
+    {
+        "concept_name": "同位素稀释分析",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "英文": "isotope dilution analysis ;IDA",
+            "见载": "《农学名词》第一版",
+            "英文名": "isotope dilution analysis"
+        }
+    },
+    {
+        "concept_name": "同位素药盒",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "isotope kit"
+        }
+    },
+    {
+        "concept_name": "同类群",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "homogeneous set"
+        }
+    },
+    {
+        "concept_name": "后辐照",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "post-irradiation"
+        }
+    },
+    {
+        "concept_name": "图像判读",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "又称": " 图像解译",
+            "见载": "《农学名词》第一版",
+            "英文名": "image interpretation"
+        }
+    },
+    {
+        "concept_name": "图像合成",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "image composition"
+        }
+    },
+    {
+        "concept_name": "图像处理",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "image processing"
+        }
+    },
+    {
+        "concept_name": "土地制图单元",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "land mapping unit"
+        }
+    },
+    {
+        "concept_name": "土地覆盖分类",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "land cover classification"
+        }
+    },
+    {
+        "concept_name": "土地适宜性",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "land suitability"
+        }
+    },
+    {
+        "concept_name": "土壤调查",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil survey"
+        }
+    },
+    {
+        "concept_name": "地域分析",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "terrain analysis"
+        }
+    },
+    {
+        "concept_name": "地理信息系统",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "英文": "geographic information system ;GIS",
+            "见载": "《农学名词》第一版",
+            "英文名": "geographic information system"
+        }
+    },
+    {
+        "concept_name": "多光谱扫描仪",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "multispectral scanner"
+        }
+    },
+    {
+        "concept_name": "大气窗",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "atmospheric window"
+        }
+    },
+    {
+        "concept_name": "存活曲线",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "survival curve"
+        }
+    },
+    {
+        "concept_name": "定位",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "location"
+        }
+    },
+    {
+        "concept_name": "密度分割",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "density slicing"
+        }
+    },
+    {
+        "concept_name": "属性数据",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "attribute data"
+        }
+    },
+    {
+        "concept_name": "干灰化",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "dry ashing"
+        }
+    },
+    {
+        "concept_name": "平方反比定率",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "inverse-square law"
+        }
+    },
+    {
+        "concept_name": "彩红外负片",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "color infrared negative film"
+        }
+    },
+    {
+        "concept_name": "彩色合成仪",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "additive [color] viewer"
+        }
+    },
+    {
+        "concept_name": "微放射性自显影[术]",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "micro-autoradiography"
+        }
+    },
+    {
+        "concept_name": "快中子",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "fast neutron"
+        }
+    },
+    {
+        "concept_name": "急性辐照",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "acute irradiation"
+        }
+    },
+    {
+        "concept_name": "慢化",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "moderation"
+        }
+    },
+    {
+        "concept_name": "慢性辐照",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "chronic irradiation"
+        }
+    },
+    {
+        "concept_name": "戈瑞",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "gray"
+        }
+    },
+    {
+        "concept_name": "扫描线",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "scane line"
+        }
+    },
+    {
+        "concept_name": "抑制发芽",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "sprout inhibition"
+        }
+    },
+    {
+        "concept_name": "抗诱变因素",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "anti-mutagen"
+        }
+    },
+    {
+        "concept_name": "控制发霉",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "mold control"
+        }
+    },
+    {
+        "concept_name": "放射免疫电泳",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "radioimmunoelectrophoresis"
+        }
+    },
+    {
+        "concept_name": "放射性废物处理",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "radioactive waste disposal"
+        }
+    },
+    {
+        "concept_name": "放射性污染",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "radioactive contamination"
+        }
+    },
+    {
+        "concept_name": "放射性示踪物",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "radioactive tracer"
+        }
+    },
+    {
+        "concept_name": "放射治疗",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "radiotherapy"
+        }
+    },
+    {
+        "concept_name": "放射生物学",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "radiobiology"
+        }
+    },
+    {
+        "concept_name": "敏化",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "sensitization"
+        }
+    },
+    {
+        "concept_name": "数字图像",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "digital image"
+        }
+    },
+    {
+        "concept_name": "数字滤波器",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "digital filter"
+        }
+    },
+    {
+        "concept_name": "数据压缩",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "data compression"
+        }
+    },
+    {
+        "concept_name": "有害副作用",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "harmful side effect"
+        }
+    },
+    {
+        "concept_name": "机助制图",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "computer aided mapping"
+        }
+    },
+    {
+        "concept_name": "机载侧视雷达",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "side-looking airborne radar"
+        }
+    },
+    {
+        "concept_name": "杀虫",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "insect disinfestation"
+        }
+    },
+    {
+        "concept_name": "标记DNA探针",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "labeled DNA probe"
+        }
+    },
+    {
+        "concept_name": "标记技术",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "labeling technique"
+        }
+    },
+    {
+        "concept_name": "标记昆虫",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "labeled insect"
+        }
+    },
+    {
+        "concept_name": "树冠反射",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "canopy reflectance"
+        }
+    },
+    {
+        "concept_name": "核乳胶",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "nuclear emulsion"
+        }
+    },
+    {
+        "concept_name": "核农学",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "nuclear agricultural science"
+        }
+    },
+    {
+        "concept_name": "核技术",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "nuclear technique"
+        }
+    },
+    {
+        "concept_name": "核聚变",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "nuclear fusion"
+        }
+    },
+    {
+        "concept_name": "核能级",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "nuclear energy level"
+        }
+    },
+    {
+        "concept_name": "核衰变",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "nuclear distintegration"
+        }
+    },
+    {
+        "concept_name": "核裂变",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "nuclear fission"
+        }
+    },
+    {
+        "concept_name": "植被指数",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "vegetation index"
+        }
+    },
+    {
+        "concept_name": "每分钟衰变",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "disintigration per minute"
+        }
+    },
+    {
+        "concept_name": "氧效应",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "oxygen effect"
+        }
+    },
+    {
+        "concept_name": "氮-15方法学",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "15N methodology"
+        }
+    },
+    {
+        "concept_name": "水体",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "water body"
+        }
+    },
+    {
+        "concept_name": "波段",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "band"
+        }
+    },
+    {
+        "concept_name": "液体闪烁计数器",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "liquid scintillation counter"
+        }
+    },
+    {
+        "concept_name": "激光微束辐照",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "laser micro-irradiation"
+        }
+    },
+    {
+        "concept_name": "热柱",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "thermal column"
+        }
+    },
+    {
+        "concept_name": "热红外",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "thermal infrared"
+        }
+    },
+    {
+        "concept_name": "物理诱变因素",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "physical mutagen"
+        }
+    },
+    {
+        "concept_name": "特征提取",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "feature extraction"
+        }
+    },
+    {
+        "concept_name": "猝灭气体",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "quenching gas"
+        }
+    },
+    {
+        "concept_name": "生态模拟",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "ecological simulation"
+        }
+    },
+    {
+        "concept_name": "生物利用率",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "bioavailability"
+        }
+    },
+    {
+        "concept_name": "生育期预测",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "development stage estimation"
+        }
+    },
+    {
+        "concept_name": "电子束辐照",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "electron beam irradiation"
+        }
+    },
+    {
+        "concept_name": "电子自旋共振",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "electron spin resonnance"
+        }
+    },
+    {
+        "concept_name": "电离室",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "ionization chamber"
+        }
+    },
+    {
+        "concept_name": "电离密度",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "ionization density"
+        }
+    },
+    {
+        "concept_name": "电离径迹",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "ionization track"
+        }
+    },
+    {
+        "concept_name": "电离辐射",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "ionizing radiation"
+        }
+    },
+    {
+        "concept_name": "病虫害监测",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "pest and disease monitoring"
+        }
+    },
+    {
+        "concept_name": "监督分类",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "supervised classification"
+        }
+    },
+    {
+        "concept_name": "目视判读",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "又称": " 目视解译",
+            "见载": "《农学名词》第一版",
+            "英文名": "visual interpretation"
+        }
+    },
+    {
+        "concept_name": "相对生物效应",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "relative biological effectiveness"
+        }
+    },
+    {
+        "concept_name": "矢量数据",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "vector data"
+        }
+    },
+    {
+        "concept_name": "离体突变发生",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "in vitro mutagenesis"
+        }
+    },
+    {
+        "concept_name": "离子对",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "ion pair"
+        }
+    },
+    {
+        "concept_name": "离子注入",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "ion-implantation"
+        }
+    },
+    {
+        "concept_name": "移动辐照器",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "mobile irradiator"
+        }
+    },
+    {
+        "concept_name": "稳定[性]核素",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "stable nuclide"
+        }
+    },
+    {
+        "concept_name": "空间信息",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "spatial information"
+        }
+    },
+    {
+        "concept_name": "突变体间杂交种",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "inter-mutant hybrid"
+        }
+    },
+    {
+        "concept_name": "突变发生",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "mutagenesis"
+        }
+    },
+    {
+        "concept_name": "竞争能力",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "competitive ability"
+        }
+    },
+    {
+        "concept_name": "红外扫描",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "infrared scanning"
+        }
+    },
+    {
+        "concept_name": "纹理",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "texture"
+        }
+    },
+    {
+        "concept_name": "结合态农药残留物",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "bond pesticide residue"
+        }
+    },
+    {
+        "concept_name": "绿度值",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "greenness index"
+        }
+    },
+    {
+        "concept_name": "群体密度",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "population density"
+        }
+    },
+    {
+        "concept_name": "脉冲幅度分析仪",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "pulse size analyser"
+        }
+    },
+    {
+        "concept_name": "航空相片",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "简称": " 航片",
+            "见载": "《农学名词》第一版",
+            "英文名": "aerial photo"
+        }
+    },
+    {
+        "concept_name": "荧光",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "fluorescence"
+        }
+    },
+    {
+        "concept_name": "落下灰",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "fallout"
+        }
+    },
+    {
+        "concept_name": "衰减因子",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "attenuation factor"
+        }
+    },
+    {
+        "concept_name": "衰减系数",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "attenuation coefficient"
+        }
+    },
+    {
+        "concept_name": "训练区",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "training set"
+        }
+    },
+    {
+        "concept_name": "识别",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "identification"
+        }
+    },
+    {
+        "concept_name": "识别能力",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "recognizability"
+        }
+    },
+    {
+        "concept_name": "诱发放射性",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "induced radioactivity"
+        }
+    },
+    {
+        "concept_name": "贝可",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "becquerel"
+        }
+    },
+    {
+        "concept_name": "货架期延长",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "shelf-life extension"
+        }
+    },
+    {
+        "concept_name": "质谱法",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "mass spectrography"
+        }
+    },
+    {
+        "concept_name": "辐射分解",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "radiolysis"
+        }
+    },
+    {
+        "concept_name": "辐射强度",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "radiation intensity"
+        }
+    },
+    {
+        "concept_name": "辐射抗性",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "radioresistance"
+        }
+    },
+    {
+        "concept_name": "辐射损伤",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "radiation damage"
+        }
+    },
+    {
+        "concept_name": "辐射灭菌",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "radicidation"
+        }
+    },
+    {
+        "concept_name": "辐射生物学",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "radiation biology"
+        }
+    },
+    {
+        "concept_name": "辐射诱发突变体",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "radiation-induced mutant"
+        }
+    },
+    {
+        "concept_name": "辐射遗传学",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "radiation genetics"
+        }
+    },
+    {
+        "concept_name": "辐射防护",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "radiation protection"
+        }
+    },
+    {
+        "concept_name": "辐照室",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "irradiation chamber"
+        }
+    },
+    {
+        "concept_name": "辐照工厂",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "irradiation plant"
+        }
+    },
+    {
+        "concept_name": "辐照度",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "irradiance"
+        }
+    },
+    {
+        "concept_name": "辐照率",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "exposure rate"
+        }
+    },
+    {
+        "concept_name": "辐照量",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "exposure dose"
+        }
+    },
+    {
+        "concept_name": "辐照量剂量转换系数",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "exposure-to-dose conversion coefficient"
+        }
+    },
+    {
+        "concept_name": "边缘增强",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "edge enhancement"
+        }
+    },
+    {
+        "concept_name": "配准",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "registration"
+        }
+    },
+    {
+        "concept_name": "酶联免疫吸收分析",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "英文": "enzyme-linked immunosorbent assay ;ELISA",
+            "见载": "《农学名词》第一版",
+            "英文名": "enzyme-linked immunosorbent assay"
+        }
+    },
+    {
+        "concept_name": "重叠",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "overlap"
+        }
+    },
+    {
+        "concept_name": "间歇辐照",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "intermitant irradiation"
+        }
+    },
+    {
+        "concept_name": "雄性不育技术",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "malesterile technique"
+        }
+    },
+    {
+        "concept_name": "非放射性示踪物",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "non-radioactive tracer"
+        }
+    },
+    {
+        "concept_name": "非监督分类",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "unsupervised classification"
+        }
+    },
+    {
+        "concept_name": "食品保藏",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "food preservation"
+        }
+    },
+    {
+        "concept_name": "食品辐照技术",
+        "details": {
+            "学科": "农学_核技术与农业遥感",
+            "见载": "《农学名词》第一版",
+            "英文名": "food irradiation technique"
+        }
+    }
+]

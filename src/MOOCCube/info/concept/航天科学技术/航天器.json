@@ -1,0 +1,1881 @@
+[
+    {
+        "concept_name": "[运行]轨道",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "[running] orbit"
+        }
+    },
+    {
+        "concept_name": "一次性返回器",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "expendable recoverable capsule"
+        }
+    },
+    {
+        "concept_name": "两相流换热",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "two phase flow heat transfer"
+        }
+    },
+    {
+        "concept_name": "临界倾角",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "critical inclination"
+        }
+    },
+    {
+        "concept_name": "临界开伞动压",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "critical parachute open dynamic pressure"
+        }
+    },
+    {
+        "concept_name": "临界开伞速度",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "critical parachute open speed"
+        }
+    },
+    {
+        "concept_name": "临界开伞高度",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "critical parachute open altitude"
+        }
+    },
+    {
+        "concept_name": "主伞",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "main parachute"
+        }
+    },
+    {
+        "concept_name": "主动式热控制",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "active thermal control"
+        }
+    },
+    {
+        "concept_name": "主动段救生",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "power flight phase escape"
+        }
+    },
+    {
+        "concept_name": "乘员分系统",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "crew subsystem"
+        }
+    },
+    {
+        "concept_name": "二次表面镜",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "second surface mirror"
+        }
+    },
+    {
+        "concept_name": "人造地球卫星",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "artificial earth satellite"
+        }
+    },
+    {
+        "concept_name": "仪表与照明分系统",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "instrumentation and illumination subsystem"
+        }
+    },
+    {
+        "concept_name": "侦察分系统",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "reconnaissance subsystem"
+        }
+    },
+    {
+        "concept_name": "偏心率",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "eccentricity"
+        }
+    },
+    {
+        "concept_name": "偏近点角",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "eccentric anomaly"
+        }
+    },
+    {
+        "concept_name": "停泊轨道",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "parking orbit"
+        }
+    },
+    {
+        "concept_name": "入轨参数",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "parameters at injection"
+        }
+    },
+    {
+        "concept_name": "入轨点",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "injection point"
+        }
+    },
+    {
+        "concept_name": "入轨误差",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "injection error"
+        }
+    },
+    {
+        "concept_name": "内热源",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "internal heat source"
+        }
+    },
+    {
+        "concept_name": "再入气动总加热量",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "total amount of reentry aerodynamic heating"
+        }
+    },
+    {
+        "concept_name": "再入点",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "reentry point"
+        }
+    },
+    {
+        "concept_name": "再入角",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "reentry angle"
+        }
+    },
+    {
+        "concept_name": "再入轨道",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "reentry trajectory"
+        }
+    },
+    {
+        "concept_name": "再入飞行器",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "reentry vehicle"
+        }
+    },
+    {
+        "concept_name": "再入飞行器压心",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "aerodynamic pressure center of reentry vehicle"
+        }
+    },
+    {
+        "concept_name": "再入高度",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "reentry altitude"
+        }
+    },
+    {
+        "concept_name": "分离电连接器",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "separation connector"
+        }
+    },
+    {
+        "concept_name": "初始轨道确定",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "简称": " 初轨确定",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "preliminary orbit determination"
+        }
+    },
+    {
+        "concept_name": "初样[星]",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "engineering model"
+        }
+    },
+    {
+        "concept_name": "制动角",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "retro-angle"
+        }
+    },
+    {
+        "concept_name": "动力学分析",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "dynamics analysis"
+        }
+    },
+    {
+        "concept_name": "动力学设计",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "dynamics design"
+        }
+    },
+    {
+        "concept_name": "动力学试验",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "dynamics test"
+        }
+    },
+    {
+        "concept_name": "升交点",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ascending node"
+        }
+    },
+    {
+        "concept_name": "升交点赤经",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "英文": "right ascension of ascending node ;longitude of ascending node",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "right ascension of ascending node"
+        }
+    },
+    {
+        "concept_name": "升力式再入",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "lift reentry"
+        }
+    },
+    {
+        "concept_name": "半弹道式再入",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "又称": " 弹道-升力再入",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "semi-ballistic reentry"
+        }
+    },
+    {
+        "concept_name": "半长轴",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "semi-major axis"
+        }
+    },
+    {
+        "concept_name": "卫星专用测试设备",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "special checkout equipment for satellite"
+        }
+    },
+    {
+        "concept_name": "卫星仿真负载",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "satellite simulation load"
+        }
+    },
+    {
+        "concept_name": "卫星仿真飞行程序",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "simulated satellite flight program"
+        }
+    },
+    {
+        "concept_name": "卫星信息流",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "satellite information flow"
+        }
+    },
+    {
+        "concept_name": "卫星分系统电性能测试",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "electrical property test of satellite subsystem"
+        }
+    },
+    {
+        "concept_name": "卫星多普勒导航",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "satellite Doppler navigation"
+        }
+    },
+    {
+        "concept_name": "卫星姿态",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "satellite attitude"
+        }
+    },
+    {
+        "concept_name": "卫星工作寿命",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "satellite operating lifetime"
+        }
+    },
+    {
+        "concept_name": "卫星工程",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "satellite engineering"
+        }
+    },
+    {
+        "concept_name": "卫星总体设计",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "英文": "satellite system design ;satellite overall design",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "satellite system design"
+        }
+    },
+    {
+        "concept_name": "卫星总测设备",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "英文": "overall checkout equipment for satellite ;OCOE",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "overall checkout equipment for satellite"
+        }
+    },
+    {
+        "concept_name": "卫星总装",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "satellite assembly"
+        }
+    },
+    {
+        "concept_name": "卫星星历表",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "satellite ephemeris"
+        }
+    },
+    {
+        "concept_name": "卫星模装",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "satellite mock up"
+        }
+    },
+    {
+        "concept_name": "卫星测试操作控制台",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "test operation console for satellite"
+        }
+    },
+    {
+        "concept_name": "卫星测试设备",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "checkout equipment for satellite"
+        }
+    },
+    {
+        "concept_name": "卫星电性等效器",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "satellite electric simulator"
+        }
+    },
+    {
+        "concept_name": "卫星电性能测试",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "electrical property test of satellite"
+        }
+    },
+    {
+        "concept_name": "卫星系统工程",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "satellite system engineering"
+        }
+    },
+    {
+        "concept_name": "卫星系统测试软件",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "satellite system test software"
+        }
+    },
+    {
+        "concept_name": "卫星综合控制台",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "general console for satellite"
+        }
+    },
+    {
+        "concept_name": "卫星蚀",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "satellite eclipse"
+        }
+    },
+    {
+        "concept_name": "卫星设备连接",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "satellite equipment connecting"
+        }
+    },
+    {
+        "concept_name": "卫星轨道寿命",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "satellite orbital lifetime"
+        }
+    },
+    {
+        "concept_name": "卫星轨道高度",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "satellite orbital altitude"
+        }
+    },
+    {
+        "concept_name": "卫星运行程序",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "satellite operation program"
+        }
+    },
+    {
+        "concept_name": "卫星面积质量比",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "satellite area-mass ratio"
+        }
+    },
+    {
+        "concept_name": "发射逃逸分系统",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "launch escape subsystem"
+        }
+    },
+    {
+        "concept_name": "变轨发动机",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "orbit maneuver engine"
+        }
+    },
+    {
+        "concept_name": "合练模型",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "rehearsal model"
+        }
+    },
+    {
+        "concept_name": "回归轨道",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "英文": "recursive orbit ;tropical orbit",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "recursive orbit"
+        }
+    },
+    {
+        "concept_name": "回收",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "recovery"
+        }
+    },
+    {
+        "concept_name": "回收分系统",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "recovery subsystem"
+        }
+    },
+    {
+        "concept_name": "在轨测试",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "in-orbit test"
+        }
+    },
+    {
+        "concept_name": "在轨管理",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "in-orbit management"
+        }
+    },
+    {
+        "concept_name": "地影时间",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ecliptic time"
+        }
+    },
+    {
+        "concept_name": "地球反照角系数",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "earth infrared radiation factor"
+        }
+    },
+    {
+        "concept_name": "地球同步轨道",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "geosynchronous orbit"
+        }
+    },
+    {
+        "concept_name": "地球同步轨道卫星",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "geosynchronous orbit satellite"
+        }
+    },
+    {
+        "concept_name": "地球形状摄动",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "non-spherical earth perturbation"
+        }
+    },
+    {
+        "concept_name": "地球站",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "earth station"
+        }
+    },
+    {
+        "concept_name": "地球资源卫星",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "earth resources satellite"
+        }
+    },
+    {
+        "concept_name": "地球静止轨道",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "geostationary orbit"
+        }
+    },
+    {
+        "concept_name": "地球静止轨道卫星",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "geostationary orbit satellite"
+        }
+    },
+    {
+        "concept_name": "地面配电器",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ground distributor"
+        }
+    },
+    {
+        "concept_name": "坐标系",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "coordinate system"
+        }
+    },
+    {
+        "concept_name": "大幅液体晃动力学",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "large-amplitude-slosh liquid dynamics"
+        }
+    },
+    {
+        "concept_name": "大气摄动",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "atmospheric perturbation"
+        }
+    },
+    {
+        "concept_name": "大气静压控制",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "atmospheric pressure control"
+        }
+    },
+    {
+        "concept_name": "天文卫星",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "astronomy satellite"
+        }
+    },
+    {
+        "concept_name": "太空碎片碰撞动力学",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "impact dynamics of space debris"
+        }
+    },
+    {
+        "concept_name": "太阳同步轨道",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "sun-synchronous orbit"
+        }
+    },
+    {
+        "concept_name": "太阳同步轨道卫星",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "sun-synchronous orbit satellite"
+        }
+    },
+    {
+        "concept_name": "太阳吸收率",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "solar absorptance"
+        }
+    },
+    {
+        "concept_name": "太阳电池-蓄电池系统",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "solar array-battery system"
+        }
+    },
+    {
+        "concept_name": "太阳辐射角系数",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "solar radiation factor"
+        }
+    },
+    {
+        "concept_name": "姿态控制",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "attitude control"
+        }
+    },
+    {
+        "concept_name": "姿态控制分系统",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "简称": " 姿控分系统",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "attitude control subsystem"
+        }
+    },
+    {
+        "concept_name": "定点精度",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "stationing accuracy"
+        }
+    },
+    {
+        "concept_name": "对地观测卫星",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "earth observation satellite"
+        }
+    },
+    {
+        "concept_name": "导航精度",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "navigation accuracy"
+        }
+    },
+    {
+        "concept_name": "小幅液体晃动力学",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "small-amplitude-slosh liquid dynamics"
+        }
+    },
+    {
+        "concept_name": "平根数",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "mean element"
+        }
+    },
+    {
+        "concept_name": "平近点角",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "mean anomaly"
+        }
+    },
+    {
+        "concept_name": "平面掩星角",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "planar osculating angle"
+        }
+    },
+    {
+        "concept_name": "应急回收程序",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "emergency recovery sequence"
+        }
+    },
+    {
+        "concept_name": "应急着陆",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "emergency landing"
+        }
+    },
+    {
+        "concept_name": "应急返回",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "emergency return"
+        }
+    },
+    {
+        "concept_name": "应用卫星",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "applied satellite"
+        }
+    },
+    {
+        "concept_name": "开普勒轨道",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "Keplar orbit"
+        }
+    },
+    {
+        "concept_name": "弹射回收",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ejecting recovery"
+        }
+    },
+    {
+        "concept_name": "弹射座椅",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ejection-seat"
+        }
+    },
+    {
+        "concept_name": "弹射座舱",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ejection-capsule"
+        }
+    },
+    {
+        "concept_name": "惯性飞行段",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "inertial flight phase"
+        }
+    },
+    {
+        "concept_name": "战略通信卫星",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "strategic communication satellite"
+        }
+    },
+    {
+        "concept_name": "截击卫星",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "interceptor satellite"
+        }
+    },
+    {
+        "concept_name": "技术指标",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "technical index"
+        }
+    },
+    {
+        "concept_name": "技术规范",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "specification"
+        }
+    },
+    {
+        "concept_name": "技术试验卫星",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "technological experiment satellite"
+        }
+    },
+    {
+        "concept_name": "拦截",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "interception"
+        }
+    },
+    {
+        "concept_name": "撞击动力学",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "impact dynamics"
+        }
+    },
+    {
+        "concept_name": "数据管理分系统",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "简称": " 数管分系统",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "data handling subsystem"
+        }
+    },
+    {
+        "concept_name": "整星三级故障",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "third-class failure of satellite"
+        }
+    },
+    {
+        "concept_name": "整星二级故障",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "second-class failure of satellite"
+        }
+    },
+    {
+        "concept_name": "星-地[测控]校飞试验",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "dynamic matching [TT&C] test between satellite and station"
+        }
+    },
+    {
+        "concept_name": "星-箭分离试验",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "satellite-launcher separation test"
+        }
+    },
+    {
+        "concept_name": "星-箭电磁兼容性试验",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "launcher-satellite EMC test"
+        }
+    },
+    {
+        "concept_name": "星下点",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "sub-satellite point"
+        }
+    },
+    {
+        "concept_name": "星际探测器",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "interplanetary spacecraft"
+        }
+    },
+    {
+        "concept_name": "晃动力矩",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "slosh torque"
+        }
+    },
+    {
+        "concept_name": "晃动周期",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "slosh cycle"
+        }
+    },
+    {
+        "concept_name": "普查型侦察卫星",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "area monitoring reconnaissance satellite"
+        }
+    },
+    {
+        "concept_name": "月球探测卫星",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "lunar exploration satellite"
+        }
+    },
+    {
+        "concept_name": "有效烧蚀热",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "effective ablation heat"
+        }
+    },
+    {
+        "concept_name": "服务系统",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "service system"
+        }
+    },
+    {
+        "concept_name": "极[地]轨道",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "polar orbit"
+        }
+    },
+    {
+        "concept_name": "极轨气象卫星",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "polar orbit meteorological satellite"
+        }
+    },
+    {
+        "concept_name": "标位分系统",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "positioning subsystem"
+        }
+    },
+    {
+        "concept_name": "标准再入轨道",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "standard reentry trajectory"
+        }
+    },
+    {
+        "concept_name": "模态分析",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "modal analysis"
+        }
+    },
+    {
+        "concept_name": "模态有效质量",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "modal efficient mass"
+        }
+    },
+    {
+        "concept_name": "正常返回",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "normal return"
+        }
+    },
+    {
+        "concept_name": "正检[星]",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "flight and engineering model"
+        }
+    },
+    {
+        "concept_name": "气闸舱",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "又称": " 气密过渡舱",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "airlock [module]"
+        }
+    },
+    {
+        "concept_name": "测轨精度",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "orbit measuring precision"
+        }
+    },
+    {
+        "concept_name": "海水染色剂",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "sea coloring agent"
+        }
+    },
+    {
+        "concept_name": "海洋卫星",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ocean satellite"
+        }
+    },
+    {
+        "concept_name": "海洋监视卫星",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ocean surveillance satellite"
+        }
+    },
+    {
+        "concept_name": "海洋观测卫星",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ocean observation satellite"
+        }
+    },
+    {
+        "concept_name": "液-固耦合动力学",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "fluid-structure interaction dynamics"
+        }
+    },
+    {
+        "concept_name": "烧蚀厚度",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "英文": "recession thickness ;ablation thickness",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "recession thickness"
+        }
+    },
+    {
+        "concept_name": "烧蚀防热",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ablative thermal protection"
+        }
+    },
+    {
+        "concept_name": "热[试验]模型",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "thermal model"
+        }
+    },
+    {
+        "concept_name": "环境卫星",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "environment satellite"
+        }
+    },
+    {
+        "concept_name": "环境控制和生命保障分系统",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "简称": " 环控和生保分系统",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "environmental control and life support subsystem"
+        }
+    },
+    {
+        "concept_name": "田谐系数",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "tesseral harmonic coefficient"
+        }
+    },
+    {
+        "concept_name": "电子侦察卫星",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "electronic reconnaissance satellite"
+        }
+    },
+    {
+        "concept_name": "电性试验模型",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "electric test model"
+        }
+    },
+    {
+        "concept_name": "相变[材料]储热装置",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "phase change material device"
+        }
+    },
+    {
+        "concept_name": "真近点角",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "true anomaly"
+        }
+    },
+    {
+        "concept_name": "着陆冲击",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "英文": "landing shock ;landing impact",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "landing shock"
+        }
+    },
+    {
+        "concept_name": "着陆分系统",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "landing subsystem"
+        }
+    },
+    {
+        "concept_name": "着陆缓冲分系统",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "impact attenuation subsystem"
+        }
+    },
+    {
+        "concept_name": "着陆缓冲火箭",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "landing impact attenuation rocket"
+        }
+    },
+    {
+        "concept_name": "着陆速度",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "landing speed"
+        }
+    },
+    {
+        "concept_name": "瞬时根数",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "transient elements"
+        }
+    },
+    {
+        "concept_name": "瞬时热状态",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "transient thermal behavior"
+        }
+    },
+    {
+        "concept_name": "稳定下降",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "steady-state descent"
+        }
+    },
+    {
+        "concept_name": "空中回收",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "aerial retrieval"
+        }
+    },
+    {
+        "concept_name": "空中营救",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "air rescue"
+        }
+    },
+    {
+        "concept_name": "空投",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "air drop"
+        }
+    },
+    {
+        "concept_name": "空间探测卫星",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "space exploration satellite"
+        }
+    },
+    {
+        "concept_name": "红外辐射率",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "infrared emittance"
+        }
+    },
+    {
+        "concept_name": "结构分系统",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "structure subsystem"
+        }
+    },
+    {
+        "concept_name": "绳系卫星",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "tethered satellite"
+        }
+    },
+    {
+        "concept_name": "缓冲装置",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "shock absorber"
+        }
+    },
+    {
+        "concept_name": "翼伞",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "airfoil parachute"
+        }
+    },
+    {
+        "concept_name": "脱落电连接器",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "umbilical connector"
+        }
+    },
+    {
+        "concept_name": "航天器工程",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "spacecraft engineering"
+        }
+    },
+    {
+        "concept_name": "航天测控与数据采集网",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "又称": " 空间跟踪与数据采集网",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "space tracking and data acquisition network"
+        }
+    },
+    {
+        "concept_name": "节点舱",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "node module"
+        }
+    },
+    {
+        "concept_name": "覆盖区",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "coverage zone"
+        }
+    },
+    {
+        "concept_name": "试验舱",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "laboratory module"
+        }
+    },
+    {
+        "concept_name": "跟踪分系统",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "tracking subsystem"
+        }
+    },
+    {
+        "concept_name": "轨道交会动力学",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "orbital rendezvous dynamics"
+        }
+    },
+    {
+        "concept_name": "轨道交会对接",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "orbital rendezvous and docking"
+        }
+    },
+    {
+        "concept_name": "轨道保持",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "orbital maintenance"
+        }
+    },
+    {
+        "concept_name": "轨道动力学",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "orbit dynamics"
+        }
+    },
+    {
+        "concept_name": "轨道周期",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "orbit period"
+        }
+    },
+    {
+        "concept_name": "轨道备份星",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "in-orbit spare satellite"
+        }
+    },
+    {
+        "concept_name": "轨道平均温度",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "in-orbit average temperature"
+        }
+    },
+    {
+        "concept_name": "轨道捕获",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "orbital acquisition"
+        }
+    },
+    {
+        "concept_name": "轨道控制",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "orbital control"
+        }
+    },
+    {
+        "concept_name": "轨道控制分系统",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "简称": " 轨控分系统",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "orbit control subsystem"
+        }
+    },
+    {
+        "concept_name": "轨道根数",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "又称": " 轨道要素",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "orbital element"
+        }
+    },
+    {
+        "concept_name": "轨道段救生",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "orbit phase rescue"
+        }
+    },
+    {
+        "concept_name": "轨道瞬时温度",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "in-orbit transient temperature"
+        }
+    },
+    {
+        "concept_name": "轨道舱",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "orbit module"
+        }
+    },
+    {
+        "concept_name": "轨道衰减法返回",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "orbit decay return mode"
+        }
+    },
+    {
+        "concept_name": "轨道逃生装置",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "in-orbit escape device"
+        }
+    },
+    {
+        "concept_name": "轨道预报误差",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "orbit prediction error"
+        }
+    },
+    {
+        "concept_name": "轨道预示温度",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "in-orbit predicted temperature"
+        }
+    },
+    {
+        "concept_name": "转接盒",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "interconnecting device"
+        }
+    },
+    {
+        "concept_name": "转移轨道",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "transfer orbit"
+        }
+    },
+    {
+        "concept_name": "软着陆",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "soft landing"
+        }
+    },
+    {
+        "concept_name": "载人飞船工程",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "manned spacecraft engineering"
+        }
+    },
+    {
+        "concept_name": "辐射致冷器",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "radiative refrigerator"
+        }
+    },
+    {
+        "concept_name": "过载时间控制",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "overload-time control"
+        }
+    },
+    {
+        "concept_name": "过近地点时刻",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "time of perigee passage"
+        }
+    },
+    {
+        "concept_name": "近地点幅角",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "argument of perigee"
+        }
+    },
+    {
+        "concept_name": "返回",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "return"
+        }
+    },
+    {
+        "concept_name": "返回点",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "return point"
+        }
+    },
+    {
+        "concept_name": "返回角",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "return angle"
+        }
+    },
+    {
+        "concept_name": "返回过程",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "return course"
+        }
+    },
+    {
+        "concept_name": "返回高度",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "return altitude"
+        }
+    },
+    {
+        "concept_name": "远地点",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "apogee"
+        }
+    },
+    {
+        "concept_name": "远地点发动机",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "apogee engine"
+        }
+    },
+    {
+        "concept_name": "逃逸",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "escape"
+        }
+    },
+    {
+        "concept_name": "逃逸塔",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "escape tower"
+        }
+    },
+    {
+        "concept_name": "逃逸火箭",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "escape rocket"
+        }
+    },
+    {
+        "concept_name": "逃逸舱",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "escape capsule"
+        }
+    },
+    {
+        "concept_name": "逃逸飞行器",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "escape vehicle"
+        }
+    },
+    {
+        "concept_name": "逆行轨道",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "retrogressive orbit"
+        }
+    },
+    {
+        "concept_name": "重复使用返回器",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "reusable recoverable capsule"
+        }
+    },
+    {
+        "concept_name": "防热结构",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "thermal protection structure"
+        }
+    },
+    {
+        "concept_name": "降交点",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "descending node"
+        }
+    },
+    {
+        "concept_name": "顺行轨道",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "progressive orbit"
+        }
+    },
+    {
+        "concept_name": "预警卫星",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "early warning satellite"
+        }
+    },
+    {
+        "concept_name": "飞行方位角",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "flight azimuth"
+        }
+    },
+    {
+        "concept_name": "飞行程序",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "mission program"
+        }
+    },
+    {
+        "concept_name": "飞行路径角",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "flight path angle"
+        }
+    },
+    {
+        "concept_name": "高度计",
+        "details": {
+            "学科": "航天科学技术_航天器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "altimeter"
+        }
+    }
+]

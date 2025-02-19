@@ -1,0 +1,171 @@
+[
+    {
+        "concept_name": "元数学",
+        "details": {
+            "学科": "自然辩证法_科学哲学_数学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "metamathematics"
+        }
+    },
+    {
+        "concept_name": "公理主义",
+        "details": {
+            "学科": "自然辩证法_科学哲学_数学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "axiomatism"
+        }
+    },
+    {
+        "concept_name": "公理化",
+        "details": {
+            "学科": "自然辩证法_科学哲学_数学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "axiomatization"
+        }
+    },
+    {
+        "concept_name": "关系映射反演",
+        "details": {
+            "学科": "自然辩证法_科学哲学_数学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "relationship-mapping-inversion"
+        }
+    },
+    {
+        "concept_name": "哥德尔不完全性定理",
+        "details": {
+            "学科": "自然辩证法_科学哲学_数学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "Goedel's incompleteness theorem"
+        }
+    },
+    {
+        "concept_name": "希尔伯特纲领",
+        "details": {
+            "学科": "自然辩证法_科学哲学_数学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "Hilbert programme"
+        }
+    },
+    {
+        "concept_name": "形式主义",
+        "details": {
+            "学科": "自然辩证法_科学哲学_数学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "formalism"
+        }
+    },
+    {
+        "concept_name": "形式系统",
+        "details": {
+            "学科": "自然辩证法_科学哲学_数学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "formal system"
+        }
+    },
+    {
+        "concept_name": "数学哲学",
+        "details": {
+            "学科": "自然辩证法_科学哲学_数学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "philosophy of mathematics"
+        }
+    },
+    {
+        "concept_name": "数学基础",
+        "details": {
+            "学科": "自然辩证法_科学哲学_数学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "foundation of mathematics"
+        }
+    },
+    {
+        "concept_name": "数学实在论",
+        "details": {
+            "学科": "自然辩证法_科学哲学_数学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "realism in mathematics"
+        }
+    },
+    {
+        "concept_name": "数学实验",
+        "details": {
+            "学科": "自然辩证法_科学哲学_数学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "mathematical experiment"
+        }
+    },
+    {
+        "concept_name": "数学归纳法",
+        "details": {
+            "学科": "自然辩证法_科学哲学_数学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "mathematical induction"
+        }
+    },
+    {
+        "concept_name": "数学悖论",
+        "details": {
+            "学科": "自然辩证法_科学哲学_数学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "mathematical paradox"
+        }
+    },
+    {
+        "concept_name": "数学拟经验论",
+        "details": {
+            "学科": "自然辩证法_科学哲学_数学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "quasi-empiricism in mathematics"
+        }
+    },
+    {
+        "concept_name": "数学柏拉图主义",
+        "details": {
+            "学科": "自然辩证法_科学哲学_数学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "Platonism in mathematics"
+        }
+    },
+    {
+        "concept_name": "数学模型",
+        "details": {
+            "学科": "自然辩证法_科学哲学_数学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "mathematical model"
+        }
+    },
+    {
+        "concept_name": "数学猜想",
+        "details": {
+            "学科": "自然辩证法_科学哲学_数学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "mathematical conjecture"
+        }
+    },
+    {
+        "concept_name": "数学经验论",
+        "details": {
+            "学科": "自然辩证法_科学哲学_数学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "empiricism in mathematics"
+        }
+    },
+    {
+        "concept_name": "数学美",
+        "details": {
+            "学科": "自然辩证法_科学哲学_数学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "mathematical beauty"
+        }
+    },
+    {
+        "concept_name": "直觉主义",
+        "details": {
+            "学科": "自然辩证法_科学哲学_数学哲学",
+            "英文": "intuitionism ;intuitionalism",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "intuitionism"
+        }
+    }
+]

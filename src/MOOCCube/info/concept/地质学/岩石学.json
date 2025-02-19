@@ -1,0 +1,1864 @@
+[
+    {
+        "concept_name": "AKF图解",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "AKF diagram"
+        }
+    },
+    {
+        "concept_name": "AMF图解",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "AMF diagram"
+        }
+    },
+    {
+        "concept_name": "[斜长]角闪岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "amphibolite"
+        }
+    },
+    {
+        "concept_name": "[火山]玻屑",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "vitric pyroclast"
+        }
+    },
+    {
+        "concept_name": "三角洲相",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "delta facies"
+        }
+    },
+    {
+        "concept_name": "上斜坡",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "upslope"
+        }
+    },
+    {
+        "concept_name": "不整合侵入体",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "discordant intrusion"
+        }
+    },
+    {
+        "concept_name": "不等粒斑状结构",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "inequigranular porphyritic texture"
+        }
+    },
+    {
+        "concept_name": "不等粒状",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "inequigranular"
+        }
+    },
+    {
+        "concept_name": "中心式喷发",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "central eruption"
+        }
+    },
+    {
+        "concept_name": "中性岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "intermediate rock"
+        }
+    },
+    {
+        "concept_name": "二辉橄榄岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "lherzolite"
+        }
+    },
+    {
+        "concept_name": "交代[作用]",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "replacement"
+        }
+    },
+    {
+        "concept_name": "交代结构",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "metasomatic texture"
+        }
+    },
+    {
+        "concept_name": "亮晶",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "spar"
+        }
+    },
+    {
+        "concept_name": "侵入岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "intrusive rock"
+        }
+    },
+    {
+        "concept_name": "全晶质",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "holocrystalline"
+        }
+    },
+    {
+        "concept_name": "内滨",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "inshore"
+        }
+    },
+    {
+        "concept_name": "内碎屑",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "intraclast"
+        }
+    },
+    {
+        "concept_name": "内碎屑亮晶灰岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "intrasparite"
+        }
+    },
+    {
+        "concept_name": "内碎屑泥晶灰岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "intramicrite"
+        }
+    },
+    {
+        "concept_name": "冲击变质作用",
+        "details": {
+            "学科": "地质学_岩石学",
+            "英文": "impact metamorphism ;shock metamorphism",
+            "见载": "《地质学名词》第一版",
+            "英文名": "impact metamorphism"
+        }
+    },
+    {
+        "concept_name": "冲击岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "impactite"
+        }
+    },
+    {
+        "concept_name": "冲积相",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "alluvial facies"
+        }
+    },
+    {
+        "concept_name": "准同生作用",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "penesyndiagenesis"
+        }
+    },
+    {
+        "concept_name": "凝灰结构",
+        "details": {
+            "学科": "地质学_岩石学",
+            "英文": "tuff texture ;ash texture",
+            "又称": " 火山灰结构",
+            "见载": "《地质学名词》第一版",
+            "英文名": "tuff texture"
+        }
+    },
+    {
+        "concept_name": "分异指数",
+        "details": {
+            "学科": "地质学_岩石学",
+            "英文": "differentiation index ;DI",
+            "见载": "《地质学名词》第一版",
+            "英文名": "differentiation index"
+        }
+    },
+    {
+        "concept_name": "分选指数",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "sorting index"
+        }
+    },
+    {
+        "concept_name": "初糜岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "protomylonite"
+        }
+    },
+    {
+        "concept_name": "副[斜长]角闪岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "para-amphibolite"
+        }
+    },
+    {
+        "concept_name": "区域动力变质作用",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "regional dynamic metamorphism"
+        }
+    },
+    {
+        "concept_name": "区域变质作用",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "regional metamorphism"
+        }
+    },
+    {
+        "concept_name": "压实[作用]",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "compaction"
+        }
+    },
+    {
+        "concept_name": "变余砂状结构",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "blastopsammitic texture"
+        }
+    },
+    {
+        "concept_name": "变余砾状结构",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "blastopsephitic texture"
+        }
+    },
+    {
+        "concept_name": "变斑晶",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "porphyroblast"
+        }
+    },
+    {
+        "concept_name": "变质事件",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "metamorphic event"
+        }
+    },
+    {
+        "concept_name": "变质作用",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "metamorphism"
+        }
+    },
+    {
+        "concept_name": "变质岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "metamorphic rock"
+        }
+    },
+    {
+        "concept_name": "变质期",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "metamorphic epoch"
+        }
+    },
+    {
+        "concept_name": "变质相组",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "metamorphic facies group"
+        }
+    },
+    {
+        "concept_name": "变质级",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "metamorphic grade"
+        }
+    },
+    {
+        "concept_name": "变质阶段",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "metamorphic episode"
+        }
+    },
+    {
+        "concept_name": "台地边缘斜坡",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "platform margin slope"
+        }
+    },
+    {
+        "concept_name": "叶理",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "foliation"
+        }
+    },
+    {
+        "concept_name": "同化作用",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "assimilation"
+        }
+    },
+    {
+        "concept_name": "后生作用",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "epigenesis"
+        }
+    },
+    {
+        "concept_name": "后生成岩[作用]",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "anadiagenesis"
+        }
+    },
+    {
+        "concept_name": "吸收[作用]",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "absorption"
+        }
+    },
+    {
+        "concept_name": "喷出岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "effusive rock"
+        }
+    },
+    {
+        "concept_name": "喷出相",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "extrusive facies"
+        }
+    },
+    {
+        "concept_name": "地幔岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "pyrolite"
+        }
+    },
+    {
+        "concept_name": "地质温度计",
+        "details": {
+            "学科": "地质学_岩石学",
+            "又称": " 地球温度计",
+            "见载": "《地质学名词》第一版",
+            "英文名": "geothermometer"
+        }
+    },
+    {
+        "concept_name": "均质混合岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "homogeneous migmatite"
+        }
+    },
+    {
+        "concept_name": "夕卡岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "skarn"
+        }
+    },
+    {
+        "concept_name": "外滨",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "offshore"
+        }
+    },
+    {
+        "concept_name": "大理岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "marble"
+        }
+    },
+    {
+        "concept_name": "孔隙",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "pore"
+        }
+    },
+    {
+        "concept_name": "它形粒状",
+        "details": {
+            "学科": "地质学_岩石学",
+            "英文": "xenomorphic granular ;allotriomorphic granular",
+            "见载": "《地质学名词》第一版",
+            "英文名": "xenomorphic granular"
+        }
+    },
+    {
+        "concept_name": "安山岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "andesite"
+        }
+    },
+    {
+        "concept_name": "实验岩石学",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "experimental petrology"
+        }
+    },
+    {
+        "concept_name": "层内砾岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "又称": " 层间砾岩",
+            "见载": "《地质学名词》第一版",
+            "英文名": "intraformational conglomerate"
+        }
+    },
+    {
+        "concept_name": "层内角砾岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "又称": " 层间角砾岩",
+            "见载": "《地质学名词》第一版",
+            "英文名": "intraformational breccia"
+        }
+    },
+    {
+        "concept_name": "山麓相",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "piedmont facies"
+        }
+    },
+    {
+        "concept_name": "岩基",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "batholith"
+        }
+    },
+    {
+        "concept_name": "岩枝",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "apophysis"
+        }
+    },
+    {
+        "concept_name": "岩浆通道",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "magma conduit"
+        }
+    },
+    {
+        "concept_name": "岩相",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "lithofacies"
+        }
+    },
+    {
+        "concept_name": "岩颈",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "neck"
+        }
+    },
+    {
+        "concept_name": "平行层理",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "parallel bedding"
+        }
+    },
+    {
+        "concept_name": "广海",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "open sea"
+        }
+    },
+    {
+        "concept_name": "开阔台地",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "open-platform"
+        }
+    },
+    {
+        "concept_name": "接触[变质]晕",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "contact metamorphic aureole"
+        }
+    },
+    {
+        "concept_name": "接触变质作用",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "contact metamorphism"
+        }
+    },
+    {
+        "concept_name": "接触胶结",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "contactal cement"
+        }
+    },
+    {
+        "concept_name": "整合侵入体",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "concordant intrusion"
+        }
+    },
+    {
+        "concept_name": "斜长岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "英文": "anorthosite ;plagioclasite",
+            "见载": "《地质学名词》第一版",
+            "英文名": "anorthosite"
+        }
+    },
+    {
+        "concept_name": "新生变形[作用]",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "neomorphism"
+        }
+    },
+    {
+        "concept_name": "晶体印痕",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "crystal imprint"
+        }
+    },
+    {
+        "concept_name": "暗色矿物",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "dark-colored mineral"
+        }
+    },
+    {
+        "concept_name": "杏仁构造",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "amygdaloidal structure"
+        }
+    },
+    {
+        "concept_name": "条痕状混合岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "streaky migmatite"
+        }
+    },
+    {
+        "concept_name": "条纹结构",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "perthitic texture"
+        }
+    },
+    {
+        "concept_name": "构造超压",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "tectonic overpressure"
+        }
+    },
+    {
+        "concept_name": "枕状构造",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "pillow structure"
+        }
+    },
+    {
+        "concept_name": "榴辉岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "eclogite"
+        }
+    },
+    {
+        "concept_name": "榴辉岩相",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "eclogite facies"
+        }
+    },
+    {
+        "concept_name": "橄榄岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "peridotite"
+        }
+    },
+    {
+        "concept_name": "次生加大",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "secondary enlargement"
+        }
+    },
+    {
+        "concept_name": "正[斜长]角闪岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ortho-amphibolite"
+        }
+    },
+    {
+        "concept_name": "正片麻岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ortho-gneiss"
+        }
+    },
+    {
+        "concept_name": "死火山",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "extinct volcano"
+        }
+    },
+    {
+        "concept_name": "残留构造",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "relict structure"
+        }
+    },
+    {
+        "concept_name": "气孔构造",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "vesicular structure"
+        }
+    },
+    {
+        "concept_name": "沉积分异[作用]",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "sedimentary differentiation"
+        }
+    },
+    {
+        "concept_name": "沉积环境",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "sedimentary environment"
+        }
+    },
+    {
+        "concept_name": "沉积相",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "sedimentary facies"
+        }
+    },
+    {
+        "concept_name": "沉积相组合",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "sedimentary facies association"
+        }
+    },
+    {
+        "concept_name": "沙丘相",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "dune facies"
+        }
+    },
+    {
+        "concept_name": "沙漠相",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "desert facies"
+        }
+    },
+    {
+        "concept_name": "河口湾",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "estuary"
+        }
+    },
+    {
+        "concept_name": "河口湾相",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "estuary facies"
+        }
+    },
+    {
+        "concept_name": "泄水构造",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "water escape structure"
+        }
+    },
+    {
+        "concept_name": "波痕指数",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ripple index"
+        }
+    },
+    {
+        "concept_name": "泥质岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "argillaceous rock"
+        }
+    },
+    {
+        "concept_name": "注入片麻岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "injection gneiss"
+        }
+    },
+    {
+        "concept_name": "洋底变质作用",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ocean-floor metamorphism"
+        }
+    },
+    {
+        "concept_name": "活火山",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "active volcano"
+        }
+    },
+    {
+        "concept_name": "流体超压",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "fluid overpressure"
+        }
+    },
+    {
+        "concept_name": "流面构造",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "planar flow structure"
+        }
+    },
+    {
+        "concept_name": "浅埋[作用]",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "shallow burialism"
+        }
+    },
+    {
+        "concept_name": "浅成侵入相",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "hypabyssal intrusive facies"
+        }
+    },
+    {
+        "concept_name": "浅深[变质]带",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "epizone"
+        }
+    },
+    {
+        "concept_name": "海底喷发",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "submarine eruption"
+        }
+    },
+    {
+        "concept_name": "海绵岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "sponge rock"
+        }
+    },
+    {
+        "concept_name": "液态不混溶作用",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "liquid immiscibility"
+        }
+    },
+    {
+        "concept_name": "深成侵入相",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "plutonic intrusive facies"
+        }
+    },
+    {
+        "concept_name": "深成变质作用",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "plutonic metamorphism"
+        }
+    },
+    {
+        "concept_name": "深海相",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "abyssal facies"
+        }
+    },
+    {
+        "concept_name": "深熔作用",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "anatexis"
+        }
+    },
+    {
+        "concept_name": "混合白云石化[作用]",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "dorag dolomitization"
+        }
+    },
+    {
+        "concept_name": "混合花岗岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "migmatitic granite"
+        }
+    },
+    {
+        "concept_name": "滨岸",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "onshore"
+        }
+    },
+    {
+        "concept_name": "潜火山岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "又称": " 次火山岩",
+            "见载": "《地质学名词》第一版",
+            "英文名": "subvolcanic rock"
+        }
+    },
+    {
+        "concept_name": "火山构造",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "volcanic structure"
+        }
+    },
+    {
+        "concept_name": "火山泥[石]流",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "lahar"
+        }
+    },
+    {
+        "concept_name": "火山灰",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "volcanic ash"
+        }
+    },
+    {
+        "concept_name": "火山碎屑流",
+        "details": {
+            "学科": "地质学_岩石学",
+            "英文": "pyroclastic flow ;ash flow",
+            "见载": "《地质学名词》第一版",
+            "英文名": "pyroclastic flow"
+        }
+    },
+    {
+        "concept_name": "火成岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "又称": " 岩浆岩(magrnatic rock)",
+            "见载": "《地质学名词》第一版",
+            "英文名": "igneous rock"
+        }
+    },
+    {
+        "concept_name": "热变质作用",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "thermal metamorphism"
+        }
+    },
+    {
+        "concept_name": "熔岩流",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "lava flow"
+        }
+    },
+    {
+        "concept_name": "熔结凝灰结构",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "welded tuff texture"
+        }
+    },
+    {
+        "concept_name": "爆发指数",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "explosive index"
+        }
+    },
+    {
+        "concept_name": "片状构造",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "schistose structure"
+        }
+    },
+    {
+        "concept_name": "玄武安山岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "basaltic andesite"
+        }
+    },
+    {
+        "concept_name": "玻基斑状结构",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "vitroporphyritic texture"
+        }
+    },
+    {
+        "concept_name": "玻晶交织结构",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "hyalopilitic texture"
+        }
+    },
+    {
+        "concept_name": "球状构造",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "orbicular structure"
+        }
+    },
+    {
+        "concept_name": "生物礁",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "organic reef"
+        }
+    },
+    {
+        "concept_name": "生物礁灰岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "曾称": " 原地生物灰岩",
+            "见载": "《地质学名词》第一版",
+            "英文名": "biolithite"
+        }
+    },
+    {
+        "concept_name": "生物钻孔",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "boring by organism"
+        }
+    },
+    {
+        "concept_name": "白岗岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "alaskite"
+        }
+    },
+    {
+        "concept_name": "白榴岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "leucitite"
+        }
+    },
+    {
+        "concept_name": "白片岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "white schist"
+        }
+    },
+    {
+        "concept_name": "眼球状混合岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "augen migmatite"
+        }
+    },
+    {
+        "concept_name": "石泡构造",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "lithophysa structure"
+        }
+    },
+    {
+        "concept_name": "石盐岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "halilith"
+        }
+    },
+    {
+        "concept_name": "石英二长岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "quartz monzonite"
+        }
+    },
+    {
+        "concept_name": "石英安山岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "quartz andesite"
+        }
+    },
+    {
+        "concept_name": "石英粗安岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "quartz trachyandesite"
+        }
+    },
+    {
+        "concept_name": "砂屑岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "arenite"
+        }
+    },
+    {
+        "concept_name": "硅碱指数",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "silic-alkali index"
+        }
+    },
+    {
+        "concept_name": "碱性岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "alkali rock"
+        }
+    },
+    {
+        "concept_name": "碱性玄武岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "alkali basalt"
+        }
+    },
+    {
+        "concept_name": "碱性系列",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "alkaline series"
+        }
+    },
+    {
+        "concept_name": "碱性辉长岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "又称": " 霞辉二长岩",
+            "见载": "《地质学名词》第一版",
+            "英文名": "essexite"
+        }
+    },
+    {
+        "concept_name": "碳质岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "carbonaceous rock"
+        }
+    },
+    {
+        "concept_name": "碳酸岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "carbonatite"
+        }
+    },
+    {
+        "concept_name": "磷霞岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "urtite"
+        }
+    },
+    {
+        "concept_name": "竹叶状灰岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "德文名": "Würmkalk (德)",
+            "见载": "《地质学名词》第一版",
+            "英文名": "edgewise conglomerate"
+        }
+    },
+    {
+        "concept_name": "等化学系列",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "isochemical series"
+        }
+    },
+    {
+        "concept_name": "等变质反应级",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "isoreaction grade"
+        }
+    },
+    {
+        "concept_name": "等变质级",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "isograde"
+        }
+    },
+    {
+        "concept_name": "等物理系列",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "isophysical series"
+        }
+    },
+    {
+        "concept_name": "等粒状",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "equigranular"
+        }
+    },
+    {
+        "concept_name": "粒状变晶结构",
+        "details": {
+            "学科": "地质学_岩石学",
+            "又称": " 花岗变晶结构",
+            "见载": "《地质学名词》第一版",
+            "英文名": "granoblastic texture"
+        }
+    },
+    {
+        "concept_name": "纯橄榄岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "dunite"
+        }
+    },
+    {
+        "concept_name": "细晶岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "aplite"
+        }
+    },
+    {
+        "concept_name": "细晶结构",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "aplitic texture"
+        }
+    },
+    {
+        "concept_name": "细碧岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "spilite"
+        }
+    },
+    {
+        "concept_name": "结晶[石]灰岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "crystalline limestone"
+        }
+    },
+    {
+        "concept_name": "结晶指数",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "crystallization index"
+        }
+    },
+    {
+        "concept_name": "绿帘角闪岩相",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "epidote amphibolite facies"
+        }
+    },
+    {
+        "concept_name": "绿片岩相",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "greenschist facies"
+        }
+    },
+    {
+        "concept_name": "缓坡",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ramp"
+        }
+    },
+    {
+        "concept_name": "脱水[作用]",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "dehydration"
+        }
+    },
+    {
+        "concept_name": "自变质作用",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "autometamorphism"
+        }
+    },
+    {
+        "concept_name": "花岗岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "granite"
+        }
+    },
+    {
+        "concept_name": "花岗岩化作用",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "granitization"
+        }
+    },
+    {
+        "concept_name": "花岗质片麻岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "granitic gneiss"
+        }
+    },
+    {
+        "concept_name": "葡萄石-绿纤石相",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "prehnite-pumpellyite facies"
+        }
+    },
+    {
+        "concept_name": "蒸发岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "evaporite"
+        }
+    },
+    {
+        "concept_name": "蒸发泵作用",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "evaporative pumping"
+        }
+    },
+    {
+        "concept_name": "蛇纹岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "serpentinite"
+        }
+    },
+    {
+        "concept_name": "表生成岩[作用]",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "epidiagenesis"
+        }
+    },
+    {
+        "concept_name": "裂隙式喷发",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "fissure eruption"
+        }
+    },
+    {
+        "concept_name": "角岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "曾称": " 角页岩",
+            "见载": "《地质学名词》第一版",
+            "英文名": "hornfels"
+        }
+    },
+    {
+        "concept_name": "角砾状混合岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "agmatite"
+        }
+    },
+    {
+        "concept_name": "角闪岩相",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "amphibolite facies"
+        }
+    },
+    {
+        "concept_name": "角闪石-角岩相",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "hornblende-hornfels facies"
+        }
+    },
+    {
+        "concept_name": "超变质作用",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ultrametamorphism"
+        }
+    },
+    {
+        "concept_name": "超基性岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ultrabasic rock"
+        }
+    },
+    {
+        "concept_name": "超糜棱岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ultramylonite"
+        }
+    },
+    {
+        "concept_name": "超酸性岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ultraacidic rock"
+        }
+    },
+    {
+        "concept_name": "超镁铁质岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ultramafic rock"
+        }
+    },
+    {
+        "concept_name": "辉长岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "gabbro"
+        }
+    },
+    {
+        "concept_name": "辉长结构",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "gabbro texture"
+        }
+    },
+    {
+        "concept_name": "辫状河",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "braided river"
+        }
+    },
+    {
+        "concept_name": "连续不等粒斑状结构",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "seriate porphyritic texture"
+        }
+    },
+    {
+        "concept_name": "退化变质作用",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "retrogressive metamorphism"
+        }
+    },
+    {
+        "concept_name": "递进变质作用",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "progressive metamorphism"
+        }
+    },
+    {
+        "concept_name": "酸性岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "acidic rock"
+        }
+    },
+    {
+        "concept_name": "钙碱性系列",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "calc-alkaline series"
+        }
+    },
+    {
+        "concept_name": "钙碱指数",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "calc-alkali index"
+        }
+    },
+    {
+        "concept_name": "钠长石-绿帘石-角岩相",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "albite-epidote-hornfels facies"
+        }
+    },
+    {
+        "concept_name": "铁镁指数",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ferromagnesian index"
+        }
+    },
+    {
+        "concept_name": "铝质岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "aluminous rock"
+        }
+    },
+    {
+        "concept_name": "镶嵌结构",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "mosaic texture"
+        }
+    },
+    {
+        "concept_name": "长石砂岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "英文": "arkose ;feldspar sandstone",
+            "见载": "《地质学名词》第一版",
+            "英文名": "arkose"
+        }
+    },
+    {
+        "concept_name": "闪长岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "diorite"
+        }
+    },
+    {
+        "concept_name": "间粒结构",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "intergranular texture"
+        }
+    },
+    {
+        "concept_name": "间隐结构",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "intersertal texture"
+        }
+    },
+    {
+        "concept_name": "阳起片岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "actinolite schist"
+        }
+    },
+    {
+        "concept_name": "陆表海",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "epicontinental sea"
+        }
+    },
+    {
+        "concept_name": "陆解[作用]",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "aquatolysis"
+        }
+    },
+    {
+        "concept_name": "障壁岛",
+        "details": {
+            "学科": "地质学_岩石学",
+            "又称": " 沙坝岛",
+            "见载": "《地质学名词》第一版",
+            "英文名": "barrier island"
+        }
+    },
+    {
+        "concept_name": "霓霞岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ijolite"
+        }
+    },
+    {
+        "concept_name": "霞斜岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "theralite"
+        }
+    },
+    {
+        "concept_name": "霞石正长岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "nepheline syenite"
+        }
+    },
+    {
+        "concept_name": "颜色指数",
+        "details": {
+            "学科": "地质学_岩石学",
+            "又称": " 暗色指数",
+            "见载": "《地质学名词》第一版",
+            "英文名": "color index"
+        }
+    },
+    {
+        "concept_name": "风成岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "eolianite"
+        }
+    },
+    {
+        "concept_name": "骨架灰岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "曾称": " 生物构架灰岩",
+            "见载": "《地质学名词》第一版",
+            "英文名": "framestone"
+        }
+    },
+    {
+        "concept_name": "高铝玄武岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "high-alumina basalt"
+        }
+    },
+    {
+        "concept_name": "鬣刺结构",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "spinifex texture"
+        }
+    },
+    {
+        "concept_name": "鲕粒",
+        "details": {
+            "学科": "地质学_岩石学",
+            "英文": "oolite ;ooid",
+            "见载": "《地质学名词》第一版",
+            "英文名": "oolite"
+        }
+    },
+    {
+        "concept_name": "鲕粒亮晶灰岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "oosparite"
+        }
+    },
+    {
+        "concept_name": "鲕粒泥质灰岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "oomicrite"
+        }
+    },
+    {
+        "concept_name": "鸟眼构造",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "bird's-eye structure"
+        }
+    },
+    {
+        "concept_name": "麻粒岩相",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "granulite facies"
+        }
+    },
+    {
+        "concept_name": "黑曜岩",
+        "details": {
+            "学科": "地质学_岩石学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "obsidian"
+        }
+    }
+]

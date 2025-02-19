@@ -1,0 +1,2203 @@
+[
+    {
+        "concept_name": "[同]核异能素",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "isomer"
+        }
+    },
+    {
+        "concept_name": "[完]全熔合",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "complete fusion"
+        }
+    },
+    {
+        "concept_name": "[相]互作用玻色子模型",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "英文": "interaction boson model ;IBM",
+            "见载": "《物理学名词》第二版",
+            "英文名": "interaction boson model"
+        }
+    },
+    {
+        "concept_name": "[相]互作用玻色子费米子模型",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "英文": "interaction boson fermion model ;IBFM",
+            "见载": "《物理学名词》第二版",
+            "英文名": "interaction boson fermion model"
+        }
+    },
+    {
+        "concept_name": "α放射性",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "α-radioactivity"
+        }
+    },
+    {
+        "concept_name": "β放射性",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "β-radioactivity"
+        }
+    },
+    {
+        "concept_name": "γ放射性",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "γ-radioactivity"
+        }
+    },
+    {
+        "concept_name": "三分裂变",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ternary fission"
+        }
+    },
+    {
+        "concept_name": "不对称裂变",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "asymmetrical fission"
+        }
+    },
+    {
+        "concept_name": "中子反应",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "neutron [induced] reaction"
+        }
+    },
+    {
+        "concept_name": "中子注量",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "neutron fluence"
+        }
+    },
+    {
+        "concept_name": "中子活化分析",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "英文": "neutron activation analysis ;NAA",
+            "见载": "《物理学名词》第二版",
+            "英文名": "neutron activation analysis"
+        }
+    },
+    {
+        "concept_name": "中等耦合",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "intermediate coupling"
+        }
+    },
+    {
+        "concept_name": "中能中子",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "intermediate neutron"
+        }
+    },
+    {
+        "concept_name": "中能核反应",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "intermediate-energy nuclear reac- tion"
+        }
+    },
+    {
+        "concept_name": "中重核",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "intermediate nucleus"
+        }
+    },
+    {
+        "concept_name": "中间结构",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "intermediate structure"
+        }
+    },
+    {
+        "concept_name": "串列[式]加速器",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "tandem accelerator"
+        }
+    },
+    {
+        "concept_name": "临界体积",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "critical volume"
+        }
+    },
+    {
+        "concept_name": "临界角动量",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "critical angular momentum"
+        }
+    },
+    {
+        "concept_name": "临界质量",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "critical mass"
+        }
+    },
+    {
+        "concept_name": "交换力",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "exchange force"
+        }
+    },
+    {
+        "concept_name": "人工放射性",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "artificial radioactivity"
+        }
+    },
+    {
+        "concept_name": "伽莫夫-特勒相互作用",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Gamow-Teller interaction"
+        }
+    },
+    {
+        "concept_name": "低能核反应",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "low-energy nuclear reaction"
+        }
+    },
+    {
+        "concept_name": "体积能",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "volume energy"
+        }
+    },
+    {
+        "concept_name": "俄歇电子",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Auger electron"
+        }
+    },
+    {
+        "concept_name": "偶偶核",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "even-even nucleus"
+        }
+    },
+    {
+        "concept_name": "元素",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "element"
+        }
+    },
+    {
+        "concept_name": "光学模型",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical model"
+        }
+    },
+    {
+        "concept_name": "入射束",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "incoming beam"
+        }
+    },
+    {
+        "concept_name": "入射粒子",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "incident particle"
+        }
+    },
+    {
+        "concept_name": "入射道",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "incoming channel"
+        }
+    },
+    {
+        "concept_name": "全能峰",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "full energy peak"
+        }
+    },
+    {
+        "concept_name": "八极振动",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "octopole vibration"
+        }
+    },
+    {
+        "concept_name": "共振积分",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "resonance integral"
+        }
+    },
+    {
+        "concept_name": "共振能量",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "resonance energy"
+        }
+    },
+    {
+        "concept_name": "内禀宇称",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "intrinsic parity"
+        }
+    },
+    {
+        "concept_name": "内禀电四极矩",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "intrinsic electric quadrupole moment"
+        }
+    },
+    {
+        "concept_name": "内转换",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "internal conversion"
+        }
+    },
+    {
+        "concept_name": "内转换电子",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "internal conversion electron"
+        }
+    },
+    {
+        "concept_name": "内转换电子对",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "internal conversion pair"
+        }
+    },
+    {
+        "concept_name": "内转换系数",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "internal conversion coefficient"
+        }
+    },
+    {
+        "concept_name": "准弹性散射",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "quasi-elastic scattering"
+        }
+    },
+    {
+        "concept_name": "准粒子激发",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "quasi-particle excitation"
+        }
+    },
+    {
+        "concept_name": "出射粒子",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "outgoing particle"
+        }
+    },
+    {
+        "concept_name": "出射角",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "outgoing angle"
+        }
+    },
+    {
+        "concept_name": "出射道",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "outgoing channel"
+        }
+    },
+    {
+        "concept_name": "分波分析",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "partial-wave analysis"
+        }
+    },
+    {
+        "concept_name": "分辨时间",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "resolving time"
+        }
+    },
+    {
+        "concept_name": "剂量当量",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "dose equivalent"
+        }
+    },
+    {
+        "concept_name": "削裂反应",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "stripping reaction"
+        }
+    },
+    {
+        "concept_name": "剩余相互作用",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "residual interaction"
+        }
+    },
+    {
+        "concept_name": "加速器",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "accelerator"
+        }
+    },
+    {
+        "concept_name": "势能面",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "potential energy surface"
+        }
+    },
+    {
+        "concept_name": "单π[介子]交换势",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "英文": "one-pion exchange potential ;OPEP",
+            "见载": "《物理学名词》第二版",
+            "英文名": "one-pion exchange potential"
+        }
+    },
+    {
+        "concept_name": "单极跃迁",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "monopole transition"
+        }
+    },
+    {
+        "concept_name": "单玻色子交换势",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "英文": "one-boson exchange potential ;OBEP",
+            "见载": "《物理学名词》第二版",
+            "英文名": "one-boson exchange potential"
+        }
+    },
+    {
+        "concept_name": "单粒子激发",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "single-particle excitation"
+        }
+    },
+    {
+        "concept_name": "单逃逸峰",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "single-escape peak"
+        }
+    },
+    {
+        "concept_name": "单道分析器",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "single-channel analyzer"
+        }
+    },
+    {
+        "concept_name": "卢瑟福[α散射]实验",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Rutherford [α-particle scattering] experiment"
+        }
+    },
+    {
+        "concept_name": "原子弹",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "atomic bomb"
+        }
+    },
+    {
+        "concept_name": "原子核",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "atomic nucleus"
+        }
+    },
+    {
+        "concept_name": "原子核物理[学]",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "简称": " 核物理[学](nuclear physics)",
+            "见载": "《物理学名词》第二版",
+            "英文名": "atomic nuclear physics"
+        }
+    },
+    {
+        "concept_name": "原子能",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "atomic energy"
+        }
+    },
+    {
+        "concept_name": "原子质量",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "atomic mass"
+        }
+    },
+    {
+        "concept_name": "原子质量单位",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "atomic mass unit"
+        }
+    },
+    {
+        "concept_name": "原子阻止截面",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "atomic stopping cross-section"
+        }
+    },
+    {
+        "concept_name": "双峰势垒",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "double-humped barrier"
+        }
+    },
+    {
+        "concept_name": "双逃逸峰",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "double-escape peak"
+        }
+    },
+    {
+        "concept_name": "反中微子",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "antineutrino"
+        }
+    },
+    {
+        "concept_name": "反应能",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "reaction energy"
+        }
+    },
+    {
+        "concept_name": "反康普顿屏蔽",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "anti-Compton shield"
+        }
+    },
+    {
+        "concept_name": "反符合",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "anticoincidence"
+        }
+    },
+    {
+        "concept_name": "反符合电路",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "anticoincidence circuit"
+        }
+    },
+    {
+        "concept_name": "受扰角关联",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "perturbed angular correlation"
+        }
+    },
+    {
+        "concept_name": "各向异性度",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "anisotropy"
+        }
+    },
+    {
+        "concept_name": "同中子[异位]素",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "isotone"
+        }
+    },
+    {
+        "concept_name": "同位旋",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "英文": "isobaric spin ;isospin ;isotopic spin",
+            "见载": "《物理学名词》第二版",
+            "英文名": "isobaric spin"
+        }
+    },
+    {
+        "concept_name": "同位旋多重态",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "isospin multiplet"
+        }
+    },
+    {
+        "concept_name": "同位旋相似态",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "isospin analog state"
+        }
+    },
+    {
+        "concept_name": "同位旋空间",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "isospin space"
+        }
+    },
+    {
+        "concept_name": "同位素",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "isotope"
+        }
+    },
+    {
+        "concept_name": "同位素丰度",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "isotopic abundance"
+        }
+    },
+    {
+        "concept_name": "同核异能素岛",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "island of isomerism"
+        }
+    },
+    {
+        "concept_name": "同量异位素",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "isobar"
+        }
+    },
+    {
+        "concept_name": "吸收截面",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "absorption cross-section"
+        }
+    },
+    {
+        "concept_name": "吸能反应",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "endothermic reaction"
+        }
+    },
+    {
+        "concept_name": "唯一型禁戒跃迁",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "unique forbidden transition"
+        }
+    },
+    {
+        "concept_name": "圆锥效应",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "cone effect"
+        }
+    },
+    {
+        "concept_name": "在束γ谱学",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "in-beam γ-spectroscopy"
+        }
+    },
+    {
+        "concept_name": "壳层电子",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "shell electron"
+        }
+    },
+    {
+        "concept_name": "复合[核]弹性散射",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "compound-elastic scattering"
+        }
+    },
+    {
+        "concept_name": "外推射程",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "extrapolated range"
+        }
+    },
+    {
+        "concept_name": "多普勒频移衰减法",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "英文": "Doppler shift attenuation method ;DSAM",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Doppler shift attenuation method"
+        }
+    },
+    {
+        "concept_name": "多极性",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "multipolarity"
+        }
+    },
+    {
+        "concept_name": "多极级",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "multipole order"
+        }
+    },
+    {
+        "concept_name": "多极跃迁",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "multipole transition"
+        }
+    },
+    {
+        "concept_name": "多极辐射",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "multipole radiation"
+        }
+    },
+    {
+        "concept_name": "多道分析器",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "multichannel analyzer"
+        }
+    },
+    {
+        "concept_name": "天然放射性",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "natural radioactivity"
+        }
+    },
+    {
+        "concept_name": "奇A核",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "odd-A nucleus"
+        }
+    },
+    {
+        "concept_name": "奇奇核",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "odd-odd nucleus"
+        }
+    },
+    {
+        "concept_name": "定标器",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "scaler"
+        }
+    },
+    {
+        "concept_name": "实验Q值",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "experimental Q-value"
+        }
+    },
+    {
+        "concept_name": "对效应",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "pairing effect"
+        }
+    },
+    {
+        "concept_name": "对称能",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "symmetry energy"
+        }
+    },
+    {
+        "concept_name": "对称裂变",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "symmetrical fission"
+        }
+    },
+    {
+        "concept_name": "对能",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "pairing energy"
+        }
+    },
+    {
+        "concept_name": "射程能量关系",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "简称": " 能程关系",
+            "见载": "《物理学名词》第二版",
+            "英文名": "range-energy relation"
+        }
+    },
+    {
+        "concept_name": "尼尔逊能级",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Nilsson energy level"
+        }
+    },
+    {
+        "concept_name": "屏栅电离室",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "grid ionization chamber"
+        }
+    },
+    {
+        "concept_name": "平均场近似",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "mean field approximation"
+        }
+    },
+    {
+        "concept_name": "平均截面",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "average cross-section"
+        }
+    },
+    {
+        "concept_name": "平均电离势",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "mean ionization potential"
+        }
+    },
+    {
+        "concept_name": "平衡前发射",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "pre-equilibration emission"
+        }
+    },
+    {
+        "concept_name": "平衡前过程",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "pre-equilibration process"
+        }
+    },
+    {
+        "concept_name": "平衡形变",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "equilibrium deformation"
+        }
+    },
+    {
+        "concept_name": "平面波玻恩近似",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "英文": "plane wave Born approximation ;PWBA",
+            "见载": "《物理学名词》第二版",
+            "英文名": "plane wave Born approximation"
+        }
+    },
+    {
+        "concept_name": "库仑激发",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Coulomb excitation"
+        }
+    },
+    {
+        "concept_name": "库仑能",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Coulomb energy"
+        }
+    },
+    {
+        "concept_name": "康普顿电子",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Compton electron"
+        }
+    },
+    {
+        "concept_name": "延时符合",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "delayed coincidence"
+        }
+    },
+    {
+        "concept_name": "弱相互作用",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "weak interaction"
+        }
+    },
+    {
+        "concept_name": "弹性散射截面",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "elastic scattering cross-section"
+        }
+    },
+    {
+        "concept_name": "强相互作用",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "strong interaction"
+        }
+    },
+    {
+        "concept_name": "形变能",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "deformation energy"
+        }
+    },
+    {
+        "concept_name": "形状同核异能素",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "shape isomer"
+        }
+    },
+    {
+        "concept_name": "形状弹性散射",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "shape-elastic scattering"
+        }
+    },
+    {
+        "concept_name": "快慢符合装置",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "fast-slow coincidence assembly"
+        }
+    },
+    {
+        "concept_name": "慢中子",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "slow neutron"
+        }
+    },
+    {
+        "concept_name": "扇形聚焦加速器",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "sector-focusing accelerator"
+        }
+    },
+    {
+        "concept_name": "扭曲波[玻恩]近似",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "英文": "distorted wave Born approxima- tion ;DWBA",
+            "见载": "《物理学名词》第二版",
+            "英文名": "distorted wave Born approxima- tion"
+        }
+    },
+    {
+        "concept_name": "抛物线近似",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "parabola approximation"
+        }
+    },
+    {
+        "concept_name": "拾取反应",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "pick-up reaction"
+        }
+    },
+    {
+        "concept_name": "振动能级",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "vibrational energy level"
+        }
+    },
+    {
+        "concept_name": "探测效率",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "detection efficiency"
+        }
+    },
+    {
+        "concept_name": "擦边角动量",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "grazing angular momentum"
+        }
+    },
+    {
+        "concept_name": "放射性",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "radioactivity"
+        }
+    },
+    {
+        "concept_name": "放射性同位素",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "radioactive isotope"
+        }
+    },
+    {
+        "concept_name": "放射性平衡",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "radioactive equilibrium"
+        }
+    },
+    {
+        "concept_name": "放射性活度",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "英文": "activity ;radioactivity",
+            "见载": "《物理学名词》第二版",
+            "英文名": "activity"
+        }
+    },
+    {
+        "concept_name": "放能反应",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "exothermic reaction"
+        }
+    },
+    {
+        "concept_name": "散射振幅",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "scattering amplitude"
+        }
+    },
+    {
+        "concept_name": "敲出反应",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "knock-out reaction"
+        }
+    },
+    {
+        "concept_name": "无旋流模型",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "irrotational flow model"
+        }
+    },
+    {
+        "concept_name": "普适时间常量",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "universal time constant"
+        }
+    },
+    {
+        "concept_name": "暂态平衡",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "transient equilibrium"
+        }
+    },
+    {
+        "concept_name": "有效力程",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "effective range"
+        }
+    },
+    {
+        "concept_name": "有效截面",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "effective cross-section"
+        }
+    },
+    {
+        "concept_name": "有效电荷",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "effective charge"
+        }
+    },
+    {
+        "concept_name": "束流强度",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "beam intensity"
+        }
+    },
+    {
+        "concept_name": "极化关联",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "polarization correlation"
+        }
+    },
+    {
+        "concept_name": "核乳胶",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "nuclear emulsion"
+        }
+    },
+    {
+        "concept_name": "核动力",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "nuclear power"
+        }
+    },
+    {
+        "concept_name": "核反应分析",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "nuclear reaction analysis"
+        }
+    },
+    {
+        "concept_name": "核反应阈",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "nuclear reaction threshold"
+        }
+    },
+    {
+        "concept_name": "核子分离能",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "nucleon separation energy"
+        }
+    },
+    {
+        "concept_name": "核武器",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "nuclear weapon"
+        }
+    },
+    {
+        "concept_name": "核燃料",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "nuclear fuel"
+        }
+    },
+    {
+        "concept_name": "核磁共振成像",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "nuclear magnetic resonance ima- ging"
+        }
+    },
+    {
+        "concept_name": "核能",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "nuclear energy"
+        }
+    },
+    {
+        "concept_name": "正电子[发射]层析术",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "positron-emission tomography"
+        }
+    },
+    {
+        "concept_name": "正电子湮没装置",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "positron-annihilation apparatus"
+        }
+    },
+    {
+        "concept_name": "正负电子对产生",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electron-position pair creation"
+        }
+    },
+    {
+        "concept_name": "比活度",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "specific activity"
+        }
+    },
+    {
+        "concept_name": "比电离[度]",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "specific ionization"
+        }
+    },
+    {
+        "concept_name": "比结合能",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "specific binding energy"
+        }
+    },
+    {
+        "concept_name": "氢弹",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "hydrogen bomb"
+        }
+    },
+    {
+        "concept_name": "活性",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "activity"
+        }
+    },
+    {
+        "concept_name": "深度非弹性散射",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "deep inelastic scattering"
+        }
+    },
+    {
+        "concept_name": "深度非弹性碰撞",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "deep inelastic collision"
+        }
+    },
+    {
+        "concept_name": "渐近量子数",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "asymptotic quantum number"
+        }
+    },
+    {
+        "concept_name": "湮没辐射",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "annihilation radiation"
+        }
+    },
+    {
+        "concept_name": "激发函数",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "excitation function"
+        }
+    },
+    {
+        "concept_name": "激发曲线",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "excitation curve"
+        }
+    },
+    {
+        "concept_name": "激发能",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "excitation energy"
+        }
+    },
+    {
+        "concept_name": "激子模型",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "exciton model"
+        }
+    },
+    {
+        "concept_name": "照射量",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "exposure"
+        }
+    },
+    {
+        "concept_name": "特征X射线",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "characteristic X-ray"
+        }
+    },
+    {
+        "concept_name": "特快中子",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ultrafast neutron"
+        }
+    },
+    {
+        "concept_name": "玻尔-莫特尔松模型",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Bohr-Mottelson model"
+        }
+    },
+    {
+        "concept_name": "电子衍射仪",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electron diffractometer"
+        }
+    },
+    {
+        "concept_name": "电子阻止本领",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electronic stopping power"
+        }
+    },
+    {
+        "concept_name": "电流电离室",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "current ionization chamber"
+        }
+    },
+    {
+        "concept_name": "电磁相互作用",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electromagnetic interaction"
+        }
+    },
+    {
+        "concept_name": "电离室",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ionization chamber"
+        }
+    },
+    {
+        "concept_name": "电离电流",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ionization current"
+        }
+    },
+    {
+        "concept_name": "电荷交换反应",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "charge exchange reaction"
+        }
+    },
+    {
+        "concept_name": "电荷无关性",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "charge independence"
+        }
+    },
+    {
+        "concept_name": "电跃迁",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electric transition"
+        }
+    },
+    {
+        "concept_name": "硬球散射",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "hard-sphere scattering"
+        }
+    },
+    {
+        "concept_name": "离子束分析",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "英文": "ion-beam analysis ;IBA",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ion-beam analysis"
+        }
+    },
+    {
+        "concept_name": "离子束混合",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ion-beam mixing"
+        }
+    },
+    {
+        "concept_name": "积分截面",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "integrated cross-section"
+        }
+    },
+    {
+        "concept_name": "稳定岛",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "island of stability"
+        }
+    },
+    {
+        "concept_name": "穆斯堡尔效应",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Mo&4&ssbauer effect"
+        }
+    },
+    {
+        "concept_name": "简并能级",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "degenerate energy level"
+        }
+    },
+    {
+        "concept_name": "粒子诱发X[射线]发射",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "英文": "particle induced X-ray emission ;PIXE",
+            "见载": "《物理学名词》第二版",
+            "英文名": "particle induced X-ray emission"
+        }
+    },
+    {
+        "concept_name": "粒子鉴别",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "particle identification"
+        }
+    },
+    {
+        "concept_name": "级联衰变",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "cascade decay"
+        }
+    },
+    {
+        "concept_name": "级联跃迁",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "cascade transition"
+        }
+    },
+    {
+        "concept_name": "级联辐射",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "cascade radiation"
+        }
+    },
+    {
+        "concept_name": "细致平衡原理",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "又称": " 倒易定理",
+            "见载": "《物理学名词》第二版",
+            "英文名": "detailed balance principle"
+        }
+    },
+    {
+        "concept_name": "结合能",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "binding energy"
+        }
+    },
+    {
+        "concept_name": "绝对产额",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "absolute yield"
+        }
+    },
+    {
+        "concept_name": "绝对截面",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "absolute cross-section"
+        }
+    },
+    {
+        "concept_name": "综合模型",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "unified model"
+        }
+    },
+    {
+        "concept_name": "背散射分析",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "英文": "backscattering analysis ;BSA",
+            "见载": "《物理学名词》第二版",
+            "英文名": "backscattering analysis"
+        }
+    },
+    {
+        "concept_name": "能级图",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "energy level diagram"
+        }
+    },
+    {
+        "concept_name": "能级密度",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "level density"
+        }
+    },
+    {
+        "concept_name": "能量分辨率",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "energy resolution"
+        }
+    },
+    {
+        "concept_name": "能量守恒",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "energy conservation"
+        }
+    },
+    {
+        "concept_name": "能量损失",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "energy loss"
+        }
+    },
+    {
+        "concept_name": "脉冲电离室",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "pulse ionization chamber"
+        }
+    },
+    {
+        "concept_name": "芯激发",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "core excitation"
+        }
+    },
+    {
+        "concept_name": "范德格拉夫加速器",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "又称": " 静电加速器",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Van de Graaff accelerator"
+        }
+    },
+    {
+        "concept_name": "蒸发模型",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "evaporation model"
+        }
+    },
+    {
+        "concept_name": "蒸发谱",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "evaporation spectrum"
+        }
+    },
+    {
+        "concept_name": "表面能",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "surface energy"
+        }
+    },
+    {
+        "concept_name": "衰减系数",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "attenuation coefficient"
+        }
+    },
+    {
+        "concept_name": "衰变能",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "decay energy"
+        }
+    },
+    {
+        "concept_name": "裂变产额",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "fission yield"
+        }
+    },
+    {
+        "concept_name": "裂变势垒",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "fission barrier"
+        }
+    },
+    {
+        "concept_name": "裂变能",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "fission energy"
+        }
+    },
+    {
+        "concept_name": "角关联",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "angular correlation"
+        }
+    },
+    {
+        "concept_name": "角分布",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "angular distribution"
+        }
+    },
+    {
+        "concept_name": "角动量守恒",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "angular-momentum conservation"
+        }
+    },
+    {
+        "concept_name": "诱发裂变",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "induced fission"
+        }
+    },
+    {
+        "concept_name": "谐振子势",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "harmonic-oscillator potential"
+        }
+    },
+    {
+        "concept_name": "贝特方程",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Bethe equation"
+        }
+    },
+    {
+        "concept_name": "质子放射性",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "proton radioactivity"
+        }
+    },
+    {
+        "concept_name": "质量衰减系数",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "mass-attenuation coefficient"
+        }
+    },
+    {
+        "concept_name": "质量过剩",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "mass excess"
+        }
+    },
+    {
+        "concept_name": "费米相互作用",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Fermi interaction"
+        }
+    },
+    {
+        "concept_name": "超容许跃迁",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "superallowed transition"
+        }
+    },
+    {
+        "concept_name": "超精细相互作用",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "hyperfine interaction"
+        }
+    },
+    {
+        "concept_name": "超重元素",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "superheavy element"
+        }
+    },
+    {
+        "concept_name": "超重原子",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "superheavy atom"
+        }
+    },
+    {
+        "concept_name": "轨道电子",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "orbital electron"
+        }
+    },
+    {
+        "concept_name": "轨道电子俘获",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "orbital electron capture"
+        }
+    },
+    {
+        "concept_name": "转动能级",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "rotational energy level"
+        }
+    },
+    {
+        "concept_name": "转移反应",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "transfer reaction"
+        }
+    },
+    {
+        "concept_name": "轴对称变形核",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "axially symmetric deformed nucleus"
+        }
+    },
+    {
+        "concept_name": "辐射吸收",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "radiative absorption"
+        }
+    },
+    {
+        "concept_name": "辐射宽度",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "radiation width"
+        }
+    },
+    {
+        "concept_name": "辐照",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "irradiation"
+        }
+    },
+    {
+        "concept_name": "辐照损伤",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "irradiation damage"
+        }
+    },
+    {
+        "concept_name": "辐照生长",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "irradiation growth"
+        }
+    },
+    {
+        "concept_name": "重取向效应",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "reorientation effect"
+        }
+    },
+    {
+        "concept_name": "重离子加速器",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "heavy-ion accelerator"
+        }
+    },
+    {
+        "concept_name": "重离子反应",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "heavy-ion reaction"
+        }
+    },
+    {
+        "concept_name": "重离子放射性",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "heavy-ion radioactivity"
+        }
+    },
+    {
+        "concept_name": "铀后元素",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "transuranic element"
+        }
+    },
+    {
+        "concept_name": "铀系",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "uranium series"
+        }
+    },
+    {
+        "concept_name": "链式反应",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "chain reaction"
+        }
+    },
+    {
+        "concept_name": "锐截止模型",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "sharp cut-off model"
+        }
+    },
+    {
+        "concept_name": "锕系",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "actinium series"
+        }
+    },
+    {
+        "concept_name": "长期平衡",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "secular equilibrium"
+        }
+    },
+    {
+        "concept_name": "门态",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "doorway state"
+        }
+    },
+    {
+        "concept_name": "阈能",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "threshold energy"
+        }
+    },
+    {
+        "concept_name": "阻止本领",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "stopping power"
+        }
+    },
+    {
+        "concept_name": "集体激发",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "collective excitation"
+        }
+    },
+    {
+        "concept_name": "集体相互作用",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "collective interaction"
+        }
+    },
+    {
+        "concept_name": "非[完]全熔合",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "incomplete fusion"
+        }
+    },
+    {
+        "concept_name": "非弹性散射截面",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "inelastic scattering cross-section"
+        }
+    },
+    {
+        "concept_name": "韦斯科普夫单位",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Weisskopf unit"
+        }
+    },
+    {
+        "concept_name": "高压倍加器",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Cockcroft-Walton accelerator"
+        }
+    },
+    {
+        "concept_name": "高能核反应",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "high-energy nuclear reaction"
+        }
+    },
+    {
+        "concept_name": "高自旋态",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "high-spin state"
+        }
+    },
+    {
+        "concept_name": "黄金定则",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "golden rule"
+        }
+    },
+    {
+        "concept_name": "齐拉-却尔曼斯效应",
+        "details": {
+            "学科": "物理学_原子核物理学、粒子物理_原子核物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Szilard-Chalmers effect"
+        }
+    }
+]

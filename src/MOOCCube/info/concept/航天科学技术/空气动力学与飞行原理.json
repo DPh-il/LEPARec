@@ -1,0 +1,2650 @@
+[
+    {
+        "concept_name": "PNS方程",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "全称": " 抛物化N-S方程",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "parabolized Navier-Stokes equation"
+        }
+    },
+    {
+        "concept_name": "U型压力计",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "U-tube manometer"
+        }
+    },
+    {
+        "concept_name": "[风]洞壁干扰",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "wall interference"
+        }
+    },
+    {
+        "concept_name": "[风洞]吹风",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "operating wind tunnel"
+        }
+    },
+    {
+        "concept_name": "α机构",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "α angle mechanism"
+        }
+    },
+    {
+        "concept_name": "β机构",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "β angle mechanism"
+        }
+    },
+    {
+        "concept_name": "下洗诱导速度",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "downwash induced velocity"
+        }
+    },
+    {
+        "concept_name": "不同期重复性",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "different term repeatability"
+        }
+    },
+    {
+        "concept_name": "二维流",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "two dimensional flow"
+        }
+    },
+    {
+        "concept_name": "亚声速前缘",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "subsonic leading edge"
+        }
+    },
+    {
+        "concept_name": "亚声速后缘",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "subsonic trailing edge"
+        }
+    },
+    {
+        "concept_name": "人工压缩法",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "artificial compressibility method"
+        }
+    },
+    {
+        "concept_name": "人工密度法",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "artificial density method"
+        }
+    },
+    {
+        "concept_name": "人工转换",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "artificial transition"
+        }
+    },
+    {
+        "concept_name": "人工黏性",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "artificial viscosity"
+        }
+    },
+    {
+        "concept_name": "伯努利方程",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "Bernoulli equation"
+        }
+    },
+    {
+        "concept_name": "低温烧蚀材料试验",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ablation test of low temperature ablator"
+        }
+    },
+    {
+        "concept_name": "低温风洞",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "cryogenic wind tunnel"
+        }
+    },
+    {
+        "concept_name": "体轴坐标系",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "又称": " 弹体坐标系",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "body-axis coordinate system"
+        }
+    },
+    {
+        "concept_name": "侧滑角",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "angle of sideslip"
+        }
+    },
+    {
+        "concept_name": "修正牛顿公式",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "modified Newtonian equation"
+        }
+    },
+    {
+        "concept_name": "俯仰力矩",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "pitching moment"
+        }
+    },
+    {
+        "concept_name": "俯仰角",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "pitch angle"
+        }
+    },
+    {
+        "concept_name": "偏航角",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "yaw angle"
+        }
+    },
+    {
+        "concept_name": "光学俯仰传感器",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "optical pitch transducer"
+        }
+    },
+    {
+        "concept_name": "光栅干涉仪",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "diffraction grating interferometer"
+        }
+    },
+    {
+        "concept_name": "光纤传感器",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "optical fiber transducer"
+        }
+    },
+    {
+        "concept_name": "光纤内流场显示",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "internal flow field visualization using optical fiber"
+        }
+    },
+    {
+        "concept_name": "克拉佩龙方程",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "Clapeyron equation"
+        }
+    },
+    {
+        "concept_name": "全位势方程",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "full potential equation"
+        }
+    },
+    {
+        "concept_name": "全尺寸风洞",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "full scale wind tunnel"
+        }
+    },
+    {
+        "concept_name": "八角截面风洞",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "octagon wind tunnel"
+        }
+    },
+    {
+        "concept_name": "内伏牛顿流理论",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "embedded Newtonian flow theory"
+        }
+    },
+    {
+        "concept_name": "内式应变天平",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "internal strain gage balance"
+        }
+    },
+    {
+        "concept_name": "内流空气动力学",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "internal aerodynamics"
+        }
+    },
+    {
+        "concept_name": "再入气体动力学",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "reentry gas dynamics"
+        }
+    },
+    {
+        "concept_name": "冲击不回零性",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "balance character of non-return to zero under starting load"
+        }
+    },
+    {
+        "concept_name": "切楔法",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "tangent-wedge method"
+        }
+    },
+    {
+        "concept_name": "切锥法",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "tangent-cone method"
+        }
+    },
+    {
+        "concept_name": "前缘吸力",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "leading-edge suction"
+        }
+    },
+    {
+        "concept_name": "动力学相似性",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "dynamic similarity"
+        }
+    },
+    {
+        "concept_name": "动导数",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "dynamic derivative"
+        }
+    },
+    {
+        "concept_name": "动量方程",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "momentum equation"
+        }
+    },
+    {
+        "concept_name": "升力干扰",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "lift interference"
+        }
+    },
+    {
+        "concept_name": "半自动机械天平",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "auto-manual mechanobalance"
+        }
+    },
+    {
+        "concept_name": "单元校准",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "single unit calibration"
+        }
+    },
+    {
+        "concept_name": "单支点半柔壁喷管",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "half flexible plate nozzle with single hinge point"
+        }
+    },
+    {
+        "concept_name": "卡门-钱公式",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "Karman-Tsien formula"
+        }
+    },
+    {
+        "concept_name": "双回路风洞",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "double return wind tunnel"
+        }
+    },
+    {
+        "concept_name": "反射型运行",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "reflected shock operation"
+        }
+    },
+    {
+        "concept_name": "反射平板法",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "reflection plate method"
+        }
+    },
+    {
+        "concept_name": "反扭导流片",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "anti-twist vane"
+        }
+    },
+    {
+        "concept_name": "反滚转力矩",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "anti-rolling moment"
+        }
+    },
+    {
+        "concept_name": "叠片式电弧加热器",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "Macker type arc heater"
+        }
+    },
+    {
+        "concept_name": "各向同性湍流",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "isotropic turbulence"
+        }
+    },
+    {
+        "concept_name": "名义攻角",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "nominal angle of attack"
+        }
+    },
+    {
+        "concept_name": "后掠翼独立性原理",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "independence principle of swept wing"
+        }
+    },
+    {
+        "concept_name": "后掠角",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "sweepback angle"
+        }
+    },
+    {
+        "concept_name": "吹吸式风洞",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "blowdown-indraft wind tunnel"
+        }
+    },
+    {
+        "concept_name": "吹引式风洞",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "blowdown-ejection wind tunnel"
+        }
+    },
+    {
+        "concept_name": "吹气式风洞",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "blowdown wind tunnel"
+        }
+    },
+    {
+        "concept_name": "吹气式风洞能量比",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "energy ratio of blowdown tunnel"
+        }
+    },
+    {
+        "concept_name": "喷管名义马赫数",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "nominal Mach number of nozzle"
+        }
+    },
+    {
+        "concept_name": "地面效应",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ground effect"
+        }
+    },
+    {
+        "concept_name": "地面效应试验",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ground effect testing"
+        }
+    },
+    {
+        "concept_name": "复合催化效率",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "compound catalysis efficiency"
+        }
+    },
+    {
+        "concept_name": "外式应变天平",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "external strain gage balance"
+        }
+    },
+    {
+        "concept_name": "外挂物试验",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "external stores testing"
+        }
+    },
+    {
+        "concept_name": "外露翼",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "exposed wing"
+        }
+    },
+    {
+        "concept_name": "多元校准",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "multi-units calibration"
+        }
+    },
+    {
+        "concept_name": "多支点全柔壁喷管",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "all flexible plate nozzle with many hinge point"
+        }
+    },
+    {
+        "concept_name": "多支点半柔壁喷管",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "half flexible plate nozzle with many hinge point"
+        }
+    },
+    {
+        "concept_name": "大攻角试验",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "test at high attack angle"
+        }
+    },
+    {
+        "concept_name": "大气边界层风洞",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "atmospheric boundary layer wind tunnel"
+        }
+    },
+    {
+        "concept_name": "天平坐标系",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "balance axis system"
+        }
+    },
+    {
+        "concept_name": "天平干扰",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "interaction of balance system"
+        }
+    },
+    {
+        "concept_name": "天平测力",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "aerodynamic balance measuring"
+        }
+    },
+    {
+        "concept_name": "失速攻角",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "stall angle"
+        }
+    },
+    {
+        "concept_name": "实验修正法",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "experiment correction method"
+        }
+    },
+    {
+        "concept_name": "实验空气动力学",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "experimental aerodynamics"
+        }
+    },
+    {
+        "concept_name": "密闭阀",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "airtight valve"
+        }
+    },
+    {
+        "concept_name": "小不对称弹头",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "nose with small asymmetry"
+        }
+    },
+    {
+        "concept_name": "小不对称弹头试验",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "small asymmetric nose testing"
+        }
+    },
+    {
+        "concept_name": "小扰动位势方程",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "small perturbation potential equation"
+        }
+    },
+    {
+        "concept_name": "尾旋风洞",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "spin wind tunnel"
+        }
+    },
+    {
+        "concept_name": "尾流阻塞效应",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "wake blockage effect"
+        }
+    },
+    {
+        "concept_name": "层流翼型",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "laminar flow airfoil profile"
+        }
+    },
+    {
+        "concept_name": "层流边界层",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "laminar boundary layer"
+        }
+    },
+    {
+        "concept_name": "展弦比",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "aspect ratio"
+        }
+    },
+    {
+        "concept_name": "干扰因子",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "interference factor"
+        }
+    },
+    {
+        "concept_name": "干扰量",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "interference quantity"
+        }
+    },
+    {
+        "concept_name": "干扰阻力",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "interference drag"
+        }
+    },
+    {
+        "concept_name": "干涉仪",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "interferometer"
+        }
+    },
+    {
+        "concept_name": "平均气动弦长",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "mean aerodynamic chord"
+        }
+    },
+    {
+        "concept_name": "平衡流动",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "equilibrium flow"
+        }
+    },
+    {
+        "concept_name": "应用空气动力学",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "applied aerodynamics"
+        }
+    },
+    {
+        "concept_name": "开口式风洞",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "open jet wind tunnel"
+        }
+    },
+    {
+        "concept_name": "开槽壁",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "slotted wall"
+        }
+    },
+    {
+        "concept_name": "开路式风洞",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "open circuit wind tunnel"
+        }
+    },
+    {
+        "concept_name": "引射器",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "injector"
+        }
+    },
+    {
+        "concept_name": "弛豫方程",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "relaxation equation"
+        }
+    },
+    {
+        "concept_name": "弹头气动特性",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "aerodynamic characteristics of nose"
+        }
+    },
+    {
+        "concept_name": "弹道靶",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ballistic range"
+        }
+    },
+    {
+        "concept_name": "强迫振动法",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "forced oscillation method"
+        }
+    },
+    {
+        "concept_name": "快速阀",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "quick action valve"
+        }
+    },
+    {
+        "concept_name": "总压强",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "total pressure"
+        }
+    },
+    {
+        "concept_name": "总焓探针",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "total enthalpy probe"
+        }
+    },
+    {
+        "concept_name": "惯性补偿",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "inertia compensation"
+        }
+    },
+    {
+        "concept_name": "手动机械天平",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "hand operated mechanobalance"
+        }
+    },
+    {
+        "concept_name": "扩张激波管",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "expanding shock tube"
+        }
+    },
+    {
+        "concept_name": "扩散边界层",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "diffusion boundary layer"
+        }
+    },
+    {
+        "concept_name": "控制翼弹头",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "nose with control wing"
+        }
+    },
+    {
+        "concept_name": "推导式质量计",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "extract type mass fluxmeter"
+        }
+    },
+    {
+        "concept_name": "插入机构",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "injection system"
+        }
+    },
+    {
+        "concept_name": "插入箱",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "insert section"
+        }
+    },
+    {
+        "concept_name": "支架干扰修正",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "support interference correction"
+        }
+    },
+    {
+        "concept_name": "收缩段",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "contraction section"
+        }
+    },
+    {
+        "concept_name": "收缩激波管",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "converging shock tube"
+        }
+    },
+    {
+        "concept_name": "攻角",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "angle of attack"
+        }
+    },
+    {
+        "concept_name": "斜坡烧蚀试验",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ramp method of ablation test"
+        }
+    },
+    {
+        "concept_name": "斜激波",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "oblique shock wave"
+        }
+    },
+    {
+        "concept_name": "旋臂机试验",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "whirling arm testing"
+        }
+    },
+    {
+        "concept_name": "旋转弹试验",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "rotating rocket testing"
+        }
+    },
+    {
+        "concept_name": "旋转格式",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "Jameson scheme"
+        }
+    },
+    {
+        "concept_name": "时间相关法",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "time-dependent method"
+        }
+    },
+    {
+        "concept_name": "映像部件法",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "image components method"
+        }
+    },
+    {
+        "concept_name": "显示仪器",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "display instrument"
+        }
+    },
+    {
+        "concept_name": "普朗特数",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "Plandtl number"
+        }
+    },
+    {
+        "concept_name": "智能传感器",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "intelligent transducer"
+        }
+    },
+    {
+        "concept_name": "暂冲式风洞",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "intermittent wind tunnel"
+        }
+    },
+    {
+        "concept_name": "有益干扰",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "beneficial interference"
+        }
+    },
+    {
+        "concept_name": "有翼导弹气动特性",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "aerodynamic characteristics of winged missile"
+        }
+    },
+    {
+        "concept_name": "机弹干扰",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "aircraft-missile interference"
+        }
+    },
+    {
+        "concept_name": "极曲线",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "polar"
+        }
+    },
+    {
+        "concept_name": "标模统校",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "unified calibration of standard model"
+        }
+    },
+    {
+        "concept_name": "标模试验准确度",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "accuracy of calibration model"
+        }
+    },
+    {
+        "concept_name": "标模试验精密度",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "precision of calibration model"
+        }
+    },
+    {
+        "concept_name": "格特尔特法则",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "Gothert rule"
+        }
+    },
+    {
+        "concept_name": "椭圆形截面风洞",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "elliptic wind tunnel"
+        }
+    },
+    {
+        "concept_name": "横滚角",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "又称": " 滚动角",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "roll angle"
+        }
+    },
+    {
+        "concept_name": "欧拉数",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "Euler number"
+        }
+    },
+    {
+        "concept_name": "欧拉方程",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "Euler equation"
+        }
+    },
+    {
+        "concept_name": "气动[力]中心",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "aerodynamic center"
+        }
+    },
+    {
+        "concept_name": "气动仿真",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "aerodynamics simulation"
+        }
+    },
+    {
+        "concept_name": "气动加热",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "aerodynamic heating"
+        }
+    },
+    {
+        "concept_name": "气动合力",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "aerodynamic resultant"
+        }
+    },
+    {
+        "concept_name": "气动声学",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "aeroacoustics"
+        }
+    },
+    {
+        "concept_name": "气动弹性力学",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "aeroelastics"
+        }
+    },
+    {
+        "concept_name": "气动弹性试验",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "aeroelastic effect test"
+        }
+    },
+    {
+        "concept_name": "气动技术应用",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "application of aerodynamic technology"
+        }
+    },
+    {
+        "concept_name": "气动热力学",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "aerothermodynamics"
+        }
+    },
+    {
+        "concept_name": "气动热载荷",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "aerothermal load"
+        }
+    },
+    {
+        "concept_name": "气动载荷",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "aerodynamic loading"
+        }
+    },
+    {
+        "concept_name": "气动阻尼",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "aerodynamic damping"
+        }
+    },
+    {
+        "concept_name": "气动隐形技术",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "aerodynamic stealth technique"
+        }
+    },
+    {
+        "concept_name": "气泡",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "bubble"
+        }
+    },
+    {
+        "concept_name": "气流偏角修正",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "flow deflection angle correction"
+        }
+    },
+    {
+        "concept_name": "气流方向均匀性",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "flow direction uniformity"
+        }
+    },
+    {
+        "concept_name": "气源系统",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "air supply system"
+        }
+    },
+    {
+        "concept_name": "氮气风洞",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "nitrogen wind tunnel"
+        }
+    },
+    {
+        "concept_name": "油水分离器",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "oil water separator"
+        }
+    },
+    {
+        "concept_name": "波阻",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "wave drag"
+        }
+    },
+    {
+        "concept_name": "流体特征",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "characteristic of fluid"
+        }
+    },
+    {
+        "concept_name": "流线弯曲效应",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "stream line curvature effect"
+        }
+    },
+    {
+        "concept_name": "浮力修正",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "buoyancy correction"
+        }
+    },
+    {
+        "concept_name": "海面效应",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "sea effect"
+        }
+    },
+    {
+        "concept_name": "涡量",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "vorticity"
+        }
+    },
+    {
+        "concept_name": "添加剂法",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "additive method"
+        }
+    },
+    {
+        "concept_name": "温度效应",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "temperature effect"
+        }
+    },
+    {
+        "concept_name": "湍流",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "turbulent flow"
+        }
+    },
+    {
+        "concept_name": "湍流管烧蚀试验",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ablation testing in turbulence pipe"
+        }
+    },
+    {
+        "concept_name": "源流",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "source flow"
+        }
+    },
+    {
+        "concept_name": "激光多普勒风速计",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "laser-Doppler anemometer"
+        }
+    },
+    {
+        "concept_name": "激光屏显示",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "laser-screen method of flow visualization"
+        }
+    },
+    {
+        "concept_name": "激光散斑干涉仪",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "laser speckle interferometer"
+        }
+    },
+    {
+        "concept_name": "激光诱导荧光",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "fluorescence induced by laser"
+        }
+    },
+    {
+        "concept_name": "激波膨胀波法",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "shock expansion method"
+        }
+    },
+    {
+        "concept_name": "激波边界层干扰",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "shock wave-boundary layer interaction"
+        }
+    },
+    {
+        "concept_name": "激波风洞",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "shock tunnel"
+        }
+    },
+    {
+        "concept_name": "炮风洞",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "gun tunnel"
+        }
+    },
+    {
+        "concept_name": "点弧",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "arc-firing"
+        }
+    },
+    {
+        "concept_name": "烧蚀",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ablation"
+        }
+    },
+    {
+        "concept_name": "烧蚀图像",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ablation pattern"
+        }
+    },
+    {
+        "concept_name": "烧蚀耦合计算",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ablation coupling calculation"
+        }
+    },
+    {
+        "concept_name": "烧蚀速度传感器",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ablation rate transducer"
+        }
+    },
+    {
+        "concept_name": "热化学烧蚀",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "thermochemical ablation"
+        }
+    },
+    {
+        "concept_name": "热流密度",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "heat flux per unit time"
+        }
+    },
+    {
+        "concept_name": "热线风速仪",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "hot wire anemometer"
+        }
+    },
+    {
+        "concept_name": "热膜风速仪",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "hot film anemometer"
+        }
+    },
+    {
+        "concept_name": "熵吞",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "entropy layer swallowing"
+        }
+    },
+    {
+        "concept_name": "熵层",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "entropy layer"
+        }
+    },
+    {
+        "concept_name": "状态方程",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "equation of state"
+        }
+    },
+    {
+        "concept_name": "猝发",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "burst"
+        }
+    },
+    {
+        "concept_name": "理想气体",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ideal gas"
+        }
+    },
+    {
+        "concept_name": "理论空气动力学",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "theoretical aerodynamics"
+        }
+    },
+    {
+        "concept_name": "电子式压力扫描阀",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "electronic-scanned pressure sensor"
+        }
+    },
+    {
+        "concept_name": "电子束流动显示",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "electron beam flow visualization"
+        }
+    },
+    {
+        "concept_name": "电子束荧光技术",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "electron beam fluorescence technique"
+        }
+    },
+    {
+        "concept_name": "电弧加热器",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "arc heater"
+        }
+    },
+    {
+        "concept_name": "电弧风洞",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "arc tunnel"
+        }
+    },
+    {
+        "concept_name": "电磁元件天平",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "electromagnetic unit balance"
+        }
+    },
+    {
+        "concept_name": "电离",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ionization"
+        }
+    },
+    {
+        "concept_name": "电离度",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ionicity"
+        }
+    },
+    {
+        "concept_name": "电阻带式加热器",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "electric resistance belt heater"
+        }
+    },
+    {
+        "concept_name": "电阻管式加热器",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "electric resistance tube heater"
+        }
+    },
+    {
+        "concept_name": "直通型运行",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "straight-through operation"
+        }
+    },
+    {
+        "concept_name": "真实气体效应",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "real gas effect"
+        }
+    },
+    {
+        "concept_name": "矩形截面风洞",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "rectangular wind tunnel"
+        }
+    },
+    {
+        "concept_name": "离散化技术",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "discretization technique"
+        }
+    },
+    {
+        "concept_name": "离解",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "dissociation"
+        }
+    },
+    {
+        "concept_name": "稀薄空气动力学",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "rarefied aerodynamics"
+        }
+    },
+    {
+        "concept_name": "空气动力",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "aerodynamic force"
+        }
+    },
+    {
+        "concept_name": "空气动力学",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "aerodynamics"
+        }
+    },
+    {
+        "concept_name": "空气动力特性",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "简称": " 气动特性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "aerodynamic characteristics"
+        }
+    },
+    {
+        "concept_name": "空气动力系数",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "aerodynamic coefficient"
+        }
+    },
+    {
+        "concept_name": "空气处理系统",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "air treatment system"
+        }
+    },
+    {
+        "concept_name": "空气泡法",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "air bubble method"
+        }
+    },
+    {
+        "concept_name": "空间推进法",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "space marching method"
+        }
+    },
+    {
+        "concept_name": "空风洞运行",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "empty wind tunnel operation"
+        }
+    },
+    {
+        "concept_name": "第二喉道",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "second throat"
+        }
+    },
+    {
+        "concept_name": "等价锥热流计算",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "heat flux calculation of equivalent cones"
+        }
+    },
+    {
+        "concept_name": "等温管流",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "isothermal flow in pipe"
+        }
+    },
+    {
+        "concept_name": "等熵流",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "isentropic flow"
+        }
+    },
+    {
+        "concept_name": "等熵管流",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "isentropic flow in pipe"
+        }
+    },
+    {
+        "concept_name": "管状电弧加热器",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "tube type arc heater"
+        }
+    },
+    {
+        "concept_name": "管风洞",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "tube tunnel"
+        }
+    },
+    {
+        "concept_name": "红外比色测量仪",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "infrared colorithermometer"
+        }
+    },
+    {
+        "concept_name": "纹影干涉仪",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "schlieren-interferometer"
+        }
+    },
+    {
+        "concept_name": "经验修正法",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "experience correction method"
+        }
+    },
+    {
+        "concept_name": "绝热壁",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "adiabatic wall"
+        }
+    },
+    {
+        "concept_name": "绝热流",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "adiabatic flow"
+        }
+    },
+    {
+        "concept_name": "绝热管流",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "adiabatic flow in pip"
+        }
+    },
+    {
+        "concept_name": "缝合接触面运行",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "tailored contact surface operation"
+        }
+    },
+    {
+        "concept_name": "翼型",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "airfoil profile"
+        }
+    },
+    {
+        "concept_name": "能量方程",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "energy equation"
+        }
+    },
+    {
+        "concept_name": "脉冲式风洞",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "impulse wind tunnel"
+        }
+    },
+    {
+        "concept_name": "脱体激波",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "detached shock wave"
+        }
+    },
+    {
+        "concept_name": "膨胀波",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "expansion wave"
+        }
+    },
+    {
+        "concept_name": "自准区仿真",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "self-accurate area simulation"
+        }
+    },
+    {
+        "concept_name": "自动加载",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "autoloading"
+        }
+    },
+    {
+        "concept_name": "自动机械天平",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "automatic mechanobalance"
+        }
+    },
+    {
+        "concept_name": "自动送进系统",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "automatic feed system"
+        }
+    },
+    {
+        "concept_name": "自由分子流",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "free molecular flow"
+        }
+    },
+    {
+        "concept_name": "自由振动法",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "free oscillation method"
+        }
+    },
+    {
+        "concept_name": "自由涡面",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "free vortex surface"
+        }
+    },
+    {
+        "concept_name": "自适应网格技术",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "adaptive grid technique"
+        }
+    },
+    {
+        "concept_name": "舵偏角",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "angle of rudder reflection"
+        }
+    },
+    {
+        "concept_name": "范德瓦耳斯方程",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "van der Waals equation"
+        }
+    },
+    {
+        "concept_name": "蒸汽屏显示",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "vapor-screen method of flow visualization"
+        }
+    },
+    {
+        "concept_name": "薄层假定",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "thin layer assumption"
+        }
+    },
+    {
+        "concept_name": "薄翼理论",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "thin airfoil theory"
+        }
+    },
+    {
+        "concept_name": "观察窗",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "observation window"
+        }
+    },
+    {
+        "concept_name": "角度机构控制系统",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "angle control system"
+        }
+    },
+    {
+        "concept_name": "计算空气动力学",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "computational aerodynamics"
+        }
+    },
+    {
+        "concept_name": "试验数据误差",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "error of test data"
+        }
+    },
+    {
+        "concept_name": "超临界翼型",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "supercritical airfoil profile"
+        }
+    },
+    {
+        "concept_name": "超声速平板烧蚀试验",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "supersonic plate ablation test"
+        }
+    },
+    {
+        "concept_name": "超高速风洞",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "hypervelocity wind tunnel"
+        }
+    },
+    {
+        "concept_name": "跨声速面积律",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "transonic area law"
+        }
+    },
+    {
+        "concept_name": "轴向力",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "axial force"
+        }
+    },
+    {
+        "concept_name": "轴向静压梯度",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "static pressure gradient along tunnel axis"
+        }
+    },
+    {
+        "concept_name": "轴对称流",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "axisymmetrical flow"
+        }
+    },
+    {
+        "concept_name": "边界层内层",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "inner layer of boundary layer"
+        }
+    },
+    {
+        "concept_name": "边界层外层",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "outer layer of boundary layer"
+        }
+    },
+    {
+        "concept_name": "边界层空气动力学",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "boundary layer aerodynamics"
+        }
+    },
+    {
+        "concept_name": "边界层能量损失厚度",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "energy loss thickness of boundary layer"
+        }
+    },
+    {
+        "concept_name": "过渡流",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "transition flow"
+        }
+    },
+    {
+        "concept_name": "迎风格式",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "up-wind scheme"
+        }
+    },
+    {
+        "concept_name": "运载火箭气动特性",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "aerodynamic characteristics of launch vehicle"
+        }
+    },
+    {
+        "concept_name": "进气道",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "intake"
+        }
+    },
+    {
+        "concept_name": "进气道空气动力学",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "inlet aerodynamics"
+        }
+    },
+    {
+        "concept_name": "进气道试验",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "air intake test"
+        }
+    },
+    {
+        "concept_name": "连续式风洞能量比",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "energy ratio of continuous tunnel"
+        }
+    },
+    {
+        "concept_name": "连续方程",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "equation of continuity"
+        }
+    },
+    {
+        "concept_name": "逆压梯度",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "adverse pressure gradient"
+        }
+    },
+    {
+        "concept_name": "逆流靶",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "counter flow range"
+        }
+    },
+    {
+        "concept_name": "速度势",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "velocity potential"
+        }
+    },
+    {
+        "concept_name": "速度均匀性",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "velocity uniformity"
+        }
+    },
+    {
+        "concept_name": "配平攻角",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "trim angle of attack"
+        }
+    },
+    {
+        "concept_name": "配平角",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "trim angle"
+        }
+    },
+    {
+        "concept_name": "量纲分析",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "dimensional analysis"
+        }
+    },
+    {
+        "concept_name": "铰链力矩",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "hinge moment"
+        }
+    },
+    {
+        "concept_name": "铰链力矩系数",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "hinge moment coefficient"
+        }
+    },
+    {
+        "concept_name": "镜像支架",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "英文": "mirror support ;image support",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "mirror support"
+        }
+    },
+    {
+        "concept_name": "镜像法",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "image method"
+        }
+    },
+    {
+        "concept_name": "长分段式电弧加热器",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "long segment type arc heater"
+        }
+    },
+    {
+        "concept_name": "长期重复性",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "long term repeatability"
+        }
+    },
+    {
+        "concept_name": "阻塞效应",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "blockage effect"
+        }
+    },
+    {
+        "concept_name": "阻塞试验",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "blockage test"
+        }
+    },
+    {
+        "concept_name": "阿克雷特法则",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "Ackeret rule"
+        }
+    },
+    {
+        "concept_name": "附体激波",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "attached shock wave"
+        }
+    },
+    {
+        "concept_name": "除油器",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "oil remover"
+        }
+    },
+    {
+        "concept_name": "零升阻力",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "zero lift drag"
+        }
+    },
+    {
+        "concept_name": "雷诺方程",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "Reynolds equation"
+        }
+    },
+    {
+        "concept_name": "雷诺比拟关系式",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "Reynolds analogy relation"
+        }
+    },
+    {
+        "concept_name": "静态温度",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "简称": " 静温",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "static temperature"
+        }
+    },
+    {
+        "concept_name": "静校准确度",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "static calibration accuracy"
+        }
+    },
+    {
+        "concept_name": "非侵入测量",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "non-intrusive measurement"
+        }
+    },
+    {
+        "concept_name": "非周向对称布局",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "peripheral asymmetric configuration"
+        }
+    },
+    {
+        "concept_name": "非定常流",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "unsteady flow"
+        }
+    },
+    {
+        "concept_name": "非定常空气动力学",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "unsteady aerodynamics"
+        }
+    },
+    {
+        "concept_name": "非定常管流",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "unsteady flow in pipe"
+        }
+    },
+    {
+        "concept_name": "非对称转捩",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "asymmetric transition"
+        }
+    },
+    {
+        "concept_name": "非平衡流动",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "non-equilibrium flow"
+        }
+    },
+    {
+        "concept_name": "非振荡非自由参量耗散差分格式",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "英文": "non-oscillatory and non-free-parameter dissipation difference scheme ;NND scheme",
+            "又称": " NND格式",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "non-oscillatory and non-free-parameter dissipation difference scheme"
+        }
+    },
+    {
+        "concept_name": "风洞坐标系",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "wind tunnel axis system"
+        }
+    },
+    {
+        "concept_name": "风洞本体",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "wind tunnel noumenon"
+        }
+    },
+    {
+        "concept_name": "风洞计算机一体化",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "wind tunnel-computer integration"
+        }
+    },
+    {
+        "concept_name": "风洞辅件",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "accessory of wind tunnel"
+        }
+    },
+    {
+        "concept_name": "风洞运行",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "wind tunnel operation"
+        }
+    },
+    {
+        "concept_name": "风洞高速摄影技术",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "high speed photograph application in wind tunnel"
+        }
+    },
+    {
+        "concept_name": "风浪槽",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "wind wave channel"
+        }
+    },
+    {
+        "concept_name": "飞行器姿态",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "attitude of flight vehicle"
+        }
+    },
+    {
+        "concept_name": "飞行器气动特性",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "aerodynamic characteristics of vehicle"
+        }
+    },
+    {
+        "concept_name": "飞行器的气动构型",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "aerodynamic configuration of vehicle"
+        }
+    },
+    {
+        "concept_name": "飞行器空气动力学",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "vehicle aerodynamics"
+        }
+    },
+    {
+        "concept_name": "飞行数据辨识",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "identification from flight data"
+        }
+    },
+    {
+        "concept_name": "飞行环境",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "flight environment of vehicle"
+        }
+    },
+    {
+        "concept_name": "马赫-曾德尔干涉仪",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "Mach-Zehnder interferometer"
+        }
+    },
+    {
+        "concept_name": "马赫数均方根误差",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "root-mean-square error of Mach number"
+        }
+    },
+    {
+        "concept_name": "马赫数无关原理",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "Mach number independence principle"
+        }
+    },
+    {
+        "concept_name": "马赫角",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "Mach angle"
+        }
+    },
+    {
+        "concept_name": "马赫锥",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "Mach cone"
+        }
+    },
+    {
+        "concept_name": "高速一维流",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "one dimensional high speed flow"
+        }
+    },
+    {
+        "concept_name": "高速炮",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "high speed gun"
+        }
+    },
+    {
+        "concept_name": "麦科马克格式",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "MacCormack scheme"
+        }
+    },
+    {
+        "concept_name": "黏性[流]空气动力学",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "viscous flow aerodynamics"
+        }
+    },
+    {
+        "concept_name": "黏性干扰",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "viscous interference"
+        }
+    },
+    {
+        "concept_name": "黏性干扰参数",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "viscous interaction parameter"
+        }
+    },
+    {
+        "concept_name": "黏性激波层方程",
+        "details": {
+            "学科": "航天科学技术_空气动力学与飞行原理",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "viscous shock-layer equation"
+        }
+    }
+]

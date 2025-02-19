@@ -1,0 +1,2214 @@
+[
+    {
+        "concept_name": "MOS场效管",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "全称": " 金属-氧化物-半导体场效应晶体管",
+            "见载": "《物理学名词》第二版",
+            "英文名": "MOS field effect transistor"
+        }
+    },
+    {
+        "concept_name": "N过程",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "又称": " 正常过程",
+            "见载": "《物理学名词》第二版",
+            "英文名": "N-process"
+        }
+    },
+    {
+        "concept_name": "U过程",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "又称": " 倒逆过程(umklapp process)",
+            "见载": "《物理学名词》第二版",
+            "英文名": "U-process"
+        }
+    },
+    {
+        "concept_name": "U过程电阻率",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "U-process resistivity"
+        }
+    },
+    {
+        "concept_name": "X射线边问题",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "X-ray edge problem"
+        }
+    },
+    {
+        "concept_name": "中性杂质",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "neutral impurity"
+        }
+    },
+    {
+        "concept_name": "交换作用",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "exchange interaction"
+        }
+    },
+    {
+        "concept_name": "产生率",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "generation rate"
+        }
+    },
+    {
+        "concept_name": "介电吸收",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "dielectric absorption"
+        }
+    },
+    {
+        "concept_name": "介电老化",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "dielectric aging"
+        }
+    },
+    {
+        "concept_name": "介电阻隔率",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "dielectric impermeability"
+        }
+    },
+    {
+        "concept_name": "价不稳定性",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "valence instability"
+        }
+    },
+    {
+        "concept_name": "余辉",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "after glow"
+        }
+    },
+    {
+        "concept_name": "佩尔捷效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Peltier effect"
+        }
+    },
+    {
+        "concept_name": "侵蚀",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "etching"
+        }
+    },
+    {
+        "concept_name": "偶然简并性",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "accidental degeneracy"
+        }
+    },
+    {
+        "concept_name": "光化[学]效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "photochemical effect"
+        }
+    },
+    {
+        "concept_name": "光学带隙",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical band gap"
+        }
+    },
+    {
+        "concept_name": "光弹效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "photoelastic effect"
+        }
+    },
+    {
+        "concept_name": "光损伤",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical damage"
+        }
+    },
+    {
+        "concept_name": "光电子器件",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optoelectronic device"
+        }
+    },
+    {
+        "concept_name": "光磁[致]电效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "photomagnetoelectric effect"
+        }
+    },
+    {
+        "concept_name": "光磁效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "photomagnetic effect"
+        }
+    },
+    {
+        "concept_name": "光致介电效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "photodielectric effect"
+        }
+    },
+    {
+        "concept_name": "共振吸收",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "resonance absorption"
+        }
+    },
+    {
+        "concept_name": "共振激发",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "resonance excitation"
+        }
+    },
+    {
+        "concept_name": "共晶停点",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "rest of eutectic"
+        }
+    },
+    {
+        "concept_name": "共晶转变",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "eutectic transformation"
+        }
+    },
+    {
+        "concept_name": "共格界面",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "coherent interface"
+        }
+    },
+    {
+        "concept_name": "内禀半导体",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "intrinsic semiconductor"
+        }
+    },
+    {
+        "concept_name": "内禀电阻率",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "intrinsic resistivity"
+        }
+    },
+    {
+        "concept_name": "内禀磁化强度",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "intrinsic magnetization"
+        }
+    },
+    {
+        "concept_name": "内禀载流子",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "intrinsic carrier"
+        }
+    },
+    {
+        "concept_name": "内禀载流子浓度",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "intrinsic carrier density"
+        }
+    },
+    {
+        "concept_name": "内耗",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "internal friction"
+        }
+    },
+    {
+        "concept_name": "分子束外延",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "molecular beam epitaxy"
+        }
+    },
+    {
+        "concept_name": "刻蚀",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "etching"
+        }
+    },
+    {
+        "concept_name": "包辛格效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Bauschinger effect"
+        }
+    },
+    {
+        "concept_name": "升频转换磷光体",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "upconversion phosphor"
+        }
+    },
+    {
+        "concept_name": "半共格界面",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "semicoherent interface"
+        }
+    },
+    {
+        "concept_name": "半导体电子学",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "semiconductor electronics"
+        }
+    },
+    {
+        "concept_name": "单声子吸收",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "one-phonon absorption"
+        }
+    },
+    {
+        "concept_name": "压光效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "piezo-optic effect"
+        }
+    },
+    {
+        "concept_name": "压热效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "piezocaloric effect"
+        }
+    },
+    {
+        "concept_name": "压磁效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "piezomagnetic effect"
+        }
+    },
+    {
+        "concept_name": "压致电阻效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "简称": " 压阻效应",
+            "见载": "《物理学名词》第二版",
+            "英文名": "piezoresistive effect"
+        }
+    },
+    {
+        "concept_name": "原子力显微镜",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "atomic force microscope"
+        }
+    },
+    {
+        "concept_name": "原子球近似",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "英文": "atomic sphere approximation ;ASA",
+            "见载": "《物理学名词》第二版",
+            "英文名": "atomic sphere approximation"
+        }
+    },
+    {
+        "concept_name": "原子磁矩",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "atomic magnetic moment"
+        }
+    },
+    {
+        "concept_name": "双性杂质",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "amphoteric impurity"
+        }
+    },
+    {
+        "concept_name": "双极[漂移]迁移率",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ambipolar [drift] mobility"
+        }
+    },
+    {
+        "concept_name": "双极扩散系数",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ambipolar diffusion coefficient"
+        }
+    },
+    {
+        "concept_name": "双栅场效[应]管",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "double-gate field effect transistor"
+        }
+    },
+    {
+        "concept_name": "反型层",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "inversion layer"
+        }
+    },
+    {
+        "concept_name": "反常趋肤效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "anomalous skin effect"
+        }
+    },
+    {
+        "concept_name": "反常霍尔效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "anomalous Hall effect"
+        }
+    },
+    {
+        "concept_name": "反铁电体",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "antiferroelectrics"
+        }
+    },
+    {
+        "concept_name": "反铁磁性",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "antiferromagnetism"
+        }
+    },
+    {
+        "concept_name": "发光二极管",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "light emitting diode"
+        }
+    },
+    {
+        "concept_name": "发光效率",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "luminescence efficiency"
+        }
+    },
+    {
+        "concept_name": "受主",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "acceptor"
+        }
+    },
+    {
+        "concept_name": "受主浓度",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "acceptor density"
+        }
+    },
+    {
+        "concept_name": "受主电离能",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "acceptor ionization energy"
+        }
+    },
+    {
+        "concept_name": "合金",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "alloy"
+        }
+    },
+    {
+        "concept_name": "同质异能移位",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "isomer shift"
+        }
+    },
+    {
+        "concept_name": "吸收比",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "absorptance"
+        }
+    },
+    {
+        "concept_name": "吸收边",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "absorption edge"
+        }
+    },
+    {
+        "concept_name": "哈特里-福克近似",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "英文": "Hartree-Fock approximation ;HF approximation",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Hartree-Fock approximation"
+        }
+    },
+    {
+        "concept_name": "哈特里近似",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Hartree approximation"
+        }
+    },
+    {
+        "concept_name": "固体电子学",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "solid state electronics"
+        }
+    },
+    {
+        "concept_name": "固相外延",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "solid phase epitaxy"
+        }
+    },
+    {
+        "concept_name": "场效[应]管",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "field effect transistor"
+        }
+    },
+    {
+        "concept_name": "场效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "field effect"
+        }
+    },
+    {
+        "concept_name": "场效应器件",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "field effect device"
+        }
+    },
+    {
+        "concept_name": "埃廷斯豪森效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Ettingshausen effect"
+        }
+    },
+    {
+        "concept_name": "填隙式合金",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "interstitial alloy"
+        }
+    },
+    {
+        "concept_name": "增广平面波法",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "简称": " APW法(APW method)",
+            "见载": "《物理学名词》第二版",
+            "英文名": "augmented plane wave method"
+        }
+    },
+    {
+        "concept_name": "增广球面波法",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "简称": " ASW法(ASW method)",
+            "见载": "《物理学名词》第二版",
+            "英文名": "augmented spherical wave method"
+        }
+    },
+    {
+        "concept_name": "声[子]助跃迁",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "phonon-assisted transition"
+        }
+    },
+    {
+        "concept_name": "声发射",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "acoustic emission"
+        }
+    },
+    {
+        "concept_name": "声电效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "acoustoelectric effect"
+        }
+    },
+    {
+        "concept_name": "外延",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "epitaxy"
+        }
+    },
+    {
+        "concept_name": "外延沉积",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "epitaxial deposition"
+        }
+    },
+    {
+        "concept_name": "外斯分子场",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Weiss molecular field"
+        }
+    },
+    {
+        "concept_name": "外赋半导体",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "extrinsic semiconductor"
+        }
+    },
+    {
+        "concept_name": "多声子吸收",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "multiphonon absorption"
+        }
+    },
+    {
+        "concept_name": "多电子效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "many-electron effect"
+        }
+    },
+    {
+        "concept_name": "多谷模型",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "many valley model"
+        }
+    },
+    {
+        "concept_name": "大规模集成电路",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "英文": "large scale integrated circuit ;LSI",
+            "见载": "《物理学名词》第二版",
+            "英文名": "large scale integrated circuit"
+        }
+    },
+    {
+        "concept_name": "奈尔[畴]壁",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Ne&1&el wall"
+        }
+    },
+    {
+        "concept_name": "奈尔温度",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Ne&1&el temperature"
+        }
+    },
+    {
+        "concept_name": "奥氏体",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "austenite"
+        }
+    },
+    {
+        "concept_name": "小口理论",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Oguchi theory"
+        }
+    },
+    {
+        "concept_name": "局域电子磁性",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "local electron magnetism"
+        }
+    },
+    {
+        "concept_name": "居间价化合物",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "intermediate-valence compound"
+        }
+    },
+    {
+        "concept_name": "居间相",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "intermediate phase"
+        }
+    },
+    {
+        "concept_name": "巡游电子",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "itinerant electron"
+        }
+    },
+    {
+        "concept_name": "巡游电子磁性",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "itinerant electron magnetism"
+        }
+    },
+    {
+        "concept_name": "巴尼特效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Barnett effect"
+        }
+    },
+    {
+        "concept_name": "带边跃迁",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "band edge transition"
+        }
+    },
+    {
+        "concept_name": "带间跃迁",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "英文": "interband transition ;band-to-band transition",
+            "见载": "《物理学名词》第二版",
+            "英文名": "interband transition"
+        }
+    },
+    {
+        "concept_name": "异成分熔化",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "incongruent melting"
+        }
+    },
+    {
+        "concept_name": "弹光效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "elasto-optic effect"
+        }
+    },
+    {
+        "concept_name": "弹性后效",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "elastic after-effect"
+        }
+    },
+    {
+        "concept_name": "弹性应力",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "elastic stress"
+        }
+    },
+    {
+        "concept_name": "弹性模量",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "elastic modulus"
+        }
+    },
+    {
+        "concept_name": "弹性能",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "elastic energy"
+        }
+    },
+    {
+        "concept_name": "弹性自由焓",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "elastic free enthalpy"
+        }
+    },
+    {
+        "concept_name": "形状记忆合金",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "shape-memory alloy"
+        }
+    },
+    {
+        "concept_name": "微裂纹萌生",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "microcrack initiation"
+        }
+    },
+    {
+        "concept_name": "德哈斯-范阿尔芬效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "de Haas-van Alphen effect"
+        }
+    },
+    {
+        "concept_name": "恒耦近似",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "constant coupling approximation"
+        }
+    },
+    {
+        "concept_name": "成序效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ordering effect"
+        }
+    },
+    {
+        "concept_name": "扬-特勒效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Jahn-Teller effect"
+        }
+    },
+    {
+        "concept_name": "散铁磁性",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "asperomagnetism"
+        }
+    },
+    {
+        "concept_name": "施主-受主对发光",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "donor-acceptor pair luminescence"
+        }
+    },
+    {
+        "concept_name": "施主电离能",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "donor ionization energy"
+        }
+    },
+    {
+        "concept_name": "旋光效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "roto-optic effect"
+        }
+    },
+    {
+        "concept_name": "旋声性",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "acoustical activity"
+        }
+    },
+    {
+        "concept_name": "旋电效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "gyroelectric effect"
+        }
+    },
+    {
+        "concept_name": "旋磁效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "gyromagnetic effect"
+        }
+    },
+    {
+        "concept_name": "无定向磁强计",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "astatic magnetometer"
+        }
+    },
+    {
+        "concept_name": "时效沉积",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "age-deposition"
+        }
+    },
+    {
+        "concept_name": "时效硬化",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "age-hardening"
+        }
+    },
+    {
+        "concept_name": "易[磁化]轴",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "easy axis [of magnetization]"
+        }
+    },
+    {
+        "concept_name": "易[磁化方]向",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "easy direction [for magnetization]"
+        }
+    },
+    {
+        "concept_name": "晶[体]场",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "crystal field"
+        }
+    },
+    {
+        "concept_name": "晶格振动吸收",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "lattice vibrational absorption"
+        }
+    },
+    {
+        "concept_name": "最大磁能积",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "maximum magnetic energy pro- duct"
+        }
+    },
+    {
+        "concept_name": "有效线宽",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "effective line width"
+        }
+    },
+    {
+        "concept_name": "有效质量",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "effective mass"
+        }
+    },
+    {
+        "concept_name": "有机半导体",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "organic semiconductor"
+        }
+    },
+    {
+        "concept_name": "杂质",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "impurity"
+        }
+    },
+    {
+        "concept_name": "杂质态导电",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "impurity state conduction"
+        }
+    },
+    {
+        "concept_name": "杂质电阻率",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "impurity resistivity"
+        }
+    },
+    {
+        "concept_name": "杂质能级",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "impurity level"
+        }
+    },
+    {
+        "concept_name": "极限强度",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ultimate strength"
+        }
+    },
+    {
+        "concept_name": "植入",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "implantation"
+        }
+    },
+    {
+        "concept_name": "欧姆接触",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ohmic contact"
+        }
+    },
+    {
+        "concept_name": "正交化平面波法",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "简称": " OPW法(OPW method)",
+            "见载": "《物理学名词》第二版",
+            "英文名": "orthogonalized plane wave method"
+        }
+    },
+    {
+        "concept_name": "正交紧束缚法",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "简称": " OTB法(OTB method)",
+            "见载": "《物理学名词》第二版",
+            "英文名": "orthogonalized tight-binding method"
+        }
+    },
+    {
+        "concept_name": "比热反常",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "specific heat anomaly"
+        }
+    },
+    {
+        "concept_name": "氢脆",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "hydrogen embrittlement"
+        }
+    },
+    {
+        "concept_name": "氧化亚铜",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "英文": "cuprous oxide ;Cu2O",
+            "见载": "《物理学名词》第二版",
+            "英文名": "cuprous oxide"
+        }
+    },
+    {
+        "concept_name": "氧化物半导体",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "oxide semiconductor"
+        }
+    },
+    {
+        "concept_name": "氧化锡",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "英文": "tin oxide ;SnO２",
+            "见载": "《物理学名词》第二版",
+            "英文名": "tin oxide"
+        }
+    },
+    {
+        "concept_name": "汤姆孙效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Thomson effect"
+        }
+    },
+    {
+        "concept_name": "沟道效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "channel[ing] effect"
+        }
+    },
+    {
+        "concept_name": "法拉第效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Faraday effect"
+        }
+    },
+    {
+        "concept_name": "泽贝克效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Seebeck effect"
+        }
+    },
+    {
+        "concept_name": "液相外延",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "liquid phase epitaxy"
+        }
+    },
+    {
+        "concept_name": "滞弹性",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "anelasticity"
+        }
+    },
+    {
+        "concept_name": "激光退火",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "laser annealing"
+        }
+    },
+    {
+        "concept_name": "激活剂",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "activator"
+        }
+    },
+    {
+        "concept_name": "激活能",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "activation energy"
+        }
+    },
+    {
+        "concept_name": "热弹效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "thermoelastic effect"
+        }
+    },
+    {
+        "concept_name": "热膨胀",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "thermal expansion"
+        }
+    },
+    {
+        "concept_name": "热膨胀反常",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "thermal expansion anomaly"
+        }
+    },
+    {
+        "concept_name": "热释电效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "pyroelectric effect"
+        }
+    },
+    {
+        "concept_name": "爱因斯坦-德哈斯效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Einstein-de Haas effect"
+        }
+    },
+    {
+        "concept_name": "爱因斯坦温度",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Einstein temperature"
+        }
+    },
+    {
+        "concept_name": "爱因斯坦频率",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Einstein frequency"
+        }
+    },
+    {
+        "concept_name": "独立电子近似",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "independent electron approximation"
+        }
+    },
+    {
+        "concept_name": "玻恩-奥本海默近似",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Born-Oppenheimer approximation"
+        }
+    },
+    {
+        "concept_name": "电-力耦合",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electromechanical coupling"
+        }
+    },
+    {
+        "concept_name": "电声倒易定理",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electro-acoustical reciprocity theorem"
+        }
+    },
+    {
+        "concept_name": "电子-核双共振",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electron-nuclear double resonance"
+        }
+    },
+    {
+        "concept_name": "电子[性]化合物",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electron compound"
+        }
+    },
+    {
+        "concept_name": "电子包",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "packet of electrons"
+        }
+    },
+    {
+        "concept_name": "电子探针微区分析",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electron probe microanalysis"
+        }
+    },
+    {
+        "concept_name": "电子束蒸发",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electron-beam evaporation"
+        }
+    },
+    {
+        "concept_name": "电子比热",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electronic specific heat"
+        }
+    },
+    {
+        "concept_name": "电子空穴[液]滴",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electron-hole droplet"
+        }
+    },
+    {
+        "concept_name": "电子能耗谱仪",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electron energy loss spectrometer"
+        }
+    },
+    {
+        "concept_name": "电子能谱",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electronic energy spectrum"
+        }
+    },
+    {
+        "concept_name": "电子自旋共振",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electron spin resonance"
+        }
+    },
+    {
+        "concept_name": "电子衍射技术",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electron diffraction technique"
+        }
+    },
+    {
+        "concept_name": "电子顺磁共振",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electron paramagnetic resonance"
+        }
+    },
+    {
+        "concept_name": "电弹常量",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electroelastic constant"
+        }
+    },
+    {
+        "concept_name": "电热效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electrocaloric effect"
+        }
+    },
+    {
+        "concept_name": "电自由焓",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electric free enthalpy"
+        }
+    },
+    {
+        "concept_name": "电荷注入器件",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "英文": "charge injection device ;CID",
+            "见载": "《物理学名词》第二版",
+            "英文名": "charge injection device"
+        }
+    },
+    {
+        "concept_name": "电饱和",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electric saturation"
+        }
+    },
+    {
+        "concept_name": "畴壁能",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "domain wall energy"
+        }
+    },
+    {
+        "concept_name": "直接交换作用",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "direct exchange interaction"
+        }
+    },
+    {
+        "concept_name": "真空蒸发",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "vacuum evaporation"
+        }
+    },
+    {
+        "concept_name": "矫顽电场",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "coercive electric field"
+        }
+    },
+    {
+        "concept_name": "砷化镓",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "英文": "gallium arsenide ;GaAs",
+            "见载": "《物理学名词》第二版",
+            "英文名": "gallium arsenide"
+        }
+    },
+    {
+        "concept_name": "碱土金属",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "alkali-earth metal"
+        }
+    },
+    {
+        "concept_name": "碱金属",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "alkaline metal"
+        }
+    },
+    {
+        "concept_name": "磁-力效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "magnetomechanical effect"
+        }
+    },
+    {
+        "concept_name": "磁[致]变温效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "magnetocaloric effect"
+        }
+    },
+    {
+        "concept_name": "磁[致]电阻效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "曾称": " 磁阻效应",
+            "见载": "《物理学名词》第二版",
+            "英文名": "magnetoresistance effect"
+        }
+    },
+    {
+        "concept_name": "磁信息材料",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "magnetic information material"
+        }
+    },
+    {
+        "concept_name": "磁各向异性",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "magnetic anisotropy"
+        }
+    },
+    {
+        "concept_name": "磁后效",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "magnetic aftereffect"
+        }
+    },
+    {
+        "concept_name": "磁场热流效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "thermomagnetic effect"
+        }
+    },
+    {
+        "concept_name": "磁场电流效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "galvanomagnetic effect"
+        }
+    },
+    {
+        "concept_name": "磁声效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "magnetoacoustic effect"
+        }
+    },
+    {
+        "concept_name": "磁声转换器件",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "magneto-acoustic transfer device"
+        }
+    },
+    {
+        "concept_name": "磁弹效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "magnetoelastic effect"
+        }
+    },
+    {
+        "concept_name": "磁晶各向异性",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "magneto-crystalline anisotropy"
+        }
+    },
+    {
+        "concept_name": "磁热效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "magnetothermal effect"
+        }
+    },
+    {
+        "concept_name": "磁电效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "magnetoelectric effect"
+        }
+    },
+    {
+        "concept_name": "磷化铟",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "英文": "indium phosphide ;InP",
+            "见载": "《物理学名词》第二版",
+            "英文名": "indium phosphide"
+        }
+    },
+    {
+        "concept_name": "离子植入",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "又称": " 离子注入",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ion implantation"
+        }
+    },
+    {
+        "concept_name": "稀土永磁体",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "rare-earth permanent magnet"
+        }
+    },
+    {
+        "concept_name": "稀土金属",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "rare-earth metal"
+        }
+    },
+    {
+        "concept_name": "穿通效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "punch-through effect"
+        }
+    },
+    {
+        "concept_name": "突变异质结",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "abrupt heterojunction"
+        }
+    },
+    {
+        "concept_name": "突变结",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "abrupt junction"
+        }
+    },
+    {
+        "concept_name": "等温霍尔效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "isothermal Hall effect"
+        }
+    },
+    {
+        "concept_name": "等电子陷阱",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "isoelectron trap"
+        }
+    },
+    {
+        "concept_name": "箍断效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "pinch off effect"
+        }
+    },
+    {
+        "concept_name": "糕模近似",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "muffin-tin approximation"
+        }
+    },
+    {
+        "concept_name": "紧束缚近似",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "英文": "tight-binding approximation ;TBA",
+            "见载": "《物理学名词》第二版",
+            "英文名": "tight-binding approximation"
+        }
+    },
+    {
+        "concept_name": "红外受激发光",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "英文": "infrared stimulated luminescence ;IR stimulated luminescence",
+            "见载": "《物理学名词》第二版",
+            "英文名": "infrared stimulated luminescence"
+        }
+    },
+    {
+        "concept_name": "线性[化]增广平面波法",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "简称": " LAPW法(LAPW method)",
+            "见载": "《物理学名词》第二版",
+            "英文名": "linearized augmented plane wave method"
+        }
+    },
+    {
+        "concept_name": "线性[化]糕模轨函法",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "简称": " LMTO法(LMTO method)",
+            "见载": "《物理学名词》第二版",
+            "英文名": "linearized muffin-tin orbital method"
+        }
+    },
+    {
+        "concept_name": "结型场效[应]管",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "junction field effect transistor"
+        }
+    },
+    {
+        "concept_name": "绝热霍尔效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "adiabatic Hall effect"
+        }
+    },
+    {
+        "concept_name": "绝缘栅场效[应]管",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "英文": "insulated-gate field effect tran- sistor ;IGFET",
+            "见载": "《物理学名词》第二版",
+            "英文名": "insulated-gate field effect tran- sistor"
+        }
+    },
+    {
+        "concept_name": "老化",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "aging"
+        }
+    },
+    {
+        "concept_name": "耿氏效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Gunn effect"
+        }
+    },
+    {
+        "concept_name": "能[量色]散X射线衍射",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "energy dispersion X-ray diffraction"
+        }
+    },
+    {
+        "concept_name": "能带结构",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "energy-band structure"
+        }
+    },
+    {
+        "concept_name": "能带论",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "[energy] band theory"
+        }
+    },
+    {
+        "concept_name": "能斯特效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Nernst effect"
+        }
+    },
+    {
+        "concept_name": "能隙",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "energy gap"
+        }
+    },
+    {
+        "concept_name": "自吸收",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "self-absorption"
+        }
+    },
+    {
+        "concept_name": "自掺杂",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "autodoping"
+        }
+    },
+    {
+        "concept_name": "自旋回波",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "spin echo"
+        }
+    },
+    {
+        "concept_name": "自由电子模型",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "free-electron model"
+        }
+    },
+    {
+        "concept_name": "舒布尼科夫-德哈斯效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Shubnikov-de Haas effect"
+        }
+    },
+    {
+        "concept_name": "荧光分析",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "fluorescence analysis"
+        }
+    },
+    {
+        "concept_name": "表面积累层",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "surface accumulation layer"
+        }
+    },
+    {
+        "concept_name": "谷内散射",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "intravalley scattering"
+        }
+    },
+    {
+        "concept_name": "谷际散射",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "intervalley scattering"
+        }
+    },
+    {
+        "concept_name": "费尔韦效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Verwey effect"
+        }
+    },
+    {
+        "concept_name": "超交换作用",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "superexchange interaction"
+        }
+    },
+    {
+        "concept_name": "超声衰减",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ultrasonic attenuation"
+        }
+    },
+    {
+        "concept_name": "超大规模集成电路",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "英文": "very large scale integrated circuit ;VLSI",
+            "见载": "《物理学名词》第二版",
+            "英文名": "very large scale integrated circuit"
+        }
+    },
+    {
+        "concept_name": "超微颗粒",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ultrafine particle"
+        }
+    },
+    {
+        "concept_name": "轨道角动量冻结",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "freezing of orbital angular momen- tum"
+        }
+    },
+    {
+        "concept_name": "载流子注入",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "carrier injection"
+        }
+    },
+    {
+        "concept_name": "辐照效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "irradiation effect"
+        }
+    },
+    {
+        "concept_name": "边发射",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "edge emission"
+        }
+    },
+    {
+        "concept_name": "迂回激发",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "德文名": "Umweganregung(德)",
+            "见载": "《物理学名词》第二版"
+        }
+    },
+    {
+        "concept_name": "过热电子",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "hot electron"
+        }
+    },
+    {
+        "concept_name": "近藤效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Kondo effect"
+        }
+    },
+    {
+        "concept_name": "退火",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "annealing"
+        }
+    },
+    {
+        "concept_name": "选择激发",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "selective excitation"
+        }
+    },
+    {
+        "concept_name": "里吉-勒迪克效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Righi-Leduc effect"
+        }
+    },
+    {
+        "concept_name": "铁损",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "iron loss"
+        }
+    },
+    {
+        "concept_name": "锑化铟",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "英文": "indium antimonide ;InSb",
+            "见载": "《物理学名词》第二版",
+            "英文名": "indium antimonide"
+        }
+    },
+    {
+        "concept_name": "锕系金属",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "actinide metals"
+        }
+    },
+    {
+        "concept_name": "长余辉磷光体",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "long-after-glow phosphor"
+        }
+    },
+    {
+        "concept_name": "间接交换作用",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "indirect exchange interaction"
+        }
+    },
+    {
+        "concept_name": "间接带隙",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "indirect band gap"
+        }
+    },
+    {
+        "concept_name": "阿兹贝尔-卡纳共振",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Azbel-Kaner resonance"
+        }
+    },
+    {
+        "concept_name": "限累二极管",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "英文": "limited space-charge accumulation diode ;LSA",
+            "见载": "《物理学名词》第二版",
+            "英文名": "limited space-charge accumulation diode"
+        }
+    },
+    {
+        "concept_name": "隙能级",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "gap level"
+        }
+    },
+    {
+        "concept_name": "难[磁化]轴",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "hard axis [of magnetization]"
+        }
+    },
+    {
+        "concept_name": "集成电路",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "英文": "integrated circuit ;IC",
+            "见载": "《物理学名词》第二版",
+            "英文名": "integrated circuit"
+        }
+    },
+    {
+        "concept_name": "零场电子[性]分裂",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "zero-field electronic splitting"
+        }
+    },
+    {
+        "concept_name": "非[简]谐性",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "anharmonicity"
+        }
+    },
+    {
+        "concept_name": "非共格界面",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "incoherent interface"
+        }
+    },
+    {
+        "concept_name": "非晶介电体",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "amorphous dielectrics"
+        }
+    },
+    {
+        "concept_name": "非晶磁性材料",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "amorphous magnetic material"
+        }
+    },
+    {
+        "concept_name": "非本征铁电体",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "improper ferroelectrics"
+        }
+    },
+    {
+        "concept_name": "非自旋[的]磁矩",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "extra-spin magnetic moment"
+        }
+    },
+    {
+        "concept_name": "顺磁磁化率",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "paramagnetic susceptibility"
+        }
+    },
+    {
+        "concept_name": "高阶弛豫",
+        "details": {
+            "学科": "物理学_凝聚体物理学_固体及其性质",
+            "见载": "《物理学名词》第二版",
+            "英文名": "high order relaxation"
+        }
+    }
+]

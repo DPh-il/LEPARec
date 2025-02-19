@@ -1,0 +1,324 @@
+[
+    {
+        "concept_name": "临终照料",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "terminal care"
+        }
+    },
+    {
+        "concept_name": "九旬[代]老人",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "nonagenarian"
+        }
+    },
+    {
+        "concept_name": "交联学说",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "cross linkage theory"
+        }
+    },
+    {
+        "concept_name": "体细胞突变学说",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "somatic mutation theory"
+        }
+    },
+    {
+        "concept_name": "健康老龄化",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "successful aging"
+        }
+    },
+    {
+        "concept_name": "健康预期寿命",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "active life expectancy"
+        }
+    },
+    {
+        "concept_name": "八旬[代]老人",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "octogenarian"
+        }
+    },
+    {
+        "concept_name": "初级记忆",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "primary memory"
+        }
+    },
+    {
+        "concept_name": "同龄人",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "age cohorts"
+        }
+    },
+    {
+        "concept_name": "年龄中位数",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "median age"
+        }
+    },
+    {
+        "concept_name": "总抚养率",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "total dependency ratio"
+        }
+    },
+    {
+        "concept_name": "日托医院",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "day hospital"
+        }
+    },
+    {
+        "concept_name": "晶化智力",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "crystallized intelligence"
+        }
+    },
+    {
+        "concept_name": "梅德维杰夫-奥格尔学说",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Medvedev-Orgel hypothesis"
+        }
+    },
+    {
+        "concept_name": "次级记忆",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "secondary memory"
+        }
+    },
+    {
+        "concept_name": "海弗利克极限",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Hayflick limit"
+        }
+    },
+    {
+        "concept_name": "液化智力",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "fluid intelligence"
+        }
+    },
+    {
+        "concept_name": "生命质量",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "quality of life"
+        }
+    },
+    {
+        "concept_name": "百岁老人",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "centenarian"
+        }
+    },
+    {
+        "concept_name": "程序学说",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "programmed theory"
+        }
+    },
+    {
+        "concept_name": "程序衰老",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "programmed aging"
+        }
+    },
+    {
+        "concept_name": "细胞骨架学说",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "cytoskeleton theory"
+        }
+    },
+    {
+        "concept_name": "结缔组织学说",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "connective tissue theory"
+        }
+    },
+    {
+        "concept_name": "老人之家",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "nursing home"
+        }
+    },
+    {
+        "concept_name": "老年人口比例",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "proportion of aged population"
+        }
+    },
+    {
+        "concept_name": "老年化",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "senescence"
+        }
+    },
+    {
+        "concept_name": "老年医学",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "geriatrics"
+        }
+    },
+    {
+        "concept_name": "老年学",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "gerontology"
+        }
+    },
+    {
+        "concept_name": "老年抚养率",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "aged dependency ratio"
+        }
+    },
+    {
+        "concept_name": "老年斑",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "senile plaque"
+        }
+    },
+    {
+        "concept_name": "老龄化",
+        "details": {
+            "学科": "医学_老年医学",
+            "又称": " 增龄",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "aging"
+        }
+    },
+    {
+        "concept_name": "老龄化指数",
+        "details": {
+            "学科": "医学_老年医学",
+            "英文": "index of aging ;aged-child ratio",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "index of aging"
+        }
+    },
+    {
+        "concept_name": "自由基学说",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "free radical theory"
+        }
+    },
+    {
+        "concept_name": "转录学说",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "transcription theory"
+        }
+    },
+    {
+        "concept_name": "过剩信息学说",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "redundant information theory"
+        }
+    },
+    {
+        "concept_name": "错误学说",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "error theory"
+        }
+    },
+    {
+        "concept_name": "长寿",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "longevity"
+        }
+    },
+    {
+        "concept_name": "长寿商",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "longevity quotient"
+        }
+    },
+    {
+        "concept_name": "长寿水平",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "longevity level"
+        }
+    },
+    {
+        "concept_name": "长期照料",
+        "details": {
+            "学科": "医学_老年医学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "long term care"
+        }
+    }
+]

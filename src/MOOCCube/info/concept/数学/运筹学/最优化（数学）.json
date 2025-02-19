@@ -1,0 +1,262 @@
+[
+    {
+        "concept_name": "供选方案",
+        "details": {
+            "学科": "数学_运筹学_最优化（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "alternatives"
+        }
+    },
+    {
+        "concept_name": "动态最优化",
+        "details": {
+            "学科": "数学_运筹学_最优化（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "dynamic optimization"
+        }
+    },
+    {
+        "concept_name": "参数最优化",
+        "details": {
+            "学科": "数学_运筹学_最优化（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "parameter optimization"
+        }
+    },
+    {
+        "concept_name": "向量最优化",
+        "details": {
+            "学科": "数学_运筹学_最优化（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "vector optimization"
+        }
+    },
+    {
+        "concept_name": "多目标最优化",
+        "details": {
+            "学科": "数学_运筹学_最优化（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "multiobjective optimization"
+        }
+    },
+    {
+        "concept_name": "大系统最优化",
+        "details": {
+            "学科": "数学_运筹学_最优化（数学）",
+            "又称": " 大型最优化",
+            "见载": "《数学名词》第一版",
+            "英文名": "large scale optimization"
+        }
+    },
+    {
+        "concept_name": "最优值",
+        "details": {
+            "学科": "数学_运筹学_最优化（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "optimal value"
+        }
+    },
+    {
+        "concept_name": "最优化",
+        "details": {
+            "学科": "数学_运筹学_最优化（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "optimization"
+        }
+    },
+    {
+        "concept_name": "最优化方法",
+        "details": {
+            "学科": "数学_运筹学_最优化（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "optimization method"
+        }
+    },
+    {
+        "concept_name": "最优化模型",
+        "details": {
+            "学科": "数学_运筹学_最优化（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "optimization model"
+        }
+    },
+    {
+        "concept_name": "最优性",
+        "details": {
+            "学科": "数学_运筹学_最优化（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "optimality"
+        }
+    },
+    {
+        "concept_name": "最优性条件",
+        "details": {
+            "学科": "数学_运筹学_最优化（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "optimality condition"
+        }
+    },
+    {
+        "concept_name": "最优解",
+        "details": {
+            "学科": "数学_运筹学_最优化（数学）",
+            "英文": "optimal solution ;optimum solution",
+            "见载": "《数学名词》第一版",
+            "英文名": "optimal solution"
+        }
+    },
+    {
+        "concept_name": "极大化",
+        "details": {
+            "学科": "数学_运筹学_最优化（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "maximization"
+        }
+    },
+    {
+        "concept_name": "极大化序列",
+        "details": {
+            "学科": "数学_运筹学_最优化（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "maximizing sequence"
+        }
+    },
+    {
+        "concept_name": "极大化模型",
+        "details": {
+            "学科": "数学_运筹学_最优化（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "maximization model"
+        }
+    },
+    {
+        "concept_name": "极大点",
+        "details": {
+            "学科": "数学_运筹学_最优化（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "maximum point"
+        }
+    },
+    {
+        "concept_name": "极小化",
+        "details": {
+            "学科": "数学_运筹学_最优化（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "minimization"
+        }
+    },
+    {
+        "concept_name": "极小化方法",
+        "details": {
+            "学科": "数学_运筹学_最优化（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "minimization method"
+        }
+    },
+    {
+        "concept_name": "极小化模型",
+        "details": {
+            "学科": "数学_运筹学_最优化（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "minimization model"
+        }
+    },
+    {
+        "concept_name": "极小点",
+        "details": {
+            "学科": "数学_运筹学_最优化（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "minimum point"
+        }
+    },
+    {
+        "concept_name": "极小解",
+        "details": {
+            "学科": "数学_运筹学_最优化（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "minimum solution"
+        }
+    },
+    {
+        "concept_name": "次优",
+        "details": {
+            "学科": "数学_运筹学_最优化（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "suboptimum"
+        }
+    },
+    {
+        "concept_name": "次优化",
+        "details": {
+            "学科": "数学_运筹学_最优化（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "suboptimization"
+        }
+    },
+    {
+        "concept_name": "次极大",
+        "details": {
+            "学科": "数学_运筹学_最优化（数学）",
+            "又称": " 副峰",
+            "见载": "《数学名词》第一版",
+            "英文名": "submaximum"
+        }
+    },
+    {
+        "concept_name": "次极小",
+        "details": {
+            "学科": "数学_运筹学_最优化（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "subminimum"
+        }
+    },
+    {
+        "concept_name": "求极大[值]",
+        "details": {
+            "学科": "数学_运筹学_最优化（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "maximizing"
+        }
+    },
+    {
+        "concept_name": "求极小[值]",
+        "details": {
+            "学科": "数学_运筹学_最优化（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "minimizing"
+        }
+    },
+    {
+        "concept_name": "离散最优化",
+        "details": {
+            "学科": "数学_运筹学_最优化（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "discrete optimization"
+        }
+    },
+    {
+        "concept_name": "运筹学",
+        "details": {
+            "学科": "数学_运筹学_最优化（数学）",
+            "英文": "operations research ;operational research",
+            "见载": "《数学名词》第一版",
+            "英文名": "operations research"
+        }
+    },
+    {
+        "concept_name": "随机最优化",
+        "details": {
+            "学科": "数学_运筹学_最优化（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "stochastic optimization"
+        }
+    },
+    {
+        "concept_name": "非光滑最优化",
+        "details": {
+            "学科": "数学_运筹学_最优化（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "non-smooth optimization"
+        }
+    }
+]

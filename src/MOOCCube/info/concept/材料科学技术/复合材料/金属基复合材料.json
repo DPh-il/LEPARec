@@ -1,0 +1,290 @@
+[
+    {
+        "concept_name": "定向凝固共晶金属基复合材料",
+        "details": {
+            "学科": "材料科学技术_复合材料_金属基复合材料",
+            "定义": "通过共晶合金的单向凝固，在金属或合金基体中形成定向排列纤维状或细片状增强体的原位生长复合材料。",
+            "见载": "《材料科学技术名词》第一版",
+            "英文名": "directionally solidified eutectic reinforced metal matrix composite"
+        }
+    },
+    {
+        "concept_name": "晶须增强金属基复合材料",
+        "details": {
+            "学科": "材料科学技术_复合材料_金属基复合材料",
+            "定义": "以各种晶须增强的以金属或合金为基体的复合材料。",
+            "见载": "《材料科学技术名词》第一版",
+            "英文名": "whisker reinforced metal matrix composite"
+        }
+    },
+    {
+        "concept_name": "氧化铝纤维增强金属间化合物基复合材料",
+        "details": {
+            "学科": "材料科学技术_复合材料_金属基复合材料",
+            "定义": "以氧化铝连续纤维增强金属间化合物为基体的复合材料。",
+            "见载": "《材料科学技术名词》第一版",
+            "英文名": "alumina fiber reinforced intermetallic compound matrix composite"
+        }
+    },
+    {
+        "concept_name": "氧化铝颗粒增强铝基复合材料",
+        "details": {
+            "学科": "材料科学技术_复合材料_金属基复合材料",
+            "定义": "以氧化铝颗粒增强铝或铝合金为基体的复合材料。增强体与基体之间具有良好的化学相容性，该复合材料是可以大批量生产和应用的金属基复合材料品种之一。",
+            "见载": "《材料科学技术名词》第一版",
+            "英文名": "alumina particulate reinforced Al-matrix composite"
+        }
+    },
+    {
+        "concept_name": "氮化铝颗粒增强铝基复合材料",
+        "details": {
+            "学科": "材料科学技术_复合材料_金属基复合材料",
+            "定义": "以氮化铝颗粒增强铝或铝合金为基体的复合材料，具有相对较好的机械加工性能。",
+            "见载": "《材料科学技术名词》第一版",
+            "英文名": "aluminium nitride particulate reinforced Al-matrix composite"
+        }
+    },
+    {
+        "concept_name": "混杂增强金属基复合材料",
+        "details": {
+            "学科": "材料科学技术_复合材料_金属基复合材料",
+            "定义": "以两种或两种以上的增强体混合增强的以金属或合金为基体的复合材料。",
+            "见载": "《材料科学技术名词》第一版",
+            "英文名": "hybrid reinforced metal matrix composite"
+        }
+    },
+    {
+        "concept_name": "片晶增强金属基复合材料",
+        "details": {
+            "学科": "材料科学技术_复合材料_金属基复合材料",
+            "定义": "以新型增强体、-、片晶增强的以金属或合金为基体的复合材料。",
+            "见载": "《材料科学技术名词》第一版",
+            "英文名": "platelet reinforced metal matrix composite"
+        }
+    },
+    {
+        "concept_name": "短纤维增强金属基复合材料",
+        "details": {
+            "学科": "材料科学技术_复合材料_金属基复合材料",
+            "定义": "以短纤维增强的以金属或合金为基体的复合材料。",
+            "见载": "《材料科学技术名词》第一版",
+            "英文名": "short fiber reinforced metal matrix composite"
+        }
+    },
+    {
+        "concept_name": "硅酸铝纤维增强铝基复合材料",
+        "details": {
+            "学科": "材料科学技术_复合材料_金属基复合材料",
+            "定义": "以硅酸铝短纤维增强铝或铝合金为基体的复合材料。其成本较低，常用于发动机活塞的耐磨部位。",
+            "见载": "《材料科学技术名词》第一版",
+            "英文名": "alumina silicate fiber reinforced Al-matrix composite"
+        }
+    },
+    {
+        "concept_name": "硼化钛晶须增强钛基复合材料",
+        "details": {
+            "学科": "材料科学技术_复合材料_金属基复合材料",
+            "定义": "以硼化钛晶须作为增强体的钛或钛合金基的复合材料。增强体与基体之间具有良好的化学相容性，该复合材料具有良好的高温性能。",
+            "见载": "《材料科学技术名词》第一版",
+            "英文名": "titanium boronide whisker reinforced Ti-matrix composite"
+        }
+    },
+    {
+        "concept_name": "硼纤维增强铝基复合材料",
+        "details": {
+            "学科": "材料科学技术_复合材料_金属基复合材料",
+            "定义": "以轻质高强的硼纤维增强铝或铝合金为基体的复合材料。其特点是比强度大，比模量高，压缩性能好。",
+            "见载": "《材料科学技术名词》第一版",
+            "英文名": "boron fiber reinforced Al-matrix composite"
+        }
+    },
+    {
+        "concept_name": "硼酸铝晶须增强铝基复合材料",
+        "details": {
+            "学科": "材料科学技术_复合材料_金属基复合材料",
+            "定义": "以成本相对较低的硼酸铝晶须为增强体、铝或铝合金为基体的复合材料。",
+            "见载": "《材料科学技术名词》第一版",
+            "英文名": "aluminium borate whisker reinforced Al-matrix composite"
+        }
+    },
+    {
+        "concept_name": "碳化硅晶须增强铝基复合材料",
+        "details": {
+            "学科": "材料科学技术_复合材料_金属基复合材料",
+            "定义": "以碳化硅晶须作为增强体的铝或铝合金为基体的复合材料。其增强效果突出，强度水平较高。",
+            "见载": "《材料科学技术名词》第一版",
+            "英文名": "silicon carbide whisker reinforced Al-matrix composite"
+        }
+    },
+    {
+        "concept_name": "碳化硅纤维增强钛基复合材料",
+        "details": {
+            "学科": "材料科学技术_复合材料_金属基复合材料",
+            "定义": "以化学气相沉积法制备的碳化硅粗纤维(直径80~140μm)作为增强体、以钛或钛合金为基体的复合材料。主要用做使用温度不超过800℃的航空发动机零部件。",
+            "见载": "《材料科学技术名词》第一版",
+            "英文名": "silicon carbide filament reinforced Ti-matrix composite"
+        }
+    },
+    {
+        "concept_name": "碳化硅颗粒增强铝基复合材料",
+        "details": {
+            "学科": "材料科学技术_复合材料_金属基复合材料",
+            "定义": "以碳化硅颗粒增强铝或铝合金为基体的复合材料。是金属基复合材料中可以大批量生产和应用的主要品种。",
+            "见载": "《材料科学技术名词》第一版",
+            "英文名": "silicon carbide particulate reinforced Al-matrix composite"
+        }
+    },
+    {
+        "concept_name": "碳化硅颗粒增强镁基复合材料",
+        "details": {
+            "学科": "材料科学技术_复合材料_金属基复合材料",
+            "定义": "以碳化硅颗粒增强镁或镁合金为基体的复合材料。",
+            "见载": "《材料科学技术名词》第一版",
+            "英文名": "silicon carbide particulate reinforced Mg-matrix composite"
+        }
+    },
+    {
+        "concept_name": "碳化硼颗粒增强铝基复合材料",
+        "details": {
+            "学科": "材料科学技术_复合材料_金属基复合材料",
+            "定义": "以碳化硼颗粒增强铝或铝合金为基体的复合材料。其特点是轻质、耐磨且具有热中子吸收截面高、吸收中子的能量范围较宽的功能特性。",
+            "见载": "《材料科学技术名词》第一版",
+            "英文名": "boron carbide particulate reinforced Al-matrix composite"
+        }
+    },
+    {
+        "concept_name": "碳化硼颗粒增强镁基复合材料",
+        "details": {
+            "学科": "材料科学技术_复合材料_金属基复合材料",
+            "定义": "以碳化硼颗粒增强镁或镁合金为基体的复合材料。",
+            "见载": "《材料科学技术名词》第一版",
+            "英文名": "boron carbide particulate reinforced Mg-matrix composite"
+        }
+    },
+    {
+        "concept_name": "碳化钛颗粒增强铝基复合材料",
+        "details": {
+            "学科": "材料科学技术_复合材料_金属基复合材料",
+            "定义": "以碳化钛颗粒增强铝或铝合金为基体的复合材料。碳化钛颗粒在铝基体中较易分散，其增强效果较好，综合性能较高。",
+            "见载": "《材料科学技术名词》第一版",
+            "英文名": "titanium carbide particulate reinforced Al-matrix composite"
+        }
+    },
+    {
+        "concept_name": "碳纤维/石墨增强铝基复合材料",
+        "details": {
+            "学科": "材料科学技术_复合材料_金属基复合材料",
+            "定义": "以高性能碳或石墨纤维增强铝或铝合金为基体的复合材料。具有密度低、强度高、刚性好、导热导电性能好及尺寸稳定性好等优点。",
+            "见载": "《材料科学技术名词》第一版",
+            "英文名": "carbon/graphite fiber reinforced Al-matrix composite"
+        }
+    },
+    {
+        "concept_name": "碳纤维/石墨增强镁基复合材料",
+        "details": {
+            "学科": "材料科学技术_复合材料_金属基复合材料",
+            "定义": "以碳或石墨纤维增强镁或镁合金为基体的复合材料。其突出特点是比模量极高，热膨胀系数接近零。",
+            "见载": "《材料科学技术名词》第一版",
+            "英文名": "carbon/graphite fiber reinforced Mg-matrix composite"
+        }
+    },
+    {
+        "concept_name": "连续纤维增强金属基复合材料",
+        "details": {
+            "学科": "材料科学技术_复合材料_金属基复合材料",
+            "定义": "用高性能连续长纤维或金属丝增强的以金属或合金为基体的复合材料。",
+            "见载": "《材料科学技术名词》第一版",
+            "英文名": "continuous fiber reinforced metal matrix composite"
+        }
+    },
+    {
+        "concept_name": "金属丝增强难熔金属基复合材料",
+        "details": {
+            "学科": "材料科学技术_复合材料_金属基复合材料",
+            "定义": "以抗氧化能力强的难熔金属为基体，以高温性能优异的钨或钨合金丝等为增强体的复合材料。",
+            "见载": "《材料科学技术名词》第一版",
+            "英文名": "metal filament reinforced refractory metal matrix composite"
+        }
+    },
+    {
+        "concept_name": "金属丝增强高温合金基复合材料",
+        "details": {
+            "学科": "材料科学技术_复合材料_金属基复合材料",
+            "定义": "以钨合金丝为增强体，利用其良好的高温性能以及镍基、钴基、铁基等高温合金为基体的抗氧化性而制成的复合材料。",
+            "见载": "《材料科学技术名词》第一版",
+            "英文名": "metal filament reinforced superalloy matrix composite"
+        }
+    },
+    {
+        "concept_name": "金属基复合材料原位复合工艺",
+        "details": {
+            "学科": "材料科学技术_复合材料_金属基复合材料",
+            "定义": "制备过程中通过元素间的各种反应形成增强体的金属基复合材料制备工艺。",
+            "见载": "《材料科学技术名词》第一版",
+            "英文名": "in-situ reaction fabrication of metal matrix composite"
+        }
+    },
+    {
+        "concept_name": "金属基复合材料无压浸渗制备工艺",
+        "details": {
+            "学科": "材料科学技术_复合材料_金属基复合材料",
+            "定义": "金属液在无外加压力的情况下，自发渗入多孔的陶瓷堆积体或预制体中获得复合材料的工艺方法。",
+            "见载": "《材料科学技术名词》第一版",
+            "英文名": "pressureless infiltration fabrication of metal matrix composite"
+        }
+    },
+    {
+        "concept_name": "金属基复合材料热压制备工艺",
+        "details": {
+            "学科": "材料科学技术_复合材料_金属基复合材料",
+            "定义": "连续纤维和基体合金在一定的加热温度和压力下，通过扩散结合制备金属基复合材料的固相复合工艺。",
+            "见载": "《材料科学技术名词》第一版",
+            "英文名": "hot pressing fabrication of metal matrix composite"
+        }
+    },
+    {
+        "concept_name": "金属基复合材料真空吸铸",
+        "details": {
+            "学科": "材料科学技术_复合材料_金属基复合材料",
+            "定义": "在铸型内形成一定负压条件，使液态金属或颗粒增强金属基复合材料自下而上吸入型腔凝固后形成铸件的工艺方法。",
+            "见载": "《材料科学技术名词》第一版",
+            "英文名": "vacuum suction casting of metal matrix composite"
+        }
+    },
+    {
+        "concept_name": "钨丝增强铀金属基复合材料",
+        "details": {
+            "学科": "材料科学技术_复合材料_金属基复合材料",
+            "定义": "以钨丝增强贫铀为基体的复合材料。主要用做穿甲弹的弹芯材料。",
+            "见载": "《材料科学技术名词》第一版",
+            "英文名": "tungsten filament reinforced U-matrix composite"
+        }
+    },
+    {
+        "concept_name": "陶瓷-金属复合材料",
+        "details": {
+            "学科": "材料科学技术_复合材料_金属基复合材料",
+            "定义": "金属或合金基体中陶瓷相呈连续或接近连续的三维骨架结构的复合材料。",
+            "见载": "《材料科学技术名词》第一版",
+            "英文名": "ceramic-metal composite"
+        }
+    },
+    {
+        "concept_name": "颗粒增强金属基复合材料",
+        "details": {
+            "学科": "材料科学技术_复合材料_金属基复合材料",
+            "定义": "以碳化物、氮化物、氧化物、石墨等颗粒增强的以金属或合金为基体的复合材料。",
+            "见载": "《材料科学技术名词》第一版",
+            "英文名": "particulate reinforced metal matrix composite"
+        }
+    },
+    {
+        "concept_name": "颗粒增强铁基复合材料",
+        "details": {
+            "学科": "材料科学技术_复合材料_金属基复合材料",
+            "定义": "以铁或铁合金为基体，用碳化物、氮化物以及硼化物等颗粒增强的复合材料。",
+            "见载": "《材料科学技术名词》第一版",
+            "英文名": "particulate reinforced Fe-matrix composite"
+        }
+    }
+]

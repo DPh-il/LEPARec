@@ -1,0 +1,1417 @@
+[
+    {
+        "concept_name": "[水]硬度",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "hardness of water"
+        }
+    },
+    {
+        "concept_name": "一维流",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "one-dimensional flow"
+        }
+    },
+    {
+        "concept_name": "上升泉",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "ascending spring"
+        }
+    },
+    {
+        "concept_name": "不透水层",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "英文": "aquifuge ;impermeable layer",
+            "又称": " 隔水层",
+            "见载": "《地质学名词》第一版",
+            "英文名": "aquifuge"
+        }
+    },
+    {
+        "concept_name": "二氧化硅地热温标",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "silica geothermometer"
+        }
+    },
+    {
+        "concept_name": "井",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "well"
+        }
+    },
+    {
+        "concept_name": "井涌水量",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "well yield"
+        }
+    },
+    {
+        "concept_name": "传导热梯度",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "conductive thermal gradient"
+        }
+    },
+    {
+        "concept_name": "再生水",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "又称": " 次生水",
+            "见载": "《地质学名词》第一版",
+            "英文名": "epigenetic water"
+        }
+    },
+    {
+        "concept_name": "冻结层上水",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "suprapermafrost water"
+        }
+    },
+    {
+        "concept_name": "冻结层间水",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "interpermafrost water"
+        }
+    },
+    {
+        "concept_name": "凝结水",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "condensation water"
+        }
+    },
+    {
+        "concept_name": "初见水位",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "initial water level"
+        }
+    },
+    {
+        "concept_name": "包气带",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "aeration zone"
+        }
+    },
+    {
+        "concept_name": "包气带水",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "water of aeration zone"
+        }
+    },
+    {
+        "concept_name": "区域水文地质学",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "regional hydrogeology"
+        }
+    },
+    {
+        "concept_name": "单孔抽水",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "single-well pumping"
+        }
+    },
+    {
+        "concept_name": "压力传导系数",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "coefficient of pressure conductivity"
+        }
+    },
+    {
+        "concept_name": "压水试验",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "packer permeability test"
+        }
+    },
+    {
+        "concept_name": "古水文地质学",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "paleohydrogeology"
+        }
+    },
+    {
+        "concept_name": "同位素地热温标",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "isotopic geothermometer"
+        }
+    },
+    {
+        "concept_name": "同位素水文地质",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "isotope hydrogeology"
+        }
+    },
+    {
+        "concept_name": "含水层",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "aquifer"
+        }
+    },
+    {
+        "concept_name": "含水层系",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "water-bearing rock system"
+        }
+    },
+    {
+        "concept_name": "含水层边界",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "boundary of aquifer"
+        }
+    },
+    {
+        "concept_name": "含水量",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "water content"
+        }
+    },
+    {
+        "concept_name": "吸着水",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "hydroscopic water"
+        }
+    },
+    {
+        "concept_name": "喀斯特含水层",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "又称": " 岩溶含水层",
+            "见载": "《地质学名词》第一版",
+            "英文名": "karst aquifer"
+        }
+    },
+    {
+        "concept_name": "喀斯特水",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "又称": " 岩溶水",
+            "见载": "《地质学名词》第一版",
+            "英文名": "karst water"
+        }
+    },
+    {
+        "concept_name": "喀斯特泉",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "又称": " 岩溶泉",
+            "见载": "《地质学名词》第一版",
+            "英文名": "karstic spring"
+        }
+    },
+    {
+        "concept_name": "喷气孔",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "fumarole"
+        }
+    },
+    {
+        "concept_name": "喷泉",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "fountain"
+        }
+    },
+    {
+        "concept_name": "回灌井",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "recharge well"
+        }
+    },
+    {
+        "concept_name": "回灌水",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "recharge water"
+        }
+    },
+    {
+        "concept_name": "土壤水分特征曲线",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "characteristic curve of soil moisture"
+        }
+    },
+    {
+        "concept_name": "地下径流系数",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "coefficient of groundwater runoff"
+        }
+    },
+    {
+        "concept_name": "地下水",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "groundwater"
+        }
+    },
+    {
+        "concept_name": "地下水位坡降",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "gradient of groundwater level"
+        }
+    },
+    {
+        "concept_name": "地下水保护",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "groundwater conservation"
+        }
+    },
+    {
+        "concept_name": "地下水储量",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "groundwater reserves"
+        }
+    },
+    {
+        "concept_name": "地下水回灌",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "groundwater recharge"
+        }
+    },
+    {
+        "concept_name": "地下水埋藏深度",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "depth of groundwater table"
+        }
+    },
+    {
+        "concept_name": "地下水径流",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "groundwater runoff"
+        }
+    },
+    {
+        "concept_name": "地下水排泄区",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "discharge area of groundwater"
+        }
+    },
+    {
+        "concept_name": "地下水模型",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "groundwater model"
+        }
+    },
+    {
+        "concept_name": "地下水盆地",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "groundwater basin"
+        }
+    },
+    {
+        "concept_name": "地下水类型",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "groundwater type"
+        }
+    },
+    {
+        "concept_name": "地下水系统",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "groundwater system"
+        }
+    },
+    {
+        "concept_name": "地下水网络",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "groundwater network"
+        }
+    },
+    {
+        "concept_name": "地下水补给区",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "recharge area of groundwater"
+        }
+    },
+    {
+        "concept_name": "地下水质",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "groundwater quality"
+        }
+    },
+    {
+        "concept_name": "地下水资源",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "groundwater resources"
+        }
+    },
+    {
+        "concept_name": "地下河",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "underground river"
+        }
+    },
+    {
+        "concept_name": "地下热卤水",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "underground geothermal brine"
+        }
+    },
+    {
+        "concept_name": "地下热水",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "geothermal water"
+        }
+    },
+    {
+        "concept_name": "地压型地热资源",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "geopressure geothermal resources"
+        }
+    },
+    {
+        "concept_name": "地热工业",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "geothermal industry"
+        }
+    },
+    {
+        "concept_name": "地热异常",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "geothermal anomaly"
+        }
+    },
+    {
+        "concept_name": "地热异常带",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "geothermal anomalous zone"
+        }
+    },
+    {
+        "concept_name": "地热活动",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "geothermal activity"
+        }
+    },
+    {
+        "concept_name": "地热田",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "geothermal field"
+        }
+    },
+    {
+        "concept_name": "地热省",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "geothermal province"
+        }
+    },
+    {
+        "concept_name": "地热能",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "geothermal energy"
+        }
+    },
+    {
+        "concept_name": "地热资源评价",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "geothermal resources assessment"
+        }
+    },
+    {
+        "concept_name": "均匀流",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "uniform flow"
+        }
+    },
+    {
+        "concept_name": "基准温度",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "base temperature"
+        }
+    },
+    {
+        "concept_name": "多孔介质",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "porous medium"
+        }
+    },
+    {
+        "concept_name": "天然热流量法",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "natural heat-flux method"
+        }
+    },
+    {
+        "concept_name": "孔隙水",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "pore water"
+        }
+    },
+    {
+        "concept_name": "富水性",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "water yield property"
+        }
+    },
+    {
+        "concept_name": "富水程度",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "water storage capacity"
+        }
+    },
+    {
+        "concept_name": "导水性",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "transmissivity"
+        }
+    },
+    {
+        "concept_name": "导水系数",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "transmissibility coefficient"
+        }
+    },
+    {
+        "concept_name": "封存水",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "connate water"
+        }
+    },
+    {
+        "concept_name": "层间水",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "interstratified water"
+        }
+    },
+    {
+        "concept_name": "层间越流",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "leakage"
+        }
+    },
+    {
+        "concept_name": "干热岩",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "hot dry rock"
+        }
+    },
+    {
+        "concept_name": "干蒸汽田",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "dry steam field"
+        }
+    },
+    {
+        "concept_name": "废水",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "waste water"
+        }
+    },
+    {
+        "concept_name": "弥散晕",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "halo of water diffusion"
+        }
+    },
+    {
+        "concept_name": "弥散系数",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "coefficient of dispersion"
+        }
+    },
+    {
+        "concept_name": "弱透水层",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "aquitard"
+        }
+    },
+    {
+        "concept_name": "影响半径",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "radius of influence"
+        }
+    },
+    {
+        "concept_name": "承压含水层",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "confined aquifer"
+        }
+    },
+    {
+        "concept_name": "承压水",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "confined water"
+        }
+    },
+    {
+        "concept_name": "承压水盆地",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "confined water basin"
+        }
+    },
+    {
+        "concept_name": "抽水试验",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "pumping test"
+        }
+    },
+    {
+        "concept_name": "持水度",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "sustain capacity"
+        }
+    },
+    {
+        "concept_name": "持水量",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "moisture capacity"
+        }
+    },
+    {
+        "concept_name": "放射性水",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "radioactive water"
+        }
+    },
+    {
+        "concept_name": "断层泉",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "fault spring"
+        }
+    },
+    {
+        "concept_name": "暂时硬度",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "temporary hardness"
+        }
+    },
+    {
+        "concept_name": "毛细管水",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "capillary water"
+        }
+    },
+    {
+        "concept_name": "水位",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "water level"
+        }
+    },
+    {
+        "concept_name": "水位降深",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "dropdown"
+        }
+    },
+    {
+        "concept_name": "水力梯度",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "hydraulic gradient"
+        }
+    },
+    {
+        "concept_name": "水化学场",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "hydrochemical field"
+        }
+    },
+    {
+        "concept_name": "水化学类型",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "hydrochemical type"
+        }
+    },
+    {
+        "concept_name": "水头",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "hydraulic head"
+        }
+    },
+    {
+        "concept_name": "水循环",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "water circulation"
+        }
+    },
+    {
+        "concept_name": "水文地质分区",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "hydrogeological division"
+        }
+    },
+    {
+        "concept_name": "水文地质勘查",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "hydrogeological investigation"
+        }
+    },
+    {
+        "concept_name": "水文地质条件",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "hydrogeological condition"
+        }
+    },
+    {
+        "concept_name": "水样",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "water sample"
+        }
+    },
+    {
+        "concept_name": "水汽比",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "liquid to steam ratio"
+        }
+    },
+    {
+        "concept_name": "水热活动",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "hydrothermal activity"
+        }
+    },
+    {
+        "concept_name": "水热爆炸",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "hydrothermal explosion"
+        }
+    },
+    {
+        "concept_name": "水质全分析",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "complete water quality analysis"
+        }
+    },
+    {
+        "concept_name": "水质分析",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "water quality analysis"
+        }
+    },
+    {
+        "concept_name": "水质评价",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "water quality evaluation"
+        }
+    },
+    {
+        "concept_name": "水跃值",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "hydraulic jump"
+        }
+    },
+    {
+        "concept_name": "水迁移系数",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "coefficient of aqueous migration"
+        }
+    },
+    {
+        "concept_name": "水量平衡",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "又称": " 水均衡",
+            "见载": "《地质学名词》第一版",
+            "英文名": "hydraulic budget"
+        }
+    },
+    {
+        "concept_name": "污染水",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "polluted water"
+        }
+    },
+    {
+        "concept_name": "油田水",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "oil field water"
+        }
+    },
+    {
+        "concept_name": "泉",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "spring"
+        }
+    },
+    {
+        "concept_name": "注水试验",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "water injection test"
+        }
+    },
+    {
+        "concept_name": "活动地热系统",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "active geothermal system"
+        }
+    },
+    {
+        "concept_name": "流网",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "flow net"
+        }
+    },
+    {
+        "concept_name": "浅孔测温",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "shallow well thermometry"
+        }
+    },
+    {
+        "concept_name": "涌水量",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "water yield"
+        }
+    },
+    {
+        "concept_name": "淡咸水界面",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "interface of fresh-saline water"
+        }
+    },
+    {
+        "concept_name": "深层水",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "deep seated water"
+        }
+    },
+    {
+        "concept_name": "混合水",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "admixing water"
+        }
+    },
+    {
+        "concept_name": "渗水井",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "absorbing well"
+        }
+    },
+    {
+        "concept_name": "渗流水",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "seepage water"
+        }
+    },
+    {
+        "concept_name": "渗透系数",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "permeability coefficient"
+        }
+    },
+    {
+        "concept_name": "温泉",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "thermal spring"
+        }
+    },
+    {
+        "concept_name": "潜水",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "phreatic water"
+        }
+    },
+    {
+        "concept_name": "潜水位",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "phreatic water level"
+        }
+    },
+    {
+        "concept_name": "潜水含水层",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "phreatic aquifer"
+        }
+    },
+    {
+        "concept_name": "潜流",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "underground flow"
+        }
+    },
+    {
+        "concept_name": "热储",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "geothermal reservoir"
+        }
+    },
+    {
+        "concept_name": "热储工程",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "geothermal reservoir engineering"
+        }
+    },
+    {
+        "concept_name": "热害",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "thermal damage"
+        }
+    },
+    {
+        "concept_name": "热应力",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "thermal stress"
+        }
+    },
+    {
+        "concept_name": "热水区",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "hydrothermal area"
+        }
+    },
+    {
+        "concept_name": "焓氯图解",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "enthalpy-chloride diagram"
+        }
+    },
+    {
+        "concept_name": "电模拟法",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "electrical analogue method"
+        }
+    },
+    {
+        "concept_name": "矿井疏干",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "shaft draining"
+        }
+    },
+    {
+        "concept_name": "矿坑水",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "mine water"
+        }
+    },
+    {
+        "concept_name": "矿水",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "mineral water"
+        }
+    },
+    {
+        "concept_name": "硫磺泉",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "sulfur spring"
+        }
+    },
+    {
+        "concept_name": "硬水",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "hard water"
+        }
+    },
+    {
+        "concept_name": "碱性泉",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "alkaline spring"
+        }
+    },
+    {
+        "concept_name": "碳酸水",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "carbonated water"
+        }
+    },
+    {
+        "concept_name": "稳定流",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "steady flow"
+        }
+    },
+    {
+        "concept_name": "突水",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "gush out"
+        }
+    },
+    {
+        "concept_name": "等势线",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "equipotential line"
+        }
+    },
+    {
+        "concept_name": "等水位线",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "phreatic water contour"
+        }
+    },
+    {
+        "concept_name": "等水压线",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "piezometric contour"
+        }
+    },
+    {
+        "concept_name": "紊流",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "turbulent flow"
+        }
+    },
+    {
+        "concept_name": "结晶水",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "crystal water"
+        }
+    },
+    {
+        "concept_name": "给水度",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "specific yield"
+        }
+    },
+    {
+        "concept_name": "自封闭",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "self-sealing"
+        }
+    },
+    {
+        "concept_name": "自流井",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "artesian well"
+        }
+    },
+    {
+        "concept_name": "自流水",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "artesian water"
+        }
+    },
+    {
+        "concept_name": "自流水盆地",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "artesian basin"
+        }
+    },
+    {
+        "concept_name": "薄膜水",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "film water"
+        }
+    },
+    {
+        "concept_name": "裂隙水",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "fissure water"
+        }
+    },
+    {
+        "concept_name": "软水",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "soft water"
+        }
+    },
+    {
+        "concept_name": "透水层",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "permeable layer"
+        }
+    },
+    {
+        "concept_name": "透水性",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "perviousness"
+        }
+    },
+    {
+        "concept_name": "酸性泉",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "acidulous spring"
+        }
+    },
+    {
+        "concept_name": "重力水",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "gravitational water"
+        }
+    },
+    {
+        "concept_name": "钾钠地热温标",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "sodium-potassium geothermometer"
+        }
+    },
+    {
+        "concept_name": "间歇泉",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "geyser"
+        }
+    },
+    {
+        "concept_name": "隔水性",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "water resisting property"
+        }
+    },
+    {
+        "concept_name": "非承压含水层",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "unconfined aquifer"
+        }
+    },
+    {
+        "concept_name": "非稳定流",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "unsteady flow"
+        }
+    },
+    {
+        "concept_name": "非饱和水流",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "unsaturated flow"
+        }
+    },
+    {
+        "concept_name": "饱和度",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "saturation"
+        }
+    },
+    {
+        "concept_name": "饱和水流",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "saturated flow"
+        }
+    },
+    {
+        "concept_name": "饱水带",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "zone of saturation"
+        }
+    },
+    {
+        "concept_name": "高氟水",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "high-fluorine water"
+        }
+    },
+    {
+        "concept_name": "高焓流体",
+        "details": {
+            "学科": "地质学_水文地质学",
+            "见载": "《地质学名词》第一版",
+            "英文名": "high-enthalpy fluid"
+        }
+    }
+]

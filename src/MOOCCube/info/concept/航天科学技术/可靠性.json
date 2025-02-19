@@ -1,0 +1,1532 @@
+[
+    {
+        "concept_name": "不可修复产品",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "non-repairable item"
+        }
+    },
+    {
+        "concept_name": "不工作时间",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "non-operative time"
+        }
+    },
+    {
+        "concept_name": "不能工作时间",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "又称": " 停机时间",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "down time"
+        }
+    },
+    {
+        "concept_name": "严酷度",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "severity"
+        }
+    },
+    {
+        "concept_name": "事件树分析",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "event tree analysis"
+        }
+    },
+    {
+        "concept_name": "事故",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "accident"
+        }
+    },
+    {
+        "concept_name": "事故预防",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "accident prevention"
+        }
+    },
+    {
+        "concept_name": "互换性",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "interchangeability"
+        }
+    },
+    {
+        "concept_name": "产品保证",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "product assurance"
+        }
+    },
+    {
+        "concept_name": "产品保证大纲",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "product assurance program"
+        }
+    },
+    {
+        "concept_name": "产品证明书",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "product certificate"
+        }
+    },
+    {
+        "concept_name": "产品责任",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "product liability"
+        }
+    },
+    {
+        "concept_name": "任务剖面",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "mission profile"
+        }
+    },
+    {
+        "concept_name": "任务维修性",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "mission maintainability"
+        }
+    },
+    {
+        "concept_name": "使用准备完好率",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "又称": " 战备完好性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "operational readiness"
+        }
+    },
+    {
+        "concept_name": "使用可用性",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "operational availability"
+        }
+    },
+    {
+        "concept_name": "使用周期",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "operating cycle"
+        }
+    },
+    {
+        "concept_name": "使用寿命",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "英文": "service life ;useful life",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "service life"
+        }
+    },
+    {
+        "concept_name": "保障性",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "supportability"
+        }
+    },
+    {
+        "concept_name": "修复性维修",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "corrective maintenance"
+        }
+    },
+    {
+        "concept_name": "修理",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "repair"
+        }
+    },
+    {
+        "concept_name": "偶然故障",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "random fault"
+        }
+    },
+    {
+        "concept_name": "全面质量管理",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "total quality management"
+        }
+    },
+    {
+        "concept_name": "共因故障",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "common cause fault"
+        }
+    },
+    {
+        "concept_name": "关键软件",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "critical software"
+        }
+    },
+    {
+        "concept_name": "兼容性",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "compatibility"
+        }
+    },
+    {
+        "concept_name": "冷备份",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "cold spare"
+        }
+    },
+    {
+        "concept_name": "出厂评审",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ex-factory review"
+        }
+    },
+    {
+        "concept_name": "分配值",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "allocated value"
+        }
+    },
+    {
+        "concept_name": "加速试验",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "accelerated test"
+        }
+    },
+    {
+        "concept_name": "单点失效概率",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "probability of spf"
+        }
+    },
+    {
+        "concept_name": "卫星在轨测试交付可靠度",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "reliability of satellite in orbit test"
+        }
+    },
+    {
+        "concept_name": "危害度分析",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "criticality analysis"
+        }
+    },
+    {
+        "concept_name": "危害度类别",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "criticality category"
+        }
+    },
+    {
+        "concept_name": "危险",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "hazard"
+        }
+    },
+    {
+        "concept_name": "危险分析",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "hazard analysis"
+        }
+    },
+    {
+        "concept_name": "危险等级",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "hazard level"
+        }
+    },
+    {
+        "concept_name": "发射可靠度",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "launching reliability"
+        }
+    },
+    {
+        "concept_name": "发射场设备更换率",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "site equipment change rate"
+        }
+    },
+    {
+        "concept_name": "可信性",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "dependability"
+        }
+    },
+    {
+        "concept_name": "可修复产品",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "repairable item"
+        }
+    },
+    {
+        "concept_name": "可更换单元",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "replaceable units"
+        }
+    },
+    {
+        "concept_name": "可用性",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "availability"
+        }
+    },
+    {
+        "concept_name": "可达可用性",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "achieved availability"
+        }
+    },
+    {
+        "concept_name": "可达性",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "accessibility"
+        }
+    },
+    {
+        "concept_name": "可靠性",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "reliability"
+        }
+    },
+    {
+        "concept_name": "可靠性保证大纲",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "reliability assurance program"
+        }
+    },
+    {
+        "concept_name": "可靠性分配",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "reliability allocation"
+        }
+    },
+    {
+        "concept_name": "可靠性增长",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "reliability growth"
+        }
+    },
+    {
+        "concept_name": "可靠性增长管理",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "reliability growth management"
+        }
+    },
+    {
+        "concept_name": "可靠性增长试验",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "reliability growth test"
+        }
+    },
+    {
+        "concept_name": "可靠性工作计划",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "reliability program plan"
+        }
+    },
+    {
+        "concept_name": "可靠性监控",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "reliability monitoring"
+        }
+    },
+    {
+        "concept_name": "可靠性维修性",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "reliability and maintanability"
+        }
+    },
+    {
+        "concept_name": "可靠性维修性使用参数",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "r&m operational parameter"
+        }
+    },
+    {
+        "concept_name": "可靠性维修性合同参数",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "r&m contractual parameter"
+        }
+    },
+    {
+        "concept_name": "可靠性试验",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "reliability test"
+        }
+    },
+    {
+        "concept_name": "可靠性预计",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "reliability prediction"
+        }
+    },
+    {
+        "concept_name": "可靠性验证试验",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "reliability verification test"
+        }
+    },
+    {
+        "concept_name": "合格",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "conformity"
+        }
+    },
+    {
+        "concept_name": "合格证书",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "certificate of conformity"
+        }
+    },
+    {
+        "concept_name": "后勤保障分析",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "logistic support analysis"
+        }
+    },
+    {
+        "concept_name": "固有可用性",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "inherent availability"
+        }
+    },
+    {
+        "concept_name": "国际标准化组织",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "英文": "International Organization for Standardization ;ISO",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "International Organization for Standardization"
+        }
+    },
+    {
+        "concept_name": "基本可靠性",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "basic reliability"
+        }
+    },
+    {
+        "concept_name": "大修",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "overhaul"
+        }
+    },
+    {
+        "concept_name": "失效分析",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "failure analysis"
+        }
+    },
+    {
+        "concept_name": "失效影响",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "failure effect"
+        }
+    },
+    {
+        "concept_name": "失效报告、分析与纠正措施系统",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "英文": "failure reporting ;analysis and corrective action system ;FRACAS",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "failure reporting"
+        }
+    },
+    {
+        "concept_name": "失效机理",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "failure mechanism"
+        }
+    },
+    {
+        "concept_name": "失效模式、影响与危害度分析",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "failure mode"
+        }
+    },
+    {
+        "concept_name": "失效模式与影响分析",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "failure mode and effect analysis"
+        }
+    },
+    {
+        "concept_name": "完整性控制",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "integrity control"
+        }
+    },
+    {
+        "concept_name": "容差分析",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "tolerance analysis"
+        }
+    },
+    {
+        "concept_name": "容错",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "fault-tolerance"
+        }
+    },
+    {
+        "concept_name": "寿命",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "lifetime"
+        }
+    },
+    {
+        "concept_name": "寿命单位",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "life unit"
+        }
+    },
+    {
+        "concept_name": "寿命周期",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "life cycle"
+        }
+    },
+    {
+        "concept_name": "寿命周期费用分析",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "life cycle cost analysis"
+        }
+    },
+    {
+        "concept_name": "寿命试验",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "life test"
+        }
+    },
+    {
+        "concept_name": "工作寿命加速试验",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "operating life accelerated test"
+        }
+    },
+    {
+        "concept_name": "平均任务持续时间",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "mean mission duration time"
+        }
+    },
+    {
+        "concept_name": "平均无故障工作时间",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "mean time between failures"
+        }
+    },
+    {
+        "concept_name": "并行工程",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "concurrent engineering"
+        }
+    },
+    {
+        "concept_name": "待命可靠度",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "alert reliability"
+        }
+    },
+    {
+        "concept_name": "待命时间",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "standby time"
+        }
+    },
+    {
+        "concept_name": "意外事件分析",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "contingency analysis"
+        }
+    },
+    {
+        "concept_name": "技术状态更改控制",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "configuration change control"
+        }
+    },
+    {
+        "concept_name": "技术状态管理",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "configuration management"
+        }
+    },
+    {
+        "concept_name": "放行准则",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "exit criteria"
+        }
+    },
+    {
+        "concept_name": "故障",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "fault"
+        }
+    },
+    {
+        "concept_name": "故障定位",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "fault localization"
+        }
+    },
+    {
+        "concept_name": "故障树",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "fault tree"
+        }
+    },
+    {
+        "concept_name": "故障树分析",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "fault tree analysis"
+        }
+    },
+    {
+        "concept_name": "故障运行",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "failure operation"
+        }
+    },
+    {
+        "concept_name": "故障隔离",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "fault isolation"
+        }
+    },
+    {
+        "concept_name": "故障隔离率",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "fault isolation rate"
+        }
+    },
+    {
+        "concept_name": "救生措施",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "rescue action"
+        }
+    },
+    {
+        "concept_name": "替代件",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "substitute parts"
+        }
+    },
+    {
+        "concept_name": "最低可接受值",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "minimum acceptable value"
+        }
+    },
+    {
+        "concept_name": "最坏情况分析",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "worst condition analysis"
+        }
+    },
+    {
+        "concept_name": "有限使用期产品",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "limited operating life item"
+        }
+    },
+    {
+        "concept_name": "有限寿命产品",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "limited life item"
+        }
+    },
+    {
+        "concept_name": "有限贮存期产品",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "limited shelf life item"
+        }
+    },
+    {
+        "concept_name": "机内测试",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "built-in test"
+        }
+    },
+    {
+        "concept_name": "残余危险",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "residual hazard"
+        }
+    },
+    {
+        "concept_name": "测试性设计",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "testability design"
+        }
+    },
+    {
+        "concept_name": "渐变故障",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "gradual fault"
+        }
+    },
+    {
+        "concept_name": "温备份",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "warm spare"
+        }
+    },
+    {
+        "concept_name": "潜在故障",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "potential fault"
+        }
+    },
+    {
+        "concept_name": "潜在通路分析",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "sneak circuit analysis"
+        }
+    },
+    {
+        "concept_name": "灾难性故障",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "catastrophic fault"
+        }
+    },
+    {
+        "concept_name": "特许件",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "waiver"
+        }
+    },
+    {
+        "concept_name": "独立故障",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "independent fault"
+        }
+    },
+    {
+        "concept_name": "环境应力筛选",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "environmental stress screening"
+        }
+    },
+    {
+        "concept_name": "环境条件",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "environmental conditions"
+        }
+    },
+    {
+        "concept_name": "电气电子机电零件",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "又称": " EEE零件",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "electrical"
+        }
+    },
+    {
+        "concept_name": "确定的事故",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "credible accident"
+        }
+    },
+    {
+        "concept_name": "第一次大修期",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "time to first overhaul"
+        }
+    },
+    {
+        "concept_name": "筛选",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "screening"
+        }
+    },
+    {
+        "concept_name": "系统效能",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "system effectiveness"
+        }
+    },
+    {
+        "concept_name": "约定层次",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "indenture level"
+        }
+    },
+    {
+        "concept_name": "维修",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "maintenance"
+        }
+    },
+    {
+        "concept_name": "维修事件",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "maintenance event"
+        }
+    },
+    {
+        "concept_name": "维修作业",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "maintenance activity"
+        }
+    },
+    {
+        "concept_name": "维修性",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "maintainability"
+        }
+    },
+    {
+        "concept_name": "维修性保证",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "maintainability assurance"
+        }
+    },
+    {
+        "concept_name": "维修性保证大纲",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "maintainability assurance program"
+        }
+    },
+    {
+        "concept_name": "维修性分析",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "maintainability analysis"
+        }
+    },
+    {
+        "concept_name": "维修性分配",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "maintainability allocation"
+        }
+    },
+    {
+        "concept_name": "维修性工作计划",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "maintainability program plan"
+        }
+    },
+    {
+        "concept_name": "维修性模型",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "maintainability model"
+        }
+    },
+    {
+        "concept_name": "维修性预计",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "maintainability prediction"
+        }
+    },
+    {
+        "concept_name": "维护",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "servicing"
+        }
+    },
+    {
+        "concept_name": "综合产品小组",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "英文": "integrated product team ;IPT",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "integrated product team"
+        }
+    },
+    {
+        "concept_name": "综合后勤保障",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "integrated logistic support"
+        }
+    },
+    {
+        "concept_name": "老炼",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "burn-in"
+        }
+    },
+    {
+        "concept_name": "耐久性试验",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "endurance test"
+        }
+    },
+    {
+        "concept_name": "能工作时间",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "又称": " 作业时间",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "up time"
+        }
+    },
+    {
+        "concept_name": "航天员安全性",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "astronaut safety"
+        }
+    },
+    {
+        "concept_name": "虚警率",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "false alarm rate"
+        }
+    },
+    {
+        "concept_name": "规定值",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "specified value"
+        }
+    },
+    {
+        "concept_name": "认证",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "certification"
+        }
+    },
+    {
+        "concept_name": "责任故障",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "chargeable fault"
+        }
+    },
+    {
+        "concept_name": "质量",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "又称": " 品质",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "quality"
+        }
+    },
+    {
+        "concept_name": "质量与可靠性",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "quality and reliability"
+        }
+    },
+    {
+        "concept_name": "质量与可靠性信息系统",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "英文": "Q&R information system ;Q&R data system",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "Q&R information system"
+        }
+    },
+    {
+        "concept_name": "质量保证",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "quality assurance"
+        }
+    },
+    {
+        "concept_name": "质量保证体系",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "quality assurance system"
+        }
+    },
+    {
+        "concept_name": "质量保证大纲",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "quality assurance program"
+        }
+    },
+    {
+        "concept_name": "质量保证模式",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "quality assurance mode"
+        }
+    },
+    {
+        "concept_name": "质量分析",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "quality analysis"
+        }
+    },
+    {
+        "concept_name": "质量反馈",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "quality feedback"
+        }
+    },
+    {
+        "concept_name": "质量审核",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "quality audit"
+        }
+    },
+    {
+        "concept_name": "质量审核员",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "quality auditor"
+        }
+    },
+    {
+        "concept_name": "质量成本",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "quality-related costs"
+        }
+    },
+    {
+        "concept_name": "质量手册",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "quality manual"
+        }
+    },
+    {
+        "concept_name": "质量损失",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "quality loss"
+        }
+    },
+    {
+        "concept_name": "质量改进",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "quality improvement"
+        }
+    },
+    {
+        "concept_name": "质量方针",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "quality policy"
+        }
+    },
+    {
+        "concept_name": "质量监督",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "quality surveillance"
+        }
+    },
+    {
+        "concept_name": "质量策划",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "quality planning"
+        }
+    },
+    {
+        "concept_name": "质量计划",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "quality plan"
+        }
+    },
+    {
+        "concept_name": "质量认证",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "quality certification"
+        }
+    },
+    {
+        "concept_name": "质量评价",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "quality assessment"
+        }
+    },
+    {
+        "concept_name": "质量问题归零",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "turning quality problem to zero"
+        }
+    },
+    {
+        "concept_name": "贮存可靠度",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "storage reliability"
+        }
+    },
+    {
+        "concept_name": "贮存寿命加速试验",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "storage life accelerated test"
+        }
+    },
+    {
+        "concept_name": "贮存试验",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "storage test"
+        }
+    },
+    {
+        "concept_name": "趋势分析",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "trend analysis"
+        }
+    },
+    {
+        "concept_name": "软件可靠性",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "software reliability"
+        }
+    },
+    {
+        "concept_name": "软件质量保证",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "software quality assurance"
+        }
+    },
+    {
+        "concept_name": "过应力",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "overstress"
+        }
+    },
+    {
+        "concept_name": "运行剖面",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "operation profile"
+        }
+    },
+    {
+        "concept_name": "运载可靠度",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "carrying reliability"
+        }
+    },
+    {
+        "concept_name": "重大问题",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "significant problem"
+        }
+    },
+    {
+        "concept_name": "重大问题报告",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "significant problem report"
+        }
+    },
+    {
+        "concept_name": "重要件",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "important part"
+        }
+    },
+    {
+        "concept_name": "鉴定合格",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "be qualified"
+        }
+    },
+    {
+        "concept_name": "鉴定过程",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "qualification process"
+        }
+    },
+    {
+        "concept_name": "问题",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "problem"
+        }
+    },
+    {
+        "concept_name": "问题分析",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "problem analysis"
+        }
+    },
+    {
+        "concept_name": "问题趋势分析",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "problem trend analysis"
+        }
+    },
+    {
+        "concept_name": "间歇故障",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "intermittent fault"
+        }
+    },
+    {
+        "concept_name": "阈[值]",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "threshold"
+        }
+    },
+    {
+        "concept_name": "非计划维修",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "unscheduled maintenance"
+        }
+    },
+    {
+        "concept_name": "非责任故障",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "non-chargeable fault"
+        }
+    },
+    {
+        "concept_name": "风险分析",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "risk analysis"
+        }
+    },
+    {
+        "concept_name": "验收",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "acceptance"
+        }
+    },
+    {
+        "concept_name": "验收试验",
+        "details": {
+            "学科": "航天科学技术_可靠性",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "acceptance test"
+        }
+    }
+]

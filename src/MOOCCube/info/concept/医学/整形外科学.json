@@ -1,0 +1,3043 @@
+[
+    {
+        "concept_name": "W成形术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "W-plasty"
+        }
+    },
+    {
+        "concept_name": "Z成形术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "Z-plasty"
+        }
+    },
+    {
+        "concept_name": "[上]睑下垂",
+        "details": {
+            "学科": "医学_整形外科学",
+            "英文": "blepharoptosis ;ptosis of upper lid",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "blepharoptosis"
+        }
+    },
+    {
+        "concept_name": "[耳]屏间切迹",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "intertragic notch"
+        }
+    },
+    {
+        "concept_name": "[鼻前庭]软骨间切口",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "intercartilaginous incision"
+        }
+    },
+    {
+        "concept_name": "一期修复",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "one stage repair"
+        }
+    },
+    {
+        "concept_name": "三菱形皮瓣",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "triple rhomboid skin flap"
+        }
+    },
+    {
+        "concept_name": "三角窝",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "triangular fossa [of auricle]"
+        }
+    },
+    {
+        "concept_name": "上唇正中裂",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "median upper lip cleft"
+        }
+    },
+    {
+        "concept_name": "上皮形成",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "epithelization"
+        }
+    },
+    {
+        "concept_name": "上睑提肌缩短术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "shortening operation of musculus le-vator palpebrae superioris"
+        }
+    },
+    {
+        "concept_name": "下睑紧缩术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "英文": "lower eyelid tightening ;Kuhnt-Szy-manowski operation",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "lower eyelid tightening"
+        }
+    },
+    {
+        "concept_name": "不全并指",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "incomplete syndactyly"
+        }
+    },
+    {
+        "concept_name": "不全并趾",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "incomplete syndactyly"
+        }
+    },
+    {
+        "concept_name": "不对称",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "asymmetry"
+        }
+    },
+    {
+        "concept_name": "不对称乳房",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "asymmetrical breasts"
+        }
+    },
+    {
+        "concept_name": "不稳定性萎缩瘢痕",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "unstable atrophic scar"
+        }
+    },
+    {
+        "concept_name": "中厚皮片",
+        "details": {
+            "学科": "医学_整形外科学",
+            "又称": " 断层皮片(sp-lit thickness free skingraft)",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "intermediate thickness free skin graft"
+        }
+    },
+    {
+        "concept_name": "乳头乳晕再造术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "nipple-areola reconstruction"
+        }
+    },
+    {
+        "concept_name": "乳头乳晕复合体",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "nipple-areola complex"
+        }
+    },
+    {
+        "concept_name": "乳头乳晕复合组织游离移植术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "nipple-areola compound tissue free grafting"
+        }
+    },
+    {
+        "concept_name": "乳房瓣",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "breast flap"
+        }
+    },
+    {
+        "concept_name": "乳房缺如",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "amastia"
+        }
+    },
+    {
+        "concept_name": "乳腺萎缩",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "mammary gland atrophy"
+        }
+    },
+    {
+        "concept_name": "五瓣成形术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "five-flap plasty"
+        }
+    },
+    {
+        "concept_name": "交叉唇瓣",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "cross lip flap"
+        }
+    },
+    {
+        "concept_name": "交叉睑瓣",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "eyelid switch flap"
+        }
+    },
+    {
+        "concept_name": "交臂皮瓣",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "cross arm skin flap"
+        }
+    },
+    {
+        "concept_name": "人工关节",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "artificial joint"
+        }
+    },
+    {
+        "concept_name": "人工皮",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "artificial skin"
+        }
+    },
+    {
+        "concept_name": "人工眼",
+        "details": {
+            "学科": "医学_整形外科学",
+            "又称": " 义眼、假眼",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "artificial eye"
+        }
+    },
+    {
+        "concept_name": "人工耳",
+        "details": {
+            "学科": "医学_整形外科学",
+            "又称": " 假耳",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "artificial ear"
+        }
+    },
+    {
+        "concept_name": "人工骨",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "artificial bone"
+        }
+    },
+    {
+        "concept_name": "人工鼻",
+        "details": {
+            "学科": "医学_整形外科学",
+            "又称": " 假鼻",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "artificial nose"
+        }
+    },
+    {
+        "concept_name": "休斯手术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "又称": " 睑劈裂术(eyelid splid operation)",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "Hughes operation"
+        }
+    },
+    {
+        "concept_name": "低温冷藏组织贮存",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "tissue storage by refrigeration"
+        }
+    },
+    {
+        "concept_name": "供区",
+        "details": {
+            "学科": "医学_整形外科学",
+            "英文": "donor site ;donor area",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "donor site"
+        }
+    },
+    {
+        "concept_name": "侵蚀性溃疡",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "rodent ulcer"
+        }
+    },
+    {
+        "concept_name": "假性眶距过宽",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "false orbital hypertelorism"
+        }
+    },
+    {
+        "concept_name": "充注型阴道模具",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "inflatable vaginal stent"
+        }
+    },
+    {
+        "concept_name": "先天性关节挛缩",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "congenital arthrogryposis"
+        }
+    },
+    {
+        "concept_name": "先天性无指",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "adactyly"
+        }
+    },
+    {
+        "concept_name": "先天性无耳",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "congenital anotia"
+        }
+    },
+    {
+        "concept_name": "先天性无肢",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "amelia"
+        }
+    },
+    {
+        "concept_name": "先天性无趾",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "adactyly"
+        }
+    },
+    {
+        "concept_name": "先天性缺指",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "ectrodactyly"
+        }
+    },
+    {
+        "concept_name": "先天性缺趾",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "ectrodactyly"
+        }
+    },
+    {
+        "concept_name": "免疫排斥[反应]",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "immunological rejection"
+        }
+    },
+    {
+        "concept_name": "全头皮撕脱[伤]",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "total scalp avulsion injury"
+        }
+    },
+    {
+        "concept_name": "关节囊切除术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "articular capsulectomy"
+        }
+    },
+    {
+        "concept_name": "内嵌植皮术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "又称": " 包模植皮术(stent skin grafting)",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "inlay skin grafting"
+        }
+    },
+    {
+        "concept_name": "冠状切口",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "coronal incision"
+        }
+    },
+    {
+        "concept_name": "冷冻保护剂",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "cryoprotective agent"
+        }
+    },
+    {
+        "concept_name": "凋亡",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "apoptosis"
+        }
+    },
+    {
+        "concept_name": "减张切口",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "relaxation incision"
+        }
+    },
+    {
+        "concept_name": "刃厚皮片",
+        "details": {
+            "学科": "医学_整形外科学",
+            "英文": "razor graft ;Ollier-Thiersch free skin graft",
+            "又称": " 表层皮片(epidermal free skin graft)",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "razor graft"
+        }
+    },
+    {
+        "concept_name": "分期切除[术]",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "excision in stages"
+        }
+    },
+    {
+        "concept_name": "切口瘢痕",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "incisional scar"
+        }
+    },
+    {
+        "concept_name": "切除[术]",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "excision"
+        }
+    },
+    {
+        "concept_name": "创伤愈合",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "healing of wound"
+        }
+    },
+    {
+        "concept_name": "削痂术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "eschar shaving"
+        }
+    },
+    {
+        "concept_name": "前臂分叉术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "forearm splitting operation"
+        }
+    },
+    {
+        "concept_name": "副乳房",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "accessory breast"
+        }
+    },
+    {
+        "concept_name": "副耳",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "accessory ear"
+        }
+    },
+    {
+        "concept_name": "功能锻炼",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "functional exercise"
+        }
+    },
+    {
+        "concept_name": "动力悬吊",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "dynamic suspension"
+        }
+    },
+    {
+        "concept_name": "包涵囊肿",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "inclusion cyst"
+        }
+    },
+    {
+        "concept_name": "匐行置换",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "creeping substitution"
+        }
+    },
+    {
+        "concept_name": "化学烧伤",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "chemical burn"
+        }
+    },
+    {
+        "concept_name": "单侧唇裂",
+        "details": {
+            "学科": "医学_整形外科学",
+            "英文": "unilateral cleft lip ;unilateral hare-lip",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "unilateral cleft lip"
+        }
+    },
+    {
+        "concept_name": "单侧腭裂",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "unilateral cleft palate"
+        }
+    },
+    {
+        "concept_name": "即时修复",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "immediate repair"
+        }
+    },
+    {
+        "concept_name": "即时转移",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "immediate transfer"
+        }
+    },
+    {
+        "concept_name": "即时软组织扩张术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "immediate soft tissue expansion"
+        }
+    },
+    {
+        "concept_name": "厚[的]中厚皮片",
+        "details": {
+            "学科": "医学_整形外科学",
+            "又称": " 厚断层皮片(thick split thicknessfree skin graft)",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "thick intermediate thickness free skin graft"
+        }
+    },
+    {
+        "concept_name": "原发性瘢痕挛缩",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "intrinsic cicatricial contracture"
+        }
+    },
+    {
+        "concept_name": "原始口腔",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "primitive oral cavity"
+        }
+    },
+    {
+        "concept_name": "去上皮",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "de-epithelization"
+        }
+    },
+    {
+        "concept_name": "去上皮皮瓣",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "de-epithelized skin flap"
+        }
+    },
+    {
+        "concept_name": "双极电凝器",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "bipolar electrocoagulator"
+        }
+    },
+    {
+        "concept_name": "双菱形皮瓣",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "double rhomboid skin flap"
+        }
+    },
+    {
+        "concept_name": "受区",
+        "details": {
+            "学科": "医学_整形外科学",
+            "英文": "recipient site ;recipient area",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "recipient site"
+        }
+    },
+    {
+        "concept_name": "口眼裂",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "oro-ocular facial cleft"
+        }
+    },
+    {
+        "concept_name": "可拆线连续皮内缝合",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "removable continuous intradermal suture"
+        }
+    },
+    {
+        "concept_name": "同基因移植物",
+        "details": {
+            "学科": "医学_整形外科学",
+            "英文": "syngeneic graft ;isograft",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "syngeneic graft"
+        }
+    },
+    {
+        "concept_name": "后天性并指",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "acquired syndactyly"
+        }
+    },
+    {
+        "concept_name": "后天性并趾",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "acquired syndactyly"
+        }
+    },
+    {
+        "concept_name": "后天畸形",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "acquired deformity"
+        }
+    },
+    {
+        "concept_name": "吸收",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "absorption"
+        }
+    },
+    {
+        "concept_name": "吻合血管的游离大网膜瓣移植术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "revascularized free omentum flap grafting"
+        }
+    },
+    {
+        "concept_name": "吻合血管的游离筋膜瓣移植术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "revascularized free fascial flap grafting"
+        }
+    },
+    {
+        "concept_name": "吻合血管的游离肠段移植术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "revascularized free intestinal seg-ment grafting"
+        }
+    },
+    {
+        "concept_name": "吻合血管的游离骨膜移植术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "revascularized free periosteum graft-ing"
+        }
+    },
+    {
+        "concept_name": "吻合血管的第二趾移植拇指再造术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "reconstruction of thumb with free second toe to hand transfer by vascular anastomosis"
+        }
+    },
+    {
+        "concept_name": "咖啡牛奶色[素]斑",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "caf?au lait spots"
+        }
+    },
+    {
+        "concept_name": "咬肌良性肥大",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "benign masseleric hypotrophy"
+        }
+    },
+    {
+        "concept_name": "唇不全裂",
+        "details": {
+            "学科": "医学_整形外科学",
+            "英文": "incomplete cleft lip ;incomplete harelip",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "incomplete cleft lip"
+        }
+    },
+    {
+        "concept_name": "唇瓣",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "lip flap"
+        }
+    },
+    {
+        "concept_name": "唇裂旋转推进瓣修复术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "cleft lip repair by Millard rotation-advancement flap technique"
+        }
+    },
+    {
+        "concept_name": "四瓣Z成形术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "英文": "four-flap Z-plasty ;double opposing Z-plasty",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "four-flap Z-plasty"
+        }
+    },
+    {
+        "concept_name": "围裙状黏膜瓣",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "apron mucosal flap"
+        }
+    },
+    {
+        "concept_name": "圆形切口",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "circular incision"
+        }
+    },
+    {
+        "concept_name": "圆形切除[术]",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "circular excision"
+        }
+    },
+    {
+        "concept_name": "垂耳",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "lop ear"
+        }
+    },
+    {
+        "concept_name": "外伤性溃疡",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "traumatic ulcer"
+        }
+    },
+    {
+        "concept_name": "外伤性表皮囊肿",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "traumatic epidermal cyst"
+        }
+    },
+    {
+        "concept_name": "外嵌植皮术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "onlay skin grafting"
+        }
+    },
+    {
+        "concept_name": "外耳道再造术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "reconstruction of external auditory canal"
+        }
+    },
+    {
+        "concept_name": "外耳道狭窄",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "stricture of external auditory canal"
+        }
+    },
+    {
+        "concept_name": "外耳道闭锁",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "atresia of external auditory canal"
+        }
+    },
+    {
+        "concept_name": "多普勒超声血流探测仪",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "Doppler ultrasonic blood stream detector"
+        }
+    },
+    {
+        "concept_name": "大网膜瓣",
+        "details": {
+            "学科": "医学_整形外科学",
+            "英文": "omentum flap ;pedicle omentum flap",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "omentum flap"
+        }
+    },
+    {
+        "concept_name": "大网膜移植术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "omentum grafting"
+        }
+    },
+    {
+        "concept_name": "大网膜移植物",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "omentum graft"
+        }
+    },
+    {
+        "concept_name": "头发移植术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "hair grafting"
+        }
+    },
+    {
+        "concept_name": "头皮发育不全",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "hypoplasia of scalp"
+        }
+    },
+    {
+        "concept_name": "头皮撕脱[伤]",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "scalp avulsion injury"
+        }
+    },
+    {
+        "concept_name": "套状撕脱伤",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "degloving injury"
+        }
+    },
+    {
+        "concept_name": "定位缝合",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "key approximation suture"
+        }
+    },
+    {
+        "concept_name": "对耳屏",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "antitragus"
+        }
+    },
+    {
+        "concept_name": "对耳轮",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "antihelix"
+        }
+    },
+    {
+        "concept_name": "对耳轮上脚",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "superior crura of antihelix"
+        }
+    },
+    {
+        "concept_name": "对耳轮下脚",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "inferior crura of antihelix"
+        }
+    },
+    {
+        "concept_name": "对耳轮脚",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "crura of antihelix"
+        }
+    },
+    {
+        "concept_name": "小眼畸形",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "microphthalmia"
+        }
+    },
+    {
+        "concept_name": "尖头畸形",
+        "details": {
+            "学科": "医学_整形外科学",
+            "英文": "acrocephaly ;oxycephaly",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "acrocephaly"
+        }
+    },
+    {
+        "concept_name": "尖耳轮耳",
+        "details": {
+            "学科": "医学_整形外科学",
+            "又称": " 类猩猩耳",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "satyr ear"
+        }
+    },
+    {
+        "concept_name": "尺侧半肢畸形",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "ulnar hemimelia"
+        }
+    },
+    {
+        "concept_name": "尿道上裂",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "epispadias"
+        }
+    },
+    {
+        "concept_name": "尿道成形术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "urethroplasty"
+        }
+    },
+    {
+        "concept_name": "尿道阴道瘘",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "urethrovaginal fistula"
+        }
+    },
+    {
+        "concept_name": "局部推进皮瓣移植术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "local advancement skin flap grafting"
+        }
+    },
+    {
+        "concept_name": "岛状皮瓣",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "island skin flap"
+        }
+    },
+    {
+        "concept_name": "岛状筋膜瓣",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "island fascial flap"
+        }
+    },
+    {
+        "concept_name": "巨舌",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "macroglossia"
+        }
+    },
+    {
+        "concept_name": "带感觉神经皮瓣",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "neuro-sensory skin flap"
+        }
+    },
+    {
+        "concept_name": "带蒂肠段转移阴道形成术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "construction of vagina by pedicled intestinal segment transfer"
+        }
+    },
+    {
+        "concept_name": "康多莱昂手术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "又称": " 象皮肿皮下病变组织分期切除术(staged subcutaneous elephantiasic tissue excision)",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "Kondoleon operation"
+        }
+    },
+    {
+        "concept_name": "延迟转移",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "delayed transfer"
+        }
+    },
+    {
+        "concept_name": "开",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "open bite"
+        }
+    },
+    {
+        "concept_name": "开放皮瓣",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "open skin flap"
+        }
+    },
+    {
+        "concept_name": "弹力牵引",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "elastic traction"
+        }
+    },
+    {
+        "concept_name": "弹力牵引夹板",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "elastic traction splint"
+        }
+    },
+    {
+        "concept_name": "徒手取皮",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "free hand excision of skin graft"
+        }
+    },
+    {
+        "concept_name": "微血管吻合[术]",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "microvascular anastomosis"
+        }
+    },
+    {
+        "concept_name": "快速软组织扩张术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "rapid soft tissue expansion"
+        }
+    },
+    {
+        "concept_name": "性别改变术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "英文": "sex change operation ;sex transfor-mation",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "sex change operation"
+        }
+    },
+    {
+        "concept_name": "恒压软组织扩张术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "constant pressure soft tissue expan-sion"
+        }
+    },
+    {
+        "concept_name": "恶性溃疡",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "malignant ulcer"
+        }
+    },
+    {
+        "concept_name": "悬雍垂裂",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "bifid uvula"
+        }
+    },
+    {
+        "concept_name": "慢性溃疡",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "chronic ulcer"
+        }
+    },
+    {
+        "concept_name": "截断伤",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "amputation injury"
+        }
+    },
+    {
+        "concept_name": "扇形唇瓣",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "fan lip flap"
+        }
+    },
+    {
+        "concept_name": "手术放大镜",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "operating loupe"
+        }
+    },
+    {
+        "concept_name": "手术显微镜",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "operating microscope"
+        }
+    },
+    {
+        "concept_name": "承重部位",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "weight bearing area"
+        }
+    },
+    {
+        "concept_name": "拇指内收",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "adduction of thumb"
+        }
+    },
+    {
+        "concept_name": "拇指对指",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "digital opposition of thumb"
+        }
+    },
+    {
+        "concept_name": "拇指对掌",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "palmar opposition of thumb"
+        }
+    },
+    {
+        "concept_name": "拇指掌侧外展",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "palmar abduction of thumb"
+        }
+    },
+    {
+        "concept_name": "拇指桡侧外展",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "radial abduction of thumb"
+        }
+    },
+    {
+        "concept_name": "招风耳",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "bat ear"
+        }
+    },
+    {
+        "concept_name": "拼合软骨支架",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "open spaced cartilage frame"
+        }
+    },
+    {
+        "concept_name": "挛缩性瘢痕",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "contracted scar"
+        }
+    },
+    {
+        "concept_name": "掌弓",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "palmar arch"
+        }
+    },
+    {
+        "concept_name": "掌横弓",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "transverse palmar arch"
+        }
+    },
+    {
+        "concept_name": "掌纵弓",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "longitudinal palmar arch"
+        }
+    },
+    {
+        "concept_name": "掌腱膜切开术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "palmar aponeurotomy"
+        }
+    },
+    {
+        "concept_name": "掌腱膜切除术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "palmar aponeuroectomy"
+        }
+    },
+    {
+        "concept_name": "推进皮瓣",
+        "details": {
+            "学科": "医学_整形外科学",
+            "又称": " 滑行皮瓣(sliding skin flap)",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "advancement skin flap"
+        }
+    },
+    {
+        "concept_name": "摘出[术]",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "enucleation"
+        }
+    },
+    {
+        "concept_name": "撕脱伤",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "avulsion"
+        }
+    },
+    {
+        "concept_name": "改良菱形皮瓣",
+        "details": {
+            "学科": "医学_整形外科学",
+            "英文": "modified rhomboid skin flap ;Duf-ourmentel skin flap",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "modified rhomboid skin flap"
+        }
+    },
+    {
+        "concept_name": "放射性溃疡",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "radiation ulcer"
+        }
+    },
+    {
+        "concept_name": "整形外科",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "plastic surgery"
+        }
+    },
+    {
+        "concept_name": "无创[伤]技术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "atraumatic technique"
+        }
+    },
+    {
+        "concept_name": "无创[伤]缝针",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "atraumatic suture needle"
+        }
+    },
+    {
+        "concept_name": "无眼畸形",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "anophthalmia"
+        }
+    },
+    {
+        "concept_name": "早期修复",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "early repair"
+        }
+    },
+    {
+        "concept_name": "术中软组织扩张术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "intraoperative soft tissue expansion"
+        }
+    },
+    {
+        "concept_name": "杯状耳",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "cup ear"
+        }
+    },
+    {
+        "concept_name": "松弛",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "chalasis"
+        }
+    },
+    {
+        "concept_name": "桡尺骨融合",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "radio-ulnar synostosis"
+        }
+    },
+    {
+        "concept_name": "梨状孔",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "apertura piriformis"
+        }
+    },
+    {
+        "concept_name": "梭形切口",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "fusiform incision"
+        }
+    },
+    {
+        "concept_name": "梭形切除[术]",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "fusiform excision"
+        }
+    },
+    {
+        "concept_name": "植入性囊肿",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "implantation cyst"
+        }
+    },
+    {
+        "concept_name": "植入物",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "implant"
+        }
+    },
+    {
+        "concept_name": "楔形切除[术]",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "wedge excision"
+        }
+    },
+    {
+        "concept_name": "模具持续压迫阴道形成术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "construction of vagina by continu-ous pressure with stent"
+        }
+    },
+    {
+        "concept_name": "气动取皮机",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "air-driven dermatome"
+        }
+    },
+    {
+        "concept_name": "淋巴结静脉吻合术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "lymph node-venous anastomosis"
+        }
+    },
+    {
+        "concept_name": "淋巴阻塞性溃疡",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "lymphostructive ulcer"
+        }
+    },
+    {
+        "concept_name": "淋巴静脉吻合术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "lymphatico-venous anastomosis"
+        }
+    },
+    {
+        "concept_name": "混合性淋巴管瘤",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "mixed lymphangioma"
+        }
+    },
+    {
+        "concept_name": "混合性血管瘤",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "mixed hemangioma"
+        }
+    },
+    {
+        "concept_name": "清创[术]",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "d閎ridement"
+        }
+    },
+    {
+        "concept_name": "潜行剥离",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "undermining dissection"
+        }
+    },
+    {
+        "concept_name": "烧伤",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "burn"
+        }
+    },
+    {
+        "concept_name": "烧伤瘢痕挛缩",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "burned cicatricial contracture"
+        }
+    },
+    {
+        "concept_name": "热压伤",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "hot crush injury"
+        }
+    },
+    {
+        "concept_name": "热滚筒挤压伤",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "hot roller crush injury"
+        }
+    },
+    {
+        "concept_name": "热烧伤",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "thermal burn"
+        }
+    },
+    {
+        "concept_name": "焦痂",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "eschar"
+        }
+    },
+    {
+        "concept_name": "牙槽裂",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "alveolar cleft"
+        }
+    },
+    {
+        "concept_name": "特发性瘢痕疙瘩",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "idiopathic keloid"
+        }
+    },
+    {
+        "concept_name": "猫耳状皱襞",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "cat's ear like skin fold"
+        }
+    },
+    {
+        "concept_name": "环缩耳",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "constricted ear"
+        }
+    },
+    {
+        "concept_name": "瓦合皮瓣",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "over and out skin flap"
+        }
+    },
+    {
+        "concept_name": "电动取皮机",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "electric dermatome"
+        }
+    },
+    {
+        "concept_name": "电干燥法",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "electrodesiccation"
+        }
+    },
+    {
+        "concept_name": "电弧烧伤",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "electric arc burn"
+        }
+    },
+    {
+        "concept_name": "病灶内切除[术]",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "intralesional excision"
+        }
+    },
+    {
+        "concept_name": "痉挛性睑外翻",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "spastic ectropion"
+        }
+    },
+    {
+        "concept_name": "瘢痕上皮",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "cicatricial epithelium"
+        }
+    },
+    {
+        "concept_name": "瘢痕性睑外翻",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "cicatricial ectropion"
+        }
+    },
+    {
+        "concept_name": "瘢痕挛缩",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "cicatricial contracture"
+        }
+    },
+    {
+        "concept_name": "瘢痕癌",
+        "details": {
+            "学科": "医学_整形外科学",
+            "英文": "carcinoma of scar ;Marjolin ulcer",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "carcinoma of scar"
+        }
+    },
+    {
+        "concept_name": "皮下蒂皮瓣",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "subcutaneous pedicle skin flap"
+        }
+    },
+    {
+        "concept_name": "皮内缝合",
+        "details": {
+            "学科": "医学_整形外科学",
+            "英文": "intradermal suture ;subcuticular su-ture",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "intradermal suture"
+        }
+    },
+    {
+        "concept_name": "皮瓣转移",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "transfer of skin flap"
+        }
+    },
+    {
+        "concept_name": "皮神经营养血管蒂岛状皮瓣",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "cutaneous nerve nutritional vessel pedicle island skin flap"
+        }
+    },
+    {
+        "concept_name": "皮肤无针喷注器",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "dermojet"
+        }
+    },
+    {
+        "concept_name": "皮赘状多指",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "rudimentary accessory digit"
+        }
+    },
+    {
+        "concept_name": "直接皮肤动脉",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "direct cutaneous artery"
+        }
+    },
+    {
+        "concept_name": "真性眶距过宽",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "true orbital hypertelorism"
+        }
+    },
+    {
+        "concept_name": "真皮下血管网薄皮瓣",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "subdermal vascular plexus thin skin flap"
+        }
+    },
+    {
+        "concept_name": "真皮脂肪瓣",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "dermis-fat flap"
+        }
+    },
+    {
+        "concept_name": "真皮脂肪移植术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "dermis-fat grafting"
+        }
+    },
+    {
+        "concept_name": "眶[腔]",
+        "details": {
+            "学科": "医学_整形外科学",
+            "英文": "orbit ;orbital cavity",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "orbit"
+        }
+    },
+    {
+        "concept_name": "眶外侧壁切开术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "lateral orbitotomy"
+        }
+    },
+    {
+        "concept_name": "眶底爆裂性骨折",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "blowout fracture of orbital floor"
+        }
+    },
+    {
+        "concept_name": "眶距过宽",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "orbital hypertelorism"
+        }
+    },
+    {
+        "concept_name": "眼球内陷",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "enophthalmos"
+        }
+    },
+    {
+        "concept_name": "眼窝",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "eye socket"
+        }
+    },
+    {
+        "concept_name": "眼窝再造",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "reconstruction of eye socket"
+        }
+    },
+    {
+        "concept_name": "眼窝狭窄",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "stenotic eye socket"
+        }
+    },
+    {
+        "concept_name": "睑内翻",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "entropion"
+        }
+    },
+    {
+        "concept_name": "睑外翻",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "ectropion"
+        }
+    },
+    {
+        "concept_name": "睑板上凹陷[畸形]",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "supratarsal depression"
+        }
+    },
+    {
+        "concept_name": "睑缘粘连",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "ankyloblepharon"
+        }
+    },
+    {
+        "concept_name": "睑缺损",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "eyelid coloboma"
+        }
+    },
+    {
+        "concept_name": "硬化剂",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "sclerosing agent"
+        }
+    },
+    {
+        "concept_name": "硬化剂注入疗法",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "sclerosing agent injection therapy"
+        }
+    },
+    {
+        "concept_name": "碾压伤",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "mangled injury"
+        }
+    },
+    {
+        "concept_name": "神经交叉吻合术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "nerve cross anastomosis"
+        }
+    },
+    {
+        "concept_name": "神经吻合[术]",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "neural anastomosis"
+        }
+    },
+    {
+        "concept_name": "神经束[间]吻合术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "interfascicular nerve anastomosis"
+        }
+    },
+    {
+        "concept_name": "神经束移植物",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "fascicular nerve graft"
+        }
+    },
+    {
+        "concept_name": "神经瘤性象皮病",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "neuromatous elephantiasis"
+        }
+    },
+    {
+        "concept_name": "神经移植物",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "nerve graft"
+        }
+    },
+    {
+        "concept_name": "神经营养性溃疡",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "neurotrophic ulcer"
+        }
+    },
+    {
+        "concept_name": "移位",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "displacement"
+        }
+    },
+    {
+        "concept_name": "稳定性萎缩瘢痕",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "stable atrophic scar"
+        }
+    },
+    {
+        "concept_name": "第一，二鳃弓综合征",
+        "details": {
+            "学科": "医学_整形外科学",
+            "又称": " 一侧颜面短小综合征(hemifacial microsomia syndrome)",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "first and second branchial arch syn-drome"
+        }
+    },
+    {
+        "concept_name": "筋膜带移植肛门括约肌成形术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "fascial string grafting and anal sphincteroplasty"
+        }
+    },
+    {
+        "concept_name": "筋膜条悬吊术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "fascial sling suspension"
+        }
+    },
+    {
+        "concept_name": "筋膜瓣",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "fascial flap"
+        }
+    },
+    {
+        "concept_name": "组织工程学",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "tissue engineering"
+        }
+    },
+    {
+        "concept_name": "组织贮存",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "tissue storage"
+        }
+    },
+    {
+        "concept_name": "继发性瘢痕挛缩",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "extrinsic cicatricial contracture"
+        }
+    },
+    {
+        "concept_name": "缝线包压法",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "bolus tie-over dressing"
+        }
+    },
+    {
+        "concept_name": "缺失",
+        "details": {
+            "学科": "医学_整形外科学",
+            "英文": "absence ;loss",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "absence"
+        }
+    },
+    {
+        "concept_name": "缺如",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "congenital absence"
+        }
+    },
+    {
+        "concept_name": "缺血性溃疡",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "ischemic ulcer"
+        }
+    },
+    {
+        "concept_name": "耳垂",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "ear lobule"
+        }
+    },
+    {
+        "concept_name": "耳廓",
+        "details": {
+            "学科": "医学_整形外科学",
+            "英文": "auricle ;external ear",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "auricle"
+        }
+    },
+    {
+        "concept_name": "耳廓再造术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "reconstruction of auricle"
+        }
+    },
+    {
+        "concept_name": "耳廓后沟",
+        "details": {
+            "学科": "医学_整形外科学",
+            "英文": "posterior sulcus of auricle ;posthe-lical sulcus",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "posterior sulcus of auricle"
+        }
+    },
+    {
+        "concept_name": "耳廓复合组织游离移植术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "auricular compound tissue free grafting"
+        }
+    },
+    {
+        "concept_name": "耳廓缩小成形术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "reductive otoplasty"
+        }
+    },
+    {
+        "concept_name": "耳成形术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "英文": "otoplasty ;auroplasty",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "otoplasty"
+        }
+    },
+    {
+        "concept_name": "耳甲",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "auricular concha"
+        }
+    },
+    {
+        "concept_name": "肌下植入",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "submuscular implantation"
+        }
+    },
+    {
+        "concept_name": "肌皮动脉",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "musculo-cutaneous artery"
+        }
+    },
+    {
+        "concept_name": "肛门失禁",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "anal incontinence"
+        }
+    },
+    {
+        "concept_name": "肛门括约肌成形术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "anal sphincteroplasty"
+        }
+    },
+    {
+        "concept_name": "肠段移植物",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "intestinal segment graft"
+        }
+    },
+    {
+        "concept_name": "股薄肌转移肛门括约肌成形术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "gracilis muscle transfer and anal sphincteroplasty"
+        }
+    },
+    {
+        "concept_name": "脂肪颗粒移植术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "fat granule grafting"
+        }
+    },
+    {
+        "concept_name": "腕携带转移",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "using wrist as a carrier to transfer skin flap indirectly"
+        }
+    },
+    {
+        "concept_name": "腭不全裂",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "incomplete cleft palate"
+        }
+    },
+    {
+        "concept_name": "腭咽闭合不全",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "velopharyngeal incompetence"
+        }
+    },
+    {
+        "concept_name": "腭裂减张切口修复术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "closure of cleft palate by von Lan-genbeck operation"
+        }
+    },
+    {
+        "concept_name": "腭裂后推修复术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "closure of cleft palate by Dorrance push back operation"
+        }
+    },
+    {
+        "concept_name": "腭裂四瓣修复术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "closure of cleft palate by Wardill four-flap operation"
+        }
+    },
+    {
+        "concept_name": "腹壁围裙状松垂[畸形]",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "abdominal apron deformity"
+        }
+    },
+    {
+        "concept_name": "腹壁成形术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "abdominoplasty"
+        }
+    },
+    {
+        "concept_name": "腿象皮肿",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "elephantiasis of leg"
+        }
+    },
+    {
+        "concept_name": "膀胱外翻",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "extrophy of bladder"
+        }
+    },
+    {
+        "concept_name": "自身移植术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "又称": " 自体移植术",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "autografting"
+        }
+    },
+    {
+        "concept_name": "自身移植物",
+        "details": {
+            "学科": "医学_整形外科学",
+            "又称": " 自体移植物",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "autograft"
+        }
+    },
+    {
+        "concept_name": "舌后坠",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "glossoptosis"
+        }
+    },
+    {
+        "concept_name": "舌唇粘连术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "tongue-to-lip adhesion operation"
+        }
+    },
+    {
+        "concept_name": "舟甲角",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "scaphoconchal angle"
+        }
+    },
+    {
+        "concept_name": "菜花状耳",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "cauliflower ear"
+        }
+    },
+    {
+        "concept_name": "萎缩",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "atrophy"
+        }
+    },
+    {
+        "concept_name": "萎缩性瘢痕",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "atrophic scar"
+        }
+    },
+    {
+        "concept_name": "蔓状血管瘤",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "hemangioma racemosum"
+        }
+    },
+    {
+        "concept_name": "薄[的]中厚皮片",
+        "details": {
+            "学科": "医学_整形外科学",
+            "又称": " 薄断层皮片(thin split thickness free skin graft)",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "thin intermediate thickness free skin graft"
+        }
+    },
+    {
+        "concept_name": "血清肿",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "seroma"
+        }
+    },
+    {
+        "concept_name": "血管对合器",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "vessel approximator"
+        }
+    },
+    {
+        "concept_name": "表皮生长因子",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "epidermal growth factor"
+        }
+    },
+    {
+        "concept_name": "西莫纳尔系带",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "Simonart band"
+        }
+    },
+    {
+        "concept_name": "语音评定",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "speech evaluation"
+        }
+    },
+    {
+        "concept_name": "象皮肿",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "elephantiasis"
+        }
+    },
+    {
+        "concept_name": "象皮肿去表皮皮瓣埋入术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "Thompson buried dermis flap opera-tion for elephantiasis"
+        }
+    },
+    {
+        "concept_name": "象皮肿大网膜瓣转移引流术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "omental flap transferring for elephantiasis"
+        }
+    },
+    {
+        "concept_name": "象皮肿病变组织切除植皮术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "elephantiasic tissue excision and skin grafting"
+        }
+    },
+    {
+        "concept_name": "贝壳状耳",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "shell ear"
+        }
+    },
+    {
+        "concept_name": "足底胼胝",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "plantar callus"
+        }
+    },
+    {
+        "concept_name": "趾甲移植术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "toe nail grafting"
+        }
+    },
+    {
+        "concept_name": "趾甲移植物",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "toe nail graft"
+        }
+    },
+    {
+        "concept_name": "趾甲部分移植术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "partial toe nail grafting"
+        }
+    },
+    {
+        "concept_name": "软组织扩张器",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "soft tissue expander"
+        }
+    },
+    {
+        "concept_name": "软组织扩张术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "soft tissue expansion"
+        }
+    },
+    {
+        "concept_name": "软组织损伤",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "soft tissue injury"
+        }
+    },
+    {
+        "concept_name": "轴型皮瓣",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "axial pattern skin flap"
+        }
+    },
+    {
+        "concept_name": "轴型血管",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "axial pattern blood vessel"
+        }
+    },
+    {
+        "concept_name": "逆行岛状皮瓣",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "reverse island skin flap"
+        }
+    },
+    {
+        "concept_name": "邻位皮瓣",
+        "details": {
+            "学科": "医学_整形外科学",
+            "英文": "adjacent skin flap ;contiguous skin flap",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "adjacent skin flap"
+        }
+    },
+    {
+        "concept_name": "重叠植皮术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "英文": "overlapping skin grafting ;laminat-ed thick skin grafting",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "overlapping skin grafting"
+        }
+    },
+    {
+        "concept_name": "重叠缝合",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "overlapping suture"
+        }
+    },
+    {
+        "concept_name": "钮孔状畸形",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "button hole deformity"
+        }
+    },
+    {
+        "concept_name": "钻骨[露髓]术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "bone drilling operation"
+        }
+    },
+    {
+        "concept_name": "锯齿状切口",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "zigzag incision"
+        }
+    },
+    {
+        "concept_name": "间接切口",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "indirect incision"
+        }
+    },
+    {
+        "concept_name": "间接皮瓣",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "indirect skin flap"
+        }
+    },
+    {
+        "concept_name": "间接转移",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "indirect transfer"
+        }
+    },
+    {
+        "concept_name": "间断缝合",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "interrupted suture"
+        }
+    },
+    {
+        "concept_name": "阴茎型尿道上裂",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "penile epispadias"
+        }
+    },
+    {
+        "concept_name": "阴茎头型尿道上裂",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "balanic epispadias"
+        }
+    },
+    {
+        "concept_name": "阴茎阴囊皮肤撕脱[伤]",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "avulsion of penile and scrotal skin"
+        }
+    },
+    {
+        "concept_name": "阴茎阴囊象皮肿",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "elephantiasis of penis and scrotum"
+        }
+    },
+    {
+        "concept_name": "阴道皮片移植形成术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "construction of vagina by inlay split-thickness skin grafting"
+        }
+    },
+    {
+        "concept_name": "阴道缺如",
+        "details": {
+            "学科": "医学_整形外科学",
+            "英文": "absence of vagina ;vaginal agenesis",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "absence of vagina"
+        }
+    },
+    {
+        "concept_name": "阴道闭锁",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "atresia of vagina"
+        }
+    },
+    {
+        "concept_name": "阿佩尔综合征",
+        "details": {
+            "学科": "医学_整形外科学",
+            "又称": " 尖头并指(趾)",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "Apert syndrome"
+        }
+    },
+    {
+        "concept_name": "隐性颅裂",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "craniobifida occulta"
+        }
+    },
+    {
+        "concept_name": "隐蔽切口",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "hidden incision"
+        }
+    },
+    {
+        "concept_name": "静脉动脉化游离皮瓣",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "venous arterialized free skin flap"
+        }
+    },
+    {
+        "concept_name": "静脉动脉化皮瓣",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "venous arterialized skin flap"
+        }
+    },
+    {
+        "concept_name": "面斜裂",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "oblique facial cleft"
+        }
+    },
+    {
+        "concept_name": "面瘫",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "facial palsy"
+        }
+    },
+    {
+        "concept_name": "颅甲角",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "cranioconchal angle"
+        }
+    },
+    {
+        "concept_name": "颅耳角",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "cranioauricular angle"
+        }
+    },
+    {
+        "concept_name": "颈耳囊肿",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "cervical aural cyst"
+        }
+    },
+    {
+        "concept_name": "颈耳瘘管",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "cervical aural fistula"
+        }
+    },
+    {
+        "concept_name": "颈耳窦道",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "cervical aural sinus"
+        }
+    },
+    {
+        "concept_name": "颌动瞬目综合征",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "jaw-winking syndrome"
+        }
+    },
+    {
+        "concept_name": "颌间瘢痕挛缩",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "intermaxillary cicatricial contracture"
+        }
+    },
+    {
+        "concept_name": "颏胸粘连",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "mental sternal adhesion"
+        }
+    },
+    {
+        "concept_name": "颏颈粘连",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "mental cervical adhesion"
+        }
+    },
+    {
+        "concept_name": "额肌瓣悬吊术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "frontalis muscle flap suspension op-eration"
+        }
+    },
+    {
+        "concept_name": "食管成形术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "esophagoplasty"
+        }
+    },
+    {
+        "concept_name": "骨-肌皮瓣",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "osseous myocutaneous flap"
+        }
+    },
+    {
+        "concept_name": "骨嵌入移植术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "inlay bone grafting"
+        }
+    },
+    {
+        "concept_name": "骨膜移植物",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "periosteum graft"
+        }
+    },
+    {
+        "concept_name": "骨贴附移植术",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "onlay bone grafting"
+        }
+    },
+    {
+        "concept_name": "麻痹性睑外翻",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "paralytic ectropion"
+        }
+    },
+    {
+        "concept_name": "黏膜移植物",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "mucosa graft"
+        }
+    },
+    {
+        "concept_name": "鼻[小]柱正中切口",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "nasal midcolumella incision"
+        }
+    },
+    {
+        "concept_name": "鼻前孔",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "anterior nares"
+        }
+    },
+    {
+        "concept_name": "鼻前孔狭窄",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "stricture of anterior naris"
+        }
+    },
+    {
+        "concept_name": "鼻前孔闭锁",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "atresia of anterior naris"
+        }
+    },
+    {
+        "concept_name": "鼻唇角",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "nasal labial angle"
+        }
+    },
+    {
+        "concept_name": "鼻尖蝶形切口",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "nasal tip butterfly incision"
+        }
+    },
+    {
+        "concept_name": "鼻眼裂",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "naso-ocular facial cleft"
+        }
+    },
+    {
+        "concept_name": "鼻翼",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "nasal ala"
+        }
+    },
+    {
+        "concept_name": "鼻翼沟",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "paranasal ala sulcus"
+        }
+    },
+    {
+        "concept_name": "鼻翼软骨",
+        "details": {
+            "学科": "医学_整形外科学",
+            "又称": " 小翼软骨",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "nasal alar cartilage"
+        }
+    },
+    {
+        "concept_name": "鼻面角",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "nasal facial angle"
+        }
+    },
+    {
+        "concept_name": "鼻额角",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "nasal frontal angle"
+        }
+    },
+    {
+        "concept_name": "鼻骨骨折复位钳",
+        "details": {
+            "学科": "医学_整形外科学",
+            "英文": "nasal bone fracture reduction for-ceps ;Asch forceps",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "nasal bone fracture reduction for-ceps"
+        }
+    },
+    {
+        "concept_name": "龙虾钳状手",
+        "details": {
+            "学科": "医学_整形外科学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "lobster hand"
+        }
+    }
+]

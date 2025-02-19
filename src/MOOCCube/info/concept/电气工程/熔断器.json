@@ -1,0 +1,510 @@
+[
+    {
+        "concept_name": "允许连续电流",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "allowable continuous current"
+        }
+    },
+    {
+        "concept_name": "充粒熔断器",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "granular-filled fuse"
+        }
+    },
+    {
+        "concept_name": "前接熔断器",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "front-connected fuse"
+        }
+    },
+    {
+        "concept_name": "双熔体熔断器",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "dual-element fuse"
+        }
+    },
+    {
+        "concept_name": "可更换熔断体",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "renewable fuse-link"
+        }
+    },
+    {
+        "concept_name": "后备熔断器",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "backup fuse"
+        }
+    },
+    {
+        "concept_name": "后接熔断器",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "back-connected fuse"
+        }
+    },
+    {
+        "concept_name": "喷射式熔断器",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "expulsion fuse"
+        }
+    },
+    {
+        "concept_name": "多极熔断器",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "multipole fuse"
+        }
+    },
+    {
+        "concept_name": "封闭式熔断体",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "enclosed fuse-link"
+        }
+    },
+    {
+        "concept_name": "开断电压",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "switching voltage"
+        }
+    },
+    {
+        "concept_name": "弧前时间",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "pre-arcing time"
+        }
+    },
+    {
+        "concept_name": "弧前焦耳积分",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "pre-arcing Joule-integral"
+        }
+    },
+    {
+        "concept_name": "快速熔断器",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "fast-acting fuse"
+        }
+    },
+    {
+        "concept_name": "指示熔断器",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "indicating fuse"
+        }
+    },
+    {
+        "concept_name": "插入式熔断器",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "plug-in type fuse"
+        }
+    },
+    {
+        "concept_name": "撞击器",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "striker"
+        }
+    },
+    {
+        "concept_name": "撞击熔断器",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "striker fuse"
+        }
+    },
+    {
+        "concept_name": "无填料管式熔断器",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "non-powder-filled cartridge fuse"
+        }
+    },
+    {
+        "concept_name": "时间-电流区",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "time-current zone"
+        }
+    },
+    {
+        "concept_name": "时间-电流区限值",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "time-current zone limits"
+        }
+    },
+    {
+        "concept_name": "时间-电流特性",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "time-current characteristic"
+        }
+    },
+    {
+        "concept_name": "更换件",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "refill-unit"
+        }
+    },
+    {
+        "concept_name": "最大分断电流",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "又称": " 最大开断电流",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "maximum breaking current"
+        }
+    },
+    {
+        "concept_name": "最小分断电流",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "又称": " 最小开断电流",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "minimum breaking current"
+        }
+    },
+    {
+        "concept_name": "有填料管式熔断器",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "powder-filled cartridge fuse"
+        }
+    },
+    {
+        "concept_name": "模拟熔断体",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "dummy fuse-link"
+        }
+    },
+    {
+        "concept_name": "焦耳积分",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "Joule-integral"
+        }
+    },
+    {
+        "concept_name": "焦耳积分特性",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "又称": " I2t特性",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "I2t characteristic"
+        }
+    },
+    {
+        "concept_name": "熔件",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "fuse-element"
+        }
+    },
+    {
+        "concept_name": "熔化速度比",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "melting-speed ratio"
+        }
+    },
+    {
+        "concept_name": "熔断体",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "fuse-link"
+        }
+    },
+    {
+        "concept_name": "熔断体载体",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "fuse-carrier"
+        }
+    },
+    {
+        "concept_name": "熔断器",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "fuse"
+        }
+    },
+    {
+        "concept_name": "熔断器底座",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "fuse-base"
+        }
+    },
+    {
+        "concept_name": "熔断器插片",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "fuse-blade"
+        }
+    },
+    {
+        "concept_name": "熔断器支持件",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "fuse-holder"
+        }
+    },
+    {
+        "concept_name": "熔断器组合单元",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "fuse combination unit"
+        }
+    },
+    {
+        "concept_name": "熔断时间",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "operating time"
+        }
+    },
+    {
+        "concept_name": "熔断焦耳积分",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "operating Joule-integral"
+        }
+    },
+    {
+        "concept_name": "熔断短路电流",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "fused short-circuit current"
+        }
+    },
+    {
+        "concept_name": "熔管",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "cartridge"
+        }
+    },
+    {
+        "concept_name": "电力熔断器",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "power fuse"
+        }
+    },
+    {
+        "concept_name": "管式熔断器",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "cartridge fuse"
+        }
+    },
+    {
+        "concept_name": "约定不熔断电流",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "conventional non-fusing current"
+        }
+    },
+    {
+        "concept_name": "约定熔断电流",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "conventional fusing current"
+        }
+    },
+    {
+        "concept_name": "自复熔断器",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "self-mending fuse"
+        }
+    },
+    {
+        "concept_name": "螺旋式熔断器",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "screw type fuse"
+        }
+    },
+    {
+        "concept_name": "跌落[式]熔断器",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "drop-out fuse"
+        }
+    },
+    {
+        "concept_name": "过[电]流保护配合",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "overcurrent protective coordination"
+        }
+    },
+    {
+        "concept_name": "过[电]流鉴别",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "又称": " 选择性保护(selec-tive protection)",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "overcurrent discrimination"
+        }
+    },
+    {
+        "concept_name": "过载特性",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "overload characteristic"
+        }
+    },
+    {
+        "concept_name": "通用熔断体",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "universal fuse-link"
+        }
+    },
+    {
+        "concept_name": "通风式熔断器",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "vented fuse"
+        }
+    },
+    {
+        "concept_name": "重合熔断器",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "reclosing fuse"
+        }
+    },
+    {
+        "concept_name": "阈值比",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "threshold ratio"
+        }
+    },
+    {
+        "concept_name": "阈值电流",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "threshold current"
+        }
+    },
+    {
+        "concept_name": "限弧件",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "muffler"
+        }
+    },
+    {
+        "concept_name": "限流熔断体",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "current-limiting fuse-link"
+        }
+    },
+    {
+        "concept_name": "限流熔断器",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "current-limiting fuse"
+        }
+    },
+    {
+        "concept_name": "限流特性",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "current-limiting characteristic"
+        }
+    },
+    {
+        "concept_name": "限流范围",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "current-limiting range"
+        }
+    },
+    {
+        "concept_name": "隔离熔断器",
+        "details": {
+            "学科": "电气工程_熔断器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "disconnecting fuse"
+        }
+    }
+]

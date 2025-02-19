@@ -1,0 +1,1984 @@
+[
+    {
+        "concept_name": "KS[动态]熵",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Kolmogorov-Sinai entropy"
+        }
+    },
+    {
+        "concept_name": "[抗]剪切角",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "angle of shear resistance"
+        }
+    },
+    {
+        "concept_name": "[映]像",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "image"
+        }
+    },
+    {
+        "concept_name": "三轴压缩试验",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "three-axial compression test"
+        }
+    },
+    {
+        "concept_name": "三轴拉伸试验",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "three-axial tensile test"
+        }
+    },
+    {
+        "concept_name": "不互溶流体",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "immiscible fluid"
+        }
+    },
+    {
+        "concept_name": "不互溶驱替",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "immiscible displacement"
+        }
+    },
+    {
+        "concept_name": "中心点",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "center"
+        }
+    },
+    {
+        "concept_name": "主[宰]方程",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "master equation"
+        }
+    },
+    {
+        "concept_name": "主动土压力",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "active earth pressure"
+        }
+    },
+    {
+        "concept_name": "休止角",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "angle of repose"
+        }
+    },
+    {
+        "concept_name": "伸缩张量",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "stretch tensor"
+        }
+    },
+    {
+        "concept_name": "体[积]黏性",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "bulk viscosity"
+        }
+    },
+    {
+        "concept_name": "侵入物",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "invader"
+        }
+    },
+    {
+        "concept_name": "侵彻",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "penetration"
+        }
+    },
+    {
+        "concept_name": "信息维数",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "information dimension"
+        }
+    },
+    {
+        "concept_name": "倍周期分岔",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "period doubling bifurcation"
+        }
+    },
+    {
+        "concept_name": "倒倍周期分岔",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "inverse period-doubling bifurcation"
+        }
+    },
+    {
+        "concept_name": "停滞堆积",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "accretion"
+        }
+    },
+    {
+        "concept_name": "元胞自动机",
+        "details": {
+            "学科": "力学_其他力学",
+            "曾称": " 点格自动机",
+            "见载": "《力学名词》第一版",
+            "英文名": "cellular automaton"
+        }
+    },
+    {
+        "concept_name": "入侵逾渗",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "invasion percolation"
+        }
+    },
+    {
+        "concept_name": "内摩擦",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "internal friction"
+        }
+    },
+    {
+        "concept_name": "内摩擦角",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "angle of internal friction"
+        }
+    },
+    {
+        "concept_name": "内时理论",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "endochronic theory"
+        }
+    },
+    {
+        "concept_name": "内禀抗剪强度",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "intrinsic shear strength"
+        }
+    },
+    {
+        "concept_name": "内禀随机性",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "intrinsic stochasticity"
+        }
+    },
+    {
+        "concept_name": "内部约束",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "internal constraint"
+        }
+    },
+    {
+        "concept_name": "农业生物力学",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "agrobiomechanics"
+        }
+    },
+    {
+        "concept_name": "冰压力",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "ice pressure"
+        }
+    },
+    {
+        "concept_name": "冰崩",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "iceslide"
+        }
+    },
+    {
+        "concept_name": "冻结流",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "frozen flow"
+        }
+    },
+    {
+        "concept_name": "准周期振动",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "quasi-oscillation"
+        }
+    },
+    {
+        "concept_name": "分凝势",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "segregation potential"
+        }
+    },
+    {
+        "concept_name": "分岔集",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "bifurcation set"
+        }
+    },
+    {
+        "concept_name": "分形",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "fractal"
+        }
+    },
+    {
+        "concept_name": "分形体",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "fractal"
+        }
+    },
+    {
+        "concept_name": "初态敏感性",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "sensitivity to initial state"
+        }
+    },
+    {
+        "concept_name": "剪胀效应",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "dilatancy effect"
+        }
+    },
+    {
+        "concept_name": "动态超高压技术",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "dynamic ultrahigh pressure technique"
+        }
+    },
+    {
+        "concept_name": "动量矩平衡",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "angular momentum balance"
+        }
+    },
+    {
+        "concept_name": "勒斯勒方程",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Rössler equation"
+        }
+    },
+    {
+        "concept_name": "半向同性张量",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "hemitropic tensor"
+        }
+    },
+    {
+        "concept_name": "协调条件",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "compatibility condition"
+        }
+    },
+    {
+        "concept_name": "单切结点",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "one-tangent node"
+        }
+    },
+    {
+        "concept_name": "原子热",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "atomic heat"
+        }
+    },
+    {
+        "concept_name": "双曲脐[型突变]",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "hyperbolic umbilic"
+        }
+    },
+    {
+        "concept_name": "反应扩散方程",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "reaction-diffusion equation"
+        }
+    },
+    {
+        "concept_name": "反触变性",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "anti-thixotropy"
+        }
+    },
+    {
+        "concept_name": "可用能量",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "available energy"
+        }
+    },
+    {
+        "concept_name": "可贴变形",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "applicable deformation"
+        }
+    },
+    {
+        "concept_name": "可贴曲面",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "applicable surface"
+        }
+    },
+    {
+        "concept_name": "各向同性张量",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "isotropic tensor"
+        }
+    },
+    {
+        "concept_name": "同宿轨道",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "homoclinic orbit"
+        }
+    },
+    {
+        "concept_name": "吕埃勒-塔肯斯道路",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Ruelle-Takens route"
+        }
+    },
+    {
+        "concept_name": "吕荣",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "lugeon"
+        }
+    },
+    {
+        "concept_name": "含混吸引子",
+        "details": {
+            "学科": "力学_其他力学",
+            "英文": "vague attractor [of Kolmogorov] ;VAK",
+            "见载": "《力学名词》第一版",
+            "英文名": "vague attractor [of Kolmogorov]"
+        }
+    },
+    {
+        "concept_name": "吸引子",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "attractor"
+        }
+    },
+    {
+        "concept_name": "吸引盆",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "basin of attraction"
+        }
+    },
+    {
+        "concept_name": "吸收系数",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "absorption coefficient"
+        }
+    },
+    {
+        "concept_name": "咬合[作用]",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "interlocking"
+        }
+    },
+    {
+        "concept_name": "响应泛函",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "response functional"
+        }
+    },
+    {
+        "concept_name": "噪声",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "noise"
+        }
+    },
+    {
+        "concept_name": "围压",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "ambient pressure"
+        }
+    },
+    {
+        "concept_name": "土力学",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "soil mechanics"
+        }
+    },
+    {
+        "concept_name": "地下爆炸",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "underground explosion"
+        }
+    },
+    {
+        "concept_name": "地表火",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "surface fire"
+        }
+    },
+    {
+        "concept_name": "均质流",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "homogeneous flow"
+        }
+    },
+    {
+        "concept_name": "埃克曼数",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Ekman number"
+        }
+    },
+    {
+        "concept_name": "埃克曼流",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Ekman flow"
+        }
+    },
+    {
+        "concept_name": "埃克曼边界层",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Ekman boundary layer"
+        }
+    },
+    {
+        "concept_name": "埃农吸引子",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Hénon attractor"
+        }
+    },
+    {
+        "concept_name": "声张量",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "acoustic tensor"
+        }
+    },
+    {
+        "concept_name": "多重奇点",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "multiple singularity"
+        }
+    },
+    {
+        "concept_name": "大气环流",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "atmospheric circulation"
+        }
+    },
+    {
+        "concept_name": "大气边界层",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "atmospheric boundary layer"
+        }
+    },
+    {
+        "concept_name": "大气－海洋相互作用",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "atmosphere-ocean interaction"
+        }
+    },
+    {
+        "concept_name": "奇怪吸引子",
+        "details": {
+            "学科": "力学_其他力学",
+            "简称": " 怪引子",
+            "见载": "《力学名词》第一版",
+            "英文名": "strange attractor"
+        }
+    },
+    {
+        "concept_name": "奥伊洛特模型",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Oldroyd model"
+        }
+    },
+    {
+        "concept_name": "孔压[误差]效应",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "hole-pressure [error] effect"
+        }
+    },
+    {
+        "concept_name": "客观性原理",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "principle of objectivity"
+        }
+    },
+    {
+        "concept_name": "局部作用原理",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "principle of local action"
+        }
+    },
+    {
+        "concept_name": "层流火焰",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "laminar flame"
+        }
+    },
+    {
+        "concept_name": "岩层静态应力",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "lithostatic stress"
+        }
+    },
+    {
+        "concept_name": "工业流体力学",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "industrical fluid mechanics"
+        }
+    },
+    {
+        "concept_name": "平流",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "advection"
+        }
+    },
+    {
+        "concept_name": "平衡流",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "equilibrium flow"
+        }
+    },
+    {
+        "concept_name": "应力增长",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "stress growing"
+        }
+    },
+    {
+        "concept_name": "度规熵",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "metric entropy"
+        }
+    },
+    {
+        "concept_name": "开折",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "unfolding"
+        }
+    },
+    {
+        "concept_name": "异宿点",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "heteroclinic point"
+        }
+    },
+    {
+        "concept_name": "异宿轨道",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "heteroclinic orbit"
+        }
+    },
+    {
+        "concept_name": "弹性势",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "elastic potential"
+        }
+    },
+    {
+        "concept_name": "强爆炸",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "intense explosion"
+        }
+    },
+    {
+        "concept_name": "役使原理",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "slaving principle"
+        }
+    },
+    {
+        "concept_name": "循环抗剪强度",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "cyclic shear strength"
+        }
+    },
+    {
+        "concept_name": "微滴",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "droplet"
+        }
+    },
+    {
+        "concept_name": "扩程逾渗",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "extend range percolation"
+        }
+    },
+    {
+        "concept_name": "抛物脐[型突变]",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "parabolic umbilic"
+        }
+    },
+    {
+        "concept_name": "拉伸流动",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "elongational flow"
+        }
+    },
+    {
+        "concept_name": "拉伸黏度",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "elongational viscosity"
+        }
+    },
+    {
+        "concept_name": "拓扑熵",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "topological entropy"
+        }
+    },
+    {
+        "concept_name": "挟带",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "entrainment"
+        }
+    },
+    {
+        "concept_name": "挤出[物]胀大",
+        "details": {
+            "学科": "力学_其他力学",
+            "曾称": " 口模胀大",
+            "见载": "《力学名词》第一版",
+            "英文名": "extrusion swell"
+        }
+    },
+    {
+        "concept_name": "振荡剪切流",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "oscillatory shear flow"
+        }
+    },
+    {
+        "concept_name": "排放物",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "effulent"
+        }
+    },
+    {
+        "concept_name": "普适变形",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "universal deformation"
+        }
+    },
+    {
+        "concept_name": "普适性",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "universality"
+        }
+    },
+    {
+        "concept_name": "有效应力",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "effective stress"
+        }
+    },
+    {
+        "concept_name": "有限弹性",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "finite elasticity"
+        }
+    },
+    {
+        "concept_name": "本原元",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "primitive element"
+        }
+    },
+    {
+        "concept_name": "李雅普诺夫指数",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Lyapunov exponent"
+        }
+    },
+    {
+        "concept_name": "极限环",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "limit cycle"
+        }
+    },
+    {
+        "concept_name": "标架无差异性",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "frame indifference"
+        }
+    },
+    {
+        "concept_name": "核爆炸",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "neuclear explosion"
+        }
+    },
+    {
+        "concept_name": "梅利尼科夫积分",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Mel'nikov integral"
+        }
+    },
+    {
+        "concept_name": "椭圆脐[型突变]",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "elliptic umbilic"
+        }
+    },
+    {
+        "concept_name": "次时间效应",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "secondary time effect"
+        }
+    },
+    {
+        "concept_name": "欧几里得维数",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Euclidian dimension"
+        }
+    },
+    {
+        "concept_name": "正弦戈登方程",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "sine-Gorden equation"
+        }
+    },
+    {
+        "concept_name": "气浪",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "airsurge"
+        }
+    },
+    {
+        "concept_name": "水下爆炸",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "underwater explosion"
+        }
+    },
+    {
+        "concept_name": "污染源",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "pollutant source"
+        }
+    },
+    {
+        "concept_name": "沙影",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "sand shadow"
+        }
+    },
+    {
+        "concept_name": "沙波纹",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "sand ripple"
+        }
+    },
+    {
+        "concept_name": "泥石流",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "debris flow"
+        }
+    },
+    {
+        "concept_name": "洛伦茨吸引子",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Lorenz attractor"
+        }
+    },
+    {
+        "concept_name": "洛特卡-沃尔泰拉方程",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Lotka-Volterra equation"
+        }
+    },
+    {
+        "concept_name": "活化分子",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "activated molecule"
+        }
+    },
+    {
+        "concept_name": "活化能",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "activation energy"
+        }
+    },
+    {
+        "concept_name": "流体弹塑性体",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "hydro-elastoplastic medium"
+        }
+    },
+    {
+        "concept_name": "流度比",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "mobility ratio"
+        }
+    },
+    {
+        "concept_name": "浮升力",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "uplift"
+        }
+    },
+    {
+        "concept_name": "海洋波",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "ocean wave"
+        }
+    },
+    {
+        "concept_name": "海洋流",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "ocean current"
+        }
+    },
+    {
+        "concept_name": "海洋环流",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "ocean circulation"
+        }
+    },
+    {
+        "concept_name": "浸渐消去法",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "adiabatic elimination"
+        }
+    },
+    {
+        "concept_name": "液体-蒸气流",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "liquid-vapor flow"
+        }
+    },
+    {
+        "concept_name": "混合物组份",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "constituents of a mixture"
+        }
+    },
+    {
+        "concept_name": "混沌吸引子",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "chaotic attractor"
+        }
+    },
+    {
+        "concept_name": "渗透流",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "osmotic flow"
+        }
+    },
+    {
+        "concept_name": "渗透率",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "permeability"
+        }
+    },
+    {
+        "concept_name": "湍流火焰",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "turbulent flame"
+        }
+    },
+    {
+        "concept_name": "滞后流",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "after flow"
+        }
+    },
+    {
+        "concept_name": "滞弹性材料",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "anelastic material"
+        }
+    },
+    {
+        "concept_name": "激光爆炸",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "laser-induced explosion"
+        }
+    },
+    {
+        "concept_name": "火焰强度",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "flame intensity"
+        }
+    },
+    {
+        "concept_name": "点爆炸",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "point-source explosion"
+        }
+    },
+    {
+        "concept_name": "烧蚀",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "ablation"
+        }
+    },
+    {
+        "concept_name": "热塑不稳定性",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "thermoplastic instability"
+        }
+    },
+    {
+        "concept_name": "熵不等式",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "entropy inequality"
+        }
+    },
+    {
+        "concept_name": "熵增",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "entropy production"
+        }
+    },
+    {
+        "concept_name": "燃烧不稳定性",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "combustion instability"
+        }
+    },
+    {
+        "concept_name": "燃烧带",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "burning zone"
+        }
+    },
+    {
+        "concept_name": "燃烧理论",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "combustion theory"
+        }
+    },
+    {
+        "concept_name": "爆发",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "blow up"
+        }
+    },
+    {
+        "concept_name": "爆心",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "explosion center"
+        }
+    },
+    {
+        "concept_name": "爆炸力学",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "mechanics of explosion"
+        }
+    },
+    {
+        "concept_name": "爆炸当量",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "explosion equivalent"
+        }
+    },
+    {
+        "concept_name": "爆炸洞",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "explosion chamber"
+        }
+    },
+    {
+        "concept_name": "爪进",
+        "details": {
+            "学科": "力学_其他力学",
+            "又称": " 指进",
+            "见载": "《力学名词》第一版",
+            "英文名": "fingering"
+        }
+    },
+    {
+        "concept_name": "爬升效应",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "climbing effect"
+        }
+    },
+    {
+        "concept_name": "物理海洋学",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "physical oceanography"
+        }
+    },
+    {
+        "concept_name": "狂燃火",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "running fire"
+        }
+    },
+    {
+        "concept_name": "猫脸映射",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "cat map [of Arnosov]"
+        }
+    },
+    {
+        "concept_name": "环境流体力学",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "environmental fluid mechanics"
+        }
+    },
+    {
+        "concept_name": "环状流",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "annular flow"
+        }
+    },
+    {
+        "concept_name": "瑞利-贝纳尔不稳定性",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Rayleigh-Benard instability"
+        }
+    },
+    {
+        "concept_name": "生物力学",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "biomechanics"
+        }
+    },
+    {
+        "concept_name": "生理横截面积",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "physiological cross-sectional area"
+        }
+    },
+    {
+        "concept_name": "电弧风洞",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "arc tunnel"
+        }
+    },
+    {
+        "concept_name": "电气体力学",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "electro-gas dynamics"
+        }
+    },
+    {
+        "concept_name": "电炮",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "electric gun"
+        }
+    },
+    {
+        "concept_name": "电爆炸",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "discharge-induced explosion"
+        }
+    },
+    {
+        "concept_name": "电磁炮",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "electromagnetic gun"
+        }
+    },
+    {
+        "concept_name": "电磁连续统理论",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "theory of electromagnetic continuum"
+        }
+    },
+    {
+        "concept_name": "电离气体",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "ionized gas"
+        }
+    },
+    {
+        "concept_name": "界面",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "interface"
+        }
+    },
+    {
+        "concept_name": "盐度",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "salinity"
+        }
+    },
+    {
+        "concept_name": "着火",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "ignition"
+        }
+    },
+    {
+        "concept_name": "离心收缩功",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "eccentric work"
+        }
+    },
+    {
+        "concept_name": "科赫岛",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Koch island"
+        }
+    },
+    {
+        "concept_name": "科赫曲线",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Koch curve"
+        }
+    },
+    {
+        "concept_name": "积分型物质",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "material of integral type"
+        }
+    },
+    {
+        "concept_name": "空中爆炸",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "explosion in air"
+        }
+    },
+    {
+        "concept_name": "空气热化学",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "aerothermochemistry"
+        }
+    },
+    {
+        "concept_name": "突变论",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "catastrophe theory"
+        }
+    },
+    {
+        "concept_name": "等存在原理",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "principle of equipresence"
+        }
+    },
+    {
+        "concept_name": "粒子束爆炸",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "explosion by beam radiation"
+        }
+    },
+    {
+        "concept_name": "纯力学物质",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "purely mechanical material"
+        }
+    },
+    {
+        "concept_name": "绝对压强",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "absolute pressure"
+        }
+    },
+    {
+        "concept_name": "绝对反应速率",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "absolute reaction rate"
+        }
+    },
+    {
+        "concept_name": "绝对温度",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "absolute temperature"
+        }
+    },
+    {
+        "concept_name": "绝热压缩",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "adiabatic compression"
+        }
+    },
+    {
+        "concept_name": "绝热火焰温度",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "adiabatic flame temperature"
+        }
+    },
+    {
+        "concept_name": "绝热膨胀",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "adiabatic expansion"
+        }
+    },
+    {
+        "concept_name": "缓冲作用",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "buffer action"
+        }
+    },
+    {
+        "concept_name": "耗散结构",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "dissipation structure"
+        }
+    },
+    {
+        "concept_name": "聚合物减阻",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "drag reduction by polymers"
+        }
+    },
+    {
+        "concept_name": "聚爆",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "implosion"
+        }
+    },
+    {
+        "concept_name": "胶黏度",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "gumminess"
+        }
+    },
+    {
+        "concept_name": "能量平衡",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "energy balance"
+        }
+    },
+    {
+        "concept_name": "能量沉积",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "energy deposition"
+        }
+    },
+    {
+        "concept_name": "自动氧化",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "auto-oxidation"
+        }
+    },
+    {
+        "concept_name": "自治系统",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "autonomous system"
+        }
+    },
+    {
+        "concept_name": "自燃",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "auto-ignition"
+        }
+    },
+    {
+        "concept_name": "自组织",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "self-organization"
+        }
+    },
+    {
+        "concept_name": "蝴蝶效应",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "butterfly effect"
+        }
+    },
+    {
+        "concept_name": "血液流变学",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "hemorheology"
+        }
+    },
+    {
+        "concept_name": "表观黏聚力",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "apparent cohesion"
+        }
+    },
+    {
+        "concept_name": "衰退记忆",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "fading memory"
+        }
+    },
+    {
+        "concept_name": "被动土压力",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "passive earth pressure"
+        }
+    },
+    {
+        "concept_name": "谢尔平斯基镂垫",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Sierpinski gasket"
+        }
+    },
+    {
+        "concept_name": "贮能函数",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "stored-energy function"
+        }
+    },
+    {
+        "concept_name": "费根鲍姆函数方程",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Feigenbaum functional equation"
+        }
+    },
+    {
+        "concept_name": "起爆",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "initiation of explosion"
+        }
+    },
+    {
+        "concept_name": "轴向流",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "axial flow"
+        }
+    },
+    {
+        "concept_name": "迁移率",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "mobility"
+        }
+    },
+    {
+        "concept_name": "过滤",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "filtration"
+        }
+    },
+    {
+        "concept_name": "连续泥石流",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "continuous debris flow"
+        }
+    },
+    {
+        "concept_name": "连通键",
+        "details": {
+            "学科": "力学_其他力学",
+            "英文": "connected bond ;unblocked bond",
+            "见载": "《力学名词》第一版",
+            "英文名": "connected bond"
+        }
+    },
+    {
+        "concept_name": "逆散射法",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "inverse scattering method"
+        }
+    },
+    {
+        "concept_name": "遇阻堆积",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "encroachment"
+        }
+    },
+    {
+        "concept_name": "里夫林-埃里克森张量",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Rivlin-Ericksen tensor"
+        }
+    },
+    {
+        "concept_name": "重力侵蚀",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "gravity erosion"
+        }
+    },
+    {
+        "concept_name": "闪耀",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "flare up"
+        }
+    },
+    {
+        "concept_name": "阵发泥石流",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "intermittent debris flow"
+        }
+    },
+    {
+        "concept_name": "阵发混沌",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "intermittency chaos"
+        }
+    },
+    {
+        "concept_name": "阿尔文波",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Alfvén wave"
+        }
+    },
+    {
+        "concept_name": "阿诺德舌[头]",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Arnol'd tongue"
+        }
+    },
+    {
+        "concept_name": "附壁效应",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "wall attachment effect"
+        }
+    },
+    {
+        "concept_name": "隔火带",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "fire line"
+        }
+    },
+    {
+        "concept_name": "隔火带强度",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "fireline intensity"
+        }
+    },
+    {
+        "concept_name": "雪崩",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "avalanche"
+        }
+    },
+    {
+        "concept_name": "雷尼信息",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Renyi information"
+        }
+    },
+    {
+        "concept_name": "雷尼熵",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Renyi entropy"
+        }
+    },
+    {
+        "concept_name": "雾化",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "atomization"
+        }
+    },
+    {
+        "concept_name": "非协调理论",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "incompatibility theory"
+        }
+    },
+    {
+        "concept_name": "非完整分量",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "anholonomic component"
+        }
+    },
+    {
+        "concept_name": "非牛顿流体",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "non-Newtonian fluid"
+        }
+    },
+    {
+        "concept_name": "非牛顿流体力学",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "non-Newtonian fluid mechanics"
+        }
+    },
+    {
+        "concept_name": "非线性薛定谔方程",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "non-linear Schrödinger equation"
+        }
+    },
+    {
+        "concept_name": "风压",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "wind pressure"
+        }
+    },
+    {
+        "concept_name": "马格努斯效应",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Magnus effect"
+        }
+    },
+    {
+        "concept_name": "魏森贝格效应",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Weissenberg effect"
+        }
+    },
+    {
+        "concept_name": "魔[鬼楼]梯",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "devil's staircase"
+        }
+    },
+    {
+        "concept_name": "黏弹性流体",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "viscoelastic fluid"
+        }
+    },
+    {
+        "concept_name": "ＫＡＭ定理",
+        "details": {
+            "学科": "力学_其他力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Kolgomorov-Arnol'd-Moser theorem"
+        }
+    }
+]

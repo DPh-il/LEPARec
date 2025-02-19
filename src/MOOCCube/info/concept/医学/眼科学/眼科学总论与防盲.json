@@ -1,0 +1,231 @@
+[
+    {
+        "concept_name": "低视力",
+        "details": {
+            "学科": "医学_眼科学_眼科学总论与防盲",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "low vision"
+        }
+    },
+    {
+        "concept_name": "先天性盲",
+        "details": {
+            "学科": "医学_眼科学_眼科学总论与防盲",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "congenital blindness"
+        }
+    },
+    {
+        "concept_name": "全盲",
+        "details": {
+            "学科": "医学_眼科学_眼科学总论与防盲",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "totol blindness"
+        }
+    },
+    {
+        "concept_name": "冷冻眼科学",
+        "details": {
+            "学科": "医学_眼科学_眼科学总论与防盲",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "cryo-ophthalmology"
+        }
+    },
+    {
+        "concept_name": "初级眼保健",
+        "details": {
+            "学科": "医学_眼科学_眼科学总论与防盲",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "primary eye care"
+        }
+    },
+    {
+        "concept_name": "功能性盲",
+        "details": {
+            "学科": "医学_眼科学_眼科学总论与防盲",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "functional blindness"
+        }
+    },
+    {
+        "concept_name": "双眼",
+        "details": {
+            "学科": "医学_眼科学_眼科学总论与防盲",
+            "英文": "oculus uterque ;OU",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "oculus uterque"
+        }
+    },
+    {
+        "concept_name": "右眼",
+        "details": {
+            "学科": "医学_眼科学_眼科学总论与防盲",
+            "英文": "right eye ;RE ;oculus dexter ;OD",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "right eye"
+        }
+    },
+    {
+        "concept_name": "后天性盲",
+        "details": {
+            "学科": "医学_眼科学_眼科学总论与防盲",
+            "曾称": " 获得性盲",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "acquired blindness"
+        }
+    },
+    {
+        "concept_name": "器质性盲",
+        "details": {
+            "学科": "医学_眼科学_眼科学总论与防盲",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "organic blindness"
+        }
+    },
+    {
+        "concept_name": "左眼",
+        "details": {
+            "学科": "医学_眼科学_眼科学总论与防盲",
+            "英文": "left eye ;LE ;oculus sinister ;OS",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "left eye"
+        }
+    },
+    {
+        "concept_name": "法定盲",
+        "details": {
+            "学科": "医学_眼科学_眼科学总论与防盲",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "legal blindness"
+        }
+    },
+    {
+        "concept_name": "盲",
+        "details": {
+            "学科": "医学_眼科学_眼科学总论与防盲",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "blindness"
+        }
+    },
+    {
+        "concept_name": "眼屈光学",
+        "details": {
+            "学科": "医学_眼科学_眼科学总论与防盲",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "dioptrics of eye"
+        }
+    },
+    {
+        "concept_name": "眼库",
+        "details": {
+            "学科": "医学_眼科学_眼科学总论与防盲",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "eye bank"
+        }
+    },
+    {
+        "concept_name": "眼球模型",
+        "details": {
+            "学科": "医学_眼科学_眼科学总论与防盲",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "eyeball phantom"
+        }
+    },
+    {
+        "concept_name": "眼生理学",
+        "details": {
+            "学科": "医学_眼科学_眼科学总论与防盲",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "physiology of eye"
+        }
+    },
+    {
+        "concept_name": "眼病理学",
+        "details": {
+            "学科": "医学_眼科学_眼科学总论与防盲",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "pathology of eye"
+        }
+    },
+    {
+        "concept_name": "眼科学",
+        "details": {
+            "学科": "医学_眼科学_眼科学总论与防盲",
+            "英文": "ophthalmology ;OPH ;Ophth",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "ophthalmology"
+        }
+    },
+    {
+        "concept_name": "眼科手术学",
+        "details": {
+            "学科": "医学_眼科学_眼科学总论与防盲",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "ophthalmic surgery"
+        }
+    },
+    {
+        "concept_name": "眼科治疗学",
+        "details": {
+            "学科": "医学_眼科学_眼科学总论与防盲",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "ophthalmiatrics"
+        }
+    },
+    {
+        "concept_name": "神经眼科学",
+        "details": {
+            "学科": "医学_眼科学_眼科学总论与防盲",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "neuro-ophthalmology"
+        }
+    },
+    {
+        "concept_name": "职业性盲",
+        "details": {
+            "学科": "医学_眼科学_眼科学总论与防盲",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "occupational blindness"
+        }
+    },
+    {
+        "concept_name": "视觉光学",
+        "details": {
+            "学科": "医学_眼科学_眼科学总论与防盲",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "visual optics"
+        }
+    },
+    {
+        "concept_name": "视觉学",
+        "details": {
+            "学科": "医学_眼科学_眼科学总论与防盲",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "visionics"
+        }
+    },
+    {
+        "concept_name": "视觉生理学",
+        "details": {
+            "学科": "医学_眼科学_眼科学总论与防盲",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "visual physiology"
+        }
+    },
+    {
+        "concept_name": "视觉电生理学",
+        "details": {
+            "学科": "医学_眼科学_眼科学总论与防盲",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "visual electro-physiology"
+        }
+    },
+    {
+        "concept_name": "防盲",
+        "details": {
+            "学科": "医学_眼科学_眼科学总论与防盲",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "prevention of blindness"
+        }
+    }
+]

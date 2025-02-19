@@ -1,0 +1,2169 @@
+[
+    {
+        "concept_name": "[侧]柏",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "Chinese arbor-vitae ;Platycladus orientalis (L.) Franco",
+            "见载": "《农学名词》第一版",
+            "英文名": "Chinese arbor-vitae"
+        }
+    },
+    {
+        "concept_name": "[兴安]落叶松",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "Dahurian larch"
+        }
+    },
+    {
+        "concept_name": "[宽皮]桔",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "loose-skin orange ;Citrus reticulata Blanco.",
+            "见载": "《农学名词》第一版",
+            "英文名": "loose-skin orange"
+        }
+    },
+    {
+        "concept_name": "[普通]丝瓜",
+        "details": {
+            "学科": "农学_园艺作物",
+            "俗称": " 水瓜",
+            "见载": "《农学名词》第一版",
+            "英文名": "luffa-smooth loofah"
+        }
+    },
+    {
+        "concept_name": "[板]栗",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "Chinese chestnut"
+        }
+    },
+    {
+        "concept_name": "[欧洲]甜樱桃",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "sweet cherry"
+        }
+    },
+    {
+        "concept_name": "[花]魔芋",
+        "details": {
+            "学科": "农学_园艺作物",
+            "又称": " 蒟蒻",
+            "见载": "《农学名词》第一版",
+            "英文名": "elephant-foot yam"
+        }
+    },
+    {
+        "concept_name": "[西]洋梨",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "European pear"
+        }
+    },
+    {
+        "concept_name": "[麝]香百合",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "easter lily"
+        }
+    },
+    {
+        "concept_name": "[麝]香豌豆",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "sweet pea ;Lathyrus odoratus L.",
+            "见载": "《农学名词》第一版",
+            "英文名": "sweet pea"
+        }
+    },
+    {
+        "concept_name": "[黑]木耳",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "woodear ;Auricularia auricula (L. ex Hook.) Underw.",
+            "见载": "《农学名词》第一版",
+            "英文名": "woodear"
+        }
+    },
+    {
+        "concept_name": "一年生蔬菜作物",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "annual vegetable crop"
+        }
+    },
+    {
+        "concept_name": "七叶树",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "Chinese horsechestnut ;Aesculus chinensis Bge.",
+            "见载": "《农学名词》第一版",
+            "英文名": "Chinese horsechestnut"
+        }
+    },
+    {
+        "concept_name": "万寿菊",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "Aztec marigold ;Tagetes erecta L.",
+            "见载": "《农学名词》第一版",
+            "英文名": "Aztec marigold"
+        }
+    },
+    {
+        "concept_name": "三色堇",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "pansy"
+        }
+    },
+    {
+        "concept_name": "三色苋",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "tampala ;Amaranthus tricolor L.",
+            "又称": " 雁来红",
+            "见载": "《农学名词》第一版",
+            "英文名": "tampala"
+        }
+    },
+    {
+        "concept_name": "乌塌菜",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "Wuta-tsai"
+        }
+    },
+    {
+        "concept_name": "乌榄",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "black Chinese olive ;Canarium pimela Koenig",
+            "见载": "《农学名词》第一版",
+            "英文名": "black Chinese olive"
+        }
+    },
+    {
+        "concept_name": "二年生蔬菜作物",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "biennial vegetable crop"
+        }
+    },
+    {
+        "concept_name": "云杉",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "dragon spruce ;Picea asperata Mast.",
+            "见载": "《农学名词》第一版",
+            "英文名": "dragon spruce"
+        }
+    },
+    {
+        "concept_name": "人心果",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "sapodilla"
+        }
+    },
+    {
+        "concept_name": "仙人掌",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "Indian fig ;Opuntia ficus-indica (L.) Mill.",
+            "见载": "《农学名词》第一版",
+            "英文名": "Indian fig"
+        }
+    },
+    {
+        "concept_name": "仙客来",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "ivyleaf cyclamen ;Cyclamen per-sicum Mill.",
+            "又称": " 兔耳花",
+            "见载": "《农学名词》第一版",
+            "英文名": "ivyleaf cyclamen"
+        }
+    },
+    {
+        "concept_name": "代代花",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "sour orange ;Citrus aurantium L. var. amara Engl.",
+            "见载": "《农学名词》第一版",
+            "英文名": "sour orange"
+        }
+    },
+    {
+        "concept_name": "令箭荷花",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "nopalxochia ;Nopalxochia ackermannii (Haw.) F. M. Kunth.",
+            "见载": "《农学名词》第一版",
+            "英文名": "nopalxochia"
+        }
+    },
+    {
+        "concept_name": "何氏凤仙",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "Holsts snapweed ;Impatiens wallerana Hook. f.",
+            "俗称": " 玻璃翠",
+            "见载": "《农学名词》第一版",
+            "英文名": "Holsts snapweed"
+        }
+    },
+    {
+        "concept_name": "余甘子",
+        "details": {
+            "学科": "农学_园艺作物",
+            "又称": " 油柑",
+            "见载": "《农学名词》第一版",
+            "英文名": "emblic"
+        }
+    },
+    {
+        "concept_name": "兜兰",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "paphiopedilum ;Paphiopedilum insigne Pfitz.",
+            "见载": "《农学名词》第一版",
+            "英文名": "paphiopedilum"
+        }
+    },
+    {
+        "concept_name": "凤仙花",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "garden balsam ;Impatiens balsamina L.",
+            "见载": "《农学名词》第一版",
+            "英文名": "garden balsam"
+        }
+    },
+    {
+        "concept_name": "切花",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "cut flower"
+        }
+    },
+    {
+        "concept_name": "千日红",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "globe amaranth"
+        }
+    },
+    {
+        "concept_name": "合欢",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "silk tree ;Albizzia julibrissin Durazz.",
+            "见载": "《农学名词》第一版",
+            "英文名": "silk tree"
+        }
+    },
+    {
+        "concept_name": "含笑",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "banana-shrub"
+        }
+    },
+    {
+        "concept_name": "哈密瓜",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "Hami melon"
+        }
+    },
+    {
+        "concept_name": "四季桔",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "calamondin"
+        }
+    },
+    {
+        "concept_name": "大丽菊",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "aztec dahlia ;Dahlia pinnata Cav.",
+            "见载": "《农学名词》第一版",
+            "英文名": "aztec dahlia"
+        }
+    },
+    {
+        "concept_name": "大白菜",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "Chinese cabbage-pe-tsai ;Brassica campestris L. ssp. pekinensis (Lour.) Olsson",
+            "见载": "《农学名词》第一版",
+            "英文名": "Chinese cabbage-pe-tsai"
+        }
+    },
+    {
+        "concept_name": "大花牵牛",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "imperial japanese morning glory ;Ipomoea nil (L.) Roth.",
+            "又称": " 大喇叭花",
+            "见载": "《农学名词》第一版",
+            "英文名": "imperial japanese morning glory"
+        }
+    },
+    {
+        "concept_name": "大花美人蕉",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "common garden canna"
+        }
+    },
+    {
+        "concept_name": "大葱",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "welsh onion ;Allium fistulosum L. var. giganteum Makino",
+            "见载": "《农学名词》第一版",
+            "英文名": "welsh onion"
+        }
+    },
+    {
+        "concept_name": "大蒜",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "garlic ;Allium sativum L.",
+            "见载": "《农学名词》第一版",
+            "英文名": "garlic"
+        }
+    },
+    {
+        "concept_name": "大蕉",
+        "details": {
+            "学科": "农学_园艺作物",
+            "又称": " 甘蕉",
+            "见载": "《农学名词》第一版",
+            "英文名": "plantain banana"
+        }
+    },
+    {
+        "concept_name": "天门冬",
+        "details": {
+            "学科": "农学_园艺作物",
+            "又称": " 天竹",
+            "见载": "《农学名词》第一版",
+            "英文名": "asparagus"
+        }
+    },
+    {
+        "concept_name": "夹竹桃",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "sweet-scented oleander ;Nerium indicum Mill.",
+            "见载": "《农学名词》第一版",
+            "英文名": "sweet-scented oleander"
+        }
+    },
+    {
+        "concept_name": "姜",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "ginger ;Zingiber officinale Rosc.",
+            "见载": "《农学名词》第一版",
+            "英文名": "ginger"
+        }
+    },
+    {
+        "concept_name": "孔雀草",
+        "details": {
+            "学科": "农学_园艺作物",
+            "又称": " 红黄草",
+            "见载": "《农学名词》第一版",
+            "英文名": "French marigold"
+        }
+    },
+    {
+        "concept_name": "宜昌橙",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "Ichang papeda ;Citrus ichangensis Swingle",
+            "见载": "《农学名词》第一版",
+            "英文名": "Ichang papeda"
+        }
+    },
+    {
+        "concept_name": "密花石斛",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "dendrobium"
+        }
+    },
+    {
+        "concept_name": "山葡萄",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "Ussurian grape ;Vitis amurensis Rupr.",
+            "见载": "《农学名词》第一版",
+            "英文名": "Ussurian grape"
+        }
+    },
+    {
+        "concept_name": "山里红",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "hawthorn"
+        }
+    },
+    {
+        "concept_name": "常春藤",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "English ivy ;Hedera helix L.",
+            "见载": "《农学名词》第一版",
+            "英文名": "English ivy"
+        }
+    },
+    {
+        "concept_name": "常绿果树",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "evergreen fruit tree"
+        }
+    },
+    {
+        "concept_name": "广玉兰",
+        "details": {
+            "学科": "农学_园艺作物",
+            "又称": " 荷花玉兰",
+            "见载": "《农学名词》第一版",
+            "英文名": "southern magnolia"
+        }
+    },
+    {
+        "concept_name": "慈姑",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "Chinese arrowhead"
+        }
+    },
+    {
+        "concept_name": "扁桃",
+        "details": {
+            "学科": "农学_园艺作物",
+            "又称": " 巴旦杏",
+            "见载": "《农学名词》第一版",
+            "英文名": "almond"
+        }
+    },
+    {
+        "concept_name": "扶芳藤",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "wintercreeper euonymus"
+        }
+    },
+    {
+        "concept_name": "抱子甘蓝",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "brussels sprouts ;Brassica oleracea L. var. gemmifera (DC.) Thell.",
+            "见载": "《农学名词》第一版",
+            "英文名": "brussels sprouts"
+        }
+    },
+    {
+        "concept_name": "文殊兰",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "poison bulb ;Crinum asiaticum L.",
+            "见载": "《农学名词》第一版",
+            "英文名": "poison bulb"
+        }
+    },
+    {
+        "concept_name": "文竹",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "asparagus fern ;Asparagus plumosus Baker",
+            "见载": "《农学名词》第一版",
+            "英文名": "asparagus fern"
+        }
+    },
+    {
+        "concept_name": "旱金莲",
+        "details": {
+            "学科": "农学_园艺作物",
+            "又称": " 金莲花",
+            "见载": "《农学名词》第一版",
+            "英文名": "garden nasturtium"
+        }
+    },
+    {
+        "concept_name": "昙花",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "epiphyllum ;Epiphyllum oxypetalum (DC.) Haw.",
+            "见载": "《农学名词》第一版",
+            "英文名": "epiphyllum"
+        }
+    },
+    {
+        "concept_name": "春兰",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "Chinese orchid ;Cymbidium goeringii Rchb. f.",
+            "见载": "《农学名词》第一版",
+            "英文名": "Chinese orchid"
+        }
+    },
+    {
+        "concept_name": "晚香玉",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "tuberose"
+        }
+    },
+    {
+        "concept_name": "月季",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "China rose"
+        }
+    },
+    {
+        "concept_name": "月见草",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "evening primrose ;Oenothera biennis L.",
+            "俗称": " 夜来香",
+            "见载": "《农学名词》第一版",
+            "英文名": "evening primrose"
+        }
+    },
+    {
+        "concept_name": "朝鲜蓟",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "artichoke ;Cynara scolymus L.",
+            "见载": "《农学名词》第一版",
+            "英文名": "artichoke"
+        }
+    },
+    {
+        "concept_name": "木香",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "banksian rose"
+        }
+    },
+    {
+        "concept_name": "杏",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "apricot"
+        }
+    },
+    {
+        "concept_name": "杜梨",
+        "details": {
+            "学科": "农学_园艺作物",
+            "又称": " 棠梨",
+            "见载": "《农学名词》第一版",
+            "英文名": "birch-leaf pear"
+        }
+    },
+    {
+        "concept_name": "杜鹃",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "rhododendron ;Indian azalea ;Rhododendron simsii Planch.",
+            "见载": "《农学名词》第一版",
+            "英文名": "rhododendron"
+        }
+    },
+    {
+        "concept_name": "来檬",
+        "details": {
+            "学科": "农学_园艺作物",
+            "又称": " 赖母",
+            "见载": "《农学名词》第一版",
+            "英文名": "lime"
+        }
+    },
+    {
+        "concept_name": "果树苗木",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "fruit nursery stock"
+        }
+    },
+    {
+        "concept_name": "果菜类蔬菜",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "fruit vegetables"
+        }
+    },
+    {
+        "concept_name": "枳",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "trifoliate orange ;Poncirus trifoliata (L.) Raf.",
+            "又称": " 枸桔",
+            "见载": "《农学名词》第一版",
+            "英文名": "trifoliate orange"
+        }
+    },
+    {
+        "concept_name": "枸骨",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "horned holly ;Ilex cornuta Lindl. ex Paxt.",
+            "见载": "《农学名词》第一版",
+            "英文名": "horned holly"
+        }
+    },
+    {
+        "concept_name": "柚",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "pummelo ;Citrus grandis (L.) Osbeck.",
+            "又称": " 抛",
+            "见载": "《农学名词》第一版",
+            "英文名": "pummelo"
+        }
+    },
+    {
+        "concept_name": "根甜菜",
+        "details": {
+            "学科": "农学_园艺作物",
+            "俗称": " 紫菜头",
+            "见载": "《农学名词》第一版",
+            "英文名": "table beet"
+        }
+    },
+    {
+        "concept_name": "根芹菜",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "celeriac ;Apium graveolens L. var. rapaceum DC.",
+            "见载": "《农学名词》第一版",
+            "英文名": "celeriac"
+        }
+    },
+    {
+        "concept_name": "桂花",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "sweet osmanthus ;Osmanthus fragrans (Thunb.) Lour.",
+            "又称": " 木樨",
+            "见载": "《农学名词》第一版",
+            "英文名": "sweet osmanthus"
+        }
+    },
+    {
+        "concept_name": "棕竹",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "low ground-rattan"
+        }
+    },
+    {
+        "concept_name": "棱角丝瓜",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "luffa-angled loofah ;singkwa ;Luffa acutangula (L.) Roxb.",
+            "见载": "《农学名词》第一版",
+            "英文名": "luffa-angled loofah"
+        }
+    },
+    {
+        "concept_name": "榆叶梅",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "flowering almond ;Prunus triloba Lindl.",
+            "见载": "《农学名词》第一版",
+            "英文名": "flowering almond"
+        }
+    },
+    {
+        "concept_name": "榛[子]",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "Siberian hazelnut"
+        }
+    },
+    {
+        "concept_name": "樱花",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "oriental cherry ;Prunus serrulata Lindl.",
+            "见载": "《农学名词》第一版",
+            "英文名": "oriental cherry"
+        }
+    },
+    {
+        "concept_name": "橄榄",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "white Chinese olive ;Canarium album Raeusch.",
+            "又称": " 青果",
+            "见载": "《农学名词》第一版",
+            "英文名": "white Chinese olive"
+        }
+    },
+    {
+        "concept_name": "橡皮树",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "India-rubber fig ;Ficus elastica Roxb.",
+            "见载": "《农学名词》第一版",
+            "英文名": "India-rubber fig"
+        }
+    },
+    {
+        "concept_name": "欧[洲]榛",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "filbert ;Corylus avellana L.",
+            "见载": "《农学名词》第一版",
+            "英文名": "filbert"
+        }
+    },
+    {
+        "concept_name": "欧洲李",
+        "details": {
+            "学科": "农学_园艺作物",
+            "又称": " 洋李",
+            "见载": "《农学名词》第一版",
+            "英文名": "European plum"
+        }
+    },
+    {
+        "concept_name": "欧洲葡萄",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "European grape"
+        }
+    },
+    {
+        "concept_name": "欧洲防风",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "parsnip"
+        }
+    },
+    {
+        "concept_name": "水仙",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "polyanthus narcissus"
+        }
+    },
+    {
+        "concept_name": "水生蔬菜类",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "aquatic vegetables"
+        }
+    },
+    {
+        "concept_name": "水芹",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "water dropwort ;Oenanthe javanica (Bl.) DC.",
+            "见载": "《农学名词》第一版",
+            "英文名": "water dropwort"
+        }
+    },
+    {
+        "concept_name": "池杉",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "pond cypress ;Taxodium ascendens Brongn.",
+            "见载": "《农学名词》第一版",
+            "英文名": "pond cypress"
+        }
+    },
+    {
+        "concept_name": "沙果",
+        "details": {
+            "学科": "农学_园艺作物",
+            "又称": " 花红",
+            "见载": "《农学名词》第一版",
+            "英文名": "crab-apple"
+        }
+    },
+    {
+        "concept_name": "沙枣",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "oleaster ;Elaeagnus angustifolia L.",
+            "又称": " 桂香柳",
+            "见载": "《农学名词》第一版",
+            "英文名": "oleaster"
+        }
+    },
+    {
+        "concept_name": "油梨",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "avocado ;Persea americana Mill.",
+            "又称": " 鳄梨",
+            "见载": "《农学名词》第一版",
+            "英文名": "avocado"
+        }
+    },
+    {
+        "concept_name": "洋葱",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "onion ;Allium cepa L.",
+            "俗称": " 葱头",
+            "见载": "《农学名词》第一版",
+            "英文名": "onion"
+        }
+    },
+    {
+        "concept_name": "海带",
+        "details": {
+            "学科": "农学_园艺作物",
+            "又称": " 昆布",
+            "见载": "《农学名词》第一版",
+            "英文名": "kelp"
+        }
+    },
+    {
+        "concept_name": "海桐",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "mock orange ;Pittosporum tobira (Thunb.) Ait.",
+            "见载": "《农学名词》第一版",
+            "英文名": "mock orange"
+        }
+    },
+    {
+        "concept_name": "海棠花",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "Chinese flowering apple"
+        }
+    },
+    {
+        "concept_name": "温州蜜柑",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "satsuma mandarin ;Citrus unshiu Marc.",
+            "见载": "《农学名词》第一版",
+            "英文名": "satsuma mandarin"
+        }
+    },
+    {
+        "concept_name": "牛蒡",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "edible burdock"
+        }
+    },
+    {
+        "concept_name": "牡丹",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "tree peony ;Mudan ;Paeonia suffruticosa Andr.",
+            "见载": "《农学名词》第一版",
+            "英文名": "tree peony"
+        }
+    },
+    {
+        "concept_name": "牵牛花",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "morning glory ;Ipomoea hederacea Jacq.",
+            "见载": "《农学名词》第一版",
+            "英文名": "morning glory"
+        }
+    },
+    {
+        "concept_name": "玉簪",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "fragrant plantain lily"
+        }
+    },
+    {
+        "concept_name": "王棕",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "royal palm ;Roystonea regia (H.B. K.) O. F. Cook",
+            "又称": " 大王椰子",
+            "见载": "《农学名词》第一版",
+            "英文名": "royal palm"
+        }
+    },
+    {
+        "concept_name": "王百合",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "royal lily"
+        }
+    },
+    {
+        "concept_name": "珊瑚树",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "sweet viburnum ;Viburnum odoratissimum Ker.-Gawl.",
+            "又称": " 法国冬青",
+            "见载": "《农学名词》第一版",
+            "英文名": "sweet viburnum"
+        }
+    },
+    {
+        "concept_name": "珙桐",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "dove tree ;Davidia involucrata Baill.",
+            "又称": " 鸽子树",
+            "见载": "《农学名词》第一版",
+            "英文名": "dove tree"
+        }
+    },
+    {
+        "concept_name": "球茎甘蓝",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "kohlrabi ;Brassica oleracea L. var. caulorapa DC.",
+            "见载": "《农学名词》第一版",
+            "英文名": "kohlrabi"
+        }
+    },
+    {
+        "concept_name": "甘蓝",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "cabbage ;Brassica oleracea L.",
+            "见载": "《农学名词》第一版",
+            "英文名": "cabbage"
+        }
+    },
+    {
+        "concept_name": "甘蓝类蔬菜",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "cole vegetables"
+        }
+    },
+    {
+        "concept_name": "甘露儿",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "Chinese artichoke ;Stachys sieboldii Miq.",
+            "俗称": " 螺丝菜",
+            "见载": "《农学名词》第一版",
+            "英文名": "Chinese artichoke"
+        }
+    },
+    {
+        "concept_name": "甜椒",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "sweet pepper ;Capsicum annuum L. var. grossum (L.) Sendt.",
+            "见载": "《农学名词》第一版",
+            "英文名": "sweet pepper"
+        }
+    },
+    {
+        "concept_name": "甜橙",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "sweet orange ;Citrus sinensis Osbeck.",
+            "又称": " 广柑",
+            "见载": "《农学名词》第一版",
+            "英文名": "sweet orange"
+        }
+    },
+    {
+        "concept_name": "甜瓜",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "melon"
+        }
+    },
+    {
+        "concept_name": "田薯",
+        "details": {
+            "学科": "农学_园艺作物",
+            "又称": " 大薯",
+            "见载": "《农学名词》第一版",
+            "英文名": "winged yam"
+        }
+    },
+    {
+        "concept_name": "番杏",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "New Zealand spinach ;Tetragonia tetragonioides (Pall.) O. Kuntze",
+            "见载": "《农学名词》第一版",
+            "英文名": "New Zealand spinach"
+        }
+    },
+    {
+        "concept_name": "番荔枝",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "sugar-apple ;sweet sop ;Anona squamosa L.",
+            "见载": "《农学名词》第一版",
+            "英文名": "sugar-apple"
+        }
+    },
+    {
+        "concept_name": "白兰花",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "white michelia"
+        }
+    },
+    {
+        "concept_name": "白色双孢蘑菇",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "white mushroom ;Agaricus bisporus (Lange) Sing.",
+            "见载": "《农学名词》第一版",
+            "英文名": "white mushroom"
+        }
+    },
+    {
+        "concept_name": "百华花楸",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "Mt. baihuashan mountainash"
+        }
+    },
+    {
+        "concept_name": "百合",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "lily"
+        }
+    },
+    {
+        "concept_name": "百日草",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "youth-and-old-age ;Zinnia elegans Jacq.",
+            "又称": " 百日菊",
+            "见载": "《农学名词》第一版",
+            "英文名": "youth-and-old-age"
+        }
+    },
+    {
+        "concept_name": "皱叶甘蓝",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "savoy cabbage ;Brassica oleracea L. var. bullata DC.",
+            "见载": "《农学名词》第一版",
+            "英文名": "savoy cabbage"
+        }
+    },
+    {
+        "concept_name": "矮雪轮",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "drooping silene"
+        }
+    },
+    {
+        "concept_name": "石刁柏",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "asparagus ;Asparagus officinalis L.",
+            "俗称": " 芦笋",
+            "见载": "《农学名词》第一版",
+            "英文名": "asparagus"
+        }
+    },
+    {
+        "concept_name": "石竹",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "Chinese pink"
+        }
+    },
+    {
+        "concept_name": "碧桃",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "flowering peach"
+        }
+    },
+    {
+        "concept_name": "福禄考",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "drummond phlox"
+        }
+    },
+    {
+        "concept_name": "秋子梨",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "Ussurian pear ;Pyrus ussuriensis Maxim.",
+            "见载": "《农学名词》第一版",
+            "英文名": "Ussurian pear"
+        }
+    },
+    {
+        "concept_name": "秋海棠",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "begonia ;Begonia evansiana Andr.",
+            "见载": "《农学名词》第一版",
+            "英文名": "begonia"
+        }
+    },
+    {
+        "concept_name": "笃斯越桔",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "bog blueberry ;Vaccinium uliginosum L.",
+            "又称": " 乌丝越桔",
+            "见载": "《农学名词》第一版",
+            "英文名": "bog blueberry"
+        }
+    },
+    {
+        "concept_name": "紫罗兰",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "common stock ;Matthiola incana R. Br.",
+            "见载": "《农学名词》第一版",
+            "英文名": "common stock"
+        }
+    },
+    {
+        "concept_name": "紫茉莉",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "[common] four-o'clock ;Mirabilis jalapa L.",
+            "又称": " 草茉莉",
+            "见载": "《农学名词》第一版",
+            "英文名": "[common] four-o'clock"
+        }
+    },
+    {
+        "concept_name": "紫菀",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "tartarian aster ;Aster tataricus L. f.",
+            "见载": "《农学名词》第一版",
+            "英文名": "tartarian aster"
+        }
+    },
+    {
+        "concept_name": "红花菜豆",
+        "details": {
+            "学科": "农学_园艺作物",
+            "又称": " 多花菜豆",
+            "见载": "《农学名词》第一版",
+            "英文名": "scarlet runner bean"
+        }
+    },
+    {
+        "concept_name": "红花酢浆草",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "window-box oxalis ;Oxalis rubra St. Hil.",
+            "见载": "《农学名词》第一版",
+            "英文名": "window-box oxalis"
+        }
+    },
+    {
+        "concept_name": "红豆越桔",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "linberry ;Vaccinium vitis-idaea L.",
+            "见载": "《农学名词》第一版",
+            "英文名": "linberry"
+        }
+    },
+    {
+        "concept_name": "细香葱",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "chive ;Allium schoenoprasum L.",
+            "俗称": " 四季葱",
+            "见载": "《农学名词》第一版",
+            "英文名": "chive"
+        }
+    },
+    {
+        "concept_name": "结球甘蓝",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "common head cabbage ;Brassica oleracea L. var. capitata L.",
+            "俗称": " 卷心菜 ；洋白菜",
+            "见载": "《农学名词》第一版",
+            "英文名": "common head cabbage"
+        }
+    },
+    {
+        "concept_name": "罗勒",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "sweet basil ;Ocimum basilicum L.",
+            "见载": "《农学名词》第一版",
+            "英文名": "sweet basil"
+        }
+    },
+    {
+        "concept_name": "美人蕉",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "India canna ;Canna indica L.",
+            "见载": "《农学名词》第一版",
+            "英文名": "India canna"
+        }
+    },
+    {
+        "concept_name": "美洲李",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "American plum"
+        }
+    },
+    {
+        "concept_name": "羽衣甘蓝",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "kale ;Brassica oleracea L. var. acephala DC.",
+            "又称": " 饲用甘蓝",
+            "见载": "《农学名词》第一版",
+            "英文名": "kale"
+        }
+    },
+    {
+        "concept_name": "翠菊",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "China-aster ;Callistephus chinensis Nees.",
+            "见载": "《农学名词》第一版",
+            "英文名": "China-aster"
+        }
+    },
+    {
+        "concept_name": "胡葱",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "shallot ;Allium ascalonicum L.",
+            "俗称": " 火葱",
+            "见载": "《农学名词》第一版",
+            "英文名": "shallot"
+        }
+    },
+    {
+        "concept_name": "腰果",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "cashew ;Anacardium occidentale L.",
+            "见载": "《农学名词》第一版",
+            "英文名": "cashew"
+        }
+    },
+    {
+        "concept_name": "芋[头]",
+        "details": {
+            "学科": "农学_园艺作物",
+            "俗称": " 芋艿",
+            "见载": "《农学名词》第一版",
+            "英文名": "taro"
+        }
+    },
+    {
+        "concept_name": "芍药",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "Chinese peony"
+        }
+    },
+    {
+        "concept_name": "芡",
+        "details": {
+            "学科": "农学_园艺作物",
+            "俗称": " 鸡头",
+            "见载": "《农学名词》第一版",
+            "英文名": "cordon euryale"
+        }
+    },
+    {
+        "concept_name": "芥菜类蔬菜",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "mustard vegetables"
+        }
+    },
+    {
+        "concept_name": "芥蓝",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "Chinese kale"
+        }
+    },
+    {
+        "concept_name": "芦荟",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "Chinese aloe"
+        }
+    },
+    {
+        "concept_name": "花[椰]菜",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "cauliflower ;Brassica oleracea L. var. botrytis L.",
+            "又称": " 菜花",
+            "见载": "《农学名词》第一版",
+            "英文名": "cauliflower"
+        }
+    },
+    {
+        "concept_name": "花卉布置",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "flower arrangement"
+        }
+    },
+    {
+        "concept_name": "花卉装饰",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "flower decoration"
+        }
+    },
+    {
+        "concept_name": "芹菜",
+        "details": {
+            "学科": "农学_园艺作物",
+            "又称": " 旱芹",
+            "见载": "《农学名词》第一版",
+            "英文名": "celery"
+        }
+    },
+    {
+        "concept_name": "芽蕉",
+        "details": {
+            "学科": "农学_园艺作物",
+            "又称": " 高脚蕉",
+            "见载": "《农学名词》第一版",
+            "英文名": "common banana"
+        }
+    },
+    {
+        "concept_name": "苋菜",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "edible amaranth"
+        }
+    },
+    {
+        "concept_name": "苏铁",
+        "details": {
+            "学科": "农学_园艺作物",
+            "俗称": " 铁树",
+            "见载": "《农学名词》第一版",
+            "英文名": "sago cycas"
+        }
+    },
+    {
+        "concept_name": "苦苣",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "endive"
+        }
+    },
+    {
+        "concept_name": "苹果",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "apple"
+        }
+    },
+    {
+        "concept_name": "茄子",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "eggplant"
+        }
+    },
+    {
+        "concept_name": "茉莉",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "Arabian jasmine"
+        }
+    },
+    {
+        "concept_name": "茎菜类蔬菜",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "stem vegetables"
+        }
+    },
+    {
+        "concept_name": "草莓",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "strawberry"
+        }
+    },
+    {
+        "concept_name": "草菇",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "straw mushroom"
+        }
+    },
+    {
+        "concept_name": "荷兰菊",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "frost flower"
+        }
+    },
+    {
+        "concept_name": "莳萝",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "dill"
+        }
+    },
+    {
+        "concept_name": "莴笋",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "asparagus lettuce ;Lactuca sativa L. var. asparagina Bailey",
+            "见载": "《农学名词》第一版",
+            "英文名": "asparagus lettuce"
+        }
+    },
+    {
+        "concept_name": "莴苣",
+        "details": {
+            "学科": "农学_园艺作物",
+            "俗称": " 生菜",
+            "见载": "《农学名词》第一版",
+            "英文名": "lettuce"
+        }
+    },
+    {
+        "concept_name": "菊芋",
+        "details": {
+            "学科": "农学_园艺作物",
+            "俗称": " 洋姜",
+            "见载": "《农学名词》第一版",
+            "英文名": "Jerusalem artichoke"
+        }
+    },
+    {
+        "concept_name": "菜瓜",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "snake melon"
+        }
+    },
+    {
+        "concept_name": "菠菜",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "spinach ;Spinacia oleracea L.",
+            "见载": "《农学名词》第一版",
+            "英文名": "spinach"
+        }
+    },
+    {
+        "concept_name": "菠萝",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "pineapple ;Ananas comosus (L.) Merr.",
+            "又称": " 凤梨",
+            "见载": "《农学名词》第一版",
+            "英文名": "pineapple"
+        }
+    },
+    {
+        "concept_name": "菠萝蜜",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "jack fruit ;Artocarpus heterophyllus Lam.",
+            "又称": " 木菠萝",
+            "见载": "《农学名词》第一版",
+            "英文名": "jack fruit"
+        }
+    },
+    {
+        "concept_name": "萝卜",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "radish"
+        }
+    },
+    {
+        "concept_name": "萱草",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "orange daylily ;Hemerocallis fulva L.",
+            "见载": "《农学名词》第一版",
+            "英文名": "orange daylily"
+        }
+    },
+    {
+        "concept_name": "落叶果树",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "deciduous fruit tree"
+        }
+    },
+    {
+        "concept_name": "落羽杉",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "swamp cypress"
+        }
+    },
+    {
+        "concept_name": "葱莲",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "autumn zephyr-lily ;Zephyranthes candida Herb.",
+            "又称": " 白花菖蒲莲",
+            "见载": "《农学名词》第一版",
+            "英文名": "autumn zephyr-lily"
+        }
+    },
+    {
+        "concept_name": "葱蒜类蔬菜",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "allium vegetables ;alliums",
+            "见载": "《农学名词》第一版",
+            "英文名": "allium vegetables"
+        }
+    },
+    {
+        "concept_name": "蒲菜",
+        "details": {
+            "学科": "农学_园艺作物",
+            "又称": " 香蒲",
+            "见载": "《农学名词》第一版",
+            "英文名": "common cattail"
+        }
+    },
+    {
+        "concept_name": "蕨菜",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "wild brake ;Pteridium aquilinum (L.) Kuhn. var. latiusculum (Desv.) Underw.",
+            "见载": "《农学名词》第一版",
+            "英文名": "wild brake"
+        }
+    },
+    {
+        "concept_name": "蕹菜",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "water spinach ;Ipomoea aquatica Forsk.",
+            "俗称": " 空心菜",
+            "见载": "《农学名词》第一版",
+            "英文名": "water spinach"
+        }
+    },
+    {
+        "concept_name": "薯芋类蔬菜",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "tuber and tuberous rooted vegetables"
+        }
+    },
+    {
+        "concept_name": "蛇[丝]瓜",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "edible snake gourd"
+        }
+    },
+    {
+        "concept_name": "蝴蝶兰",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "Moth orchid ;Phalaenopsis amabilis Bl.",
+            "见载": "《农学名词》第一版",
+            "英文名": "Moth orchid"
+        }
+    },
+    {
+        "concept_name": "蝴蝶花",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "fringed iris ;Iris japonica Thunb.",
+            "见载": "《农学名词》第一版",
+            "英文名": "fringed iris"
+        }
+    },
+    {
+        "concept_name": "蟠桃",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "flat peach"
+        }
+    },
+    {
+        "concept_name": "蟹爪仙人掌",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "crab cactus"
+        }
+    },
+    {
+        "concept_name": "西葫芦",
+        "details": {
+            "学科": "农学_园艺作物",
+            "又称": " 美洲南瓜",
+            "见载": "《农学名词》第一版",
+            "英文名": "pepo"
+        }
+    },
+    {
+        "concept_name": "观赏园艺",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "ornamental horticulture"
+        }
+    },
+    {
+        "concept_name": "观赏植物",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "ornamental plants"
+        }
+    },
+    {
+        "concept_name": "豆瓣菜",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "water cress ;Nasturtium officinale R. Br.",
+            "又称": " 西洋菜",
+            "见载": "《农学名词》第一版",
+            "英文名": "water cress"
+        }
+    },
+    {
+        "concept_name": "豆类蔬菜",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "leguminous vegetables"
+        }
+    },
+    {
+        "concept_name": "豆薯",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "yam bean ;Pachyrhizus erosus (L.) Urban.",
+            "俗称": " 凉薯",
+            "见载": "《农学名词》第一版",
+            "英文名": "yam bean"
+        }
+    },
+    {
+        "concept_name": "豇豆",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "cowpea ;Vigna unguiculata (L.) Walp. ssp. cylindrica (L.) Van Eselt ex Verdc.",
+            "见载": "《农学名词》第一版",
+            "英文名": "cowpea"
+        }
+    },
+    {
+        "concept_name": "越瓜",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "oriental pickling melon ;Cucumis melo L. var. conomon Makino",
+            "俗称": " 梢瓜",
+            "见载": "《农学名词》第一版",
+            "英文名": "oriental pickling melon"
+        }
+    },
+    {
+        "concept_name": "软枣猕猴桃",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "bower actinidia ;tara vine ;Actinidia arguta (Sieb. et Zucc.) Planch.",
+            "见载": "《农学名词》第一版",
+            "英文名": "bower actinidia"
+        }
+    },
+    {
+        "concept_name": "辣根",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "horse-radish"
+        }
+    },
+    {
+        "concept_name": "辣椒",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "hot pepper ;Capsicum annuum L.",
+            "见载": "《农学名词》第一版",
+            "英文名": "hot pepper"
+        }
+    },
+    {
+        "concept_name": "酸枣",
+        "details": {
+            "学科": "农学_园艺作物",
+            "又称": " 棘",
+            "见载": "《农学名词》第一版",
+            "英文名": "spine date"
+        }
+    },
+    {
+        "concept_name": "酸模",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "garden sorrel ;Rumex acetosa L.",
+            "见载": "《农学名词》第一版",
+            "英文名": "garden sorrel"
+        }
+    },
+    {
+        "concept_name": "酸橙",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "sour orange ;Citrus aurantium L.",
+            "见载": "《农学名词》第一版",
+            "英文名": "sour orange"
+        }
+    },
+    {
+        "concept_name": "酸浆",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "alkekengi"
+        }
+    },
+    {
+        "concept_name": "酸豆",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "tamarind ;Tamarindus indica L.",
+            "又称": " 罗望子",
+            "见载": "《农学名词》第一版",
+            "英文名": "tamarind"
+        }
+    },
+    {
+        "concept_name": "醋栗",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "gooseberry"
+        }
+    },
+    {
+        "concept_name": "野蔷薇",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "multiflora rose"
+        }
+    },
+    {
+        "concept_name": "金桔",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "oval kumquat ;Fortunella margarita (Lour.) Swingle",
+            "又称": " 罗浮 ；牛奶金桔",
+            "见载": "《农学名词》第一版",
+            "英文名": "oval kumquat"
+        }
+    },
+    {
+        "concept_name": "金琥",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "golden-ball cactus"
+        }
+    },
+    {
+        "concept_name": "金盏菊",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "pot marigold ;Calendula officinalis L.",
+            "见载": "《农学名词》第一版",
+            "英文名": "pot marigold"
+        }
+    },
+    {
+        "concept_name": "金银木",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "Amur honeysuckle ;Lonicera maackii (Rupe.) Maxim.",
+            "见载": "《农学名词》第一版",
+            "英文名": "Amur honeysuckle"
+        }
+    },
+    {
+        "concept_name": "金鱼草",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "snapdragon ;Antirrhinum majus L.",
+            "见载": "《农学名词》第一版",
+            "英文名": "snapdragon"
+        }
+    },
+    {
+        "concept_name": "铁线蕨",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "venus-hair fern ;Adiantum capillus-veneris L.",
+            "见载": "《农学名词》第一版",
+            "英文名": "venus-hair fern"
+        }
+    },
+    {
+        "concept_name": "银杏",
+        "details": {
+            "学科": "农学_园艺作物",
+            "俗称": " 白果",
+            "见载": "《农学名词》第一版",
+            "英文名": "ginkgo"
+        }
+    },
+    {
+        "concept_name": "铺地柏",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "procumbent juniper ;Sabina procumbens (Endl.) Iwata et Kusaka",
+            "见载": "《农学名词》第一版",
+            "英文名": "procumbent juniper"
+        }
+    },
+    {
+        "concept_name": "长豇豆",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "asparagus bean ;Vigna unguiculata (L.) Walp. ssp. sesquipedalis (L.) Verdc.",
+            "见载": "《农学名词》第一版",
+            "英文名": "asparagus bean"
+        }
+    },
+    {
+        "concept_name": "阳桃",
+        "details": {
+            "学科": "农学_园艺作物",
+            "又称": " 五敛子",
+            "见载": "《农学名词》第一版",
+            "英文名": "carambola"
+        }
+    },
+    {
+        "concept_name": "雏菊",
+        "details": {
+            "学科": "农学_园艺作物",
+            "又称": " 长命菊",
+            "见载": "《农学名词》第一版",
+            "英文名": "English daisy"
+        }
+    },
+    {
+        "concept_name": "霍香蓟",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "tropic ageratum ;Ageratum conyzoides L.",
+            "见载": "《农学名词》第一版",
+            "英文名": "tropic ageratum"
+        }
+    },
+    {
+        "concept_name": "青花菜",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "broccoli ;Brassica oleracea L. var. italica Plenck",
+            "又称": " 绿菜花",
+            "见载": "《农学名词》第一版",
+            "英文名": "broccoli"
+        }
+    },
+    {
+        "concept_name": "韭菜",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "Chinese chive"
+        }
+    },
+    {
+        "concept_name": "韭葱",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "leek ;Allium porrum L.",
+            "俗称": " 扁叶葱",
+            "见载": "《农学名词》第一版",
+            "英文名": "leek"
+        }
+    },
+    {
+        "concept_name": "须苞石竹",
+        "details": {
+            "学科": "农学_园艺作物",
+            "又称": " 美国石竹",
+            "见载": "《农学名词》第一版",
+            "英文名": "beared pink"
+        }
+    },
+    {
+        "concept_name": "风信子",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "hyacinth ;Hyacinthus orientalis L.",
+            "见载": "《农学名词》第一版",
+            "英文名": "hyacinth"
+        }
+    },
+    {
+        "concept_name": "飞燕草",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "rocket larkspur ;Delphinium ajacis L.",
+            "又称": " 洋翠雀",
+            "见载": "《农学名词》第一版",
+            "英文名": "rocket larkspur"
+        }
+    },
+    {
+        "concept_name": "食用菌类",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "edible fungi"
+        }
+    },
+    {
+        "concept_name": "香椿",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "Chinese mahogang ;Chinese toon ;Toona sinensis (A. Juss.) Roem.",
+            "见载": "《农学名词》第一版",
+            "英文名": "Chinese mahogang"
+        }
+    },
+    {
+        "concept_name": "香芹菜",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "parsley ;Petroselinum crispum (Mill.) Nym. ex A. W. Hill",
+            "见载": "《农学名词》第一版",
+            "英文名": "parsley"
+        }
+    },
+    {
+        "concept_name": "香辛类蔬菜",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "condiment vegetables"
+        }
+    },
+    {
+        "concept_name": "马蔺",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "sword iris ;Iris ensata Thunb.",
+            "见载": "《农学名词》第一版",
+            "英文名": "sword iris"
+        }
+    },
+    {
+        "concept_name": "马铃薯",
+        "details": {
+            "学科": "农学_园艺作物",
+            "俗称": " 土豆",
+            "见载": "《农学名词》第一版",
+            "英文名": "potato"
+        }
+    },
+    {
+        "concept_name": "鸢尾",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "iris ;Iris tectorum Maxim.",
+            "见载": "《农学名词》第一版",
+            "英文名": "iris"
+        }
+    },
+    {
+        "concept_name": "麦秆菊",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "straw flower"
+        }
+    },
+    {
+        "concept_name": "黄兰",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "champac michelia"
+        }
+    },
+    {
+        "concept_name": "黄栌",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "smoke tree"
+        }
+    },
+    {
+        "concept_name": "黄皮",
+        "details": {
+            "学科": "农学_园艺作物",
+            "又称": " 黄弹子",
+            "见载": "《农学名词》第一版",
+            "英文名": "wampee"
+        }
+    },
+    {
+        "concept_name": "黄秋葵",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "okra ;Abelmoschus esculentus (L.) Moench",
+            "见载": "《农学名词》第一版",
+            "英文名": "okra"
+        }
+    },
+    {
+        "concept_name": "黄蝉",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "oleander allemanda ;Allemanda neriifolia Hook.",
+            "见载": "《农学名词》第一版",
+            "英文名": "oleander allemanda"
+        }
+    },
+    {
+        "concept_name": "黑子南瓜",
+        "details": {
+            "学科": "农学_园艺作物",
+            "又称": " 无花果叶瓜",
+            "见载": "《农学名词》第一版",
+            "英文名": "fig-leaf gourd"
+        }
+    },
+    {
+        "concept_name": "黑莓",
+        "details": {
+            "学科": "农学_园艺作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "blackberry"
+        }
+    },
+    {
+        "concept_name": "龙船花",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "Chinese ixora ;Ixora chinensis Lam.",
+            "见载": "《农学名词》第一版",
+            "英文名": "Chinese ixora"
+        }
+    },
+    {
+        "concept_name": "檬",
+        "details": {
+            "学科": "农学_园艺作物",
+            "英文": "canton lemon ;Citrus limonia Osbeck.",
+            "又称": " 广东柠檬",
+            "见载": "《农学名词》第一版",
+            "英文名": "canton lemon"
+        }
+    }
+]

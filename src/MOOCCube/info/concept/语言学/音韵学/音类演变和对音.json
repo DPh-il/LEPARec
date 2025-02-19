@@ -1,0 +1,156 @@
+[
+    {
+        "concept_name": "入派三声",
+        "details": {
+            "学科": "语言学_音韵学_音类演变和对音",
+            "定义": "中古汉语的入声字音发展到近代，分别归入平声、上声、去声。",
+            "见载": "《语言学名词》第一版",
+            "英文名": "ru pai san sheng"
+        }
+    },
+    {
+        "concept_name": "古无去声",
+        "details": {
+            "学科": "语言学_音韵学_音类演变和对音",
+            "定义": "段玉裁主张，上古音声调系统里没有去声，只有平、上、入三种声调。",
+            "见载": "《语言学名词》第一版",
+            "英文名": "a hypothesis that there is no departing tone category in old Chinese"
+        }
+    },
+    {
+        "concept_name": "古无舌上音",
+        "details": {
+            "学科": "语言学_音韵学_音类演变和对音",
+            "定义": "钱大昕发现，上古没有“知彻澄娘”代表的舌上音声母，舌上音还没从“端透定泥”代表的舌头音声母里分化出来。",
+            "见载": "《语言学名词》第一版",
+            "英文名": "a hypothesis that there are no laminals in old Chinese"
+        }
+    },
+    {
+        "concept_name": "古无轻唇音",
+        "details": {
+            "学科": "语言学_音韵学_音类演变和对音",
+            "定义": "钱大昕发现，上古没有“非敷奉微”代表的轻唇音声母，轻唇音还没从“帮滂並明”代表的声母里分化出来。",
+            "见载": "《语言学名词》第一版",
+            "英文名": "ahypothesis that there are no “light” labials in old Chinese"
+        }
+    },
+    {
+        "concept_name": "喻三归匣",
+        "details": {
+            "学科": "语言学_音韵学_音类演变和对音",
+            "定义": "曾运乾认为，中古喻纽三等字在上古属于匣纽。",
+            "见载": "《语言学名词》第一版",
+            "英文名": "a hypothesis that the yu initial at the third division belongs to the xia initial in old Chinese"
+        }
+    },
+    {
+        "concept_name": "喻四归定",
+        "details": {
+            "学科": "语言学_音韵学_音类演变和对音",
+            "定义": "曾运乾认为，中古喻纽四等字在上古属于定纽。",
+            "见载": "《语言学名词》第一版",
+            "英文名": "a hypothesis that the yu initial at the fourth division belongs to the ding initial in old Chinese"
+        }
+    },
+    {
+        "concept_name": "四声一贯",
+        "details": {
+            "学科": "语言学_音韵学_音类演变和对音",
+            "定义": "顾炎武主张，上古声调系统有四声，歌者不受字调局限，所以上声字可以转为平声，去声字可以转为平声、上声，入声字转为平声、上声、去声。",
+            "见载": "《语言学名词》第一版",
+            "英文名": "a hypothesis that tonal distinctions are merged in old Chinese verses"
+        }
+    },
+    {
+        "concept_name": "娘日归泥",
+        "details": {
+            "学科": "语言学_音韵学_音类演变和对音",
+            "定义": "章炳麟认为，中古娘日二纽在上古属于泥纽。",
+            "见载": "《语言学名词》第一版",
+            "英文名": "a hypothesis that the initial categories of niang and er belong to the category of ni in old Chinese"
+        }
+    },
+    {
+        "concept_name": "对音",
+        "details": {
+            "学科": "语言学_音韵学_音类演变和对音",
+            "定义": "不同语言之间语音对译，包括汉字对译的非汉语词语语音，其他民族文字对译的汉语词语语音，以及非汉语中借入的汉语词语的语音等。对音资料能成系统的有梵汉对音、藏汉对音、日汉对音、朝汉对音、越汉对音、八思巴字对音、满汉对音等。",
+            "见载": "《语言学名词》第一版",
+            "英文名": "transcriptions between languages"
+        }
+    },
+    {
+        "concept_name": "平分阴阳",
+        "details": {
+            "学科": "语言学_音韵学_音类演变和对音",
+            "定义": "中古汉语的平声调发展到近代，分化为阴平调、阳平调。",
+            "见载": "《语言学名词》第一版",
+            "英文名": "ping fen yin yang"
+        }
+    },
+    {
+        "concept_name": "日汉对音",
+        "details": {
+            "学科": "语言学_音韵学_音类演变和对音",
+            "定义": "日本语中借入的汉语词语的语音和汉字对译的日语词语的语音。前者由于借入的时代和语音来源不同，通常分别称为吴音、汉音、新汉音、宋音、唐音等。",
+            "见载": "《语言学名词》第一版",
+            "英文名": "Japanese transcription of the borrowed Chinese words"
+        }
+    },
+    {
+        "concept_name": "朝汉对音",
+        "details": {
+            "学科": "语言学_音韵学_音类演变和对音",
+            "定义": "朝鲜语中借入的汉语词语的语音和谚文对译的汉语词语的语音。",
+            "见载": "《语言学名词》第一版",
+            "英文名": "Korean transcription of the borrowed Chinese words"
+        }
+    },
+    {
+        "concept_name": "梵汉对音",
+        "details": {
+            "学科": "语言学_音韵学_音类演变和对音",
+            "定义": "汉译佛经中汉字对译的古印度梵语的词语和咒语的语音。",
+            "见载": "《语言学名词》第一版",
+            "英文名": "Chinese transcription of the Sanskrit words"
+        }
+    },
+    {
+        "concept_name": "浊上变去",
+        "details": {
+            "学科": "语言学_音韵学_音类演变和对音",
+            "定义": "中古汉语的全浊声母上声字发展到近代，变读为去声。",
+            "见载": "《语言学名词》第一版",
+            "英文名": "rising tone of the sinigrams with voiced initials become departing tone"
+        }
+    },
+    {
+        "concept_name": "浊音清化",
+        "details": {
+            "学科": "语言学_音韵学_音类演变和对音",
+            "定义": "中古汉语的全浊声母字发展到近代，变读为清音声母字。",
+            "见载": "《语言学名词》第一版",
+            "英文名": "the process of voiced obstruents becoming voiceless"
+        }
+    },
+    {
+        "concept_name": "藏汉对音",
+        "details": {
+            "学科": "语言学_音韵学_音类演变和对音",
+            "定义": "古文献中藏文对译汉语词语的语音以及汉字对译藏语词语的语音。",
+            "见载": "《语言学名词》第一版",
+            "英文名": "Chinese transcription of the old Tibetan words"
+        }
+    },
+    {
+        "concept_name": "越汉对音",
+        "details": {
+            "学科": "语言学_音韵学_音类演变和对音",
+            "又称": " 汉越语",
+            "定义": "越南语中借入的汉语词语的语音。",
+            "见载": "《语言学名词》第一版",
+            "英文名": "Vietnamese transcription of the borrowed Chinese words"
+        }
+    }
+]

@@ -1,0 +1,298 @@
+[
+    {
+        "concept_name": "偏协方差",
+        "details": {
+            "学科": "数学_概率论_数理统计_多元统计分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "partial covariance"
+        }
+    },
+    {
+        "concept_name": "偏方差",
+        "details": {
+            "学科": "数学_概率论_数理统计_多元统计分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "partial variance"
+        }
+    },
+    {
+        "concept_name": "偏相关",
+        "details": {
+            "学科": "数学_概率论_数理统计_多元统计分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "partial correlation"
+        }
+    },
+    {
+        "concept_name": "偏相关系数",
+        "details": {
+            "学科": "数学_概率论_数理统计_多元统计分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "partial correlation coefficient"
+        }
+    },
+    {
+        "concept_name": "全相关",
+        "details": {
+            "学科": "数学_概率论_数理统计_多元统计分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "total correlation"
+        }
+    },
+    {
+        "concept_name": "全相关系数",
+        "details": {
+            "学科": "数学_概率论_数理统计_多元统计分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "coefficient of total correlation"
+        }
+    },
+    {
+        "concept_name": "公共因子",
+        "details": {
+            "学科": "数学_概率论_数理统计_多元统计分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "common factor"
+        }
+    },
+    {
+        "concept_name": "典型变量",
+        "details": {
+            "学科": "数学_概率论_数理统计_多元统计分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "canonical variable"
+        }
+    },
+    {
+        "concept_name": "典型相关分析",
+        "details": {
+            "学科": "数学_概率论_数理统计_多元统计分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "canonical correlation analysis"
+        }
+    },
+    {
+        "concept_name": "典型相关系数",
+        "details": {
+            "学科": "数学_概率论_数理统计_多元统计分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "canonical correlation coefficient"
+        }
+    },
+    {
+        "concept_name": "判别分析",
+        "details": {
+            "学科": "数学_概率论_数理统计_多元统计分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "discriminant analysis"
+        }
+    },
+    {
+        "concept_name": "协方差分析",
+        "details": {
+            "学科": "数学_概率论_数理统计_多元统计分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "covariance analysis"
+        }
+    },
+    {
+        "concept_name": "因子分析",
+        "details": {
+            "学科": "数学_概率论_数理统计_多元统计分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "factor analysis"
+        }
+    },
+    {
+        "concept_name": "因子得分",
+        "details": {
+            "学科": "数学_概率论_数理统计_多元统计分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "factor score"
+        }
+    },
+    {
+        "concept_name": "因子模型",
+        "details": {
+            "学科": "数学_概率论_数理统计_多元统计分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "factor model"
+        }
+    },
+    {
+        "concept_name": "因子载荷",
+        "details": {
+            "学科": "数学_概率论_数理统计_多元统计分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "factor loading"
+        }
+    },
+    {
+        "concept_name": "复相关",
+        "details": {
+            "学科": "数学_概率论_数理统计_多元统计分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "multiple correlation"
+        }
+    },
+    {
+        "concept_name": "复相关系数",
+        "details": {
+            "学科": "数学_概率论_数理统计_多元统计分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "multiple correlation coefficient"
+        }
+    },
+    {
+        "concept_name": "多元[统计]分析",
+        "details": {
+            "学科": "数学_概率论_数理统计_多元统计分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "multivariate [statistical] analysis"
+        }
+    },
+    {
+        "concept_name": "多元总体",
+        "details": {
+            "学科": "数学_概率论_数理统计_多元统计分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "multivariate population"
+        }
+    },
+    {
+        "concept_name": "多元样本",
+        "details": {
+            "学科": "数学_概率论_数理统计_多元统计分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "multivariate sample"
+        }
+    },
+    {
+        "concept_name": "威尔克斯Λ统计量",
+        "details": {
+            "学科": "数学_概率论_数理统计_多元统计分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Wilks Λ-statistic"
+        }
+    },
+    {
+        "concept_name": "对应分析",
+        "details": {
+            "学科": "数学_概率论_数理统计_多元统计分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "correspondence analysis"
+        }
+    },
+    {
+        "concept_name": "样本偏相关系数",
+        "details": {
+            "学科": "数学_概率论_数理统计_多元统计分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "sample partial correlation coefficient"
+        }
+    },
+    {
+        "concept_name": "样本协方差阵",
+        "details": {
+            "学科": "数学_概率论_数理统计_多元统计分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "sample covariance matrix"
+        }
+    },
+    {
+        "concept_name": "样本复相关系数",
+        "details": {
+            "学科": "数学_概率论_数理统计_多元统计分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "sample multiple correlation coefficient"
+        }
+    },
+    {
+        "concept_name": "样本广义方差",
+        "details": {
+            "学科": "数学_概率论_数理统计_多元统计分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "sample generalized variance"
+        }
+    },
+    {
+        "concept_name": "样本相关阵",
+        "details": {
+            "学科": "数学_概率论_数理统计_多元统计分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "sample correlation matrix"
+        }
+    },
+    {
+        "concept_name": "特殊因子",
+        "details": {
+            "学科": "数学_概率论_数理统计_多元统计分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "specific factor"
+        }
+    },
+    {
+        "concept_name": "相关分析",
+        "details": {
+            "学科": "数学_概率论_数理统计_多元统计分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "correlation analysis"
+        }
+    },
+    {
+        "concept_name": "线性判别函数",
+        "details": {
+            "学科": "数学_概率论_数理统计_多元统计分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "linear discriminant function"
+        }
+    },
+    {
+        "concept_name": "聚类分析",
+        "details": {
+            "学科": "数学_概率论_数理统计_多元统计分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "cluster analysis"
+        }
+    },
+    {
+        "concept_name": "贝叶斯分类规则",
+        "details": {
+            "学科": "数学_概率论_数理统计_多元统计分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Bayes classification rule"
+        }
+    },
+    {
+        "concept_name": "费希尔判别函数",
+        "details": {
+            "学科": "数学_概率论_数理统计_多元统计分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Fisher discriminant function"
+        }
+    },
+    {
+        "concept_name": "距离判别法",
+        "details": {
+            "学科": "数学_概率论_数理统计_多元统计分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "discriminant by distance"
+        }
+    },
+    {
+        "concept_name": "霍特林T2统计量",
+        "details": {
+            "学科": "数学_概率论_数理统计_多元统计分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Hotelling T2-statistic"
+        }
+    },
+    {
+        "concept_name": "马哈拉诺比斯距离",
+        "details": {
+            "学科": "数学_概率论_数理统计_多元统计分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Mahalanobis distance"
+        }
+    }
+]

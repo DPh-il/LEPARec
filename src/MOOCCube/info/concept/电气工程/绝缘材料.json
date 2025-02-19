@@ -1,0 +1,1417 @@
+[
+    {
+        "concept_name": "[介质]损耗指数",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "[dielectric] loss index"
+        }
+    },
+    {
+        "concept_name": "[加速]老化试验",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "[accelerated] ageing test"
+        }
+    },
+    {
+        "concept_name": "[柔软]复合材料",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "composite [flexible] material"
+        }
+    },
+    {
+        "concept_name": "[漏电]起痕",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "tracking"
+        }
+    },
+    {
+        "concept_name": "[漏电]起痕蚀损",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "tracking erosion"
+        }
+    },
+    {
+        "concept_name": "[电]介质",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "dielectric"
+        }
+    },
+    {
+        "concept_name": "[电气]绝缘材料",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "[electrical] insulating material"
+        }
+    },
+    {
+        "concept_name": "[表]面电阻",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "surface resistance"
+        }
+    },
+    {
+        "concept_name": "三聚氰胺玻璃纤维增强模塑料",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "glass fiber reinforced melamine moulding material"
+        }
+    },
+    {
+        "concept_name": "三聚氰胺石棉塑料",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "asbestos-filled melamine plastics"
+        }
+    },
+    {
+        "concept_name": "云母",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "mica"
+        }
+    },
+    {
+        "concept_name": "云母玻璃",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "glass-bonded mica"
+        }
+    },
+    {
+        "concept_name": "介电性能",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "dielectric property"
+        }
+    },
+    {
+        "concept_name": "六氟化硫",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "sulphur hexafluoride"
+        }
+    },
+    {
+        "concept_name": "再生",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "reclaiming"
+        }
+    },
+    {
+        "concept_name": "冲击强度",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "impact strength"
+        }
+    },
+    {
+        "concept_name": "击穿电压",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "puncture voltage"
+        }
+    },
+    {
+        "concept_name": "功能性评定",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "functional evaluation"
+        }
+    },
+    {
+        "concept_name": "动力黏度",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "dynamic viscosity"
+        }
+    },
+    {
+        "concept_name": "动态力学试验",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "dynamic test"
+        }
+    },
+    {
+        "concept_name": "包封",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "encapsulating"
+        }
+    },
+    {
+        "concept_name": "包封胶",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "encapsulating compound"
+        }
+    },
+    {
+        "concept_name": "压延",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "calendering"
+        }
+    },
+    {
+        "concept_name": "压敏黏带",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "pressure-sensitive adhesive tape"
+        }
+    },
+    {
+        "concept_name": "去极化电流",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "depolarization current"
+        }
+    },
+    {
+        "concept_name": "去电化电流",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "de-electrification current"
+        }
+    },
+    {
+        "concept_name": "双向拉抻",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "biaxial stretching"
+        }
+    },
+    {
+        "concept_name": "合成云母",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "synthetic mica"
+        }
+    },
+    {
+        "concept_name": "吸气液体",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "gas-absorbing liquid"
+        }
+    },
+    {
+        "concept_name": "吸水性",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "water absorption"
+        }
+    },
+    {
+        "concept_name": "吸油性",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "oil absorption"
+        }
+    },
+    {
+        "concept_name": "吸湿性",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "moisture absorption"
+        }
+    },
+    {
+        "concept_name": "固体吸附剂处理",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "solid adsorbent treatment"
+        }
+    },
+    {
+        "concept_name": "固化时间",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "curing time"
+        }
+    },
+    {
+        "concept_name": "埋封",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "embedding"
+        }
+    },
+    {
+        "concept_name": "埋封胶",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "embedding compound"
+        }
+    },
+    {
+        "concept_name": "塑型云母板",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "heat formable micanite"
+        }
+    },
+    {
+        "concept_name": "塑料成形加工",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "plastic processing"
+        }
+    },
+    {
+        "concept_name": "塑料片卷",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "plastic sheeting"
+        }
+    },
+    {
+        "concept_name": "塑料片材",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "plastic sheet"
+        }
+    },
+    {
+        "concept_name": "增塑剂",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "plasticizer"
+        }
+    },
+    {
+        "concept_name": "增强塑料",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "reinforced plastics"
+        }
+    },
+    {
+        "concept_name": "增强材料",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "reinforcing material"
+        }
+    },
+    {
+        "concept_name": "大鳞片粉云母纸",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "large flake mica paper"
+        }
+    },
+    {
+        "concept_name": "室温固化漆",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "又称": " 气干漆",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "cold curing varnish"
+        }
+    },
+    {
+        "concept_name": "层压",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "laminating"
+        }
+    },
+    {
+        "concept_name": "层压制品",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "laminated product"
+        }
+    },
+    {
+        "concept_name": "层压板",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "laminated sheet"
+        }
+    },
+    {
+        "concept_name": "层压棒",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "laminated rod"
+        }
+    },
+    {
+        "concept_name": "层压管",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "laminated tube"
+        }
+    },
+    {
+        "concept_name": "屈服强度",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "yield strength"
+        }
+    },
+    {
+        "concept_name": "差热分析",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "differential thermal analysis"
+        }
+    },
+    {
+        "concept_name": "弹性体",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "elastomer"
+        }
+    },
+    {
+        "concept_name": "弹性压缩",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "elastic compression"
+        }
+    },
+    {
+        "concept_name": "抗静电剂",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "antistatic agent"
+        }
+    },
+    {
+        "concept_name": "操作状态",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "mode of operation"
+        }
+    },
+    {
+        "concept_name": "收缩率",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "shrinkage"
+        }
+    },
+    {
+        "concept_name": "放气液体",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "gas-evolving liquid"
+        }
+    },
+    {
+        "concept_name": "断裂伸长率",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "elongation at break"
+        }
+    },
+    {
+        "concept_name": "无机绝缘材料",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "inorganic insulating material"
+        }
+    },
+    {
+        "concept_name": "无溶剂可聚合树脂复合物",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "solventless polymerisable resinous compound"
+        }
+    },
+    {
+        "concept_name": "无纬绑扎带",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "unidirectional binding tape"
+        }
+    },
+    {
+        "concept_name": "有机玻璃",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "又称": " 聚甲基丙烯酸甲酯",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "polymethyl methacrylate plastics"
+        }
+    },
+    {
+        "concept_name": "有机硅浸渍漆",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "silicone impregnating varnish"
+        }
+    },
+    {
+        "concept_name": "有机硅瓷漆",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "silicone enamel"
+        }
+    },
+    {
+        "concept_name": "有机绝缘材料",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "organic insulating material"
+        }
+    },
+    {
+        "concept_name": "有机酯",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "organic ester"
+        }
+    },
+    {
+        "concept_name": "机械老化试验",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "mechanical ageing test"
+        }
+    },
+    {
+        "concept_name": "树脂",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "resin"
+        }
+    },
+    {
+        "concept_name": "气体含量",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "gas content"
+        }
+    },
+    {
+        "concept_name": "氟油",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "fluorocarbon oil"
+        }
+    },
+    {
+        "concept_name": "氧化稳定性",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "oxidation stability"
+        }
+    },
+    {
+        "concept_name": "氯代联苯",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "askarel"
+        }
+    },
+    {
+        "concept_name": "沉浸树脂",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "dipping resin"
+        }
+    },
+    {
+        "concept_name": "注塑",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "injection moulding"
+        }
+    },
+    {
+        "concept_name": "流延",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "casting"
+        }
+    },
+    {
+        "concept_name": "浇铸",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "casting"
+        }
+    },
+    {
+        "concept_name": "浸渍",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "impregnating"
+        }
+    },
+    {
+        "concept_name": "浸渍树脂",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "impregnating resin"
+        }
+    },
+    {
+        "concept_name": "浸渍漆",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "impregnating varnish"
+        }
+    },
+    {
+        "concept_name": "浸渍纸",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "impregnated paper"
+        }
+    },
+    {
+        "concept_name": "浸漆织物",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "varnished fabric"
+        }
+    },
+    {
+        "concept_name": "涂敷",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "coating"
+        }
+    },
+    {
+        "concept_name": "清漆",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "varnish"
+        }
+    },
+    {
+        "concept_name": "温度指数",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "temperature index"
+        }
+    },
+    {
+        "concept_name": "湿润张力",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "wetting tension"
+        }
+    },
+    {
+        "concept_name": "滴浸",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "trickle impregnating"
+        }
+    },
+    {
+        "concept_name": "滴浸树脂",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "trickle resin"
+        }
+    },
+    {
+        "concept_name": "漆包线漆",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "wire enamel"
+        }
+    },
+    {
+        "concept_name": "灌注胶",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "potting compound"
+        }
+    },
+    {
+        "concept_name": "热冲击试验",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "又称": " 热震试验",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "thermal shock test"
+        }
+    },
+    {
+        "concept_name": "热固化",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "hot curing"
+        }
+    },
+    {
+        "concept_name": "热固化漆",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "又称": " 烘干漆",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "hot curing varnish"
+        }
+    },
+    {
+        "concept_name": "热固性塑料",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "thermoset plastics"
+        }
+    },
+    {
+        "concept_name": "热塑性塑料",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "thermoplastics"
+        }
+    },
+    {
+        "concept_name": "热失重法",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "thermogravimetry"
+        }
+    },
+    {
+        "concept_name": "热老化试验",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "thermal ageing test"
+        }
+    },
+    {
+        "concept_name": "烷基代芳香烃",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "alkyl aromatic hydrocarbon"
+        }
+    },
+    {
+        "concept_name": "烷基苯",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "alkyl benzene"
+        }
+    },
+    {
+        "concept_name": "烷基萘",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "alkyl naphthalene"
+        }
+    },
+    {
+        "concept_name": "环氧玻璃漆布",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "epoxy resin-impregnated glass cloth"
+        }
+    },
+    {
+        "concept_name": "环烷基油",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "naphthenic oil"
+        }
+    },
+    {
+        "concept_name": "玻璃绝缘材料",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "glass insulating material"
+        }
+    },
+    {
+        "concept_name": "瓷漆",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "enamel"
+        }
+    },
+    {
+        "concept_name": "电化电流",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electrification current"
+        }
+    },
+    {
+        "concept_name": "电痕",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "track"
+        }
+    },
+    {
+        "concept_name": "电老化试验",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electrical ageing test"
+        }
+    },
+    {
+        "concept_name": "电解电容器纸",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electrolytic capacitor paper"
+        }
+    },
+    {
+        "concept_name": "电解腐蚀",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electrolytic corrosion"
+        }
+    },
+    {
+        "concept_name": "电负性气体",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electronegative gas"
+        }
+    },
+    {
+        "concept_name": "相容性",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "compatibility"
+        }
+    },
+    {
+        "concept_name": "相对温度指数",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "英文": "relative temperature index ;RTI",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "relative temperature index"
+        }
+    },
+    {
+        "concept_name": "相比起痕指数",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "comparative tracking index"
+        }
+    },
+    {
+        "concept_name": "石蜡基油",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "paraffinic oil"
+        }
+    },
+    {
+        "concept_name": "矿物绝缘油",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "mineral insulating oil"
+        }
+    },
+    {
+        "concept_name": "硅油",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "silicone oil"
+        }
+    },
+    {
+        "concept_name": "硬挺度",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "stiffness"
+        }
+    },
+    {
+        "concept_name": "粉末涂敷",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "powder coating"
+        }
+    },
+    {
+        "concept_name": "纤维材料",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "fiber material"
+        }
+    },
+    {
+        "concept_name": "纤维板",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "fiber board"
+        }
+    },
+    {
+        "concept_name": "线膨胀系数",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "coefficient of linear expansion"
+        }
+    },
+    {
+        "concept_name": "绝缘油",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "insulating oil"
+        }
+    },
+    {
+        "concept_name": "绝缘漆",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "insulating varnish"
+        }
+    },
+    {
+        "concept_name": "绝缘纸",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "insulating paper"
+        }
+    },
+    {
+        "concept_name": "绝缘结构",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "insulation system"
+        }
+    },
+    {
+        "concept_name": "耐化学性",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "chemical resistance"
+        }
+    },
+    {
+        "concept_name": "耐摺性",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "folding endurance"
+        }
+    },
+    {
+        "concept_name": "耐气候性",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "weatherability"
+        }
+    },
+    {
+        "concept_name": "耐油性",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "oil resistance"
+        }
+    },
+    {
+        "concept_name": "耐热性",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "thermal endurance"
+        }
+    },
+    {
+        "concept_name": "耐热概貌",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "thermal endurance profile"
+        }
+    },
+    {
+        "concept_name": "耐热等级",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "thermal endurance class"
+        }
+    },
+    {
+        "concept_name": "耐燃性",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "flame resistance"
+        }
+    },
+    {
+        "concept_name": "耐电弧性",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "arc resistance"
+        }
+    },
+    {
+        "concept_name": "耐电离辐射性",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "ionized radiation resistance"
+        }
+    },
+    {
+        "concept_name": "聚丙烯薄膜",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "polypropylene film"
+        }
+    },
+    {
+        "concept_name": "聚氨酯漆包线漆",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "polyurethane wire enamel"
+        }
+    },
+    {
+        "concept_name": "聚酯亚胺漆包线漆",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "polyesterimide wire enamel"
+        }
+    },
+    {
+        "concept_name": "聚酯漆包线漆",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "polyester wire enamel"
+        }
+    },
+    {
+        "concept_name": "聚酯薄膜",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "polyester film"
+        }
+    },
+    {
+        "concept_name": "聚酰胺亚胺浸渍漆",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "polyamideimide impregnating var- nish"
+        }
+    },
+    {
+        "concept_name": "聚酰胺亚胺漆包线漆",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "polyamideimide wire enamel"
+        }
+    },
+    {
+        "concept_name": "胶化",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "gelling"
+        }
+    },
+    {
+        "concept_name": "胶化时间",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "gel time"
+        }
+    },
+    {
+        "concept_name": "胶黏剂",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "adhesive"
+        }
+    },
+    {
+        "concept_name": "胶黏漆",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "adhesive varnish"
+        }
+    },
+    {
+        "concept_name": "脱模剂",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "release agent"
+        }
+    },
+    {
+        "concept_name": "脲醛模塑料",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "urea moulding material"
+        }
+    },
+    {
+        "concept_name": "自熄",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "self-extinguishing"
+        }
+    },
+    {
+        "concept_name": "薄膜流延",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "film casting"
+        }
+    },
+    {
+        "concept_name": "表观密度",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "apparent density"
+        }
+    },
+    {
+        "concept_name": "起痕指数",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "tracking index"
+        }
+    },
+    {
+        "concept_name": "软套管",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "sleeving"
+        }
+    },
+    {
+        "concept_name": "辐射照射剂量",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "exposure dose of radiation"
+        }
+    },
+    {
+        "concept_name": "运动黏度",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "kinematic viscosity"
+        }
+    },
+    {
+        "concept_name": "运行条件",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "service conditions"
+        }
+    },
+    {
+        "concept_name": "运行要求",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "service requirement"
+        }
+    },
+    {
+        "concept_name": "适用期",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "又称": " 有效使用期",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "pot life"
+        }
+    },
+    {
+        "concept_name": "透气度",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "air permeability"
+        }
+    },
+    {
+        "concept_name": "透水性",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "water penetration"
+        }
+    },
+    {
+        "concept_name": "酚醛塑料",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "phenolic plastics"
+        }
+    },
+    {
+        "concept_name": "酸值",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "acid number"
+        }
+    },
+    {
+        "concept_name": "酸处理",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "acid treatment"
+        }
+    },
+    {
+        "concept_name": "醇酸浸渍漆",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "alkyd impregnating varnish"
+        }
+    },
+    {
+        "concept_name": "钝化油",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "passivated oil"
+        }
+    },
+    {
+        "concept_name": "阻化油",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "inhibited oil"
+        }
+    },
+    {
+        "concept_name": "阻燃剂",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "fire retardant"
+        }
+    },
+    {
+        "concept_name": "陶瓷绝缘材料",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "ceramic insulating material"
+        }
+    },
+    {
+        "concept_name": "非阻化油",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "uninhibited oil"
+        }
+    },
+    {
+        "concept_name": "面电阻率",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "surface resistivity"
+        }
+    },
+    {
+        "concept_name": "预处理",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "preconditioning"
+        }
+    },
+    {
+        "concept_name": "预浸渍材料",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "pre-impregnated material"
+        }
+    },
+    {
+        "concept_name": "马丁温度",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "曾称": " 马丁耐热",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "Martens temperature"
+        }
+    },
+    {
+        "concept_name": "黏合云母",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "built-up mica"
+        }
+    },
+    {
+        "concept_name": "黏带",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "adhesive tape"
+        }
+    },
+    {
+        "concept_name": "黏度",
+        "details": {
+            "学科": "电气工程_绝缘材料",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "viscosity"
+        }
+    }
+]

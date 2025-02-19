@@ -1,0 +1,656 @@
+[
+    {
+        "concept_name": "LS临界点",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "LS critical point"
+        }
+    },
+    {
+        "concept_name": "[非线性]全连续算子",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "[non-linear] completely continuous operator"
+        }
+    },
+    {
+        "concept_name": "[非线性]弗雷德霍姆算子",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "[non-linear] Fredholm operator"
+        }
+    },
+    {
+        "concept_name": "[非线性]紧算子",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "[non-linear] compact operator"
+        }
+    },
+    {
+        "concept_name": "不动点定理",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "fixed point theorem"
+        }
+    },
+    {
+        "concept_name": "严格导数",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "strict derivative"
+        }
+    },
+    {
+        "concept_name": "临界点理论",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "critical point theory"
+        }
+    },
+    {
+        "concept_name": "乌雷松算子",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Urysohn operator"
+        }
+    },
+    {
+        "concept_name": "保锥算子",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "cone-preserving operator"
+        }
+    },
+    {
+        "concept_name": "减算子",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "decreasing operator"
+        }
+    },
+    {
+        "concept_name": "凝聚映射",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "condensing mapping"
+        }
+    },
+    {
+        "concept_name": "凸算子",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "convex operator"
+        }
+    },
+    {
+        "concept_name": "凹算子",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "concave operator"
+        }
+    },
+    {
+        "concept_name": "分歧理论",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "又称": " 分岔理论",
+            "见载": "《数学名词》第一版",
+            "英文名": "bifurcation theory"
+        }
+    },
+    {
+        "concept_name": "切锥",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "tangent cone"
+        }
+    },
+    {
+        "concept_name": "利普希茨映射",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Lipschitzian mapping"
+        }
+    },
+    {
+        "concept_name": "加托可微算子",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版"
+        }
+    },
+    {
+        "concept_name": "加托导数",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版"
+        }
+    },
+    {
+        "concept_name": "勒雷-绍德尔度",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Leray-Schauder degree"
+        }
+    },
+    {
+        "concept_name": "单调算子",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "又称": " 单调映射(monotone mapping)",
+            "见载": "《数学名词》第一版",
+            "英文名": "monotone operator"
+        }
+    },
+    {
+        "concept_name": "压缩[算子]",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "又称": " 压缩映射(contractive mapping)",
+            "见载": "《数学名词》第一版",
+            "英文名": "contractive operator"
+        }
+    },
+    {
+        "concept_name": "变分方法",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "variational method"
+        }
+    },
+    {
+        "concept_name": "可微算子",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "differentiable operator"
+        }
+    },
+    {
+        "concept_name": "可测集值函数",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "measurable set-valued function"
+        }
+    },
+    {
+        "concept_name": "可积有界集值函数",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "integrable bounded multifunction"
+        }
+    },
+    {
+        "concept_name": "可解性理论",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "theory of solvability"
+        }
+    },
+    {
+        "concept_name": "哈默斯坦算子",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Hammerstein operator"
+        }
+    },
+    {
+        "concept_name": "增生算子",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "accretive operator"
+        }
+    },
+    {
+        "concept_name": "增算子",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "increasing operator"
+        }
+    },
+    {
+        "concept_name": "对偶[性]映射",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "duality mapping"
+        }
+    },
+    {
+        "concept_name": "山路引理",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "mountain pass lemma"
+        }
+    },
+    {
+        "concept_name": "巴拿赫流形",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Banach manifold"
+        }
+    },
+    {
+        "concept_name": "希尔伯特流形",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Hilbert manifold"
+        }
+    },
+    {
+        "concept_name": "广义博尔扎问题",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "generalized Bolza problem"
+        }
+    },
+    {
+        "concept_name": "广义方向导数",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "generalized directional derivative"
+        }
+    },
+    {
+        "concept_name": "广义梯度",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "generalized gradient"
+        }
+    },
+    {
+        "concept_name": "广义雅可比矩阵",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "generalized Jacobian"
+        }
+    },
+    {
+        "concept_name": "弗雷歇可微算子",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Fre&1&chet differentiable operator"
+        }
+    },
+    {
+        "concept_name": "弗雷歇导数",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Fre&1&chet derivative"
+        }
+    },
+    {
+        "concept_name": "强制[的]",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "coercive"
+        }
+    },
+    {
+        "concept_name": "微分包含",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "differential inclusion"
+        }
+    },
+    {
+        "concept_name": "投影[解]法",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "projection method"
+        }
+    },
+    {
+        "concept_name": "拓扑方法",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "topological method"
+        }
+    },
+    {
+        "concept_name": "拟弱连续映射",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "hemi-continuous mapping"
+        }
+    },
+    {
+        "concept_name": "旋转数",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "rotation number"
+        }
+    },
+    {
+        "concept_name": "映射度",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "又称": " 拓扑度",
+            "见载": "《数学名词》第一版",
+            "英文名": "degree of mapping"
+        }
+    },
+    {
+        "concept_name": "极大单调算子",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "又称": " 极大单调映射(maximal monotone mapping)",
+            "见载": "《数学名词》第一版",
+            "英文名": "maximal monotone operator"
+        }
+    },
+    {
+        "concept_name": "极小化极大原理",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "minimax principle"
+        }
+    },
+    {
+        "concept_name": "梯度映射",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "gradient mapping"
+        }
+    },
+    {
+        "concept_name": "次微分",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "subdifferential"
+        }
+    },
+    {
+        "concept_name": "次梯度",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "subgradient"
+        }
+    },
+    {
+        "concept_name": "次线性[的]",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "sublinear"
+        }
+    },
+    {
+        "concept_name": "次连续映射",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "demi-continuous mapping"
+        }
+    },
+    {
+        "concept_name": "次闭映射",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "demi-closed mapping"
+        }
+    },
+    {
+        "concept_name": "正规可解性",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "normal solvability"
+        }
+    },
+    {
+        "concept_name": "歧点",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "又称": " 分岔点",
+            "见载": "《数学名词》第一版",
+            "英文名": "bifurcation point"
+        }
+    },
+    {
+        "concept_name": "法锥",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "normal cone"
+        }
+    },
+    {
+        "concept_name": "涅米茨算子",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Nymitz operator"
+        }
+    },
+    {
+        "concept_name": "渐近广义梯度",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "asymptotic generalized gradient"
+        }
+    },
+    {
+        "concept_name": "硬隐函数定理",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "hard implicit function theorem"
+        }
+    },
+    {
+        "concept_name": "算子方程",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "operator equation"
+        }
+    },
+    {
+        "concept_name": "耗散算子",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "dissipative operator"
+        }
+    },
+    {
+        "concept_name": "芬斯勒流形",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Finsler manifold"
+        }
+    },
+    {
+        "concept_name": "莫尔斯理论",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Morse theory"
+        }
+    },
+    {
+        "concept_name": "解析算子",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "analytic operator"
+        }
+    },
+    {
+        "concept_name": "超切向量",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "hypertangent"
+        }
+    },
+    {
+        "concept_name": "软隐函数定理",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "soft implicit function theorem"
+        }
+    },
+    {
+        "concept_name": "逼近正则映射",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "approximating proper mapping"
+        }
+    },
+    {
+        "concept_name": "阿达马导数",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Hadamard derivative"
+        }
+    },
+    {
+        "concept_name": "集值[的]",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "set-valued"
+        }
+    },
+    {
+        "concept_name": "集值函数映射",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "set-valued function mapping"
+        }
+    },
+    {
+        "concept_name": "集值增生算子",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "英文": "set-valued accretive operator ;multivalued accretive operator",
+            "见载": "《数学名词》第一版",
+            "英文名": "set-valued accretive operator"
+        }
+    },
+    {
+        "concept_name": "集压缩映射",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "set contraction mapping"
+        }
+    },
+    {
+        "concept_name": "非光滑分析",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "non-smooth analysis"
+        }
+    },
+    {
+        "concept_name": "非扩张算子",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "non-expansive operator"
+        }
+    },
+    {
+        "concept_name": "非紧测度",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "measure of non-compactness"
+        }
+    },
+    {
+        "concept_name": "非线性[的]",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "non-linear"
+        }
+    },
+    {
+        "concept_name": "非线性映射",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "又称": " 非线性算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "non-linear mapping"
+        }
+    },
+    {
+        "concept_name": "非线性本征值问题",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "non-linear eigenvalue problem"
+        }
+    },
+    {
+        "concept_name": "非线性泛函分析",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "non-linear functional analysis"
+        }
+    },
+    {
+        "concept_name": "黎曼流形",
+        "details": {
+            "学科": "数学_泛函分析_非线性泛函分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Riemannian manifold"
+        }
+    }
+]

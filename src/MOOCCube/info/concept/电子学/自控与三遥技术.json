@@ -1,0 +1,1307 @@
+[
+    {
+        "concept_name": "一阶系统",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "first-order system"
+        }
+    },
+    {
+        "concept_name": "临界阻尼",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "critical damping"
+        }
+    },
+    {
+        "concept_name": "主交换子",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "prime commutator"
+        }
+    },
+    {
+        "concept_name": "二阶系统",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "second-order system"
+        }
+    },
+    {
+        "concept_name": "亮度温度",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "brightness temperature"
+        }
+    },
+    {
+        "concept_name": "伪装码",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "camouflage code"
+        }
+    },
+    {
+        "concept_name": "伪随机码测距",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "pseudo-random code ranging"
+        }
+    },
+    {
+        "concept_name": "伺服系统",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "servo system"
+        }
+    },
+    {
+        "concept_name": "侧音测距",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "sidetones ranging"
+        }
+    },
+    {
+        "concept_name": "保密指令",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "secret command"
+        }
+    },
+    {
+        "concept_name": "信息码",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "information code"
+        }
+    },
+    {
+        "concept_name": "光机扫描仪",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "optical-mechanical scanner"
+        }
+    },
+    {
+        "concept_name": "分散控制",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "decentralized control"
+        }
+    },
+    {
+        "concept_name": "前导码",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "lead code"
+        }
+    },
+    {
+        "concept_name": "副交换子",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "subcommutator"
+        }
+    },
+    {
+        "concept_name": "副比特码",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "sub-bit code"
+        }
+    },
+    {
+        "concept_name": "功能码",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "function code"
+        }
+    },
+    {
+        "concept_name": "加速常数",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "acceleration constant"
+        }
+    },
+    {
+        "concept_name": "劳斯-赫尔维茨判据",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Routh-Hurwitz criterion"
+        }
+    },
+    {
+        "concept_name": "单位阶跃响应",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "unit step response"
+        }
+    },
+    {
+        "concept_name": "单音指令",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "single tone command"
+        }
+    },
+    {
+        "concept_name": "反射率",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "reflectivity"
+        }
+    },
+    {
+        "concept_name": "反馈校正",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "又称": " 反馈补偿",
+            "见载": "《电子学名词》第一版",
+            "英文名": "feedback compensation"
+        }
+    },
+    {
+        "concept_name": "取消指令",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "cancelling command"
+        }
+    },
+    {
+        "concept_name": "受控对象",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "controlled object"
+        }
+    },
+    {
+        "concept_name": "可控性",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "controllability"
+        }
+    },
+    {
+        "concept_name": "可观测性",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "observability"
+        }
+    },
+    {
+        "concept_name": "告警指令",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "alarm command"
+        }
+    },
+    {
+        "concept_name": "图像运动补偿",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "image motion compensation"
+        }
+    },
+    {
+        "concept_name": "地球观测系统",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "英文": "earth observing system ;EOS",
+            "见载": "《电子学名词》第一版",
+            "英文名": "earth observing system"
+        }
+    },
+    {
+        "concept_name": "增益裕量",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "gain margin"
+        }
+    },
+    {
+        "concept_name": "多普勒跟踪",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Doppler tracking"
+        }
+    },
+    {
+        "concept_name": "多路遥测",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "multichannel telemetry"
+        }
+    },
+    {
+        "concept_name": "太阳微波干涉成像系统",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "英文": "solar microwave interferometer imaging system ;SMIIS",
+            "见载": "《电子学名词》第一版",
+            "英文名": "solar microwave interferometer imaging system"
+        }
+    },
+    {
+        "concept_name": "奈奎斯特判据",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Nyquist criterion"
+        }
+    },
+    {
+        "concept_name": "奈奎斯特图",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Nyquist diagram"
+        }
+    },
+    {
+        "concept_name": "安全遥控",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "safety remote control"
+        }
+    },
+    {
+        "concept_name": "定值指令",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "constant value command"
+        }
+    },
+    {
+        "concept_name": "小扰动理论",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "small perturbance theory"
+        }
+    },
+    {
+        "concept_name": "幅相图",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "amplitude-phase diagram"
+        }
+    },
+    {
+        "concept_name": "序列分割调制遥测",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "sequence division modulation telemetry"
+        }
+    },
+    {
+        "concept_name": "开关指令",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "switch command"
+        }
+    },
+    {
+        "concept_name": "开环控制",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "open-loop control"
+        }
+    },
+    {
+        "concept_name": "开环频率响应",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "open-loop frequency response"
+        }
+    },
+    {
+        "concept_name": "微波全息雷达",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "microwave hologram radar"
+        }
+    },
+    {
+        "concept_name": "微波散射计",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "microwave scatterometer"
+        }
+    },
+    {
+        "concept_name": "微波有源频谱仪",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "microwave active spectrometer"
+        }
+    },
+    {
+        "concept_name": "微波统一载波系统",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "microwave united carrier system"
+        }
+    },
+    {
+        "concept_name": "微波辐射计",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "microwave radiometer"
+        }
+    },
+    {
+        "concept_name": "执行指令",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "execution command"
+        }
+    },
+    {
+        "concept_name": "执行机构",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "actuator"
+        }
+    },
+    {
+        "concept_name": "执行码",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "actuating code"
+        }
+    },
+    {
+        "concept_name": "扩频遥控",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "spread-spectrum remote control"
+        }
+    },
+    {
+        "concept_name": "扫描微波频谱仪",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "scanning microwave spectrometer"
+        }
+    },
+    {
+        "concept_name": "扫频干涉仪",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "swept frequency interferometer"
+        }
+    },
+    {
+        "concept_name": "指令",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "command"
+        }
+    },
+    {
+        "concept_name": "指令功能",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "command function"
+        }
+    },
+    {
+        "concept_name": "指令字",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "command word"
+        }
+    },
+    {
+        "concept_name": "指令容量",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "command capacity"
+        }
+    },
+    {
+        "concept_name": "指令时延",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "command time delay"
+        }
+    },
+    {
+        "concept_name": "指令格式",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "command format"
+        }
+    },
+    {
+        "concept_name": "指令监测",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "command monitoring"
+        }
+    },
+    {
+        "concept_name": "指令码",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "command code"
+        }
+    },
+    {
+        "concept_name": "指令码元",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "command code element"
+        }
+    },
+    {
+        "concept_name": "指令系统",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "command system"
+        }
+    },
+    {
+        "concept_name": "指令编码",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "command coding"
+        }
+    },
+    {
+        "concept_name": "指令表",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "command list"
+        }
+    },
+    {
+        "concept_name": "指令误差",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "command error"
+        }
+    },
+    {
+        "concept_name": "指令遥控",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "command remote control"
+        }
+    },
+    {
+        "concept_name": "指令链",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "command chain"
+        }
+    },
+    {
+        "concept_name": "指令长度",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "command length"
+        }
+    },
+    {
+        "concept_name": "指令间隔",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "command interval"
+        }
+    },
+    {
+        "concept_name": "损耗函数",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "loss function"
+        }
+    },
+    {
+        "concept_name": "探测率",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "detectivity"
+        }
+    },
+    {
+        "concept_name": "控制论",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "cybernetics"
+        }
+    },
+    {
+        "concept_name": "描述函数",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "describing function"
+        }
+    },
+    {
+        "concept_name": "散射计",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "scatterometer"
+        }
+    },
+    {
+        "concept_name": "数据压缩",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "data compression"
+        }
+    },
+    {
+        "concept_name": "数据指令",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "data command"
+        }
+    },
+    {
+        "concept_name": "无线电干涉仪",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "radio interferometer"
+        }
+    },
+    {
+        "concept_name": "时不变系统",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "又称": " 定常系统",
+            "见载": "《电子学名词》第一版",
+            "英文名": "time-invariant system"
+        }
+    },
+    {
+        "concept_name": "时分指令",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "time-division command"
+        }
+    },
+    {
+        "concept_name": "时分遥测",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "time-division telemetry"
+        }
+    },
+    {
+        "concept_name": "时滞系统",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "time-lag system"
+        }
+    },
+    {
+        "concept_name": "时间最优控制",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "time optimal control"
+        }
+    },
+    {
+        "concept_name": "智能机器人",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "intelligent robot"
+        }
+    },
+    {
+        "concept_name": "最优控制理论",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "optimal control theory"
+        }
+    },
+    {
+        "concept_name": "最大超调量",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "maximum overshoot"
+        }
+    },
+    {
+        "concept_name": "最小相位网络",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "minimum-phase network"
+        }
+    },
+    {
+        "concept_name": "有源微波遥感",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "active microwave remote sensing"
+        }
+    },
+    {
+        "concept_name": "有线遥测",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "wired telemetry"
+        }
+    },
+    {
+        "concept_name": "机器人",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "robot"
+        }
+    },
+    {
+        "concept_name": "李雅普诺夫稳定性判据",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Liapunov's stability criterion"
+        }
+    },
+    {
+        "concept_name": "极值控制",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "extremum control"
+        }
+    },
+    {
+        "concept_name": "极大值原理",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "maximum principle"
+        }
+    },
+    {
+        "concept_name": "极限环",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "limit cycle"
+        }
+    },
+    {
+        "concept_name": "根轨迹法",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "root-locus method"
+        }
+    },
+    {
+        "concept_name": "欠阻尼响应",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "underdamped response"
+        }
+    },
+    {
+        "concept_name": "死区",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "dead zone"
+        }
+    },
+    {
+        "concept_name": "比例指令",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "proportional command"
+        }
+    },
+    {
+        "concept_name": "比相定位",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "phase comparison positioning"
+        }
+    },
+    {
+        "concept_name": "渐近稳定性",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "asymptotic stability"
+        }
+    },
+    {
+        "concept_name": "温度湿度红外辐射计",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "英文": "temperature humidity infrared radiometer ;THIR",
+            "见载": "《电子学名词》第一版",
+            "英文名": "temperature humidity infrared radiometer"
+        }
+    },
+    {
+        "concept_name": "漏指令",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "missing command"
+        }
+    },
+    {
+        "concept_name": "灰体",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "grey body"
+        }
+    },
+    {
+        "concept_name": "热像仪",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "thermal imager"
+        }
+    },
+    {
+        "concept_name": "状态反馈",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "state feedback"
+        }
+    },
+    {
+        "concept_name": "状态方程",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "state equation"
+        }
+    },
+    {
+        "concept_name": "状态空间法",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "state-space method"
+        }
+    },
+    {
+        "concept_name": "甚长基线干涉仪",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "英文": "very long baseline interferometer ;VLBI",
+            "见载": "《电子学名词》第一版",
+            "英文名": "very long baseline interferometer"
+        }
+    },
+    {
+        "concept_name": "相位裕量",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "phase margin"
+        }
+    },
+    {
+        "concept_name": "瞬时视场",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "英文": "instantaneous field of view ;IFOV",
+            "见载": "《电子学名词》第一版",
+            "英文名": "instantaneous field of view"
+        }
+    },
+    {
+        "concept_name": "离散指令",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "discrete command"
+        }
+    },
+    {
+        "concept_name": "离散时间系统",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "discrete-time system"
+        }
+    },
+    {
+        "concept_name": "程序指令",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "program command"
+        }
+    },
+    {
+        "concept_name": "等效噪声功率",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "noise equivalent power"
+        }
+    },
+    {
+        "concept_name": "等效噪声反射率",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "noise equivalent reflectance"
+        }
+    },
+    {
+        "concept_name": "等效噪声温差",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "noise equivalent temperature difference"
+        }
+    },
+    {
+        "concept_name": "等效辐射温度",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "equivalent radiant temperature"
+        }
+    },
+    {
+        "concept_name": "红外前视系统",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "英文": "forward-looking infrared system ;FLIS",
+            "见载": "《电子学名词》第一版",
+            "英文名": "forward-looking infrared system"
+        }
+    },
+    {
+        "concept_name": "红外夜视系统",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "infrared night-vision system"
+        }
+    },
+    {
+        "concept_name": "红外行扫描仪",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "infrared line scanner"
+        }
+    },
+    {
+        "concept_name": "组合指令",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "combined command"
+        }
+    },
+    {
+        "concept_name": "背景起伏",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "background fluctuation"
+        }
+    },
+    {
+        "concept_name": "背景辐射",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "background emission"
+        }
+    },
+    {
+        "concept_name": "脉码调制遥测",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "pulse-code-modulation teleme-try"
+        }
+    },
+    {
+        "concept_name": "自动指令",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "automatic command"
+        }
+    },
+    {
+        "concept_name": "自动控制",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "automatic control"
+        }
+    },
+    {
+        "concept_name": "自动调节",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "automatic regulation"
+        }
+    },
+    {
+        "concept_name": "自适应控制",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "adaptive control"
+        }
+    },
+    {
+        "concept_name": "自适应遥控",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "adaptive remote control"
+        }
+    },
+    {
+        "concept_name": "自适应遥测",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "adaptive telemetry"
+        }
+    },
+    {
+        "concept_name": "虚指令",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "false command"
+        }
+    },
+    {
+        "concept_name": "行扫描",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "line scanning"
+        }
+    },
+    {
+        "concept_name": "观测器",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "observer"
+        }
+    },
+    {
+        "concept_name": "视场",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "visual field"
+        }
+    },
+    {
+        "concept_name": "视角",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "visual angle"
+        }
+    },
+    {
+        "concept_name": "计算机控制",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "computer control"
+        }
+    },
+    {
+        "concept_name": "辐射计",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "radiometer"
+        }
+    },
+    {
+        "concept_name": "过程控制",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "process control"
+        }
+    },
+    {
+        "concept_name": "远动学",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "telemechanics"
+        }
+    },
+    {
+        "concept_name": "速度控制",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "speed control"
+        }
+    },
+    {
+        "concept_name": "遥感",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "remote sensing"
+        }
+    },
+    {
+        "concept_name": "遥控",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "remote control"
+        }
+    },
+    {
+        "concept_name": "遥控动力学",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "remote control dynamics"
+        }
+    },
+    {
+        "concept_name": "遥控指令",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "remote control command"
+        }
+    },
+    {
+        "concept_name": "遥控机械手",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "remotely controlled extraman"
+        }
+    },
+    {
+        "concept_name": "遥控站",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "remote control station"
+        }
+    },
+    {
+        "concept_name": "遥测",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "telemetry"
+        }
+    },
+    {
+        "concept_name": "遥调",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "remote regulating"
+        }
+    },
+    {
+        "concept_name": "里卡蒂方程",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Riccati equation"
+        }
+    },
+    {
+        "concept_name": "闭环控制",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "closed-loop control"
+        }
+    },
+    {
+        "concept_name": "闭环频率响应",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "closed-loop frequency response"
+        }
+    },
+    {
+        "concept_name": "阻尼系数",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "damping factor"
+        }
+    },
+    {
+        "concept_name": "降阶状态观测器",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "reduced-order state observer"
+        }
+    },
+    {
+        "concept_name": "集中控制",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "centralized control"
+        }
+    },
+    {
+        "concept_name": "零[点]极点法",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "pole-zero method"
+        }
+    },
+    {
+        "concept_name": "零稳态误差系统",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "zero steady-state error system"
+        }
+    },
+    {
+        "concept_name": "零误差系统",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "zero-error system"
+        }
+    },
+    {
+        "concept_name": "零阶保持器",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "zero-order holder"
+        }
+    },
+    {
+        "concept_name": "频分遥测",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "frequency division telemetry"
+        }
+    },
+    {
+        "concept_name": "高分辨率成像光谱仪",
+        "details": {
+            "学科": "电子学_自控与三遥技术",
+            "英文": "high resolution image spectrometer ;HIRIS",
+            "见载": "《电子学名词》第一版",
+            "英文名": "high resolution image spectrometer"
+        }
+    }
+]

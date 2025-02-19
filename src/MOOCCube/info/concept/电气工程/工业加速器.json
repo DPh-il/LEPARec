@@ -1,0 +1,1559 @@
+[
+    {
+        "concept_name": "“峰”磁场",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "hill magnetic field"
+        }
+    },
+    {
+        "concept_name": "“谷”磁场",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "valley magnetic field"
+        }
+    },
+    {
+        "concept_name": "三角形扇叶",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "triangular sector"
+        }
+    },
+    {
+        "concept_name": "中子发生器",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "neutron generator"
+        }
+    },
+    {
+        "concept_name": "中心磁场",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "central magnetic field"
+        }
+    },
+    {
+        "concept_name": "串列式静电加速器",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "tandem electrostatic accelerator"
+        }
+    },
+    {
+        "concept_name": "交变梯度聚焦",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "又称": " 强聚焦(str-ong focusing)",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "alternating gradient focusing"
+        }
+    },
+    {
+        "concept_name": "低能加速器",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "low-energy accelerator"
+        }
+    },
+    {
+        "concept_name": "假Ｄ形电极",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "dummy dee [electrode]"
+        }
+    },
+    {
+        "concept_name": "偏转",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "deflection"
+        }
+    },
+    {
+        "concept_name": "偏转电极",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "deflecting electrode"
+        }
+    },
+    {
+        "concept_name": "偏转磁铁",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "deflecting magnet"
+        }
+    },
+    {
+        "concept_name": "共振线",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "resonant line"
+        }
+    },
+    {
+        "concept_name": "共振腔",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "resonant cavity"
+        }
+    },
+    {
+        "concept_name": "内束流",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "internal beam current"
+        }
+    },
+    {
+        "concept_name": "内靶",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "internal target"
+        }
+    },
+    {
+        "concept_name": "准直透镜",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "collimating lens"
+        }
+    },
+    {
+        "concept_name": "分析磁铁",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "analyzing magnet"
+        }
+    },
+    {
+        "concept_name": "切割磁铁",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "septum magnet"
+        }
+    },
+    {
+        "concept_name": "剂量率",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "dose rate"
+        }
+    },
+    {
+        "concept_name": "剂量监测系统",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "dose monitoring system"
+        }
+    },
+    {
+        "concept_name": "加速单元",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "accelerator module"
+        }
+    },
+    {
+        "concept_name": "加速器",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "accelerator"
+        }
+    },
+    {
+        "concept_name": "加速器屏蔽",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "accelerator shielding"
+        }
+    },
+    {
+        "concept_name": "加速器控制系统",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "accelerator control system"
+        }
+    },
+    {
+        "concept_name": "加速场",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "accelerating field"
+        }
+    },
+    {
+        "concept_name": "加速场频率",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "accelerating field frequency"
+        }
+    },
+    {
+        "concept_name": "加速室",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "accelerating chamber"
+        }
+    },
+    {
+        "concept_name": "加速梯度",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "accelerating gradient"
+        }
+    },
+    {
+        "concept_name": "加速电压",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "accelerating voltage"
+        }
+    },
+    {
+        "concept_name": "加速电子",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "accelerated electron"
+        }
+    },
+    {
+        "concept_name": "加速电极",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "accelerating electrode"
+        }
+    },
+    {
+        "concept_name": "加速相位",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "accelerating phase"
+        }
+    },
+    {
+        "concept_name": "加速管",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "accelerating tube"
+        }
+    },
+    {
+        "concept_name": "加速腔",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "accelerating cavity"
+        }
+    },
+    {
+        "concept_name": "加速长度",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "accelerating length"
+        }
+    },
+    {
+        "concept_name": "加速间隙",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "accelerating gap"
+        }
+    },
+    {
+        "concept_name": "动量散度",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "momentum spread"
+        }
+    },
+    {
+        "concept_name": "同步加速器振荡",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "synchrotron oscillation"
+        }
+    },
+    {
+        "concept_name": "同步加速器振荡频率",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "synchrotron frequency"
+        }
+    },
+    {
+        "concept_name": "同步相角",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "synchronous phase angle"
+        }
+    },
+    {
+        "concept_name": "后加速",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "post-acceleration"
+        }
+    },
+    {
+        "concept_name": "吸收剂量",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "absorbed dose"
+        }
+    },
+    {
+        "concept_name": "四极磁透镜",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "magnetic quadrupole lens"
+        }
+    },
+    {
+        "concept_name": "四极静电透镜",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electrostatic quadrupole lens"
+        }
+    },
+    {
+        "concept_name": "四端环流器",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "4 port circulator"
+        }
+    },
+    {
+        "concept_name": "外束流",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "external beam current"
+        }
+    },
+    {
+        "concept_name": "外靶",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "external target"
+        }
+    },
+    {
+        "concept_name": "实际焦点",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "actual focal spot"
+        }
+    },
+    {
+        "concept_name": "对称偏转",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "symmetrical deflection"
+        }
+    },
+    {
+        "concept_name": "封闭轨道",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "closed orbit"
+        }
+    },
+    {
+        "concept_name": "射频共振器",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "radio-freqnency resonator"
+        }
+    },
+    {
+        "concept_name": "射频单腔加速器",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "radio-frequency single cavity accel- erator"
+        }
+    },
+    {
+        "concept_name": "射频发生器",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "radio-freqnency generator"
+        }
+    },
+    {
+        "concept_name": "射频变压器",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "radio-freqnency transformer"
+        }
+    },
+    {
+        "concept_name": "射频四极直线加速器",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "radio-frequency quadrupole linac"
+        }
+    },
+    {
+        "concept_name": "射频电极",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "radio-frequency electrode"
+        }
+    },
+    {
+        "concept_name": "射频直线加速器",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "英文": "radio-frequency linear accelerator ;radio-frequency linac",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "radio-frequency linear accelerator"
+        }
+    },
+    {
+        "concept_name": "射频脉冲长度",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "radio-frequency pulse length"
+        }
+    },
+    {
+        "concept_name": "射频静电四[电]极",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "radio-frequency electrostatic quad- rupole"
+        }
+    },
+    {
+        "concept_name": "工业加速器",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "industrial accelerator"
+        }
+    },
+    {
+        "concept_name": "平均磁场",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "average magnetic field"
+        }
+    },
+    {
+        "concept_name": "平衡轨道",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "equilibrium orbit"
+        }
+    },
+    {
+        "concept_name": "开关磁铁",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "switching magnet"
+        }
+    },
+    {
+        "concept_name": "引出",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "extraction"
+        }
+    },
+    {
+        "concept_name": "引出电压",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "extraction voltage"
+        }
+    },
+    {
+        "concept_name": "引出电极",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "extraction electrode"
+        }
+    },
+    {
+        "concept_name": "引出磁铁",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "extraction magnet"
+        }
+    },
+    {
+        "concept_name": "引出窗",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "extraction window"
+        }
+    },
+    {
+        "concept_name": "引出管",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "extraction tube"
+        }
+    },
+    {
+        "concept_name": "引出通道",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "extraction channel"
+        }
+    },
+    {
+        "concept_name": "弯转磁铁",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "bending magnet"
+        }
+    },
+    {
+        "concept_name": "归一化发射度",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "normalized emittance"
+        }
+    },
+    {
+        "concept_name": "微波发生器",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "microwave generator"
+        }
+    },
+    {
+        "concept_name": "感应加速",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "induction acceleration"
+        }
+    },
+    {
+        "concept_name": "感应直线加速器",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "英文": "induction linear accelerator ;induc- tion linac",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "induction linear accelerator"
+        }
+    },
+    {
+        "concept_name": "感应腔",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "induction cavity"
+        }
+    },
+    {
+        "concept_name": "扇形磁铁",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "sector magnet"
+        }
+    },
+    {
+        "concept_name": "扫描",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "scanning"
+        }
+    },
+    {
+        "concept_name": "扫描不均匀性",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "non-uniformity of scanning"
+        }
+    },
+    {
+        "concept_name": "扫描器",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "scanner"
+        }
+    },
+    {
+        "concept_name": "扫描磁铁",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "scanning magnet"
+        }
+    },
+    {
+        "concept_name": "扫描面积",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "scanning area"
+        }
+    },
+    {
+        "concept_name": "探头",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "probe"
+        }
+    },
+    {
+        "concept_name": "掺杂均匀度",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "implant uniformity"
+        }
+    },
+    {
+        "concept_name": "掺杂能量",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "implant energy"
+        }
+    },
+    {
+        "concept_name": "有效分路阻抗",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "effective shunt impedance"
+        }
+    },
+    {
+        "concept_name": "有效辐照面积",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "effective area of irradiation"
+        }
+    },
+    {
+        "concept_name": "束团",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "beam bunches"
+        }
+    },
+    {
+        "concept_name": "束均匀度",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "beam uniformity"
+        }
+    },
+    {
+        "concept_name": "束流发射度",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "beam emittance"
+        }
+    },
+    {
+        "concept_name": "束流品质",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "quality of beam"
+        }
+    },
+    {
+        "concept_name": "束流引出效率",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "beam extraction efficiency"
+        }
+    },
+    {
+        "concept_name": "束流强度",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "beam intensity"
+        }
+    },
+    {
+        "concept_name": "束流强度分布",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "beam intensity distribution"
+        }
+    },
+    {
+        "concept_name": "束流能量",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "beam energy"
+        }
+    },
+    {
+        "concept_name": "束阻抗",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "beam impedance"
+        }
+    },
+    {
+        "concept_name": "极面绕组",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "pole-face winding"
+        }
+    },
+    {
+        "concept_name": "横向聚焦",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "transverse focusing"
+        }
+    },
+    {
+        "concept_name": "次级电子倍增",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "multipacting"
+        }
+    },
+    {
+        "concept_name": "法拉第杯",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "Faraday cup"
+        }
+    },
+    {
+        "concept_name": "注入",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "injection"
+        }
+    },
+    {
+        "concept_name": "注入器",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "injector"
+        }
+    },
+    {
+        "concept_name": "注入能量",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "injection energy"
+        }
+    },
+    {
+        "concept_name": "活化分析",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "activation analysis"
+        }
+    },
+    {
+        "concept_name": "漏辐射率",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "radiation leakage"
+        }
+    },
+    {
+        "concept_name": "电子剥离",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electron stripping"
+        }
+    },
+    {
+        "concept_name": "电子剥离器",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electron stripper"
+        }
+    },
+    {
+        "concept_name": "电子加速器",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electron accelerator"
+        }
+    },
+    {
+        "concept_name": "电子场",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electron field"
+        }
+    },
+    {
+        "concept_name": "电子帘加速器",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electrocurtain accelerator"
+        }
+    },
+    {
+        "concept_name": "电子感应加速器振荡",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "betatron oscillation"
+        }
+    },
+    {
+        "concept_name": "电子束能量",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electron beam energy"
+        }
+    },
+    {
+        "concept_name": "电子束辐照",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electron beam irradiation"
+        }
+    },
+    {
+        "concept_name": "电子枪",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electron gun"
+        }
+    },
+    {
+        "concept_name": "电子源",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electron source"
+        }
+    },
+    {
+        "concept_name": "电子直线加速器",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electron linear accelerator"
+        }
+    },
+    {
+        "concept_name": "电子静电加速器",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electron electrostatic accelerator"
+        }
+    },
+    {
+        "concept_name": "电磁透镜",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electromagnetic lens"
+        }
+    },
+    {
+        "concept_name": "电离室",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "ionization chamber"
+        }
+    },
+    {
+        "concept_name": "直线加速器",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "英文": "linear accelerator ;linac",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "linear accelerator"
+        }
+    },
+    {
+        "concept_name": "相[位]振荡",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "phase oscillation"
+        }
+    },
+    {
+        "concept_name": "相[位]聚焦",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "phase focusing"
+        }
+    },
+    {
+        "concept_name": "真空抽气系统",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "vacuum-pumping system"
+        }
+    },
+    {
+        "concept_name": "磁偏转",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "magnetic deflection"
+        }
+    },
+    {
+        "concept_name": "磁偏转器",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "magnetic deflector"
+        }
+    },
+    {
+        "concept_name": "磁场指数",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "field index"
+        }
+    },
+    {
+        "concept_name": "磁场稳定度",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "magnetic field stability"
+        }
+    },
+    {
+        "concept_name": "离化团粒束",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "ionized cluster beam"
+        }
+    },
+    {
+        "concept_name": "离子加速器",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "ion accelerator"
+        }
+    },
+    {
+        "concept_name": "离子束",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "ion beam"
+        }
+    },
+    {
+        "concept_name": "离子注入机",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "ion implantor"
+        }
+    },
+    {
+        "concept_name": "离子源",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "ion source"
+        }
+    },
+    {
+        "concept_name": "离子聚焦",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "ion focusing"
+        }
+    },
+    {
+        "concept_name": "离子质量分辨率",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "ion mass resolution"
+        }
+    },
+    {
+        "concept_name": "等位环",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "equipotential ring"
+        }
+    },
+    {
+        "concept_name": "等剂量曲线",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "isodose curve"
+        }
+    },
+    {
+        "concept_name": "等时性磁场",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "isochronous magnetic field"
+        }
+    },
+    {
+        "concept_name": "等梯度加速器结构",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "constant-gradient accelerator stru- cture"
+        }
+    },
+    {
+        "concept_name": "等梯度聚焦",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "又称": " 弱聚焦",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "constant-gradient focusing"
+        }
+    },
+    {
+        "concept_name": "等阻抗加速器结构",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "constant-impedance accelerator structure"
+        }
+    },
+    {
+        "concept_name": "箔窗",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "foil window"
+        }
+    },
+    {
+        "concept_name": "粒子加速",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "particle acceleration"
+        }
+    },
+    {
+        "concept_name": "粒子加速器",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "particle accelerator"
+        }
+    },
+    {
+        "concept_name": "聚焦电极",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "focusing electrode"
+        }
+    },
+    {
+        "concept_name": "聚焦磁铁",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "focusing magnet"
+        }
+    },
+    {
+        "concept_name": "能量不稳定度",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "energy instability"
+        }
+    },
+    {
+        "concept_name": "能量增益",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "energy gain"
+        }
+    },
+    {
+        "concept_name": "能量损失",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "energy loss"
+        }
+    },
+    {
+        "concept_name": "能量散度",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "energy spread"
+        }
+    },
+    {
+        "concept_name": "能量梯度",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "energy gradient"
+        }
+    },
+    {
+        "concept_name": "能量范围",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "energy range"
+        }
+    },
+    {
+        "concept_name": "脉冲磁铁",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "pulsed magnet"
+        }
+    },
+    {
+        "concept_name": "腔共振频率",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "cavity resonant frequency"
+        }
+    },
+    {
+        "concept_name": "腔激励功率",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "cavity excitation power"
+        }
+    },
+    {
+        "concept_name": "腔相位移",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "cavity phase shift"
+        }
+    },
+    {
+        "concept_name": "自动稳相",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "autophasing"
+        }
+    },
+    {
+        "concept_name": "自由振荡频率",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "free oscillation frequency"
+        }
+    },
+    {
+        "concept_name": "行波电子直线加速器",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "travelling wave electron linear ac- celerator"
+        }
+    },
+    {
+        "concept_name": "调整线圈",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "trim coil"
+        }
+    },
+    {
+        "concept_name": "谐振加速",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "resonance acceleration"
+        }
+    },
+    {
+        "concept_name": "谐波加速",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "harmonic acceleration"
+        }
+    },
+    {
+        "concept_name": "谐波线圈",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "harmonic coil"
+        }
+    },
+    {
+        "concept_name": "负离子束",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "negative ion beam"
+        }
+    },
+    {
+        "concept_name": "质子直线加速器",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "proton linear accelerator"
+        }
+    },
+    {
+        "concept_name": "质子静电加速器",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "proton electrostatic accelerator"
+        }
+    },
+    {
+        "concept_name": "轨道稳定度",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "orbit stability"
+        }
+    },
+    {
+        "concept_name": "轴向注入",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "axial injection"
+        }
+    },
+    {
+        "concept_name": "轴向聚焦",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "axial focusing"
+        }
+    },
+    {
+        "concept_name": "轴耦合",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "on-axis coupling"
+        }
+    },
+    {
+        "concept_name": "轴耦合腔",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "on-axis coupling cavity"
+        }
+    },
+    {
+        "concept_name": "辐射剂量",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "radiation dose"
+        }
+    },
+    {
+        "concept_name": "辐射头",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "radiation head"
+        }
+    },
+    {
+        "concept_name": "辐射野",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "radiation field size"
+        }
+    },
+    {
+        "concept_name": "辐照功率",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "irradiation power"
+        }
+    },
+    {
+        "concept_name": "辐照厚度",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "irradiation depth"
+        }
+    },
+    {
+        "concept_name": "辐照效应",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "irradiation effect"
+        }
+    },
+    {
+        "concept_name": "边缘聚焦",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "edge focusing"
+        }
+    },
+    {
+        "concept_name": "边耦合",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "side coupling"
+        }
+    },
+    {
+        "concept_name": "钨准直器",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "tungsten collimator"
+        }
+    },
+    {
+        "concept_name": "静电偏转",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electrostatic deflection"
+        }
+    },
+    {
+        "concept_name": "静电加速器",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electrostatic accelerator"
+        }
+    },
+    {
+        "concept_name": "静电聚焦",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electrostatic focusing"
+        }
+    },
+    {
+        "concept_name": "静电透镜",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electrostatic lens"
+        }
+    },
+    {
+        "concept_name": "预切割板",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "preseptum"
+        }
+    },
+    {
+        "concept_name": "预加速",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "pre-acceleration"
+        }
+    },
+    {
+        "concept_name": "预注入",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "pre-injection"
+        }
+    },
+    {
+        "concept_name": "驻波电子直线加速器",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "standing wave electron linear ac- celerator"
+        }
+    },
+    {
+        "concept_name": "高功率脉冲加速器",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "high power pulsed accelerator"
+        }
+    },
+    {
+        "concept_name": "高压电极电压",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "high-voltage electrode voltage"
+        }
+    },
+    {
+        "concept_name": "高频高压加速器",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "dynamitron accelerator"
+        }
+    },
+    {
+        "concept_name": "Ｄ形电极",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "dee [electrode]"
+        }
+    },
+    {
+        "concept_name": "Ｄ形电极孔径",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "dee aperture"
+        }
+    },
+    {
+        "concept_name": "Ｄ形电极角度",
+        "details": {
+            "学科": "电气工程_工业加速器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "dee angle"
+        }
+    }
+]

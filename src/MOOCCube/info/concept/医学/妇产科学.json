@@ -1,0 +1,2405 @@
+[
+    {
+        "concept_name": "下丘脑-垂体-卵巢轴",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "hypothalamic-pituitary-ovarian axis"
+        }
+    },
+    {
+        "concept_name": "下丘脑性闭经",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "hypothalamic amenorrhea"
+        }
+    },
+    {
+        "concept_name": "不全流产",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "incomplete abortion"
+        }
+    },
+    {
+        "concept_name": "临产",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "in labor"
+        }
+    },
+    {
+        "concept_name": "习惯性流产",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "habitual abortion"
+        }
+    },
+    {
+        "concept_name": "产前",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "antepartum"
+        }
+    },
+    {
+        "concept_name": "产前保健",
+        "details": {
+            "学科": "医学_妇产科学",
+            "英文": "antenatal care ;prenatal care",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "antenatal care"
+        }
+    },
+    {
+        "concept_name": "产前出血",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "antepartum hemorrhage"
+        }
+    },
+    {
+        "concept_name": "产力异常",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "abnormal uterine action"
+        }
+    },
+    {
+        "concept_name": "产后宫缩痛",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "after-pains"
+        }
+    },
+    {
+        "concept_name": "产时",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "intrapartum"
+        }
+    },
+    {
+        "concept_name": "产科出血",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "obstetric hemorrhage"
+        }
+    },
+    {
+        "concept_name": "产科学",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "obstetrics"
+        }
+    },
+    {
+        "concept_name": "产科结合径",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "obstetric conjugate"
+        }
+    },
+    {
+        "concept_name": "产褥感染",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "puerperal infection"
+        }
+    },
+    {
+        "concept_name": "产钳术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "obstetric forceps delivery"
+        }
+    },
+    {
+        "concept_name": "人工授精",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "artificial insemination"
+        }
+    },
+    {
+        "concept_name": "人工流产",
+        "details": {
+            "学科": "医学_妇产科学",
+            "英文": "artificial abortion ;induced abortion",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "artificial abortion"
+        }
+    },
+    {
+        "concept_name": "人工破膜术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "artificial rupture of membranes"
+        }
+    },
+    {
+        "concept_name": "仰伸",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "extention"
+        }
+    },
+    {
+        "concept_name": "会阴切开术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "episiotomy"
+        }
+    },
+    {
+        "concept_name": "会阴后-侧切开术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "postero-lateral episiotomy"
+        }
+    },
+    {
+        "concept_name": "会阴正中切开术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "median episiotomy"
+        }
+    },
+    {
+        "concept_name": "低体重儿",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "low birth weight infant"
+        }
+    },
+    {
+        "concept_name": "低促性腺素性闭经",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "hypogonadotropic amenorrhea"
+        }
+    },
+    {
+        "concept_name": "侵入性胎盘",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "placenta accreta"
+        }
+    },
+    {
+        "concept_name": "催产素激惹试验",
+        "details": {
+            "学科": "医学_妇产科学",
+            "英文": "oxytocin challenge test ;OCT",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "oxytocin challenge test"
+        }
+    },
+    {
+        "concept_name": "先兆流产",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "threatened abortion"
+        }
+    },
+    {
+        "concept_name": "先天性无阴道",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "congenital absence of vagina"
+        }
+    },
+    {
+        "concept_name": "免疫性不孕",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "immune infertility"
+        }
+    },
+    {
+        "concept_name": "入口平面",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pelvic inlet plane"
+        }
+    },
+    {
+        "concept_name": "内旋转",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "internal rotation"
+        }
+    },
+    {
+        "concept_name": "内监护",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "internal electronic monitoring"
+        }
+    },
+    {
+        "concept_name": "内转胎位术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "internal version"
+        }
+    },
+    {
+        "concept_name": "出口后矢状径",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "posterior sagittal diameter of outlet"
+        }
+    },
+    {
+        "concept_name": "出口平面",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pelvic outlet plane"
+        }
+    },
+    {
+        "concept_name": "出口横径",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "transverse outlet"
+        }
+    },
+    {
+        "concept_name": "分段刮宫术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "fractional curettage of uterus"
+        }
+    },
+    {
+        "concept_name": "初乳",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "colostrum"
+        }
+    },
+    {
+        "concept_name": "刮宫术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "dilatation and curettage"
+        }
+    },
+    {
+        "concept_name": "前庭大腺囊肿",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "Bartholin cyst"
+        }
+    },
+    {
+        "concept_name": "前庭大腺囊肿切除术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "excision of Bartholin gland cyst"
+        }
+    },
+    {
+        "concept_name": "前庭大腺囊肿造口术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "marsupialization of Bartholin gland cyst"
+        }
+    },
+    {
+        "concept_name": "前庭大腺脓肿",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "abscess of Bartholin gland"
+        }
+    },
+    {
+        "concept_name": "功能失调性下丘脑性闭经",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "functional hypothalamic amenorrhea"
+        }
+    },
+    {
+        "concept_name": "功能性痛经",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "functional dysmenorrhea"
+        }
+    },
+    {
+        "concept_name": "单卵双胎儿",
+        "details": {
+            "学科": "医学_妇产科学",
+            "英文": "monovular twins ;identical twins ;monozygotic twins",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "monovular twins"
+        }
+    },
+    {
+        "concept_name": "单绒毛膜双胎",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "monochorionic twin pregnancy"
+        }
+    },
+    {
+        "concept_name": "单脐动脉脐带",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "single umbilical artery of cord"
+        }
+    },
+    {
+        "concept_name": "卵巢切开探查术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "incision and exploration of ovary"
+        }
+    },
+    {
+        "concept_name": "卵巢切开术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "ovariotomy"
+        }
+    },
+    {
+        "concept_name": "卵巢切除术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "ovariectomy"
+        }
+    },
+    {
+        "concept_name": "卵巢功能早衰",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "premature ovarian failure"
+        }
+    },
+    {
+        "concept_name": "卵巢囊肿切除术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "enucleation of ovarian cyst"
+        }
+    },
+    {
+        "concept_name": "卵巢囊肿造口引流术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "ovariostomy"
+        }
+    },
+    {
+        "concept_name": "卵巢妊娠",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "ovarian pregnancy"
+        }
+    },
+    {
+        "concept_name": "卵巢性闭经",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "ovarian amenorrhea"
+        }
+    },
+    {
+        "concept_name": "卵巢楔形切除术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "wedge resection of ovary"
+        }
+    },
+    {
+        "concept_name": "卵巢移植术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "transplantation of ovary"
+        }
+    },
+    {
+        "concept_name": "卵巢缝合术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "ovariorrhaphy"
+        }
+    },
+    {
+        "concept_name": "卵巢门[间质]细胞",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "hilus [interstitial] cell"
+        }
+    },
+    {
+        "concept_name": "卵母细胞成熟抑制物",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "oocyte maturation inhibitor"
+        }
+    },
+    {
+        "concept_name": "卵泡膜细胞增殖症",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "hyperthecosis"
+        }
+    },
+    {
+        "concept_name": "卵泡闭锁",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "follicular atresia"
+        }
+    },
+    {
+        "concept_name": "卵磷脂与鞘磷脂比值",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "lecithin/sphingomyelin ratio"
+        }
+    },
+    {
+        "concept_name": "原发不孕",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "primary infertility"
+        }
+    },
+    {
+        "concept_name": "原发闭经",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "primary amenorrhea"
+        }
+    },
+    {
+        "concept_name": "原因不明性不孕",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "unexplained infertility"
+        }
+    },
+    {
+        "concept_name": "双卵双胎儿",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "binovular twins"
+        }
+    },
+    {
+        "concept_name": "双子宫",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "double uterus"
+        }
+    },
+    {
+        "concept_name": "双胎交锁",
+        "details": {
+            "学科": "医学_妇产科学",
+            "英文": "locked twins ;interlocking twins",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "locked twins"
+        }
+    },
+    {
+        "concept_name": "双角子宫",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "uterus bicornis"
+        }
+    },
+    {
+        "concept_name": "受精龄",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "fertilization age"
+        }
+    },
+    {
+        "concept_name": "变异减速",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "variable deceleration"
+        }
+    },
+    {
+        "concept_name": "古典式剖宫产术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "classical cesarean section"
+        }
+    },
+    {
+        "concept_name": "叶状绒毛膜",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "chorion frondosum"
+        }
+    },
+    {
+        "concept_name": "后出胎头产钳术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "forceps delivery of aftercoming head"
+        }
+    },
+    {
+        "concept_name": "后陷凹镜检查",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "culdoscopy"
+        }
+    },
+    {
+        "concept_name": "器质性痛经",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "organic dysmenorrhea"
+        }
+    },
+    {
+        "concept_name": "围生医学",
+        "details": {
+            "学科": "医学_妇产科学",
+            "又称": " 围产医学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "perinatology"
+        }
+    },
+    {
+        "concept_name": "均小骨盆",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "generally contracted pelvis"
+        }
+    },
+    {
+        "concept_name": "坐骨棘间径",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "bi-ischial diameter"
+        }
+    },
+    {
+        "concept_name": "坐骨结节间径",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "intertuberous diameter"
+        }
+    },
+    {
+        "concept_name": "垂体性闭经",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pituitary amenorrhea"
+        }
+    },
+    {
+        "concept_name": "增量调节",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "up regulation"
+        }
+    },
+    {
+        "concept_name": "处女膜闭锁",
+        "details": {
+            "学科": "医学_妇产科学",
+            "英文": "atresia of hymen ;imperforate hymen",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "atresia of hymen"
+        }
+    },
+    {
+        "concept_name": "外旋转",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "external rotation"
+        }
+    },
+    {
+        "concept_name": "外监护",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "external electronic monitoring"
+        }
+    },
+    {
+        "concept_name": "外转胎位术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "external version"
+        }
+    },
+    {
+        "concept_name": "外阴切除术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "vulvectomy"
+        }
+    },
+    {
+        "concept_name": "外阴根治术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "radical vulvectomy"
+        }
+    },
+    {
+        "concept_name": "外阴炎",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "vulvitis"
+        }
+    },
+    {
+        "concept_name": "外阴营养不良改变",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "vulvar dystrophy"
+        }
+    },
+    {
+        "concept_name": "多囊卵巢综合征",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "polycystic ovarian syndrome"
+        }
+    },
+    {
+        "concept_name": "多胎妊娠",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "multiple pregnancy"
+        }
+    },
+    {
+        "concept_name": "女性不孕症",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "female infertility"
+        }
+    },
+    {
+        "concept_name": "妇产科学",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "obstetrics and gynecology"
+        }
+    },
+    {
+        "concept_name": "妊娠图",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pregnogram"
+        }
+    },
+    {
+        "concept_name": "妊娠急性脂肪肝",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "acute fatty liver of pregnancy"
+        }
+    },
+    {
+        "concept_name": "妊娠急性黄色肝萎缩",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "obstetric acute yellow liver atrophy"
+        }
+    },
+    {
+        "concept_name": "妊娠早期",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "early trimester of pregnancy"
+        }
+    },
+    {
+        "concept_name": "妊娠期",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "trimester of pregnancy"
+        }
+    },
+    {
+        "concept_name": "妊娠水肿",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "gestational edema"
+        }
+    },
+    {
+        "concept_name": "妊娠肝内胆汁淤积症",
+        "details": {
+            "学科": "医学_妇产科学",
+            "英文": "intrahepatic cholestasis of pregnancy ;ICP",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "intrahepatic cholestasis of pregnancy"
+        }
+    },
+    {
+        "concept_name": "妊娠高血压综合征",
+        "details": {
+            "学科": "医学_妇产科学",
+            "英文": "pregnancy-induced hypertension syndrome ;PIH",
+            "简称": " 妊高征",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pregnancy-induced hypertension syndrome"
+        }
+    },
+    {
+        "concept_name": "娩出",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "expulsion"
+        }
+    },
+    {
+        "concept_name": "子宫内翻",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "inversion of uterus"
+        }
+    },
+    {
+        "concept_name": "子宫内膜不规则脱落",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "irregular shedding of endometrium"
+        }
+    },
+    {
+        "concept_name": "子宫固定术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "英文": "suspension of uterus ;hysteropexy",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "suspension of uterus"
+        }
+    },
+    {
+        "concept_name": "子宫复旧",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "involution of uterus"
+        }
+    },
+    {
+        "concept_name": "子宫性闭经",
+        "details": {
+            "学科": "医学_妇产科学",
+            "英文": "uterine amenorrhea ;amenorrhea due to uterine lesion",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "uterine amenorrhea"
+        }
+    },
+    {
+        "concept_name": "子宫杂音",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "uterine souffle"
+        }
+    },
+    {
+        "concept_name": "子宫破裂",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "rupture of uterus"
+        }
+    },
+    {
+        "concept_name": "子宫胎盘卒中",
+        "details": {
+            "学科": "医学_妇产科学",
+            "英文": "uteroplacental apoplexy ;couvelaire uterus",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "uteroplacental apoplexy"
+        }
+    },
+    {
+        "concept_name": "子宫脱垂",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "uterine prolapse"
+        }
+    },
+    {
+        "concept_name": "子宫腔粘连综合征",
+        "details": {
+            "学科": "医学_妇产科学",
+            "简称": " 阿氏征",
+            "又称": " 阿谢曼综合征",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "Asherman syndrome"
+        }
+    },
+    {
+        "concept_name": "子宫输卵管吻合术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "uterosalpingostomy"
+        }
+    },
+    {
+        "concept_name": "子宫颈腺囊肿",
+        "details": {
+            "学科": "医学_妇产科学",
+            "简称": " 纳氏囊",
+            "又称": " 纳博特囊肿",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "Naboth cyst"
+        }
+    },
+    {
+        "concept_name": "子宫骶骨韧带缩短术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "shortening of uterosacral ligament"
+        }
+    },
+    {
+        "concept_name": "子痫",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "eclampsia"
+        }
+    },
+    {
+        "concept_name": "孕龄",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "gestational age"
+        }
+    },
+    {
+        "concept_name": "完全流产",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "complete abortion"
+        }
+    },
+    {
+        "concept_name": "宫内发育迟缓",
+        "details": {
+            "学科": "医学_妇产科学",
+            "英文": "intrauterine growth retardation ;IUGR",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "intrauterine growth retardation"
+        }
+    },
+    {
+        "concept_name": "宫缩乏力",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "uterine inertia"
+        }
+    },
+    {
+        "concept_name": "宫腔吸片",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "hystero cavity aspirating smear"
+        }
+    },
+    {
+        "concept_name": "宫腔镜",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "hysteroscope"
+        }
+    },
+    {
+        "concept_name": "宫腔镜检查",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "hysteroscopy"
+        }
+    },
+    {
+        "concept_name": "宫颈切除术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "amputation of cervix"
+        }
+    },
+    {
+        "concept_name": "宫颈成形术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "tracheloplasty"
+        }
+    },
+    {
+        "concept_name": "宫颈残端切除术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "excision of cervical stump"
+        }
+    },
+    {
+        "concept_name": "宫颈炎",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "cervicitis"
+        }
+    },
+    {
+        "concept_name": "宫颈管刮片",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "endocervical scraping smear"
+        }
+    },
+    {
+        "concept_name": "宫颈锥切术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "conization of cervix"
+        }
+    },
+    {
+        "concept_name": "宫颈黏液检查",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "cervical mucus examination"
+        }
+    },
+    {
+        "concept_name": "宫颈黏液精液相合试验",
+        "details": {
+            "学科": "医学_妇产科学",
+            "又称": " 米勒－库尔洛克试验",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "Miller-Kurzrok test"
+        }
+    },
+    {
+        "concept_name": "对角径",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "diagonal conjugate"
+        }
+    },
+    {
+        "concept_name": "小于胎龄儿",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "small for gestational age infant"
+        }
+    },
+    {
+        "concept_name": "平滑绒毛膜",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "chorion laeve"
+        }
+    },
+    {
+        "concept_name": "并发子痫",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "superimposed eclampsia"
+        }
+    },
+    {
+        "concept_name": "异位妊娠",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "ectopic pregnancy"
+        }
+    },
+    {
+        "concept_name": "引产术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "induction of labour"
+        }
+    },
+    {
+        "concept_name": "急性盆腔炎",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "acute pelvic inflammatory disease"
+        }
+    },
+    {
+        "concept_name": "慢性盆腔炎",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "chronic pelvic inflammatory disease"
+        }
+    },
+    {
+        "concept_name": "抑制素",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "inhibin"
+        }
+    },
+    {
+        "concept_name": "持续性枕后位",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "persistent occipitoposterior position"
+        }
+    },
+    {
+        "concept_name": "持续性枕横位",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "persistent occipitotransverse position"
+        }
+    },
+    {
+        "concept_name": "持续无排卵",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "chronic anovulation"
+        }
+    },
+    {
+        "concept_name": "排卵性功能失调性子宫出血",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "ovulatory dysfunctional uterine bleeding"
+        }
+    },
+    {
+        "concept_name": "排卵期出血",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "ovulation bleeding"
+        }
+    },
+    {
+        "concept_name": "探宫腔术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "sounding of uterine cavity"
+        }
+    },
+    {
+        "concept_name": "撤退出血",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "withdrawal bleeding"
+        }
+    },
+    {
+        "concept_name": "断头术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "decapitation"
+        }
+    },
+    {
+        "concept_name": "斯波尔丁-理查森手术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "Spalding-Richardson operation"
+        }
+    },
+    {
+        "concept_name": "新生儿窒息",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "neonatal asphyxia"
+        }
+    },
+    {
+        "concept_name": "无排卵性不孕",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "anovulatory infertility"
+        }
+    },
+    {
+        "concept_name": "无排卵性功能失调性子宫出血",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "anovulatory dysfunctional uterine bleeding"
+        }
+    },
+    {
+        "concept_name": "早产儿",
+        "details": {
+            "学科": "医学_妇产科学",
+            "英文": "premature infant ;preterm infant",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "premature infant"
+        }
+    },
+    {
+        "concept_name": "早期减速",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "early deceleration"
+        }
+    },
+    {
+        "concept_name": "早期流产",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "early abortion"
+        }
+    },
+    {
+        "concept_name": "晚期减速",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "late deceleration"
+        }
+    },
+    {
+        "concept_name": "晚期流产",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "late abortion"
+        }
+    },
+    {
+        "concept_name": "暴发子痫",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "fulminant eclampsia"
+        }
+    },
+    {
+        "concept_name": "更年期",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "climacteric period"
+        }
+    },
+    {
+        "concept_name": "曼彻斯特手术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "Manchester operation"
+        }
+    },
+    {
+        "concept_name": "最大加速期",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "maximum acceleration phase"
+        }
+    },
+    {
+        "concept_name": "月经淋漓",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "menostaxis"
+        }
+    },
+    {
+        "concept_name": "月经稀发",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "oligomenorrhea"
+        }
+    },
+    {
+        "concept_name": "月经过多",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "menorrhagia"
+        }
+    },
+    {
+        "concept_name": "月经过少",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "hypomenorrhea"
+        }
+    },
+    {
+        "concept_name": "月经龄",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "menstrual age"
+        }
+    },
+    {
+        "concept_name": "未破卵泡黄素化综合征",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "luteinized unruptured follicle syndrome"
+        }
+    },
+    {
+        "concept_name": "条索状卵巢",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "streak ovary"
+        }
+    },
+    {
+        "concept_name": "植入性胎盘",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "placenta increta"
+        }
+    },
+    {
+        "concept_name": "次级[间质]细胞",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "secondary [interstitial] cell"
+        }
+    },
+    {
+        "concept_name": "正常促性腺素性闭经",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "normogonadotropic amenorrhea"
+        }
+    },
+    {
+        "concept_name": "残角子宫",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "rudimentary horn of uterus"
+        }
+    },
+    {
+        "concept_name": "毁胎术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "destructive operations"
+        }
+    },
+    {
+        "concept_name": "泡膜[间质]细胞",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "theca[interstitial] cell"
+        }
+    },
+    {
+        "concept_name": "活跃期",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "active phase"
+        }
+    },
+    {
+        "concept_name": "活跃期停滞",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "protracted active phase"
+        }
+    },
+    {
+        "concept_name": "活跃期宫口扩张停滞",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "protracted active phase dilatation"
+        }
+    },
+    {
+        "concept_name": "活跃期延长",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "prolonged active phase"
+        }
+    },
+    {
+        "concept_name": "流产儿",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "abortus"
+        }
+    },
+    {
+        "concept_name": "流产感染",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "septic abortion"
+        }
+    },
+    {
+        "concept_name": "滞产",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "prolonged labor"
+        }
+    },
+    {
+        "concept_name": "滴虫阴道炎",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "trichomonal vaginitis"
+        }
+    },
+    {
+        "concept_name": "漏斗骨盆",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "funnel shaped pelvis"
+        }
+    },
+    {
+        "concept_name": "男型",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "android type"
+        }
+    },
+    {
+        "concept_name": "白色恶露",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "lochia alba"
+        }
+    },
+    {
+        "concept_name": "盆腔廓清术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pelvic exenteration"
+        }
+    },
+    {
+        "concept_name": "盆腔炎",
+        "details": {
+            "学科": "医学_妇产科学",
+            "英文": "pelvic inflammatory disease ;PID",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pelvic inflammatory disease"
+        }
+    },
+    {
+        "concept_name": "直肠膨出",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "rectocele"
+        }
+    },
+    {
+        "concept_name": "直肠阴道瘘",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "recto-vaginal fistula"
+        }
+    },
+    {
+        "concept_name": "稽留流产",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "missed abortion"
+        }
+    },
+    {
+        "concept_name": "穿颅术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "craniotomy"
+        }
+    },
+    {
+        "concept_name": "突破出血",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "breakthrough bleeding"
+        }
+    },
+    {
+        "concept_name": "第三产程",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "third stage of labor"
+        }
+    },
+    {
+        "concept_name": "类人猿型",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "anthropoid type"
+        }
+    },
+    {
+        "concept_name": "粗隆间径",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "intertrochantoric diameter"
+        }
+    },
+    {
+        "concept_name": "精神性闭经",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "psychogenic amenorrhea"
+        }
+    },
+    {
+        "concept_name": "经前紧张征",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "premenstrual tension syndrome"
+        }
+    },
+    {
+        "concept_name": "经血潴留",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "retention of menses"
+        }
+    },
+    {
+        "concept_name": "经间出血",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "intermenstrual bleeding"
+        }
+    },
+    {
+        "concept_name": "绝经前期",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "premenopause"
+        }
+    },
+    {
+        "concept_name": "继发不孕",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "secondary infertility"
+        }
+    },
+    {
+        "concept_name": "继发闭经",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "secondary amenorrhea"
+        }
+    },
+    {
+        "concept_name": "羊水栓塞",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "amnionic fluid embolism"
+        }
+    },
+    {
+        "concept_name": "羊水过少",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "oligohydramnios"
+        }
+    },
+    {
+        "concept_name": "羊膜",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "amnion"
+        }
+    },
+    {
+        "concept_name": "羊膜穿刺术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "amniotomy"
+        }
+    },
+    {
+        "concept_name": "羊膜腔造影术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "amniography"
+        }
+    },
+    {
+        "concept_name": "羊膜镜",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "amnioscope"
+        }
+    },
+    {
+        "concept_name": "羊膜镜检查",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "amnioscopy"
+        }
+    },
+    {
+        "concept_name": "耐促性腺激素性卵巢综合征",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "gonadotropin resistant ovarian syndrome"
+        }
+    },
+    {
+        "concept_name": "耻骨弓角度",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "angle of subpubic arch"
+        }
+    },
+    {
+        "concept_name": "肾上腺功能初现",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "adrenarche"
+        }
+    },
+    {
+        "concept_name": "肾上腺功能早现",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "premature adrenarche"
+        }
+    },
+    {
+        "concept_name": "胎儿镜",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "fetoscope"
+        }
+    },
+    {
+        "concept_name": "胎儿面娩出式",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "Schultz mechanism"
+        }
+    },
+    {
+        "concept_name": "胎势",
+        "details": {
+            "学科": "医学_妇产科学",
+            "英文": "fetal attitude ;fetal posture",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "fetal attitude"
+        }
+    },
+    {
+        "concept_name": "胎头入盆",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "engagement of head"
+        }
+    },
+    {
+        "concept_name": "胎头吸引术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "vacuum extraction"
+        }
+    },
+    {
+        "concept_name": "胎心率监测",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "fetal heart rate monitoring"
+        }
+    },
+    {
+        "concept_name": "胎盘剥离",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "placental separation"
+        }
+    },
+    {
+        "concept_name": "胎盘娩出",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "placental expulsion"
+        }
+    },
+    {
+        "concept_name": "胎盘嵌顿",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "placental incarceration"
+        }
+    },
+    {
+        "concept_name": "胎盘早剥",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "placental abruption"
+        }
+    },
+    {
+        "concept_name": "胎盘梗死",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "placental infarction"
+        }
+    },
+    {
+        "concept_name": "胎盘粘连",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "placental adherence"
+        }
+    },
+    {
+        "concept_name": "胎膜",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "fetal membranes"
+        }
+    },
+    {
+        "concept_name": "胎膜先破",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "early rupture of membranes"
+        }
+    },
+    {
+        "concept_name": "胎臀牵引术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "extraction of breech"
+        }
+    },
+    {
+        "concept_name": "胚泡移植",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "embryo transfer"
+        }
+    },
+    {
+        "concept_name": "脐带",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "umbilical cord"
+        }
+    },
+    {
+        "concept_name": "脐带帆状附着",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "cord velamentous insertion"
+        }
+    },
+    {
+        "concept_name": "脐带杂音",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "umbilical souffle"
+        }
+    },
+    {
+        "concept_name": "脐带水肿",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "edema of cord"
+        }
+    },
+    {
+        "concept_name": "脐带缠绕",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "cord entanglement"
+        }
+    },
+    {
+        "concept_name": "脐带胶质",
+        "details": {
+            "学科": "医学_妇产科学",
+            "英文": "Wharton jelly ;umbilical jelly",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "Wharton jelly"
+        }
+    },
+    {
+        "concept_name": "脐带边缘附着",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "cord marginal insertion"
+        }
+    },
+    {
+        "concept_name": "脐带过长",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "long cord"
+        }
+    },
+    {
+        "concept_name": "腹腔妊娠",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "abdominal pregnancy"
+        }
+    },
+    {
+        "concept_name": "腹膜外剖宫产术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "extraperitoneal cesarean section"
+        }
+    },
+    {
+        "concept_name": "臀位助产",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "assisted breech delivery"
+        }
+    },
+    {
+        "concept_name": "自启效应",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "self-priming effect"
+        }
+    },
+    {
+        "concept_name": "自然流产",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "spontaneous abortion"
+        }
+    },
+    {
+        "concept_name": "营养不良性闭经",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "malnutritional amenorrhea"
+        }
+    },
+    {
+        "concept_name": "蜕膜",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "decidua"
+        }
+    },
+    {
+        "concept_name": "血管前置",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "vasa previa"
+        }
+    },
+    {
+        "concept_name": "衔接",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "engagement"
+        }
+    },
+    {
+        "concept_name": "足月儿",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "term infant"
+        }
+    },
+    {
+        "concept_name": "转胎位术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "version"
+        }
+    },
+    {
+        "concept_name": "输卵管卵巢切除术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "salpingo-ovariectomy"
+        }
+    },
+    {
+        "concept_name": "输卵管吻合术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "anastomosis of tube"
+        }
+    },
+    {
+        "concept_name": "输卵管性不孕",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "tubal infertility"
+        }
+    },
+    {
+        "concept_name": "输卵管流产",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "tubal abortion"
+        }
+    },
+    {
+        "concept_name": "输卵管移植术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "implantation of tube"
+        }
+    },
+    {
+        "concept_name": "输卵管通气术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "英文": "uterotubal insufflation ;Rubin test",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "uterotubal insufflation"
+        }
+    },
+    {
+        "concept_name": "输卵管间质部妊娠",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "interstitial tubal pregnancy"
+        }
+    },
+    {
+        "concept_name": "边缘性前置胎盘",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "marginal placenta praevia"
+        }
+    },
+    {
+        "concept_name": "过熟儿",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "post mature infant"
+        }
+    },
+    {
+        "concept_name": "运动性闭经",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "exercise related amenorrhea"
+        }
+    },
+    {
+        "concept_name": "避孕药后闭经",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "postpill amenorrhea"
+        }
+    },
+    {
+        "concept_name": "锁骨切断术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "cleidotomy"
+        }
+    },
+    {
+        "concept_name": "阴道切开术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "colpotomy"
+        }
+    },
+    {
+        "concept_name": "阴道口扩大术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "perineoplasty of vaginal outlet"
+        }
+    },
+    {
+        "concept_name": "阴道小肠膨出",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "vaginal enterocele"
+        }
+    },
+    {
+        "concept_name": "阴道成形术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "colpoplasty"
+        }
+    },
+    {
+        "concept_name": "阴道涂片检查",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "vaginal smear examination"
+        }
+    },
+    {
+        "concept_name": "阴道狭窄",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "stenosis of vagina"
+        }
+    },
+    {
+        "concept_name": "阴道闭合术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "英文": "colpocleisis ;Le Fort operation",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "colpocleisis"
+        }
+    },
+    {
+        "concept_name": "阴道隔切开术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "incision of vaginal septum"
+        }
+    },
+    {
+        "concept_name": "阿-斯反应",
+        "details": {
+            "学科": "医学_妇产科学",
+            "简称": " A-S反应",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "Arias-Stell reaction"
+        }
+    },
+    {
+        "concept_name": "阿普加评分",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "Apgar score"
+        }
+    },
+    {
+        "concept_name": "陈旧性会阴裂伤修补术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "repair of old perineal laceration"
+        }
+    },
+    {
+        "concept_name": "除脏术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "evisceration"
+        }
+    },
+    {
+        "concept_name": "隐性月经",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "cryptomenorrhea"
+        }
+    },
+    {
+        "concept_name": "难免流产",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "inevitable abortion"
+        }
+    },
+    {
+        "concept_name": "雌激素与肌酐比值",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "estrogen/creatinine ratio"
+        }
+    },
+    {
+        "concept_name": "雌激素试验",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "estrogen test"
+        }
+    },
+    {
+        "concept_name": "青春期妊娠",
+        "details": {
+            "学科": "医学_妇产科学",
+            "英文": "teenage pregnancy ;adolescent pregnancy",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "teenage pregnancy"
+        }
+    },
+    {
+        "concept_name": "预产期",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "expected date of confinement"
+        }
+    },
+    {
+        "concept_name": "颈管消失",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "effacement of cervix"
+        }
+    },
+    {
+        "concept_name": "骨盆倾斜度",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "inclination of pelvis"
+        }
+    },
+    {
+        "concept_name": "骨盆入口狭窄",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "contracted pelvic inlet"
+        }
+    },
+    {
+        "concept_name": "骨盆内测量",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "internal pelvimetry"
+        }
+    },
+    {
+        "concept_name": "骨盆出口狭窄",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "contracted pelvic outlet"
+        }
+    },
+    {
+        "concept_name": "骨盆型",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pelvic types"
+        }
+    },
+    {
+        "concept_name": "骨盆外测量",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "external pelvimetry"
+        }
+    },
+    {
+        "concept_name": "骨盆轴",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pelvic axis"
+        }
+    },
+    {
+        "concept_name": "骶耻外径",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "external conjugate"
+        }
+    },
+    {
+        "concept_name": "髂内动脉结扎术",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "ligation of internal iliac artery"
+        }
+    },
+    {
+        "concept_name": "髂嵴间径",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "intercrestal diameter"
+        }
+    },
+    {
+        "concept_name": "髂棘间径",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "interspinal diameter"
+        }
+    },
+    {
+        "concept_name": "高促性腺素性闭经",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "hypergonadotropic amenorrhea"
+        }
+    },
+    {
+        "concept_name": "高龄初产妇",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "elderly primipara"
+        }
+    },
+    {
+        "concept_name": "黄体功能不足",
+        "details": {
+            "学科": "医学_妇产科学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "inadequate luteal function"
+        }
+    }
+]

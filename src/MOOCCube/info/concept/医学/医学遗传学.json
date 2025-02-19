@@ -1,0 +1,2625 @@
+[
+    {
+        "concept_name": "DNA印迹法",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "Southern blotting"
+        }
+    },
+    {
+        "concept_name": "GM2神经节苷脂贮积症变异型O",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "英文": "GM2 gangliosidosis variant O ;Sandhoff disease",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "GM2 gangliosidosis variant O"
+        }
+    },
+    {
+        "concept_name": "VATER联合征",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "VATER association"
+        }
+    },
+    {
+        "concept_name": "X染色体失活",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "X-chromosome inactivation"
+        }
+    },
+    {
+        "concept_name": "X染色质",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "又称": " 巴氏小体",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "X chromatin"
+        }
+    },
+    {
+        "concept_name": "Y小体",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "又称": " F 小体",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "Y body"
+        }
+    },
+    {
+        "concept_name": "[分裂]后期",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "anaphase of cell division"
+        }
+    },
+    {
+        "concept_name": "[病毒]包膜蛋白基因",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "[viral]envelope protein gene"
+        }
+    },
+    {
+        "concept_name": "[病毒]类特异抗原基因",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "英文": "[viral]group-specific antigen gene ;GAG",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "[viral]group-specific antigen gene"
+        }
+    },
+    {
+        "concept_name": "atd角",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "英文": "atd angle ;atd",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "atd angle"
+        }
+    },
+    {
+        "concept_name": "α-珠蛋白生成障碍性贫血",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "又称": " α-地中海贫血",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "α-thalassemia"
+        }
+    },
+    {
+        "concept_name": "α1-抗胰蛋白酶缺乏症",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "α1-antitrypsin deficiency"
+        }
+    },
+    {
+        "concept_name": "β-珠蛋白生成障碍性贫血",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "又称": " β-地中海贫血",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "β-thalassemia"
+        }
+    },
+    {
+        "concept_name": "上位基因",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "epistatic gene"
+        }
+    },
+    {
+        "concept_name": "不[完]全外显",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "incomplete penetrance"
+        }
+    },
+    {
+        "concept_name": "不完全显性",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "incomplete dominance"
+        }
+    },
+    {
+        "concept_name": "不对称PCR",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "asymmetric PCR"
+        }
+    },
+    {
+        "concept_name": "不平衡易位",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "unbalanced translocation"
+        }
+    },
+    {
+        "concept_name": "不等互换",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "unequal crossing over"
+        }
+    },
+    {
+        "concept_name": "丙酮酸激酶缺乏症",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "pyruvate kinase deficiency"
+        }
+    },
+    {
+        "concept_name": "个体发育免疫学",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "ontogenyimmunology"
+        }
+    },
+    {
+        "concept_name": "中间缺失",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "intercalary deletion"
+        }
+    },
+    {
+        "concept_name": "临界区域",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "critical region"
+        }
+    },
+    {
+        "concept_name": "主线指数",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "main line index"
+        }
+    },
+    {
+        "concept_name": "主线横向指数",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "main line index of transversality"
+        }
+    },
+    {
+        "concept_name": "乳白型突变",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "opal mutation"
+        }
+    },
+    {
+        "concept_name": "二次突变假说",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "Knudson hypothesis"
+        }
+    },
+    {
+        "concept_name": "互换",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "又称": " 交换",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "crossing over"
+        }
+    },
+    {
+        "concept_name": "产前诊断",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "英文": "prenatal diagnosis ;antenatal diagnosis",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "prenatal diagnosis"
+        }
+    },
+    {
+        "concept_name": "从性性状",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "sex-influenced trait"
+        }
+    },
+    {
+        "concept_name": "优生学",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "eugenics"
+        }
+    },
+    {
+        "concept_name": "位置效应",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "position effect"
+        }
+    },
+    {
+        "concept_name": "低磷酸酯酶症",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "hypophosphatasia"
+        }
+    },
+    {
+        "concept_name": "体细胞互换",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "somatic crossing over"
+        }
+    },
+    {
+        "concept_name": "信息体",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "informosome"
+        }
+    },
+    {
+        "concept_name": "倒位环",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "inversion loop"
+        }
+    },
+    {
+        "concept_name": "假二倍体",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "pseudodiploid"
+        }
+    },
+    {
+        "concept_name": "假性软骨发育不全",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "pseudoachondroplasia"
+        }
+    },
+    {
+        "concept_name": "先体外后体内基因转移",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "ex vivo gene transfer"
+        }
+    },
+    {
+        "concept_name": "先天性甲状腺功能减退症",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "congenital hypothyroidism"
+        }
+    },
+    {
+        "concept_name": "先天性肾上腺皮质增生症",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "congenital adrenal cortical hyper- plasia"
+        }
+    },
+    {
+        "concept_name": "先证者",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "英文": "proband ;index case ;propositus",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "proband"
+        }
+    },
+    {
+        "concept_name": "免疫遗传学",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "immunogenetics"
+        }
+    },
+    {
+        "concept_name": "全氨基酸尿症",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "generalized aminoaciduria"
+        }
+    },
+    {
+        "concept_name": "全色盲",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "achromatopsia"
+        }
+    },
+    {
+        "concept_name": "关联",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "association"
+        }
+    },
+    {
+        "concept_name": "兼向性病毒",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "amphotropic virus"
+        }
+    },
+    {
+        "concept_name": "内含子",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "又称": " 插入序列(intervening sequence)",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "intron"
+        }
+    },
+    {
+        "concept_name": "内源基因",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "endogenous gene"
+        }
+    },
+    {
+        "concept_name": "减数分裂期",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "reduction division phase"
+        }
+    },
+    {
+        "concept_name": "出生缺陷",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "birth defect"
+        }
+    },
+    {
+        "concept_name": "创建者效应",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "founder effect"
+        }
+    },
+    {
+        "concept_name": "初级卵母细胞",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "primary oocyte"
+        }
+    },
+    {
+        "concept_name": "功能性异染色质",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "又称": " 兼性异染色质",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "facultative heterochromatin"
+        }
+    },
+    {
+        "concept_name": "加A信号",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "poly A addition signal"
+        }
+    },
+    {
+        "concept_name": "加性基因",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "additive gene"
+        }
+    },
+    {
+        "concept_name": "努南综合征",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "Noonan syndrome"
+        }
+    },
+    {
+        "concept_name": "化学发光自显影",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "chemiluminescent autography"
+        }
+    },
+    {
+        "concept_name": "单亲二体",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "uniparental disomy"
+        }
+    },
+    {
+        "concept_name": "单卵双生",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "英文": "monozygotic twins ;identical twins",
+            "又称": " 同卵双生",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "monozygotic twins"
+        }
+    },
+    {
+        "concept_name": "卵原细胞",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "oogonium"
+        }
+    },
+    {
+        "concept_name": "卵子",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "ovum"
+        }
+    },
+    {
+        "concept_name": "卵子发生",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "oogenesis"
+        }
+    },
+    {
+        "concept_name": "厘摩",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "centimorgan"
+        }
+    },
+    {
+        "concept_name": "原癌基因",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "proto-oncogene"
+        }
+    },
+    {
+        "concept_name": "双箕斗",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "double loop whorl"
+        }
+    },
+    {
+        "concept_name": "双雄受精",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "diandry"
+        }
+    },
+    {
+        "concept_name": "双雌受精",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "digyny"
+        }
+    },
+    {
+        "concept_name": "反义寡核苷酸",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "antisense oligonucleotide"
+        }
+    },
+    {
+        "concept_name": "反义链",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "antisense strand"
+        }
+    },
+    {
+        "concept_name": "反向插入",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "inverted insertion"
+        }
+    },
+    {
+        "concept_name": "反向重复[序列]",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "inverted repeat"
+        }
+    },
+    {
+        "concept_name": "反式作用因子",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "trans-acting-factor"
+        }
+    },
+    {
+        "concept_name": "反求遗传学",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "又称": " 反向遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "reverse genetics"
+        }
+    },
+    {
+        "concept_name": "发育遗传学",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "developmental genetics"
+        }
+    },
+    {
+        "concept_name": "受位",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "acceptor site"
+        }
+    },
+    {
+        "concept_name": "受精卵",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "fertilized ovum"
+        }
+    },
+    {
+        "concept_name": "口-面-指综合征",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "英文": "oral-facial-digital syndrome ;OFD syndrome",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "oral-facial-digital syndrome"
+        }
+    },
+    {
+        "concept_name": "同向性病毒",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "ecotropic virus"
+        }
+    },
+    {
+        "concept_name": "后期迟延",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "anaphase lag"
+        }
+    },
+    {
+        "concept_name": "四倍体",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "tetraploid"
+        }
+    },
+    {
+        "concept_name": "图距单位",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "map unit"
+        }
+    },
+    {
+        "concept_name": "均等分裂期",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "equational division phase"
+        }
+    },
+    {
+        "concept_name": "埃勒斯-当洛斯综合征",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "又称": " 皮肤弹性过度综合征",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "Ehlers-Danlos syndrome"
+        }
+    },
+    {
+        "concept_name": "基因座连锁分析",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "locus linkage analysis"
+        }
+    },
+    {
+        "concept_name": "基因簇",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "gene cluster"
+        }
+    },
+    {
+        "concept_name": "基因间DNA",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "intergenic DNA"
+        }
+    },
+    {
+        "concept_name": "基因间序列",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "intergenic sequence"
+        }
+    },
+    {
+        "concept_name": "基因顺序",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "gene order"
+        }
+    },
+    {
+        "concept_name": "增强子",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "enhancer"
+        }
+    },
+    {
+        "concept_name": "复等位基因",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "multiple alleles"
+        }
+    },
+    {
+        "concept_name": "外显子",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "exon"
+        }
+    },
+    {
+        "concept_name": "外源基因",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "exogenous gene"
+        }
+    },
+    {
+        "concept_name": "多倍体",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "polyploid"
+        }
+    },
+    {
+        "concept_name": "多发性外生骨疣",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "multiple exostosis"
+        }
+    },
+    {
+        "concept_name": "多基因病",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "polygenic disease"
+        }
+    },
+    {
+        "concept_name": "多态性信息含量",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "英文": "polymorphism information content ;PIC",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "polymorphism information content"
+        }
+    },
+    {
+        "concept_name": "大疱性表皮松解症",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "epidermolysis bullosa"
+        }
+    },
+    {
+        "concept_name": "失活中心",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "inactivation center"
+        }
+    },
+    {
+        "concept_name": "姐妹染色单体交换",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "sister chromatid exchange"
+        }
+    },
+    {
+        "concept_name": "威斯科特-奥尔德里奇综合征",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "又称": " 湿疹-血小板减少-免疫缺陷综合征",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "Wiskott-Aldrich syndrome"
+        }
+    },
+    {
+        "concept_name": "孟德尔遗传",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "mendelian inheritance"
+        }
+    },
+    {
+        "concept_name": "家族性出血性肾炎",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "Alport syndrome"
+        }
+    },
+    {
+        "concept_name": "家族性肾性亚氨基甘氨酸尿症",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "familial renal iminoglycinuria"
+        }
+    },
+    {
+        "concept_name": "寡核苷酸探针",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "oligonucleotide probe"
+        }
+    },
+    {
+        "concept_name": "小头[畸形]",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "microcephaly"
+        }
+    },
+    {
+        "concept_name": "少汗性外胚层发育不良",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "hypohidrotic ectodermal dysplasia"
+        }
+    },
+    {
+        "concept_name": "尖头多指并指[畸形]",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "英文": "acrocephalopolysyndactyly ;Carpenter syndrome",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "acrocephalopolysyndactyly"
+        }
+    },
+    {
+        "concept_name": "尖头多趾并趾[畸形]",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "英文": "acrocephalopolysyndactyly ;Carpenter syndrome",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "acrocephalopolysyndactyly"
+        }
+    },
+    {
+        "concept_name": "尖头并指[畸形]",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "英文": "acrocephalosyndactyly ;Apert syndrome",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "acrocephalosyndactyly"
+        }
+    },
+    {
+        "concept_name": "尖头并趾[畸形]",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "英文": "acrocephalosyndactyly ;Apert syndrome",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "acrocephalosyndactyly"
+        }
+    },
+    {
+        "concept_name": "尺箕",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "ulnar loop"
+        }
+    },
+    {
+        "concept_name": "尿素循环障碍",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "urea cycle disorder"
+        }
+    },
+    {
+        "concept_name": "尿黑酸尿症",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "alcaptonuria"
+        }
+    },
+    {
+        "concept_name": "嵌合体",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "又称": " 同源嵌合体",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "mosaic"
+        }
+    },
+    {
+        "concept_name": "巴尔得-别德尔综合征",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "Bardet-Biedl syndrome"
+        }
+    },
+    {
+        "concept_name": "帐弓",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "tented arch"
+        }
+    },
+    {
+        "concept_name": "常染色体",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "autosome"
+        }
+    },
+    {
+        "concept_name": "常染色体隐性",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "autosomal recessive"
+        }
+    },
+    {
+        "concept_name": "常染色质",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "euchromatin"
+        }
+    },
+    {
+        "concept_name": "序列特异的寡核苷酸探针",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "英文": "sequence-specific oligonucleotide probe ;SSO probe",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "sequence-specific oligonucleotide probe"
+        }
+    },
+    {
+        "concept_name": "弓形纹",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "arch"
+        }
+    },
+    {
+        "concept_name": "引物延伸",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "primer extension"
+        }
+    },
+    {
+        "concept_name": "心手综合征",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "Holt-Oram syndrome"
+        }
+    },
+    {
+        "concept_name": "急性间歇性卟啉病",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "acute intermittent porphyria"
+        }
+    },
+    {
+        "concept_name": "性状",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "trait"
+        }
+    },
+    {
+        "concept_name": "总指嵴数",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "total finger ridge count"
+        }
+    },
+    {
+        "concept_name": "恶性高苯丙氨酸血症",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "malignant hyperphenylalaninemia"
+        }
+    },
+    {
+        "concept_name": "成骨不全",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "osteogenesis imperfecta"
+        }
+    },
+    {
+        "concept_name": "扩增",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "amplification"
+        }
+    },
+    {
+        "concept_name": "抑癌基因",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "antioncogene"
+        }
+    },
+    {
+        "concept_name": "拟基因型",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "genocopy"
+        }
+    },
+    {
+        "concept_name": "指纹型",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "fingerprint pattern"
+        }
+    },
+    {
+        "concept_name": "插入",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "insertion"
+        }
+    },
+    {
+        "concept_name": "支链氨基酸代谢病",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "disorder of branched chain amino- acid metabolism"
+        }
+    },
+    {
+        "concept_name": "放射自显影",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "autoradiography"
+        }
+    },
+    {
+        "concept_name": "数目畸变",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "numerical aberration"
+        }
+    },
+    {
+        "concept_name": "整倍体",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "euploid"
+        }
+    },
+    {
+        "concept_name": "整臂易位",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "whole arm translocation"
+        }
+    },
+    {
+        "concept_name": "断裂热点",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "breakage hot spot"
+        }
+    },
+    {
+        "concept_name": "无着丝粒断片",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "acentric fragment"
+        }
+    },
+    {
+        "concept_name": "无脑儿",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "anencephaly"
+        }
+    },
+    {
+        "concept_name": "无过氧化氢酶血症",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "acatalasemia"
+        }
+    },
+    {
+        "concept_name": "早现[遗传]",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "anticipation"
+        }
+    },
+    {
+        "concept_name": "显性负效应",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "dominant negative effect"
+        }
+    },
+    {
+        "concept_name": "显示杂合子",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "manifesting heterozygote"
+        }
+    },
+    {
+        "concept_name": "有丝分裂互换",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "mitotic crossing over"
+        }
+    },
+    {
+        "concept_name": "有机酸代谢病",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "disorder of organic acid metabo- lism"
+        }
+    },
+    {
+        "concept_name": "有机酸尿症",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "organic aciduria"
+        }
+    },
+    {
+        "concept_name": "有机酸血症",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "organic acidemia"
+        }
+    },
+    {
+        "concept_name": "有汗性外胚层发育不良",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "hidrotic ectodermal dysplasia"
+        }
+    },
+    {
+        "concept_name": "末端标记",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "end labelling"
+        }
+    },
+    {
+        "concept_name": "杂交繁殖",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "outbreeding"
+        }
+    },
+    {
+        "concept_name": "枫糖尿症",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "又称": " 支链酮酸尿症(branched-chain ketoaciduria)",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "maple syrup urine disease"
+        }
+    },
+    {
+        "concept_name": "染色体畸变",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "chromosome aberration"
+        }
+    },
+    {
+        "concept_name": "染色体病",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "英文": "chromosome disease ;chromosome aberration syndrome",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "chromosome disease"
+        }
+    },
+    {
+        "concept_name": "染色体突变",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "chromosome mutation"
+        }
+    },
+    {
+        "concept_name": "染色体臂",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "chromosome arm"
+        }
+    },
+    {
+        "concept_name": "染色质",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "chromatin"
+        }
+    },
+    {
+        "concept_name": "核仁组织区",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "英文": "nucleolar organizing region ;NOR",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "nucleolar organizing region"
+        }
+    },
+    {
+        "concept_name": "核内复制",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "endoreduplication"
+        }
+    },
+    {
+        "concept_name": "核型模式图",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "idiogram"
+        }
+    },
+    {
+        "concept_name": "核糖核酸酶保护测定",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "英文": "ribonuclease protection assay ;RNase protection assay",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "ribonuclease protection assay"
+        }
+    },
+    {
+        "concept_name": "桡箕",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "radial loop"
+        }
+    },
+    {
+        "concept_name": "次级卵母细胞",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "secondary oocyte"
+        }
+    },
+    {
+        "concept_name": "正优生学",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "又称": " 积极优生学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "positive eugenics"
+        }
+    },
+    {
+        "concept_name": "母亲年龄效应",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "maternal age effect"
+        }
+    },
+    {
+        "concept_name": "母系遗传",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "maternal inheritance"
+        }
+    },
+    {
+        "concept_name": "毛细血管扩张性共济失调综合征",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "英文": "ataxia-telangiectasia syndrome ;Louis-Bar syndrome",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "ataxia-telangiectasia syndrome"
+        }
+    },
+    {
+        "concept_name": "氨基酸代谢病",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "aminoacidopathy"
+        }
+    },
+    {
+        "concept_name": "水平传递",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "horizontal transmission"
+        }
+    },
+    {
+        "concept_name": "混合遗传",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "blending inheritance"
+        }
+    },
+    {
+        "concept_name": "父亲年龄效应",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "paternal age effect"
+        }
+    },
+    {
+        "concept_name": "父系遗传",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "paternal inheritance"
+        }
+    },
+    {
+        "concept_name": "猿线",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "又称": " 通贯线 ；single transverse creace）",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "simian crease"
+        }
+    },
+    {
+        "concept_name": "环状染色体",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "ring chromosome"
+        }
+    },
+    {
+        "concept_name": "琥珀型突变",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "amber mutation"
+        }
+    },
+    {
+        "concept_name": "琼脂糖凝胶电泳",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "agarose gel electrophoresis"
+        }
+    },
+    {
+        "concept_name": "生态遗传学",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "ecogenetics"
+        }
+    },
+    {
+        "concept_name": "生物素酰胺酶缺乏症",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "biotinidase deficiency"
+        }
+    },
+    {
+        "concept_name": "甲基丙二酸尿症",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "methylmalonic aciduria"
+        }
+    },
+    {
+        "concept_name": "电穿孔",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "electroporation"
+        }
+    },
+    {
+        "concept_name": "畸形学",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "dysmorphology"
+        }
+    },
+    {
+        "concept_name": "症状前诊断",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "presymptomatic diagnosis"
+        }
+    },
+    {
+        "concept_name": "癌基因",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "oncogene"
+        }
+    },
+    {
+        "concept_name": "白化病",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "albinism"
+        }
+    },
+    {
+        "concept_name": "相邻分离",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "adjacent segregation"
+        }
+    },
+    {
+        "concept_name": "相间分离",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "alternate segregation"
+        }
+    },
+    {
+        "concept_name": "真核细胞",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "eukaryotic cell"
+        }
+    },
+    {
+        "concept_name": "眼脑肾综合征",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "英文": "oculo-cerebro-renal syndrome ;Lowe syndrome",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "oculo-cerebro-renal syndrome"
+        }
+    },
+    {
+        "concept_name": "眼距过宽",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "ocular hypertelorism"
+        }
+    },
+    {
+        "concept_name": "眼距过窄",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "ocular hypotelorism"
+        }
+    },
+    {
+        "concept_name": "着丝粒异染色质",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "centromeric heterochromatin"
+        }
+    },
+    {
+        "concept_name": "着丝粒指数",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "centromeric index"
+        }
+    },
+    {
+        "concept_name": "着丝粒融合",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "centric fusion"
+        }
+    },
+    {
+        "concept_name": "短头[畸形]",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "brachycephaly"
+        }
+    },
+    {
+        "concept_name": "短暂表达",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "transient expression"
+        }
+    },
+    {
+        "concept_name": "短臂",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "short arm"
+        }
+    },
+    {
+        "concept_name": "确认",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "ascertainment"
+        }
+    },
+    {
+        "concept_name": "神经纤维瘤病",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "neurofibromatosis"
+        }
+    },
+    {
+        "concept_name": "神经鞘脂贮积症",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "sphingolipidosis"
+        }
+    },
+    {
+        "concept_name": "移民",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "immigration"
+        }
+    },
+    {
+        "concept_name": "突变基因",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "mutant gene"
+        }
+    },
+    {
+        "concept_name": "窒息性胸廓发育不良",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "asphyxiating thoracic dysplasia"
+        }
+    },
+    {
+        "concept_name": "等位[基因]排斥",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "allelic exclusion"
+        }
+    },
+    {
+        "concept_name": "等位基因",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "allele"
+        }
+    },
+    {
+        "concept_name": "等位基因特异的寡核苷酸探针",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "英文": "allele-specific oligonucleotide probe ;ASO probe",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "allele-specific oligonucleotide probe"
+        }
+    },
+    {
+        "concept_name": "等位基因连锁分析",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "allele linkage analysis"
+        }
+    },
+    {
+        "concept_name": "等位片段",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "allele"
+        }
+    },
+    {
+        "concept_name": "等臂染色体",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "isochromosome"
+        }
+    },
+    {
+        "concept_name": "简弓",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "simple arch"
+        }
+    },
+    {
+        "concept_name": "类固醇21-羟化酶缺乏症",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "英文": "steroid 21-hydroxylase deficiency ;congenital adrenal hyperplasia",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "steroid 21-hydroxylase deficiency"
+        }
+    },
+    {
+        "concept_name": "类显性",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "又称": " 准显性",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "quasidominance"
+        }
+    },
+    {
+        "concept_name": "精氨基琥珀酸合成酶缺乏症",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "argininosuccinic acid synthetase deficiency"
+        }
+    },
+    {
+        "concept_name": "精氨基琥珀酸酶缺乏症",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "argininosuccinase deficiency"
+        }
+    },
+    {
+        "concept_name": "精氨酸酶缺乏症",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "arginase deficiency"
+        }
+    },
+    {
+        "concept_name": "糖原贮积症Ⅰa型",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "英文": "glycogen storage disease type Ⅰa ;von Gierke disease",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "glycogen storage disease type Ⅰa"
+        }
+    },
+    {
+        "concept_name": "糖原贮积症Ⅳ型",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "英文": "glycogen storage disease type Ⅳ ;Andersen disease",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "glycogen storage disease type Ⅳ"
+        }
+    },
+    {
+        "concept_name": "糖原贮积症Ⅴ型",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "glycogen storage disease type Ⅴ"
+        }
+    },
+    {
+        "concept_name": "线粒体遗传",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "mitochondrial inheritance"
+        }
+    },
+    {
+        "concept_name": "经验风险",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "empiric risk"
+        }
+    },
+    {
+        "concept_name": "绒毛吸取",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "villus aspiration"
+        }
+    },
+    {
+        "concept_name": "结构畸变",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "structural aberration"
+        }
+    },
+    {
+        "concept_name": "羊水细胞",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "amniocyte"
+        }
+    },
+    {
+        "concept_name": "羊水细胞培养",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "amniotic cell culture"
+        }
+    },
+    {
+        "concept_name": "羊膜带综合征",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "amniotic band syndrome"
+        }
+    },
+    {
+        "concept_name": "羊膜早破畸形谱",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "early amnion rupture spectrum"
+        }
+    },
+    {
+        "concept_name": "羊膜腔穿刺术",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "amniocentesis"
+        }
+    },
+    {
+        "concept_name": "翻译",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "又称": " 转译",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "translation"
+        }
+    },
+    {
+        "concept_name": "翻译后修饰",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "post-translational modification"
+        }
+    },
+    {
+        "concept_name": "联合征",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "association"
+        }
+    },
+    {
+        "concept_name": "肯定携带者",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "obligatory carrier"
+        }
+    },
+    {
+        "concept_name": "肾上腺脊髓神经病",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "adrenomyeloneuropathy"
+        }
+    },
+    {
+        "concept_name": "肾上腺脑白质营养不良",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "英文": "adrenoleukodystrophy ;Addison-Schilder disease",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "adrenoleukodystrophy"
+        }
+    },
+    {
+        "concept_name": "肿瘤浸润淋巴细胞",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "英文": "tumor infiltrating lymphocyte ;TIL",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "tumor infiltrating lymphocyte"
+        }
+    },
+    {
+        "concept_name": "胎儿氨基蝶呤效应",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "fetal aminopterin effect"
+        }
+    },
+    {
+        "concept_name": "胎儿缺碘效应",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "fetal iodine deficiency effect"
+        }
+    },
+    {
+        "concept_name": "胎儿苯妥英钠综合征",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "fetal dilantin syndrome"
+        }
+    },
+    {
+        "concept_name": "胎儿酒精综合征",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "fetal alcohol syndrome"
+        }
+    },
+    {
+        "concept_name": "脉冲场凝胶电泳",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "pulsed field gel electrophoresis"
+        }
+    },
+    {
+        "concept_name": "脊柱裂",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "spina bifida"
+        }
+    },
+    {
+        "concept_name": "腺苷脱氨酶缺乏症",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "英文": "adenosine deaminase deficiency ;ADA deficiency",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "adenosine deaminase deficiency"
+        }
+    },
+    {
+        "concept_name": "臂内倒位",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "paracentric inversion"
+        }
+    },
+    {
+        "concept_name": "臂指数",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "arm index"
+        }
+    },
+    {
+        "concept_name": "臂间倒位",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "pericentric inversion"
+        }
+    },
+    {
+        "concept_name": "自主复制序列",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "英文": "autonomous replication sequence ;autonomously replicating sequence ;ARS",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "autonomous replication sequence"
+        }
+    },
+    {
+        "concept_name": "自由组合",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "independent assortment"
+        }
+    },
+    {
+        "concept_name": "舟状头[畸形]",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "scaphocephaly"
+        }
+    },
+    {
+        "concept_name": "色盲",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "color blindness"
+        }
+    },
+    {
+        "concept_name": "色素失调症",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "incontinentia pigmenti"
+        }
+    },
+    {
+        "concept_name": "获得性状",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "acquired character"
+        }
+    },
+    {
+        "concept_name": "菌落原位杂交",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "in situ colony hybridization"
+        }
+    },
+    {
+        "concept_name": "蜘蛛样指",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "arachnodactyly"
+        }
+    },
+    {
+        "concept_name": "蜘蛛样趾",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "arachnodactyly"
+        }
+    },
+    {
+        "concept_name": "融合基因",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "fusion gene"
+        }
+    },
+    {
+        "concept_name": "衍生染色体",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "derivative chromosome"
+        }
+    },
+    {
+        "concept_name": "表现变异性",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "variable expressivity"
+        }
+    },
+    {
+        "concept_name": "表现度",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "expressivity"
+        }
+    },
+    {
+        "concept_name": "表达载体",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "expression vector"
+        }
+    },
+    {
+        "concept_name": "视网膜母细胞瘤",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "retinoblastoma"
+        }
+    },
+    {
+        "concept_name": "诱发突变",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "induced mutation"
+        }
+    },
+    {
+        "concept_name": "负优生学",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "又称": " 消极优生学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "negative eugenics"
+        }
+    },
+    {
+        "concept_name": "赭石型突变",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "ochre mutation"
+        }
+    },
+    {
+        "concept_name": "超二倍体",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "hyperdiploid"
+        }
+    },
+    {
+        "concept_name": "转基因动物",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "transgenic animal"
+        }
+    },
+    {
+        "concept_name": "转座元件",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "transposable element"
+        }
+    },
+    {
+        "concept_name": "软骨发育不全",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "achondroplasia"
+        }
+    },
+    {
+        "concept_name": "轴三叉",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "axial triradius"
+        }
+    },
+    {
+        "concept_name": "辐射遗传学",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "又称": " 放射遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "radiation genetics"
+        }
+    },
+    {
+        "concept_name": "过渡型",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "transitional type"
+        }
+    },
+    {
+        "concept_name": "近交",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "inbreeding"
+        }
+    },
+    {
+        "concept_name": "近交系数",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "coefficient of inbreeding"
+        }
+    },
+    {
+        "concept_name": "近端着丝粒染色体",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "acrocentric chromosome"
+        }
+    },
+    {
+        "concept_name": "进化遗传学",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "evolutionary genetics"
+        }
+    },
+    {
+        "concept_name": "进行性假肥大性肌营养不良",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "Duchenne muscular dystrophy"
+        }
+    },
+    {
+        "concept_name": "进行性神经性腓骨肌萎缩症",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "英文": "Charcot-Marie-Tooth disease ;pro-gressive neuropathic peroneal muscular atrophy",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "Charcot-Marie-Tooth disease"
+        }
+    },
+    {
+        "concept_name": "连锁分析",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "linkage analysis"
+        }
+    },
+    {
+        "concept_name": "选择优势",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "selection advantage"
+        }
+    },
+    {
+        "concept_name": "选择婚配",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "assortative mating"
+        }
+    },
+    {
+        "concept_name": "通径分析",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "path analysis"
+        }
+    },
+    {
+        "concept_name": "通用密码",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "universal code"
+        }
+    },
+    {
+        "concept_name": "遗传印记",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "genetic imprinting"
+        }
+    },
+    {
+        "concept_name": "遗传平衡",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "Hardy-Weinberg equilibrium"
+        }
+    },
+    {
+        "concept_name": "遗传性代谢缺陷",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "又称": " 先天性代谢缺陷",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "inborn error of metabolism"
+        }
+    },
+    {
+        "concept_name": "遗传性共济失调",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "hereditary ataxia"
+        }
+    },
+    {
+        "concept_name": "遗传性易位",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "inherited translocation"
+        }
+    },
+    {
+        "concept_name": "遗传性果糖不耐受症",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "hereditary fructose intolerance"
+        }
+    },
+    {
+        "concept_name": "遗传性椭圆形红细胞增多症",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "hereditary elliptocytosis"
+        }
+    },
+    {
+        "concept_name": "遗传性淀粉样变性",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "hereditary amyloidosis"
+        }
+    },
+    {
+        "concept_name": "遗传性球形红细胞增多症",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "hereditary spherocytosis"
+        }
+    },
+    {
+        "concept_name": "遗传流行病学",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "genetic epidemiology"
+        }
+    },
+    {
+        "concept_name": "遗传疾病",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "英文": "genetic diseases ;inherited diseases",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "genetic diseases"
+        }
+    },
+    {
+        "concept_name": "酶标记探针",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "enzyme-labelled probe"
+        }
+    },
+    {
+        "concept_name": "酸性脂酶缺乏症",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "英文": "acid lipase deficiency ;Wolman disease",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "acid lipase deficiency"
+        }
+    },
+    {
+        "concept_name": "重叠基因",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "overlapping genes"
+        }
+    },
+    {
+        "concept_name": "重组异倍性",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "recombination aneusomy"
+        }
+    },
+    {
+        "concept_name": "锚定PCR",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "anchor PCR"
+        }
+    },
+    {
+        "concept_name": "长臂",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "long arm"
+        }
+    },
+    {
+        "concept_name": "间期细胞遗传学",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "interphase cytogenetics"
+        }
+    },
+    {
+        "concept_name": "附加体",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "episome"
+        }
+    },
+    {
+        "concept_name": "限制[性内切酶]图",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "restriction map"
+        }
+    },
+    {
+        "concept_name": "限制酶",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "又称": " 限制性内切核酸酶",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "restriction endonuclease"
+        }
+    },
+    {
+        "concept_name": "限性遗传",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "sex-limited inheritance"
+        }
+    },
+    {
+        "concept_name": "随体联合",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "satellite association"
+        }
+    },
+    {
+        "concept_name": "随机整合",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "random integration"
+        }
+    },
+    {
+        "concept_name": "隔离群",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "isolate"
+        }
+    },
+    {
+        "concept_name": "非整倍体",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "aneuploid"
+        }
+    },
+    {
+        "concept_name": "非翻译区",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "英文": "untranslated region ;nontranslated region ;NTR",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "untranslated region"
+        }
+    },
+    {
+        "concept_name": "韦德尼希-霍夫曼综合征",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "又称": " 婴儿型进行性脊髓性肌萎缩症",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "Werdnig-Hoffmann disease"
+        }
+    },
+    {
+        "concept_name": "顺向插入",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "direct insertion"
+        }
+    },
+    {
+        "concept_name": "顺式作用元件",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "cis-acting element"
+        }
+    },
+    {
+        "concept_name": "颈淋巴管阻塞序列征",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "jugular lymphatic obstruction sequence"
+        }
+    },
+    {
+        "concept_name": "马蹄内翻足",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "talipes equinovarus"
+        }
+    },
+    {
+        "concept_name": "骨化性肌炎",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "myositis ossificans"
+        }
+    },
+    {
+        "concept_name": "骨硬化病",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "英文": "osteopetrosis ;Albers-Schonberg disease",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "osteopetrosis"
+        }
+    },
+    {
+        "concept_name": "鱼鳞病",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "ichthyosis"
+        }
+    },
+    {
+        "concept_name": "鸟氨酸氨甲酰转移酶缺乏症",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "英文": "ornithine transcarbamoylase defi- ciency ;OTC deficiency",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "ornithine transcarbamoylase defi- ciency"
+        }
+    },
+    {
+        "concept_name": "黏多糖贮积症IH型",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "英文": "mucopolysaccharidosis type IH ;Hurler syndrome",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "mucopolysaccharidosis type IH"
+        }
+    },
+    {
+        "concept_name": "黏多糖贮积症ⅢA型",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "mucopolysaccharidosis type ⅢA"
+        }
+    },
+    {
+        "concept_name": "黏多糖贮积症ⅣA型",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "mucopolysaccharidosis type ⅣA"
+        }
+    },
+    {
+        "concept_name": "黏性末端",
+        "details": {
+            "学科": "医学_医学遗传学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "cohesive end"
+        }
+    }
+]

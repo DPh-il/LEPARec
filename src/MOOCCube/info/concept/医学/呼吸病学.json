@@ -1,0 +1,1611 @@
+[
+    {
+        "concept_name": "50％肺活量最大呼气流量",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "maximal expiratory flow in 50% vital capacity"
+        }
+    },
+    {
+        "concept_name": "上游气道阻力",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "upstream resistance"
+        }
+    },
+    {
+        "concept_name": "中叶综合征",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "middle lobe syndrome"
+        }
+    },
+    {
+        "concept_name": "中枢性睡眠呼吸暂停",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "centric sleep apnea"
+        }
+    },
+    {
+        "concept_name": "乳糜胸",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "chylothorax"
+        }
+    },
+    {
+        "concept_name": "人工呼吸",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "artificial respiration"
+        }
+    },
+    {
+        "concept_name": "人工通气",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "artificial ventilation"
+        }
+    },
+    {
+        "concept_name": "低氧血",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "hypoxemia"
+        }
+    },
+    {
+        "concept_name": "低碳酸血",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "hypocapnia"
+        }
+    },
+    {
+        "concept_name": "体位引流",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "postural drainage"
+        }
+    },
+    {
+        "concept_name": "克勒尼希峡",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "Kronig isthmus"
+        }
+    },
+    {
+        "concept_name": "内源性哮喘",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "intrinsic asthma"
+        }
+    },
+    {
+        "concept_name": "内源性类脂性肺炎",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "endogenous lipoid pneumonia"
+        }
+    },
+    {
+        "concept_name": "农民肺",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "farmer lung"
+        }
+    },
+    {
+        "concept_name": "创伤性气胸",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "traumatic pneumothorax"
+        }
+    },
+    {
+        "concept_name": "功能残气量",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "functional residual capacity"
+        }
+    },
+    {
+        "concept_name": "动脉-静脉血氧含量差",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "arterio-venous oxygen content difference"
+        }
+    },
+    {
+        "concept_name": "动脉血",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "arterial blood"
+        }
+    },
+    {
+        "concept_name": "动脉血-肺泡气二氧化碳分压差",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "arterial-alveolar carbon dioxide difference"
+        }
+    },
+    {
+        "concept_name": "动脉血-肺泡气氮分压差",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "arterial-alveolar N#-[2] _ difference"
+        }
+    },
+    {
+        "concept_name": "动脉血二氧化碳分压",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "arterial partial pressure of carbon dioxide"
+        }
+    },
+    {
+        "concept_name": "动脉血气分析",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "arterial blood gas analysis"
+        }
+    },
+    {
+        "concept_name": "动脉血氧分压",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "arterial partial pressure of oxygen"
+        }
+    },
+    {
+        "concept_name": "单侧透明肺综合征",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "unilateral hyperlucent lung syndrome"
+        }
+    },
+    {
+        "concept_name": "单纯性肺嗜酸细胞浸润症",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "simple pulmonary eosinophilia"
+        }
+    },
+    {
+        "concept_name": "卡塔格内综合征",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "Kartagener syndrome"
+        }
+    },
+    {
+        "concept_name": "压力控制通气",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pressure controlled ventilation"
+        }
+    },
+    {
+        "concept_name": "压力辅助通气",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pressure assisted ventilation"
+        }
+    },
+    {
+        "concept_name": "变应性支气管肺曲菌病",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "allergic bronchopulmonary aspergillosis"
+        }
+    },
+    {
+        "concept_name": "同步间歇指令通气",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "英文": "synchronized intermittent mandatory ventilation ;SIMV",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "synchronized intermittent mandatory ventilation"
+        }
+    },
+    {
+        "concept_name": "吸入性肺炎",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "aspiration pneumonitis"
+        }
+    },
+    {
+        "concept_name": "吸入气",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "inspired gas"
+        }
+    },
+    {
+        "concept_name": "呼出气",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "expired gas"
+        }
+    },
+    {
+        "concept_name": "呼吸力学",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "mechanics of breathing"
+        }
+    },
+    {
+        "concept_name": "呼吸困难",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "dyspnea"
+        }
+    },
+    {
+        "concept_name": "呼吸频率",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "respiratory frequency"
+        }
+    },
+    {
+        "concept_name": "呼气末正压通气",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "positive end expiratory pressure"
+        }
+    },
+    {
+        "concept_name": "呼气流量峰值",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "peak expiratory flow"
+        }
+    },
+    {
+        "concept_name": "咳嗽-晕厥综合征",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "cough-syncope syndrome"
+        }
+    },
+    {
+        "concept_name": "咳痰",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "expectoration"
+        }
+    },
+    {
+        "concept_name": "哨笛音",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "sibilant rhonchi"
+        }
+    },
+    {
+        "concept_name": "哮喘性肺嗜酸细胞浸润症",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "asthmatic pulmonary eosinophilia"
+        }
+    },
+    {
+        "concept_name": "哮鸣",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "wheeze"
+        }
+    },
+    {
+        "concept_name": "喘鸣",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "stridor"
+        }
+    },
+    {
+        "concept_name": "外源性变应性肺泡炎",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "extrinsic allergic alveolitis"
+        }
+    },
+    {
+        "concept_name": "外源性哮喘",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "extrinsic asthma"
+        }
+    },
+    {
+        "concept_name": "外源性类脂性肺炎",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "exogenous lipoid pneumonia"
+        }
+    },
+    {
+        "concept_name": "实际碱过剩",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "actual base excess"
+        }
+    },
+    {
+        "concept_name": "实际碳酸氢根",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "英文": "actual bicarbonate radical ;ABR",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "actual bicarbonate radical"
+        }
+    },
+    {
+        "concept_name": "实际碳酸氢盐",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "英文": "actual bicarbonate ;AB",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "actual bicarbonate"
+        }
+    },
+    {
+        "concept_name": "家族性肺间质纤维化",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "familial pulmonary interstitial fibrosis"
+        }
+    },
+    {
+        "concept_name": "容积控制通气",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "volume controlled ventilation"
+        }
+    },
+    {
+        "concept_name": "容积控制通气加叹气",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "volume controlled ventilation-sigh"
+        }
+    },
+    {
+        "concept_name": "容积转换型通气机",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "volume-cycled ventilator"
+        }
+    },
+    {
+        "concept_name": "局限[性]阻塞性肺气肿",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "local obstructive pulmonary emphysema"
+        }
+    },
+    {
+        "concept_name": "干音",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "dry rales"
+        }
+    },
+    {
+        "concept_name": "库斯莫尔呼吸",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "Kussmaul respiration"
+        }
+    },
+    {
+        "concept_name": "张力性气胸",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "tension pneumothorax"
+        }
+    },
+    {
+        "concept_name": "弥漫[性]阻塞性肺气肿",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "diffuse obstructive pulmonary emphysema"
+        }
+    },
+    {
+        "concept_name": "弥漫性肺间质纤维化",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "diffuse interstitial pulmonary fibrosis"
+        }
+    },
+    {
+        "concept_name": "感冒",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "common cold"
+        }
+    },
+    {
+        "concept_name": "感染性肺动脉瘤",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "infected pulmonary aneurysm"
+        }
+    },
+    {
+        "concept_name": "慢性阻塞性肺疾病",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "chronic obstructive pulmonary diseases"
+        }
+    },
+    {
+        "concept_name": "成人型呼吸窘迫综合征",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "adult respiratory distress syndrome"
+        }
+    },
+    {
+        "concept_name": "手控呼吸器",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "manual respirator"
+        }
+    },
+    {
+        "concept_name": "手控通气",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "manual ventilation"
+        }
+    },
+    {
+        "concept_name": "持续低流量给氧",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "continuous administration of low flow oxygen"
+        }
+    },
+    {
+        "concept_name": "换气比值",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "respiratory exchange ratio"
+        }
+    },
+    {
+        "concept_name": "控制通气",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "controlled ventilation"
+        }
+    },
+    {
+        "concept_name": "支原体肺炎",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "mycoplasma pneumonia"
+        }
+    },
+    {
+        "concept_name": "支气管呼吸音",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "bronchial breathing sound"
+        }
+    },
+    {
+        "concept_name": "支气管哮喘",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "bronchial asthma"
+        }
+    },
+    {
+        "concept_name": "支气管肺泡呼吸音",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "bronchovesicular breathing sound"
+        }
+    },
+    {
+        "concept_name": "支气管肺炎",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "bronchopneumonia"
+        }
+    },
+    {
+        "concept_name": "支气管胸膜瘘",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "bronchopleural fistula"
+        }
+    },
+    {
+        "concept_name": "支气管软化",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "bronchomalacia"
+        }
+    },
+    {
+        "concept_name": "断续性呼吸音",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "cogwheel breathing sound"
+        }
+    },
+    {
+        "concept_name": "时间转换型通气机",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "time-cycled ventilator"
+        }
+    },
+    {
+        "concept_name": "最大吸气流量-容积曲线",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "英文": "maximal inspiratory flow-volume curve ;MIFV",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "maximal inspiratory flow-volume curve"
+        }
+    },
+    {
+        "concept_name": "最大呼气流量-容积曲线",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "maximal expiratory flow-volume curve"
+        }
+    },
+    {
+        "concept_name": "机化性肺炎",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "organized pneumonia"
+        }
+    },
+    {
+        "concept_name": "机械通气",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "mechanical ventilation"
+        }
+    },
+    {
+        "concept_name": "标准碱过剩",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "standard base excess"
+        }
+    },
+    {
+        "concept_name": "桶状胸",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "barrel chest"
+        }
+    },
+    {
+        "concept_name": "每升肺泡容积的一氧化碳弥散量",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "diffusion capacity for carbon monoxide per liter of alveolar volume"
+        }
+    },
+    {
+        "concept_name": "比奥呼吸",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "Biot respiration"
+        }
+    },
+    {
+        "concept_name": "比气道传导率",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "specific airway conductance"
+        }
+    },
+    {
+        "concept_name": "气传导率",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "conductance"
+        }
+    },
+    {
+        "concept_name": "气体浓度分数",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "fraction concentration of gas"
+        }
+    },
+    {
+        "concept_name": "气溶胶吸入疗法",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "aerosol therapy"
+        }
+    },
+    {
+        "concept_name": "气管内给药法",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "intratracheal medication"
+        }
+    },
+    {
+        "concept_name": "气肿性肺大疱",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "emphysematous bulla"
+        }
+    },
+    {
+        "concept_name": "气道传导率",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "airway conductance"
+        }
+    },
+    {
+        "concept_name": "气道阻力",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "airway resistance"
+        }
+    },
+    {
+        "concept_name": "氢离子浓度",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "英文": "hydrogen ion concentration ;H#+[+]",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "hydrogen ion concentration"
+        }
+    },
+    {
+        "concept_name": "氧疗",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "oxygen therapy"
+        }
+    },
+    {
+        "concept_name": "流行性感冒",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "influenza"
+        }
+    },
+    {
+        "concept_name": "流行性胸痛",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "epidemic pleurodynia"
+        }
+    },
+    {
+        "concept_name": "深吸气量",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "英文": "inspiratory capacity ;IC",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "inspiratory capacity"
+        }
+    },
+    {
+        "concept_name": "混合性睡眠呼吸暂停",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "mixed sleep apnea"
+        }
+    },
+    {
+        "concept_name": "湿化祛痰",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "humidification expectorant"
+        }
+    },
+    {
+        "concept_name": "湿音",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "moist rales"
+        }
+    },
+    {
+        "concept_name": "热带性肺嗜酸细胞浸润症",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "tropical pulmonary eosinophilia"
+        }
+    },
+    {
+        "concept_name": "特发性纵隔炎",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "idiopathic mediastinitis"
+        }
+    },
+    {
+        "concept_name": "特发性肺动脉扩张",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "idiopathic pulmonary arterial dilation"
+        }
+    },
+    {
+        "concept_name": "特发性肺含铁血黄素沉着症",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "idiopathic pulmonary hemosiderosis"
+        }
+    },
+    {
+        "concept_name": "特发性肺间质纤维化",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "idiopathic pulmonary interstitial fibrosis"
+        }
+    },
+    {
+        "concept_name": "用力呼气中段流量",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "forced expiratory flow during middle half of FVC"
+        }
+    },
+    {
+        "concept_name": "用力肺活量",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "forced vital capacity"
+        }
+    },
+    {
+        "concept_name": "痰",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "sputum"
+        }
+    },
+    {
+        "concept_name": "睡眠呼吸暂停综合征",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "sleep apnea syndrome"
+        }
+    },
+    {
+        "concept_name": "碱过剩",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "base excess"
+        }
+    },
+    {
+        "concept_name": "空气滞留",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "air trapping"
+        }
+    },
+    {
+        "concept_name": "端坐呼吸",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "orthopnea"
+        }
+    },
+    {
+        "concept_name": "第一秒用力呼气量",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "forced expiratory volume in first second"
+        }
+    },
+    {
+        "concept_name": "第一秒用力呼气量占用力肺活量百分率",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "percentage of forced expiratory volume in first second to forced vital capacity"
+        }
+    },
+    {
+        "concept_name": "等压点",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "equal pressure point"
+        }
+    },
+    {
+        "concept_name": "等流量容积",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "volume of isoflow"
+        }
+    },
+    {
+        "concept_name": "管性呼吸音",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "tubular breathing sound"
+        }
+    },
+    {
+        "concept_name": "粗湿音",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "coarse rales"
+        }
+    },
+    {
+        "concept_name": "纤维闭塞性细支气管炎",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "bronchiolitis fibrosa obliterans"
+        }
+    },
+    {
+        "concept_name": "纵隔疝",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "hernia of mediastinum"
+        }
+    },
+    {
+        "concept_name": "组织细胞增多症X",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "histiocytosis X"
+        }
+    },
+    {
+        "concept_name": "细支气管炎",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "bronchiolitis"
+        }
+    },
+    {
+        "concept_name": "终末潮气",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "end tidal gas"
+        }
+    },
+    {
+        "concept_name": "缺氧",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "hypoxia"
+        }
+    },
+    {
+        "concept_name": "肥胖通气低下综合征",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "obesity-hypoventilation syndrome"
+        }
+    },
+    {
+        "concept_name": "肺一氧化碳弥散量",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "diffusion capacity for carbon monoxide of lung"
+        }
+    },
+    {
+        "concept_name": "肺不张",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pulmonary atelectasis"
+        }
+    },
+    {
+        "concept_name": "肺动脉异常起源或发育异常",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "abnormal origin or developmental abnormaly of pulmonary artery"
+        }
+    },
+    {
+        "concept_name": "肺动脉血分流量占心排出量比值",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "ratio of blood flow through the shunts to cardiac output"
+        }
+    },
+    {
+        "concept_name": "肺动静脉瘘",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pulmonary arteriovenous fistula"
+        }
+    },
+    {
+        "concept_name": "肺弹性",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "elastance of lung"
+        }
+    },
+    {
+        "concept_name": "肺弹性回缩压",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "lung elastic recoil pressure"
+        }
+    },
+    {
+        "concept_name": "肺梗死",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pulmonary infarction"
+        }
+    },
+    {
+        "concept_name": "肺毛细血管血氧分压",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pulmonary capillary partial pressure of oxygen"
+        }
+    },
+    {
+        "concept_name": "肺氧弥散量",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "diffusion capacity for oxygen of lung"
+        }
+    },
+    {
+        "concept_name": "肺泡呼吸音",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "vesicular breathing sound"
+        }
+    },
+    {
+        "concept_name": "肺泡微结石症",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pulmonary alveolar microlithia- sis"
+        }
+    },
+    {
+        "concept_name": "肺泡无效腔",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "alveolar dead space"
+        }
+    },
+    {
+        "concept_name": "肺泡气",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "alveolar gas"
+        }
+    },
+    {
+        "concept_name": "肺泡气-动脉血氧分压差",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "alveolar-arterial oxygen difference"
+        }
+    },
+    {
+        "concept_name": "肺泡蛋白沉着症",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pulmonary alveolar proteinosis"
+        }
+    },
+    {
+        "concept_name": "肺泡通气不足",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "alveolar hypoventilation"
+        }
+    },
+    {
+        "concept_name": "肺泡通气过度",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "alveolar hyperventilation"
+        }
+    },
+    {
+        "concept_name": "肺泡通气量",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "alveolar ventilation"
+        }
+    },
+    {
+        "concept_name": "肺活量",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "vital capacity"
+        }
+    },
+    {
+        "concept_name": "肺炎性假瘤",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pulmonary inflammatory pseudotumor"
+        }
+    },
+    {
+        "concept_name": "肺病学",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pulmonology"
+        }
+    },
+    {
+        "concept_name": "肺真菌病",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pulmonary mycosis"
+        }
+    },
+    {
+        "concept_name": "肺组织胞浆菌病",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pulmonary histoplasmosis"
+        }
+    },
+    {
+        "concept_name": "肺脓肿",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "lung abscess"
+        }
+    },
+    {
+        "concept_name": "肺萎陷",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pulmonary collapse"
+        }
+    },
+    {
+        "concept_name": "肺解剖分流量",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "英文": "anatomical pulmonary shunt ;Qsan",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "anatomical pulmonary shunt"
+        }
+    },
+    {
+        "concept_name": "肺过敏性脉管炎",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pulmonary hypersensitivity vasculitis"
+        }
+    },
+    {
+        "concept_name": "肺静脉闭塞性疾病",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pulmonary veno-occlusive disease"
+        }
+    },
+    {
+        "concept_name": "胆固醇性胸腔积液",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "cholesterol pleural effusion"
+        }
+    },
+    {
+        "concept_name": "胸腔积液",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pleural effusion"
+        }
+    },
+    {
+        "concept_name": "胸膜休克",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pleural shock"
+        }
+    },
+    {
+        "concept_name": "胸膜摩擦音",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pleuritic rub"
+        }
+    },
+    {
+        "concept_name": "胸膜炎",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pleurisy"
+        }
+    },
+    {
+        "concept_name": "胸膜痛",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pleuritic pain"
+        }
+    },
+    {
+        "concept_name": "脓气胸",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "pyopneumothorax"
+        }
+    },
+    {
+        "concept_name": "脓胸",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "empyema"
+        }
+    },
+    {
+        "concept_name": "自发性血胸",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "spontaneous hemothorax"
+        }
+    },
+    {
+        "concept_name": "自发通气",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "spontaneous ventilation"
+        }
+    },
+    {
+        "concept_name": "药物性肺病",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "drug-induced pulmonary disease"
+        }
+    },
+    {
+        "concept_name": "蔗尘肺",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "bagassosis"
+        }
+    },
+    {
+        "concept_name": "蘑菇肺",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "mushroom worker disease"
+        }
+    },
+    {
+        "concept_name": "血氧饱和度50%时氧分压",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "oxygen half-saturation pressure of hemoglobin"
+        }
+    },
+    {
+        "concept_name": "血流量",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "blood flow"
+        }
+    },
+    {
+        "concept_name": "血胸",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "hemothorax"
+        }
+    },
+    {
+        "concept_name": "血量",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "volume of blood"
+        }
+    },
+    {
+        "concept_name": "衣原体肺炎",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "chlamydia pneumonia"
+        }
+    },
+    {
+        "concept_name": "补吸气量",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "英文": "inspiratory reserve volume ;IRV",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "inspiratory reserve volume"
+        }
+    },
+    {
+        "concept_name": "补呼气量",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "expiratory reserve volume"
+        }
+    },
+    {
+        "concept_name": "解剖无效腔",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "anatomical dead space"
+        }
+    },
+    {
+        "concept_name": "触觉语颤",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "tactile fremitus"
+        }
+    },
+    {
+        "concept_name": "迁延性肺嗜酸细胞浸润症",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "prolonged pulmonary eosinophilia"
+        }
+    },
+    {
+        "concept_name": "通气不足",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "hypoventilation"
+        }
+    },
+    {
+        "concept_name": "通气分布不均",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "maldistribution of ventilation"
+        }
+    },
+    {
+        "concept_name": "通气机",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "ventilator"
+        }
+    },
+    {
+        "concept_name": "间歇负压通气",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "intermittent negative pressure ventilation"
+        }
+    },
+    {
+        "concept_name": "间质性肺炎",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "interstitial pneumonia"
+        }
+    },
+    {
+        "concept_name": "阻塞性睡眠呼吸暂停",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "obstructive sleep apnea"
+        }
+    },
+    {
+        "concept_name": "阻塞性通气障碍",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "obstructive ventilatory disorder"
+        }
+    },
+    {
+        "concept_name": "附加音",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "adventitious sound"
+        }
+    },
+    {
+        "concept_name": "雾化疗法",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "nebulization therapy"
+        }
+    },
+    {
+        "concept_name": "静脉血掺杂",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "venous admixture"
+        }
+    },
+    {
+        "concept_name": "非心源性肺水肿",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "non cardiogenic pulmonary edema"
+        }
+    },
+    {
+        "concept_name": "面罩给氧",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "mask oxygen inhalation"
+        }
+    },
+    {
+        "concept_name": "高压氧疗",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "hyperbaric oxygen therapy"
+        }
+    },
+    {
+        "concept_name": "高氧血",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "hyperoxemia"
+        }
+    },
+    {
+        "concept_name": "高碳酸血",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "hypercapnia"
+        }
+    },
+    {
+        "concept_name": "高频喷射通气",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "high frequency jet ventilation"
+        }
+    },
+    {
+        "concept_name": "高频胸壁压迫",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "high frequency chest wall compression"
+        }
+    },
+    {
+        "concept_name": "高频震荡",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "英文": "high frequency oscillation ;HFO",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "high frequency oscillation"
+        }
+    },
+    {
+        "concept_name": "鼻导管给氧",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "nasal catheter oxygen inhalation"
+        }
+    },
+    {
+        "concept_name": "鼻翼扇动",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "flaring of alaenasi"
+        }
+    },
+    {
+        "concept_name": "鼾音",
+        "details": {
+            "学科": "医学_呼吸病学",
+            "见载": "《医学名词 第一分册》第一版",
+            "英文名": "sonorous rhonchi"
+        }
+    }
+]

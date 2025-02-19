@@ -1,0 +1,2729 @@
+[
+    {
+        "concept_name": "两次曝光全息术",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "double-exposure holography"
+        }
+    },
+    {
+        "concept_name": "中央极大",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "central maximum"
+        }
+    },
+    {
+        "concept_name": "中阶梯光栅",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "echelle grating"
+        }
+    },
+    {
+        "concept_name": "主折射率",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "principal refractive index"
+        }
+    },
+    {
+        "concept_name": "二元全息图",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "binary hologram"
+        }
+    },
+    {
+        "concept_name": "二向色性",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "dichroism"
+        }
+    },
+    {
+        "concept_name": "二级相干性",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "second-order coherence"
+        }
+    },
+    {
+        "concept_name": "互强度",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "mutual intensity"
+        }
+    },
+    {
+        "concept_name": "信[息通]道",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "information channel"
+        }
+    },
+    {
+        "concept_name": "信息光学",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "information optics"
+        }
+    },
+    {
+        "concept_name": "信息容量",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "information capacity"
+        }
+    },
+    {
+        "concept_name": "倾斜因子",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "inclination factor"
+        }
+    },
+    {
+        "concept_name": "假彩色图像处理",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "pseudocolor image processing"
+        }
+    },
+    {
+        "concept_name": "偏振片",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "polaroid"
+        }
+    },
+    {
+        "concept_name": "偏置全息术",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "biasing holography"
+        }
+    },
+    {
+        "concept_name": "傅里叶光学",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Fourier optics"
+        }
+    },
+    {
+        "concept_name": "像元",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "英文": "image element ;picture element ;pixel",
+            "见载": "《物理学名词》第二版",
+            "英文名": "image element"
+        }
+    },
+    {
+        "concept_name": "像增强器",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "image intensifier"
+        }
+    },
+    {
+        "concept_name": "像质",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "image quality"
+        }
+    },
+    {
+        "concept_name": "像质判据",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "image quality criterion"
+        }
+    },
+    {
+        "concept_name": "像质评价",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "image quality evaluation"
+        }
+    },
+    {
+        "concept_name": "像面全息术",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "image plane holography"
+        }
+    },
+    {
+        "concept_name": "光[学]全息术",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical holography"
+        }
+    },
+    {
+        "concept_name": "光[学]外差",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical heterodyne"
+        }
+    },
+    {
+        "concept_name": "光[学]多路传输",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical multiplexing"
+        }
+    },
+    {
+        "concept_name": "光[学]臂",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical arm"
+        }
+    },
+    {
+        "concept_name": "光[学]通信",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical communication"
+        }
+    },
+    {
+        "concept_name": "光[学]零差",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical homodyne"
+        }
+    },
+    {
+        "concept_name": "光劈",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "[optical] wedge"
+        }
+    },
+    {
+        "concept_name": "光启[动]开关",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "light activated switch"
+        }
+    },
+    {
+        "concept_name": "光学传感器",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical sensor"
+        }
+    },
+    {
+        "concept_name": "光学传递函数",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical transfer function"
+        }
+    },
+    {
+        "concept_name": "光学信息处理",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical information processing"
+        }
+    },
+    {
+        "concept_name": "光学傅里叶变换",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical Fourier transform"
+        }
+    },
+    {
+        "concept_name": "光学厚度",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical thickness"
+        }
+    },
+    {
+        "concept_name": "光学变换",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical transform"
+        }
+    },
+    {
+        "concept_name": "光学处理",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical processing"
+        }
+    },
+    {
+        "concept_name": "光学多道分析",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical multichannel analysis"
+        }
+    },
+    {
+        "concept_name": "光学存储",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "英文": "optical memory ;optical storage",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical memory"
+        }
+    },
+    {
+        "concept_name": "光学平行性",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical parallelism"
+        }
+    },
+    {
+        "concept_name": "光学平面",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "俗称": " 平晶",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical flat"
+        }
+    },
+    {
+        "concept_name": "光学平面度",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical flatness"
+        }
+    },
+    {
+        "concept_name": "光学接触",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical contact"
+        }
+    },
+    {
+        "concept_name": "光学掩模",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical mask"
+        }
+    },
+    {
+        "concept_name": "光学数据处理",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical data processing"
+        }
+    },
+    {
+        "concept_name": "光学敷层",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical coating"
+        }
+    },
+    {
+        "concept_name": "光学模拟计算机",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical analogue computer"
+        }
+    },
+    {
+        "concept_name": "光学薄膜",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical thin-film"
+        }
+    },
+    {
+        "concept_name": "光学逻辑",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical logic"
+        }
+    },
+    {
+        "concept_name": "光学遥感",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "remote optical sensing"
+        }
+    },
+    {
+        "concept_name": "光导纤维",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "简称": " 光纤",
+            "见载": "《物理学名词》第二版",
+            "英文名": "[optical] fiber"
+        }
+    },
+    {
+        "concept_name": "光强",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "intensity of light"
+        }
+    },
+    {
+        "concept_name": "光栅装置[法]",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "mounting for grating"
+        }
+    },
+    {
+        "concept_name": "光缆",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical cable"
+        }
+    },
+    {
+        "concept_name": "光调制",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical modulation"
+        }
+    },
+    {
+        "concept_name": "光轴",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical axis"
+        }
+    },
+    {
+        "concept_name": "光选通",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "light gating"
+        }
+    },
+    {
+        "concept_name": "光闸",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "英文": "light gate ;optical gate ;optical shutter",
+            "见载": "《物理学名词》第二版",
+            "英文名": "light gate"
+        }
+    },
+    {
+        "concept_name": "光频",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical frequency"
+        }
+    },
+    {
+        "concept_name": "克尔效应",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Kerr effect"
+        }
+    },
+    {
+        "concept_name": "入射波",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "incident wave"
+        }
+    },
+    {
+        "concept_name": "全息光学",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "holographic optics"
+        }
+    },
+    {
+        "concept_name": "全息图",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "hologram"
+        }
+    },
+    {
+        "concept_name": "全息干涉测量术",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "holographic interferometry"
+        }
+    },
+    {
+        "concept_name": "全息无损检验",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "holographic nondestructive testing"
+        }
+    },
+    {
+        "concept_name": "全息显微术",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "holographic microscopy"
+        }
+    },
+    {
+        "concept_name": "全息胶片",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "holofilm"
+        }
+    },
+    {
+        "concept_name": "全色图像",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "又称": " 四色图(four-color image)",
+            "见载": "《物理学名词》第二版",
+            "英文名": "full-color image"
+        }
+    },
+    {
+        "concept_name": "全通滤光片",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "all-pass [optical] filter"
+        }
+    },
+    {
+        "concept_name": "内锥折射",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "internal conical refraction"
+        }
+    },
+    {
+        "concept_name": "冗余信息",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "redundant information"
+        }
+    },
+    {
+        "concept_name": "减反射",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "antireflection"
+        }
+    },
+    {
+        "concept_name": "减反射膜",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "antireflecting film"
+        }
+    },
+    {
+        "concept_name": "凹凸反转像",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "pseudoscopic image"
+        }
+    },
+    {
+        "concept_name": "凹凸正常像",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "orthoscopic image"
+        }
+    },
+    {
+        "concept_name": "出射波",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "outgoing wave"
+        }
+    },
+    {
+        "concept_name": "分块全息存储",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "block-organized holographic memory"
+        }
+    },
+    {
+        "concept_name": "切趾[法]",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "apodisation"
+        }
+    },
+    {
+        "concept_name": "利思-乌帕特尼克斯全息图",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Leith-Upatnieks hologram"
+        }
+    },
+    {
+        "concept_name": "剪切干涉仪",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "shearing interferometer"
+        }
+    },
+    {
+        "concept_name": "加拿大胶",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Canada balsam"
+        }
+    },
+    {
+        "concept_name": "包层光纤",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "clad[ded] optical fiber"
+        }
+    },
+    {
+        "concept_name": "半周期带",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "half-period zone"
+        }
+    },
+    {
+        "concept_name": "半色调",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "half-tone"
+        }
+    },
+    {
+        "concept_name": "单轴晶体",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "uniaxial crystal"
+        }
+    },
+    {
+        "concept_name": "参考角",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "reference angle"
+        }
+    },
+    {
+        "concept_name": "双[光]束干涉",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "double-beam interference"
+        }
+    },
+    {
+        "concept_name": "双[光]束干涉测量术",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "two-beam interferometry"
+        }
+    },
+    {
+        "concept_name": "双缝干涉",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "double-slit interference"
+        }
+    },
+    {
+        "concept_name": "反射光栅",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "reflection grating"
+        }
+    },
+    {
+        "concept_name": "反射率",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "reflectivity"
+        }
+    },
+    {
+        "concept_name": "反相[位]",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "antiphase"
+        }
+    },
+    {
+        "concept_name": "发散角",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "angle of divergence"
+        }
+    },
+    {
+        "concept_name": "取向双折射",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "orientation birefringence"
+        }
+    },
+    {
+        "concept_name": "受抑全反射",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "frustrated total reflection"
+        }
+    },
+    {
+        "concept_name": "变换光学",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "transform optics"
+        }
+    },
+    {
+        "concept_name": "可擦除存储[器]",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "erasable memory"
+        }
+    },
+    {
+        "concept_name": "可见度",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "visibility"
+        }
+    },
+    {
+        "concept_name": "右旋晶体",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "right-handed crystal"
+        }
+    },
+    {
+        "concept_name": "各向同性介质",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "isotropic medium"
+        }
+    },
+    {
+        "concept_name": "各向异性介质",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "anisotropic medium"
+        }
+    },
+    {
+        "concept_name": "合成全息图",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "integral hologram"
+        }
+    },
+    {
+        "concept_name": "同消色线",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "isogyre"
+        }
+    },
+    {
+        "concept_name": "同相[位]",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "in-phase"
+        }
+    },
+    {
+        "concept_name": "同轴全息术",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "in-line holography"
+        }
+    },
+    {
+        "concept_name": "后处理",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "aftertreatment"
+        }
+    },
+    {
+        "concept_name": "含混[度]函数",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ambiguity function"
+        }
+    },
+    {
+        "concept_name": "吸收[型]全息图",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "absorption hologram"
+        }
+    },
+    {
+        "concept_name": "图像劣化",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "image degradation"
+        }
+    },
+    {
+        "concept_name": "图像去模糊",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "image deblurring"
+        }
+    },
+    {
+        "concept_name": "图像变换",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "image transform"
+        }
+    },
+    {
+        "concept_name": "图像增强",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "image enhancement"
+        }
+    },
+    {
+        "concept_name": "图像处理",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "image processing"
+        }
+    },
+    {
+        "concept_name": "图像复原",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "image restoration"
+        }
+    },
+    {
+        "concept_name": "图像存储",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "image storage"
+        }
+    },
+    {
+        "concept_name": "图像数字化",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "image digitization"
+        }
+    },
+    {
+        "concept_name": "图像模糊",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "image blurring"
+        }
+    },
+    {
+        "concept_name": "图像清晰度",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "image definition"
+        }
+    },
+    {
+        "concept_name": "图像相减",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "image subtraction"
+        }
+    },
+    {
+        "concept_name": "图像综合",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "image synthesis"
+        }
+    },
+    {
+        "concept_name": "图像编码",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "image encoding"
+        }
+    },
+    {
+        "concept_name": "图像转换",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "image conversion"
+        }
+    },
+    {
+        "concept_name": "图像重建",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "image reconstruction"
+        }
+    },
+    {
+        "concept_name": "圆盘衍射",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "circular disk diffraction"
+        }
+    },
+    {
+        "concept_name": "基元全息图",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "elementary hologram"
+        }
+    },
+    {
+        "concept_name": "基尔霍夫积分定理",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Kirchhoff integral theorem"
+        }
+    },
+    {
+        "concept_name": "基尔霍夫衍射理论",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Kirchhoff diffraction theory"
+        }
+    },
+    {
+        "concept_name": "塔尔博特效应",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Talbot effect"
+        }
+    },
+    {
+        "concept_name": "声光偏转",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "acoustooptic deflection"
+        }
+    },
+    {
+        "concept_name": "声光学",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "acoustooptics"
+        }
+    },
+    {
+        "concept_name": "声光调制",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "acoustooptic modulation"
+        }
+    },
+    {
+        "concept_name": "声致双折射",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "acoustic birefringence"
+        }
+    },
+    {
+        "concept_name": "复[式]光栅",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "multiple grating"
+        }
+    },
+    {
+        "concept_name": "复制光栅",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "replica grating"
+        }
+    },
+    {
+        "concept_name": "复式法布里-珀罗干涉仪",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "compound Fabry-Perot interferometer"
+        }
+    },
+    {
+        "concept_name": "复振幅",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "complex amplitude"
+        }
+    },
+    {
+        "concept_name": "复相干度",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "complex degree of coherence"
+        }
+    },
+    {
+        "concept_name": "外锥折射",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "external conical refraction"
+        }
+    },
+    {
+        "concept_name": "多光束干涉",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "multiple-beam interference"
+        }
+    },
+    {
+        "concept_name": "多层介电膜",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "又称": " 多层介质膜",
+            "见载": "《物理学名词》第二版",
+            "英文名": "multilayer dielectric film"
+        }
+    },
+    {
+        "concept_name": "多模光纤",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "multimode optical fiber"
+        }
+    },
+    {
+        "concept_name": "多波干涉",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "multiple-wave interference"
+        }
+    },
+    {
+        "concept_name": "多缝干涉",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "multislit interference"
+        }
+    },
+    {
+        "concept_name": "多色像",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "multicolor image"
+        }
+    },
+    {
+        "concept_name": "多重全息图",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "multiplex hologram"
+        }
+    },
+    {
+        "concept_name": "多重成像",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "multiple imaging"
+        }
+    },
+    {
+        "concept_name": "孔径综合",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "aperture synthesis"
+        }
+    },
+    {
+        "concept_name": "字符识别",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "character recognition"
+        }
+    },
+    {
+        "concept_name": "孪[生]像",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "twin image"
+        }
+    },
+    {
+        "concept_name": "容量速率积",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "capacity-speed product"
+        }
+    },
+    {
+        "concept_name": "寻常光",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ordinary light"
+        }
+    },
+    {
+        "concept_name": "寻常折射率",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ordinary refractive index"
+        }
+    },
+    {
+        "concept_name": "小阶梯光栅",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "又称": " 红外光栅",
+            "见载": "《物理学名词》第二版",
+            "英文名": "echelette grating"
+        }
+    },
+    {
+        "concept_name": "尼科耳棱镜",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Nicol prism"
+        }
+    },
+    {
+        "concept_name": "差分干涉测量术",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "differential interferometry"
+        }
+    },
+    {
+        "concept_name": "布儒斯特角",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "又称": " 起偏角(polarizing angle)",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Brewster angle"
+        }
+    },
+    {
+        "concept_name": "布拉格[效应]全息图",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Bragg [effect] hologram"
+        }
+    },
+    {
+        "concept_name": "带宽",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "bandwidth"
+        }
+    },
+    {
+        "concept_name": "幅光栅",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "全称": " 振幅型光栅",
+            "见载": "《物理学名词》第二版",
+            "英文名": "amplitude grating"
+        }
+    },
+    {
+        "concept_name": "幅物体",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "全称": " 振幅型物体",
+            "见载": "《物理学名词》第二版",
+            "英文名": "amplitude object"
+        }
+    },
+    {
+        "concept_name": "干涉",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "interference"
+        }
+    },
+    {
+        "concept_name": "干涉仪",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "interferometer"
+        }
+    },
+    {
+        "concept_name": "干涉图样",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "interference pattern"
+        }
+    },
+    {
+        "concept_name": "干涉显微镜",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "interference microscope"
+        }
+    },
+    {
+        "concept_name": "干涉条纹",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "interference fringe"
+        }
+    },
+    {
+        "concept_name": "干涉测量术",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "interferometry"
+        }
+    },
+    {
+        "concept_name": "干涉滤光片",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "interference filter"
+        }
+    },
+    {
+        "concept_name": "干涉级",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "order of interference"
+        }
+    },
+    {
+        "concept_name": "干涉色",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "interference color"
+        }
+    },
+    {
+        "concept_name": "干涉项",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "interference term"
+        }
+    },
+    {
+        "concept_name": "平面干涉仪",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "flat interferometer"
+        }
+    },
+    {
+        "concept_name": "异相[位]",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "out-of-phase"
+        }
+    },
+    {
+        "concept_name": "弹光系数",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "elasto-optic coefficient"
+        }
+    },
+    {
+        "concept_name": "强度传递函数",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "intensity transfer function"
+        }
+    },
+    {
+        "concept_name": "强度关联",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "intensity correlation"
+        }
+    },
+    {
+        "concept_name": "强度反射率",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "intensity reflectivity"
+        }
+    },
+    {
+        "concept_name": "强度干涉仪",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "intensity interferometer"
+        }
+    },
+    {
+        "concept_name": "强度透射率",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "intensity transmissivity"
+        }
+    },
+    {
+        "concept_name": "彩色全息术",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "color holography"
+        }
+    },
+    {
+        "concept_name": "彩虹全息术",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "rainbow holography"
+        }
+    },
+    {
+        "concept_name": "径向剪切干涉仪",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "radial-shearing interferometer"
+        }
+    },
+    {
+        "concept_name": "快轴",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "fast axis"
+        }
+    },
+    {
+        "concept_name": "感生各向异性",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "induced anisotropy"
+        }
+    },
+    {
+        "concept_name": "慢轴",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "slow axis"
+        }
+    },
+    {
+        "concept_name": "截止滤光片",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "cutoff filter"
+        }
+    },
+    {
+        "concept_name": "扫描成像",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "scanned imagery"
+        }
+    },
+    {
+        "concept_name": "折射率椭球",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "[refractive] index ellipsoid"
+        }
+    },
+    {
+        "concept_name": "抛物型折射率光纤",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "parabolic index fiber"
+        }
+    },
+    {
+        "concept_name": "振幅[型]全息图",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "amplitude hologram"
+        }
+    },
+    {
+        "concept_name": "振幅传递函数",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "amplitude transfer function"
+        }
+    },
+    {
+        "concept_name": "振幅分割",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "division of amplitude"
+        }
+    },
+    {
+        "concept_name": "振幅反射率",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "amplitude reflectivity"
+        }
+    },
+    {
+        "concept_name": "振幅扩展函数",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "amplitude spread function"
+        }
+    },
+    {
+        "concept_name": "振幅脉冲响应",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "amplitude impulse response"
+        }
+    },
+    {
+        "concept_name": "振幅透射率",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "amplitude transmissivity"
+        }
+    },
+    {
+        "concept_name": "数字全息图",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "digital hologram"
+        }
+    },
+    {
+        "concept_name": "数据采集",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "data acquisition"
+        }
+    },
+    {
+        "concept_name": "旋光对映体",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "英文": "optical antimer ;optical antipode",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical antimer"
+        }
+    },
+    {
+        "concept_name": "旋光异构体",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical isomer"
+        }
+    },
+    {
+        "concept_name": "旋光性",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "英文": "optical activity ;optical rotation ;opticity",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical activity"
+        }
+    },
+    {
+        "concept_name": "旋光物质",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical active substance"
+        }
+    },
+    {
+        "concept_name": "时间平均全息术",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "time-averaged holography"
+        }
+    },
+    {
+        "concept_name": "晶体光学",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "crystal optics"
+        }
+    },
+    {
+        "concept_name": "最小分辨角",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "angle of minimum resolution"
+        }
+    },
+    {
+        "concept_name": "束强比",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "beam ratio"
+        }
+    },
+    {
+        "concept_name": "杨[氏]实验",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Young experiment"
+        }
+    },
+    {
+        "concept_name": "柱面波",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "cylindrical wave"
+        }
+    },
+    {
+        "concept_name": "检偏器",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "analyzer"
+        }
+    },
+    {
+        "concept_name": "棱[边]波",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "edge wave"
+        }
+    },
+    {
+        "concept_name": "椭[圆]偏[振]测量术",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ellipsometry"
+        }
+    },
+    {
+        "concept_name": "椭[圆]偏[振]计",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ellipsometer"
+        }
+    },
+    {
+        "concept_name": "椭圆偏振",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "elliptic polarization"
+        }
+    },
+    {
+        "concept_name": "模压全息图",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "embossed hologram"
+        }
+    },
+    {
+        "concept_name": "模糊图像",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "blurred image"
+        }
+    },
+    {
+        "concept_name": "横向剪切干涉仪",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "lateral shearing interferometer"
+        }
+    },
+    {
+        "concept_name": "正晶体",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "positive crystal"
+        }
+    },
+    {
+        "concept_name": "沃拉斯顿棱镜",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Wollaston prism"
+        }
+    },
+    {
+        "concept_name": "法布里-珀罗干涉仪",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Fabry-Perot interferometer"
+        }
+    },
+    {
+        "concept_name": "法布里-珀罗标准具",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Fabry-Perot etalon"
+        }
+    },
+    {
+        "concept_name": "法拉第旋转",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Faraday rotation"
+        }
+    },
+    {
+        "concept_name": "波阵面分割",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "division of wavefront"
+        }
+    },
+    {
+        "concept_name": "浮雕像",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "relief image"
+        }
+    },
+    {
+        "concept_name": "消光",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "extinction"
+        }
+    },
+    {
+        "concept_name": "消光定理",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "extinction theorem"
+        }
+    },
+    {
+        "concept_name": "消光比",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "extinction ratio"
+        }
+    },
+    {
+        "concept_name": "消光系数",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "又称": " 消光率",
+            "见载": "《物理学名词》第二版",
+            "英文名": "extinction coefficient"
+        }
+    },
+    {
+        "concept_name": "混合级关联函数",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "mixed-order correlation function"
+        }
+    },
+    {
+        "concept_name": "混淆误差",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "aliasing error"
+        }
+    },
+    {
+        "concept_name": "滤光片",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "[optical] filter"
+        }
+    },
+    {
+        "concept_name": "漂白全息图",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "bleached hologram"
+        }
+    },
+    {
+        "concept_name": "激光[束信息]扫描",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "laser [beam information] scanning"
+        }
+    },
+    {
+        "concept_name": "灰阶",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "gray level"
+        }
+    },
+    {
+        "concept_name": "热塑全息图",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "thermally engraved hologram"
+        }
+    },
+    {
+        "concept_name": "物光束",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "object beam"
+        }
+    },
+    {
+        "concept_name": "物波",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "object wave"
+        }
+    },
+    {
+        "concept_name": "狭缝",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "slit"
+        }
+    },
+    {
+        "concept_name": "瑞利-索末菲[衍射]公式",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Rayleigh-Sommerfeld formula"
+        }
+    },
+    {
+        "concept_name": "电光偏转",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electrooptical deflection"
+        }
+    },
+    {
+        "concept_name": "电光系数",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electrooptical coefficient"
+        }
+    },
+    {
+        "concept_name": "电光调制",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electrooptical modulation"
+        }
+    },
+    {
+        "concept_name": "电子散斑干涉仪",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electronic speckle interferometer"
+        }
+    },
+    {
+        "concept_name": "电致双折射",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electric birefringence"
+        }
+    },
+    {
+        "concept_name": "白光全息图",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "white-light hologram"
+        }
+    },
+    {
+        "concept_name": "直边衍射",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "straight edge diffraction"
+        }
+    },
+    {
+        "concept_name": "相[位]板",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "英文": "phase aberrator ;phase plate",
+            "见载": "《物理学名词》第二版",
+            "英文名": "phase aberrator"
+        }
+    },
+    {
+        "concept_name": "相[位型]物体",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "phase object"
+        }
+    },
+    {
+        "concept_name": "相位超前",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "phase advance"
+        }
+    },
+    {
+        "concept_name": "相干光[学]信息处理",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "coherent optical information processing"
+        }
+    },
+    {
+        "concept_name": "相干光[雷]达",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "coherent optical radar"
+        }
+    },
+    {
+        "concept_name": "相干度",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "degree of coherence"
+        }
+    },
+    {
+        "concept_name": "相干成像",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "coherent imaging"
+        }
+    },
+    {
+        "concept_name": "相干条件",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "coherent condition"
+        }
+    },
+    {
+        "concept_name": "相干照明",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "coherent illumination"
+        }
+    },
+    {
+        "concept_name": "相干面积",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "coherent area"
+        }
+    },
+    {
+        "concept_name": "相消干涉",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "destructive interference"
+        }
+    },
+    {
+        "concept_name": "相长干涉",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "constructive interference"
+        }
+    },
+    {
+        "concept_name": "矩孔衍射",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "rectangular aperture diffraction"
+        }
+    },
+    {
+        "concept_name": "短波通滤光片",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "short wave pass filter"
+        }
+    },
+    {
+        "concept_name": "磁致旋光",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "英文": "magnetic opticity ;magnetic rota- tion",
+            "见载": "《物理学名词》第二版",
+            "英文名": "magnetic opticity"
+        }
+    },
+    {
+        "concept_name": "离分角",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "walk-off angle"
+        }
+    },
+    {
+        "concept_name": "离散载体全息图",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "discrete-carrier hologram"
+        }
+    },
+    {
+        "concept_name": "离轴全息术",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "off-axis holography"
+        }
+    },
+    {
+        "concept_name": "科顿-穆顿效应",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Cotton-Mouton effect"
+        }
+    },
+    {
+        "concept_name": "科顿效应",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Cotton effect"
+        }
+    },
+    {
+        "concept_name": "空间不变性",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "space invariance"
+        }
+    },
+    {
+        "concept_name": "等倾干涉",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "equal inclination interference"
+        }
+    },
+    {
+        "concept_name": "等倾条纹",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "equal inclination fringes"
+        }
+    },
+    {
+        "concept_name": "等厚干涉",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "equal thickness interference"
+        }
+    },
+    {
+        "concept_name": "等厚条纹",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "equal thickness fringes"
+        }
+    },
+    {
+        "concept_name": "等厚线",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "isopach"
+        }
+    },
+    {
+        "concept_name": "等强度线",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "又称": " 等照度线",
+            "见载": "《物理学名词》第二版",
+            "英文名": "isophote"
+        }
+    },
+    {
+        "concept_name": "等色线",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "英文": "isochromatic line ;isochromate",
+            "见载": "《物理学名词》第二版",
+            "英文名": "isochromatic line"
+        }
+    },
+    {
+        "concept_name": "米氏散射",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Mie scattering"
+        }
+    },
+    {
+        "concept_name": "纤维光学",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "fiber optics"
+        }
+    },
+    {
+        "concept_name": "约化波长",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "又称": " 真空波长",
+            "见载": "《物理学名词》第二版",
+            "英文名": "reduced wavelength"
+        }
+    },
+    {
+        "concept_name": "级的交叠",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "overlapping of orders"
+        }
+    },
+    {
+        "concept_name": "线性空间不变系统",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "linear space-invariant system"
+        }
+    },
+    {
+        "concept_name": "综合孔径",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "synthetic aperture"
+        }
+    },
+    {
+        "concept_name": "缓变折射率",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "graded [refractive] index"
+        }
+    },
+    {
+        "concept_name": "编址全息图",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "address hologram"
+        }
+    },
+    {
+        "concept_name": "编码图像",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "coded image"
+        }
+    },
+    {
+        "concept_name": "编码孔径",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "coded aperture"
+        }
+    },
+    {
+        "concept_name": "编码掩模",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "encoding mask"
+        }
+    },
+    {
+        "concept_name": "缩微照片",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "microphoto[graph]"
+        }
+    },
+    {
+        "concept_name": "缩微照相术",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "micro[photo]graphy"
+        }
+    },
+    {
+        "concept_name": "背散射光",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "backscattered light"
+        }
+    },
+    {
+        "concept_name": "脉冲响应",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "impulse response"
+        }
+    },
+    {
+        "concept_name": "自相干[函数]",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "self-coherence [function]"
+        }
+    },
+    {
+        "concept_name": "色模糊",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "color blurring"
+        }
+    },
+    {
+        "concept_name": "艾里斑",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Airy disk"
+        }
+    },
+    {
+        "concept_name": "菲佐[干涉]条纹",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Fizeau fringe"
+        }
+    },
+    {
+        "concept_name": "菲涅耳双棱镜",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Fresnel biprism"
+        }
+    },
+    {
+        "concept_name": "菲涅耳双镜",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Fresnel bimirror"
+        }
+    },
+    {
+        "concept_name": "菲涅耳菱体",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Fresnel rhombus"
+        }
+    },
+    {
+        "concept_name": "菲涅耳衍射",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Fresnel diffraction"
+        }
+    },
+    {
+        "concept_name": "薄膜干涉",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "film interference"
+        }
+    },
+    {
+        "concept_name": "衍射",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "diffraction"
+        }
+    },
+    {
+        "concept_name": "衍射屏",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "diffraction screen"
+        }
+    },
+    {
+        "concept_name": "衍射效率",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "diffraction efficiency"
+        }
+    },
+    {
+        "concept_name": "衍射晕",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "diffraction halo"
+        }
+    },
+    {
+        "concept_name": "衍射级",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "order of diffraction"
+        }
+    },
+    {
+        "concept_name": "衍射角",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "angle of diffraction"
+        }
+    },
+    {
+        "concept_name": "衰减全反射",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "attenuated total reflection"
+        }
+    },
+    {
+        "concept_name": "角分辨率",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "angular resolution"
+        }
+    },
+    {
+        "concept_name": "角谱",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "angular spectrum"
+        }
+    },
+    {
+        "concept_name": "解析信号",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "analytic signal"
+        }
+    },
+    {
+        "concept_name": "读出光束",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "reading optical beam"
+        }
+    },
+    {
+        "concept_name": "调制传递函数",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "modulation transfer function"
+        }
+    },
+    {
+        "concept_name": "调幅",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "amplitude modulation"
+        }
+    },
+    {
+        "concept_name": "调幅光",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "amplitude modulated light"
+        }
+    },
+    {
+        "concept_name": "超声光栅",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ultrasonic grating"
+        }
+    },
+    {
+        "concept_name": "超声全息术",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "英文": "ultrasonic holography ;ultrasound holography",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ultrasonic holography"
+        }
+    },
+    {
+        "concept_name": "轴的色散",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "dispersion of axes"
+        }
+    },
+    {
+        "concept_name": "迈克耳孙干涉仪",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Michelson interferometer"
+        }
+    },
+    {
+        "concept_name": "迈克耳孙测星干涉仪",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Michelson stellar interferometer"
+        }
+    },
+    {
+        "concept_name": "连带存储",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "associative storage"
+        }
+    },
+    {
+        "concept_name": "逆滤波器",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "inverse filter"
+        }
+    },
+    {
+        "concept_name": "透射",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "transmission"
+        }
+    },
+    {
+        "concept_name": "重建像",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "reconstructed image"
+        }
+    },
+    {
+        "concept_name": "闪耀角",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "blazing angle"
+        }
+    },
+    {
+        "concept_name": "防震台",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "isolation table"
+        }
+    },
+    {
+        "concept_name": "阶式减光板",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "stepped attenuator"
+        }
+    },
+    {
+        "concept_name": "阶梯光栅",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "echelon grating"
+        }
+    },
+    {
+        "concept_name": "阶跃折射率光纤",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "step-index fiber"
+        }
+    },
+    {
+        "concept_name": "阿贝成像原理",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Abbe principle of image formation"
+        }
+    },
+    {
+        "concept_name": "陆末-格尔克板",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Lummer-Gehrcke plate"
+        }
+    },
+    {
+        "concept_name": "随机光学存取",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "random optical access"
+        }
+    },
+    {
+        "concept_name": "隐失波",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "曾称": " 倏逝波 ；衰逝波",
+            "见载": "《物理学名词》第二版",
+            "英文名": "evanescent wave"
+        }
+    },
+    {
+        "concept_name": "非[寻]常光",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "extraordinary light"
+        }
+    },
+    {
+        "concept_name": "非[寻]常折射率",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "extraordinary refractive index"
+        }
+    },
+    {
+        "concept_name": "非偏振光",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "英文": "nonpolarized light ;unpolarized light",
+            "见载": "《物理学名词》第二版",
+            "英文名": "nonpolarized light"
+        }
+    },
+    {
+        "concept_name": "非均匀波",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "inhomogeneous wave"
+        }
+    },
+    {
+        "concept_name": "非相干光",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "incoherent light"
+        }
+    },
+    {
+        "concept_name": "非相干光[学]信息处理",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "incoherent optical information processing"
+        }
+    },
+    {
+        "concept_name": "非相干性",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "英文": "incoherence ;noncoherence",
+            "见载": "《物理学名词》第二版",
+            "英文名": "incoherence"
+        }
+    },
+    {
+        "concept_name": "非相干成像",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "incoherent imaging"
+        }
+    },
+    {
+        "concept_name": "非相干照明",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "incoherent illumination"
+        }
+    },
+    {
+        "concept_name": "马赫-曾德尔干涉仪",
+        "details": {
+            "学科": "物理学_光学_波动光学、信息光学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Mach-Zehnder interferometer"
+        }
+    }
+]

@@ -1,0 +1,860 @@
+[
+    {
+        "concept_name": "PAL制",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Phase Alternation Line system"
+        }
+    },
+    {
+        "concept_name": "SECAM制",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Sequential Color and Memory system"
+        }
+    },
+    {
+        "concept_name": "[广播]收音机",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "broadcast receiver"
+        }
+    },
+    {
+        "concept_name": "三基色",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "three primary colors"
+        }
+    },
+    {
+        "concept_name": "传声器",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "microphone"
+        }
+    },
+    {
+        "concept_name": "全向传声器",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "omnidirectional microphone"
+        }
+    },
+    {
+        "concept_name": "凯尔系数",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Kell factor"
+        }
+    },
+    {
+        "concept_name": "分辨力",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "resolution"
+        }
+    },
+    {
+        "concept_name": "加权曲线",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "weighted curve"
+        }
+    },
+    {
+        "concept_name": "动圈传声器",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "moving coil microphone"
+        }
+    },
+    {
+        "concept_name": "单声",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "monophone"
+        }
+    },
+    {
+        "concept_name": "卫星广播",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "satellite broadcasting"
+        }
+    },
+    {
+        "concept_name": "压电传声器",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "piezoelectric microphone"
+        }
+    },
+    {
+        "concept_name": "参考带",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "reference tape"
+        }
+    },
+    {
+        "concept_name": "参考白",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "reference white"
+        }
+    },
+    {
+        "concept_name": "双伴音电视",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "TV with dual sound programmes"
+        }
+    },
+    {
+        "concept_name": "同步广播",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "synchronized broadcasting"
+        }
+    },
+    {
+        "concept_name": "听力测试室",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "audiometric room"
+        }
+    },
+    {
+        "concept_name": "唱片",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "record"
+        }
+    },
+    {
+        "concept_name": "唱针",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "stylus"
+        }
+    },
+    {
+        "concept_name": "图像通道",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "image channel"
+        }
+    },
+    {
+        "concept_name": "图文电视广播",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "teletext broadcasting"
+        }
+    },
+    {
+        "concept_name": "壁挂电视",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "wall hung TV"
+        }
+    },
+    {
+        "concept_name": "复印效应",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "print-through"
+        }
+    },
+    {
+        "concept_name": "多波群信号",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "multi-burst signal"
+        }
+    },
+    {
+        "concept_name": "失落",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "dropout"
+        }
+    },
+    {
+        "concept_name": "定向传声器",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "directional microphone"
+        }
+    },
+    {
+        "concept_name": "密纹唱片",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "microgroove record"
+        }
+    },
+    {
+        "concept_name": "寻像器",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "view-finder"
+        }
+    },
+    {
+        "concept_name": "平板电视",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "panel TV"
+        }
+    },
+    {
+        "concept_name": "广播",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "broadcasting"
+        }
+    },
+    {
+        "concept_name": "录像机",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "video tape recorder"
+        }
+    },
+    {
+        "concept_name": "录制",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "recording"
+        }
+    },
+    {
+        "concept_name": "录音机",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "recorder"
+        }
+    },
+    {
+        "concept_name": "彩条信号",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "color bar signal"
+        }
+    },
+    {
+        "concept_name": "彩色电视",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "color TV"
+        }
+    },
+    {
+        "concept_name": "循纹失真",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "tracking distortion"
+        }
+    },
+    {
+        "concept_name": "循迹误差",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "tracking error"
+        }
+    },
+    {
+        "concept_name": "微光电视",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "low-light level television"
+        }
+    },
+    {
+        "concept_name": "微分增益",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "differential gain"
+        }
+    },
+    {
+        "concept_name": "微分相位",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "differential phase"
+        }
+    },
+    {
+        "concept_name": "心形传声器",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "cardioid microphone"
+        }
+    },
+    {
+        "concept_name": "扬声器",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "loud speaker"
+        }
+    },
+    {
+        "concept_name": "投影电视",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "projection TV"
+        }
+    },
+    {
+        "concept_name": "抖晃",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "wow and flutter"
+        }
+    },
+    {
+        "concept_name": "抗噪声传声器",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "anti-noise microphone"
+        }
+    },
+    {
+        "concept_name": "拾音器",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "pick-up"
+        }
+    },
+    {
+        "concept_name": "插入测试信号",
+        "details": {
+            "学科": "电子学_广播电视",
+            "英文": "insertion test signal ;ITS",
+            "见载": "《电子学名词》第一版",
+            "英文名": "insertion test signal"
+        }
+    },
+    {
+        "concept_name": "数字录像机",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "digital VTR"
+        }
+    },
+    {
+        "concept_name": "数字录音机",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "digital recorder"
+        }
+    },
+    {
+        "concept_name": "数据广播",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "data broadcasting"
+        }
+    },
+    {
+        "concept_name": "无线传声器",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "radio microphone"
+        }
+    },
+    {
+        "concept_name": "有线电视",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "cable TV"
+        }
+    },
+    {
+        "concept_name": "标准白",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "standard white"
+        }
+    },
+    {
+        "concept_name": "校准带",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "calibration tape"
+        }
+    },
+    {
+        "concept_name": "模拟分量录像机",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "analog component VTR"
+        }
+    },
+    {
+        "concept_name": "沉寂室",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "dead room"
+        }
+    },
+    {
+        "concept_name": "测试卡",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "test card"
+        }
+    },
+    {
+        "concept_name": "测试唱片",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "test record"
+        }
+    },
+    {
+        "concept_name": "测试带",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "test tape"
+        }
+    },
+    {
+        "concept_name": "测速带",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "speed check tape"
+        }
+    },
+    {
+        "concept_name": "消声室",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "anechoic chamber"
+        }
+    },
+    {
+        "concept_name": "混响室",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "reverberation room"
+        }
+    },
+    {
+        "concept_name": "演播室",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "studio"
+        }
+    },
+    {
+        "concept_name": "灰度",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "gradation"
+        }
+    },
+    {
+        "concept_name": "炭粒传声器",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "carbon microphone"
+        }
+    },
+    {
+        "concept_name": "电动传声器",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "electrodynamic microphone"
+        }
+    },
+    {
+        "concept_name": "电动扬声器",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "electrodynamic loudspeaker"
+        }
+    },
+    {
+        "concept_name": "电动耳机",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "electrodynamic earphone"
+        }
+    },
+    {
+        "concept_name": "电唱盘",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "turntable"
+        }
+    },
+    {
+        "concept_name": "电容传声器",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "condenser microphone"
+        }
+    },
+    {
+        "concept_name": "电视",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "television"
+        }
+    },
+    {
+        "concept_name": "电视摄像机",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "television camera"
+        }
+    },
+    {
+        "concept_name": "电视机",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "television set"
+        }
+    },
+    {
+        "concept_name": "白平衡",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "white balance"
+        }
+    },
+    {
+        "concept_name": "盒式录像机",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "video cassette recorder"
+        }
+    },
+    {
+        "concept_name": "盒式录音机",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "cassette recorder"
+        }
+    },
+    {
+        "concept_name": "磁平",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "magnetic level"
+        }
+    },
+    {
+        "concept_name": "磁性录制",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "magnetic recording"
+        }
+    },
+    {
+        "concept_name": "立体声",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "stereophone"
+        }
+    },
+    {
+        "concept_name": "立体声唱片",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "stereophonic record"
+        }
+    },
+    {
+        "concept_name": "立体声广播",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "stereophonic broadcasting"
+        }
+    },
+    {
+        "concept_name": "立体声电视",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "stereophonic TV"
+        }
+    },
+    {
+        "concept_name": "立体电视",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "stereoscopic TV"
+        }
+    },
+    {
+        "concept_name": "网纹干扰",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "moire"
+        }
+    },
+    {
+        "concept_name": "耳机",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "earphone"
+        }
+    },
+    {
+        "concept_name": "色同步信号",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "burst signal"
+        }
+    },
+    {
+        "concept_name": "色差信号",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "color difference signal"
+        }
+    },
+    {
+        "concept_name": "色度",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "chrominance"
+        }
+    },
+    {
+        "concept_name": "色温",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "color temperature"
+        }
+    },
+    {
+        "concept_name": "色调",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "hue"
+        }
+    },
+    {
+        "concept_name": "色键",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "chroma key"
+        }
+    },
+    {
+        "concept_name": "薄膜唱片",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "film disk"
+        }
+    },
+    {
+        "concept_name": "衬比度",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "contrast"
+        }
+    },
+    {
+        "concept_name": "视盘",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "video disk"
+        }
+    },
+    {
+        "concept_name": "调幅广播",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "AM broadcasting"
+        }
+    },
+    {
+        "concept_name": "调整带",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "alignment tape"
+        }
+    },
+    {
+        "concept_name": "调频广播",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "FM broadcasting"
+        }
+    },
+    {
+        "concept_name": "转播车",
+        "details": {
+            "学科": "电子学_广播电视",
+            "英文": "outside broadcast van ;OB van",
+            "见载": "《电子学名词》第一版",
+            "英文名": "outside broadcast van"
+        }
+    },
+    {
+        "concept_name": "重影",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ghost"
+        }
+    },
+    {
+        "concept_name": "重放",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "reproduction"
+        }
+    },
+    {
+        "concept_name": "附加信道广播",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "supplementary channel broadcasting"
+        }
+    },
+    {
+        "concept_name": "静止图像广播",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "still picture broadcasting"
+        }
+    },
+    {
+        "concept_name": "音箱",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "acoustic enclosure"
+        }
+    },
+    {
+        "concept_name": "驻极体传声器",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "electret microphone"
+        }
+    },
+    {
+        "concept_name": "高清晰度电视",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "high definition TV"
+        }
+    },
+    {
+        "concept_name": "黑白电视",
+        "details": {
+            "学科": "电子学_广播电视",
+            "见载": "《电子学名词》第一版",
+            "英文名": "black and white TV"
+        }
+    }
+]

@@ -1,0 +1,243 @@
+[
+    {
+        "concept_name": "D最优设计",
+        "details": {
+            "学科": "数学_概率论_数理统计_试验设计",
+            "见载": "《数学名词》第一版",
+            "英文名": "D-optimal design"
+        }
+    },
+    {
+        "concept_name": "E最优设计",
+        "details": {
+            "学科": "数学_概率论_数理统计_试验设计",
+            "见载": "《数学名词》第一版",
+            "英文名": "E-optimal design"
+        }
+    },
+    {
+        "concept_name": "G最优设计",
+        "details": {
+            "学科": "数学_概率论_数理统计_试验设计",
+            "见载": "《数学名词》第一版",
+            "英文名": "G-optimal design"
+        }
+    },
+    {
+        "concept_name": "二因子试验设计",
+        "details": {
+            "学科": "数学_概率论_数理统计_试验设计",
+            "见载": "《数学名词》第一版",
+            "英文名": "two-way layout"
+        }
+    },
+    {
+        "concept_name": "回归设计",
+        "details": {
+            "学科": "数学_概率论_数理统计_试验设计",
+            "见载": "《数学名词》第一版",
+            "英文名": "regression design"
+        }
+    },
+    {
+        "concept_name": "均匀设计",
+        "details": {
+            "学科": "数学_概率论_数理统计_试验设计",
+            "见载": "《数学名词》第一版",
+            "英文名": "design by uniform distribution"
+        }
+    },
+    {
+        "concept_name": "复合设计",
+        "details": {
+            "学科": "数学_概率论_数理统计_试验设计",
+            "见载": "《数学名词》第一版",
+            "英文名": "composite design"
+        }
+    },
+    {
+        "concept_name": "多重比较",
+        "details": {
+            "学科": "数学_概率论_数理统计_试验设计",
+            "见载": "《数学名词》第一版",
+            "英文名": "multiple comparison"
+        }
+    },
+    {
+        "concept_name": "套设计",
+        "details": {
+            "学科": "数学_概率论_数理统计_试验设计",
+            "见载": "《数学名词》第一版",
+            "英文名": "nested design"
+        }
+    },
+    {
+        "concept_name": "对照",
+        "details": {
+            "学科": "数学_概率论_数理统计_试验设计",
+            "见载": "《数学名词》第一版",
+            "英文名": "contrast"
+        }
+    },
+    {
+        "concept_name": "对照分析",
+        "details": {
+            "学科": "数学_概率论_数理统计_试验设计",
+            "见载": "《数学名词》第一版",
+            "英文名": "contrast analysis"
+        }
+    },
+    {
+        "concept_name": "尤登方",
+        "details": {
+            "学科": "数学_概率论_数理统计_试验设计",
+            "见载": "《数学名词》第一版",
+            "英文名": "Youden square"
+        }
+    },
+    {
+        "concept_name": "序贯设计",
+        "details": {
+            "学科": "数学_概率论_数理统计_试验设计",
+            "见载": "《数学名词》第一版",
+            "英文名": "sequential design"
+        }
+    },
+    {
+        "concept_name": "拉丁方",
+        "details": {
+            "学科": "数学_概率论_数理统计_试验设计",
+            "见载": "《数学名词》第一版",
+            "英文名": "Latin square"
+        }
+    },
+    {
+        "concept_name": "拉丁方设计",
+        "details": {
+            "学科": "数学_概率论_数理统计_试验设计",
+            "见载": "《数学名词》第一版",
+            "英文名": "Latin square design"
+        }
+    },
+    {
+        "concept_name": "拉丁矩",
+        "details": {
+            "学科": "数学_概率论_数理统计_试验设计",
+            "见载": "《数学名词》第一版",
+            "英文名": "Latin rectangle"
+        }
+    },
+    {
+        "concept_name": "旋转设计",
+        "details": {
+            "学科": "数学_概率论_数理统计_试验设计",
+            "见载": "《数学名词》第一版",
+            "英文名": "rotatable design"
+        }
+    },
+    {
+        "concept_name": "最优设计",
+        "details": {
+            "学科": "数学_概率论_数理统计_试验设计",
+            "见载": "《数学名词》第一版",
+            "英文名": "optimal design"
+        }
+    },
+    {
+        "concept_name": "析因试验",
+        "details": {
+            "学科": "数学_概率论_数理统计_试验设计",
+            "见载": "《数学名词》第一版",
+            "英文名": "factorial experiment"
+        }
+    },
+    {
+        "concept_name": "析因试验设计",
+        "details": {
+            "学科": "数学_概率论_数理统计_试验设计",
+            "见载": "《数学名词》第一版",
+            "英文名": "factorial experiment design"
+        }
+    },
+    {
+        "concept_name": "正交回归设计",
+        "details": {
+            "学科": "数学_概率论_数理统计_试验设计",
+            "见载": "《数学名词》第一版",
+            "英文名": "orthogonal regression design"
+        }
+    },
+    {
+        "concept_name": "正交拉丁方",
+        "details": {
+            "学科": "数学_概率论_数理统计_试验设计",
+            "英文": "orthogonal Latin squares ;Greco- -Latin square",
+            "见载": "《数学名词》第一版",
+            "英文名": "orthogonal Latin squares"
+        }
+    },
+    {
+        "concept_name": "混料设计",
+        "details": {
+            "学科": "数学_概率论_数理统计_试验设计",
+            "见载": "《数学名词》第一版",
+            "英文名": "mixture design"
+        }
+    },
+    {
+        "concept_name": "混杂[法]",
+        "details": {
+            "学科": "数学_概率论_数理统计_试验设计",
+            "见载": "《数学名词》第一版",
+            "英文名": "confounding"
+        }
+    },
+    {
+        "concept_name": "裂区设计",
+        "details": {
+            "学科": "数学_概率论_数理统计_试验设计",
+            "见载": "《数学名词》第一版",
+            "英文名": "split-plot design"
+        }
+    },
+    {
+        "concept_name": "试验设计",
+        "details": {
+            "学科": "数学_概率论_数理统计_试验设计",
+            "见载": "《数学名词》第一版",
+            "英文名": "experimental design"
+        }
+    },
+    {
+        "concept_name": "调优操作",
+        "details": {
+            "学科": "数学_概率论_数理统计_试验设计",
+            "见载": "《数学名词》第一版",
+            "英文名": "evolutionary operation"
+        }
+    },
+    {
+        "concept_name": "部分实施[法]",
+        "details": {
+            "学科": "数学_概率论_数理统计_试验设计",
+            "见载": "《数学名词》第一版",
+            "英文名": "fractional replication"
+        }
+    },
+    {
+        "concept_name": "随机区组设计",
+        "details": {
+            "学科": "数学_概率论_数理统计_试验设计",
+            "见载": "《数学名词》第一版",
+            "英文名": "randomized blocks design"
+        }
+    },
+    {
+        "concept_name": "随机完全区组设计",
+        "details": {
+            "学科": "数学_概率论_数理统计_试验设计",
+            "见载": "《数学名词》第一版",
+            "英文名": "randomized complete-block design"
+        }
+    }
+]

@@ -1,0 +1,1469 @@
+[
+    {
+        "concept_name": "中性土",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "neutral soil"
+        }
+    },
+    {
+        "concept_name": "交换性盐基",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "exchangeable base"
+        }
+    },
+    {
+        "concept_name": "交换性钾",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "exchangeable potassium"
+        }
+    },
+    {
+        "concept_name": "交换量",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "exchange capacity"
+        }
+    },
+    {
+        "concept_name": "侵蚀土壤",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "eroded soil"
+        }
+    },
+    {
+        "concept_name": "保水能力",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "water retention capacity"
+        }
+    },
+    {
+        "concept_name": "入渗",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "infiltration"
+        }
+    },
+    {
+        "concept_name": "入渗率",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "infiltration rate"
+        }
+    },
+    {
+        "concept_name": "兰花苕子",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "bird vetch"
+        }
+    },
+    {
+        "concept_name": "共生固氮作用",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "symbiotic nitrogen fixation"
+        }
+    },
+    {
+        "concept_name": "农业土壤",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "agriculture soil"
+        }
+    },
+    {
+        "concept_name": "农业土壤水分特性",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "agricultural soil moisture characteristics"
+        }
+    },
+    {
+        "concept_name": "农业用地",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "agricultural land"
+        }
+    },
+    {
+        "concept_name": "农家肥",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "farmyard manure"
+        }
+    },
+    {
+        "concept_name": "农田生态系统",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "field ecosystem"
+        }
+    },
+    {
+        "concept_name": "农艺类型",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "agrotype"
+        }
+    },
+    {
+        "concept_name": "分次施肥",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "split application"
+        }
+    },
+    {
+        "concept_name": "包衣肥料",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "又称": " 包膜肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "coated fertilizer"
+        }
+    },
+    {
+        "concept_name": "叶面施肥",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "foliar application"
+        }
+    },
+    {
+        "concept_name": "后效",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "residual effect"
+        }
+    },
+    {
+        "concept_name": "吸水势",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "suction potential"
+        }
+    },
+    {
+        "concept_name": "喷施",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "spraying"
+        }
+    },
+    {
+        "concept_name": "团粒结构",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "又称": " 团聚结构",
+            "见载": "《农学名词》第一版",
+            "英文名": "aggregate structure"
+        }
+    },
+    {
+        "concept_name": "固氮作用",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "nitrogen fixation"
+        }
+    },
+    {
+        "concept_name": "土地利用",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "英文": "land use ;land utilization",
+            "见载": "《农学名词》第一版",
+            "英文名": "land use"
+        }
+    },
+    {
+        "concept_name": "土地利用率",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "land utilization rate"
+        }
+    },
+    {
+        "concept_name": "土地区划",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "regionlization of land"
+        }
+    },
+    {
+        "concept_name": "土地开垦",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "land reclamation"
+        }
+    },
+    {
+        "concept_name": "土地改良",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "land improvement"
+        }
+    },
+    {
+        "concept_name": "土地管理",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "land management"
+        }
+    },
+    {
+        "concept_name": "土地耗竭",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "land exhaustion"
+        }
+    },
+    {
+        "concept_name": "土地规划",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "英文": "land plan ;plan of land utilizaton",
+            "见载": "《农学名词》第一版",
+            "英文名": "land plan"
+        }
+    },
+    {
+        "concept_name": "土地评价",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "land evaluation"
+        }
+    },
+    {
+        "concept_name": "土地面积",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "land area"
+        }
+    },
+    {
+        "concept_name": "土壤不匀性",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil heterogeneity"
+        }
+    },
+    {
+        "concept_name": "土壤吸力",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil suction"
+        }
+    },
+    {
+        "concept_name": "土壤呼吸",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil respiration"
+        }
+    },
+    {
+        "concept_name": "土壤团聚体",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil aggregate"
+        }
+    },
+    {
+        "concept_name": "土壤培肥",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "improvement of soil fertility"
+        }
+    },
+    {
+        "concept_name": "土壤孔隙度",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil porosity"
+        }
+    },
+    {
+        "concept_name": "土壤容重",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "bulk density of soil"
+        }
+    },
+    {
+        "concept_name": "土壤排水",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil drainage"
+        }
+    },
+    {
+        "concept_name": "土壤改良",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "英文": "soil amelioration ;soil improvement",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil amelioration"
+        }
+    },
+    {
+        "concept_name": "土壤无效水",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil inavailable water"
+        }
+    },
+    {
+        "concept_name": "土壤有效水",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil available water"
+        }
+    },
+    {
+        "concept_name": "土壤有机质",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil organic matter"
+        }
+    },
+    {
+        "concept_name": "土壤条件",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil condition"
+        }
+    },
+    {
+        "concept_name": "土壤比热",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil specific heat"
+        }
+    },
+    {
+        "concept_name": "土壤比重",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "specific gravity of soil"
+        }
+    },
+    {
+        "concept_name": "土壤毛[细]管作用",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil capillarity"
+        }
+    },
+    {
+        "concept_name": "土壤渗透性",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil permeability"
+        }
+    },
+    {
+        "concept_name": "土壤温度",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil temperature"
+        }
+    },
+    {
+        "concept_name": "土壤物理性质",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil physical properties"
+        }
+    },
+    {
+        "concept_name": "土壤特性",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil characteristics"
+        }
+    },
+    {
+        "concept_name": "土壤生产力",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil productivity"
+        }
+    },
+    {
+        "concept_name": "土壤生态系统",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil ecosystem"
+        }
+    },
+    {
+        "concept_name": "土壤生物",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil organisms"
+        }
+    },
+    {
+        "concept_name": "土壤碱度",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil alkalinity"
+        }
+    },
+    {
+        "concept_name": "土壤空气",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil air"
+        }
+    },
+    {
+        "concept_name": "土壤结持度",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil consistancy"
+        }
+    },
+    {
+        "concept_name": "土壤结构",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil structure"
+        }
+    },
+    {
+        "concept_name": "土壤胶体",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil colloid"
+        }
+    },
+    {
+        "concept_name": "土壤自由水",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil free water"
+        }
+    },
+    {
+        "concept_name": "土壤适耕性",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "workability of soil"
+        }
+    },
+    {
+        "concept_name": "土壤通气",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil aeration"
+        }
+    },
+    {
+        "concept_name": "土壤酸度",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil acidity"
+        }
+    },
+    {
+        "concept_name": "坡田",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "sloping field"
+        }
+    },
+    {
+        "concept_name": "基施",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "basal application"
+        }
+    },
+    {
+        "concept_name": "壤土",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "loam soil"
+        }
+    },
+    {
+        "concept_name": "复合肥料",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "complex fertilizer"
+        }
+    },
+    {
+        "concept_name": "完全肥料",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "complete fertilizer"
+        }
+    },
+    {
+        "concept_name": "尿素",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "urea"
+        }
+    },
+    {
+        "concept_name": "山田",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "英文": "hillside land ;hill upland",
+            "见载": "《农学名词》第一版",
+            "英文名": "hillside land"
+        }
+    },
+    {
+        "concept_name": "微量元素",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "microelement"
+        }
+    },
+    {
+        "concept_name": "微量元素肥料",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "micronutrient fertilizer"
+        }
+    },
+    {
+        "concept_name": "必需元素",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "essential element"
+        }
+    },
+    {
+        "concept_name": "扩散系数",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "diffusion coefficient"
+        }
+    },
+    {
+        "concept_name": "撂荒地",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "abandoned land"
+        }
+    },
+    {
+        "concept_name": "撒施",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "broadcast"
+        }
+    },
+    {
+        "concept_name": "施肥",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "fertilizer application"
+        }
+    },
+    {
+        "concept_name": "无机肥料",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "inorganic fertilizer"
+        }
+    },
+    {
+        "concept_name": "无结构土壤",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "non-structural soil"
+        }
+    },
+    {
+        "concept_name": "旱地",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "英文": "dry land ;upland",
+            "见载": "《农学名词》第一版",
+            "英文名": "dry land"
+        }
+    },
+    {
+        "concept_name": "有机氮",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "organic nitrogen"
+        }
+    },
+    {
+        "concept_name": "有机肥料",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "organic fertilizer"
+        }
+    },
+    {
+        "concept_name": "有结构土壤",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "structural soil"
+        }
+    },
+    {
+        "concept_name": "毛管传导度",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "capillary conductivity"
+        }
+    },
+    {
+        "concept_name": "毛管力",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "capillary force"
+        }
+    },
+    {
+        "concept_name": "毛管势",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "capillary potential"
+        }
+    },
+    {
+        "concept_name": "毛管孔[隙]度",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "capillary porosity"
+        }
+    },
+    {
+        "concept_name": "毛管容量",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "capillary capacity"
+        }
+    },
+    {
+        "concept_name": "氨化泥炭",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "ammoniated peat"
+        }
+    },
+    {
+        "concept_name": "氨水",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "ammonia water"
+        }
+    },
+    {
+        "concept_name": "氮同化",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "nitrogen assimilation"
+        }
+    },
+    {
+        "concept_name": "氮周转",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "nitrogen turnover"
+        }
+    },
+    {
+        "concept_name": "氮回收",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "nitrogen recovery"
+        }
+    },
+    {
+        "concept_name": "氮固持",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "nitrogen immobilization"
+        }
+    },
+    {
+        "concept_name": "氮循环",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "nitrogen cycle"
+        }
+    },
+    {
+        "concept_name": "氮损失",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "nitrogen loss"
+        }
+    },
+    {
+        "concept_name": "氮状况",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "nitrogen status"
+        }
+    },
+    {
+        "concept_name": "氰氨态氮肥",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "cyanamide nitrogen fertilizer"
+        }
+    },
+    {
+        "concept_name": "水分供应率",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "water supply rate"
+        }
+    },
+    {
+        "concept_name": "水分保持",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "water conservation"
+        }
+    },
+    {
+        "concept_name": "水分利用系数",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "water use coefficient"
+        }
+    },
+    {
+        "concept_name": "水分平衡",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "water balance"
+        }
+    },
+    {
+        "concept_name": "水分状况",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "water regime"
+        }
+    },
+    {
+        "concept_name": "水浇地",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "irrigated land"
+        }
+    },
+    {
+        "concept_name": "水稻田",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "paddy field"
+        }
+    },
+    {
+        "concept_name": "水花生",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "water peanut"
+        }
+    },
+    {
+        "concept_name": "水葫芦",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "weter hyacinth"
+        }
+    },
+    {
+        "concept_name": "沙打旺",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "英文": "prairie milk vetch ;Astragalus adsurgens Pall.",
+            "又称": " 地丁 ；麻豆秧",
+            "见载": "《农学名词》第一版",
+            "英文名": "prairie milk vetch"
+        }
+    },
+    {
+        "concept_name": "沟施",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "furrow application"
+        }
+    },
+    {
+        "concept_name": "泥炭土",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "peat soil"
+        }
+    },
+    {
+        "concept_name": "淋失",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "leaching loss"
+        }
+    },
+    {
+        "concept_name": "淋洗",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "leaching"
+        }
+    },
+    {
+        "concept_name": "淋滤",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "又称": " 淋溶",
+            "见载": "《农学名词》第一版",
+            "英文名": "eluviation"
+        }
+    },
+    {
+        "concept_name": "深施",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "deep placement"
+        }
+    },
+    {
+        "concept_name": "混合肥料",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "mixed fertilizer"
+        }
+    },
+    {
+        "concept_name": "渗出",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "seepage"
+        }
+    },
+    {
+        "concept_name": "渗漏",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "percolation"
+        }
+    },
+    {
+        "concept_name": "渗漏率",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "percolation rate"
+        }
+    },
+    {
+        "concept_name": "渗透压",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "osmotic pressure"
+        }
+    },
+    {
+        "concept_name": "渗透吸力",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "osmotic suction"
+        }
+    },
+    {
+        "concept_name": "渗透深度",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "又称": " 穿透深度",
+            "见载": "《农学名词》第一版",
+            "英文名": "penetration depth"
+        }
+    },
+    {
+        "concept_name": "潮土",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "Chao soil"
+        }
+    },
+    {
+        "concept_name": "犁底层",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "plow pan"
+        }
+    },
+    {
+        "concept_name": "生物固氮",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "biological nitrogen fixation"
+        }
+    },
+    {
+        "concept_name": "生荒地",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "virgin land"
+        }
+    },
+    {
+        "concept_name": "田间需水量",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "field water requirement"
+        }
+    },
+    {
+        "concept_name": "痕量元素",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "trace element"
+        }
+    },
+    {
+        "concept_name": "瘠地",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "infertile land"
+        }
+    },
+    {
+        "concept_name": "白花草木樨",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "英文": "white sweet clover ;honey clover ;Melilotus albus Desr.",
+            "见载": "《农学名词》第一版",
+            "英文名": "white sweet clover"
+        }
+    },
+    {
+        "concept_name": "盐化",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "salinization"
+        }
+    },
+    {
+        "concept_name": "石灰性土",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "calcareous soil"
+        }
+    },
+    {
+        "concept_name": "砂土",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "sand soil"
+        }
+    },
+    {
+        "concept_name": "砂姜",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "英文": "Shajiang ;irregular lime concretions",
+            "见载": "《农学名词》第一版",
+            "英文名": "Shajiang"
+        }
+    },
+    {
+        "concept_name": "砂田",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "stone mulch field"
+        }
+    },
+    {
+        "concept_name": "硝化抑制剂",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "nitrification inhibitor"
+        }
+    },
+    {
+        "concept_name": "碱性土",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "alkaline soil"
+        }
+    },
+    {
+        "concept_name": "磷矿粉",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "rock phosphate"
+        }
+    },
+    {
+        "concept_name": "禾本科绿肥",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "gramineous green manure"
+        }
+    },
+    {
+        "concept_name": "种肥",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "seed fertilizer"
+        }
+    },
+    {
+        "concept_name": "穴施",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "hole application"
+        }
+    },
+    {
+        "concept_name": "箭舌豌豆",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "common vetch"
+        }
+    },
+    {
+        "concept_name": "紫[花]苜蓿",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "英文": "alfalfa ;lucerne ;purple medick ;Medicago sativa L.",
+            "又称": " 苜蓿",
+            "见载": "《农学名词》第一版",
+            "英文名": "alfalfa"
+        }
+    },
+    {
+        "concept_name": "紫云英",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "Chinese milk vetch"
+        }
+    },
+    {
+        "concept_name": "紫穗槐",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "英文": "shrubby flase indigo ;Amorpha fruticosa L.",
+            "见载": "《农学名词》第一版",
+            "英文名": "shrubby flase indigo"
+        }
+    },
+    {
+        "concept_name": "红壤",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "red soil"
+        }
+    },
+    {
+        "concept_name": "绿洲",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "oasis"
+        }
+    },
+    {
+        "concept_name": "绿肥",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "green manure"
+        }
+    },
+    {
+        "concept_name": "绿萍",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "英文": "azolla ;water fern ;Azolla imbricata (Roxb.) Nakai",
+            "又称": " 红萍 ；满江红",
+            "见载": "《农学名词》第一版",
+            "英文名": "azolla"
+        }
+    },
+    {
+        "concept_name": "缓释肥料",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "slow release fertilizer"
+        }
+    },
+    {
+        "concept_name": "耕地",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "arable land"
+        }
+    },
+    {
+        "concept_name": "耕地面积",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "arable area"
+        }
+    },
+    {
+        "concept_name": "耗水系数",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "water consumption coefficient"
+        }
+    },
+    {
+        "concept_name": "肥地",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "fertile land"
+        }
+    },
+    {
+        "concept_name": "肥料效应",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "fertilizer effect"
+        }
+    },
+    {
+        "concept_name": "肥料效率",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "fertilizer efficiency"
+        }
+    },
+    {
+        "concept_name": "脱盐",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "desalinization"
+        }
+    },
+    {
+        "concept_name": "腐殖质",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "humus"
+        }
+    },
+    {
+        "concept_name": "自然肥力",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "natural fertility"
+        }
+    },
+    {
+        "concept_name": "草木灰",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "ash"
+        }
+    },
+    {
+        "concept_name": "菌根",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "mycorhiza"
+        }
+    },
+    {
+        "concept_name": "贮水量",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "water-storage capacity"
+        }
+    },
+    {
+        "concept_name": "轮休地",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "land on fallow rotation"
+        }
+    },
+    {
+        "concept_name": "追施",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "dressing"
+        }
+    },
+    {
+        "concept_name": "通透性土壤",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "permiable soil"
+        }
+    },
+    {
+        "concept_name": "速效",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "readily available"
+        }
+    },
+    {
+        "concept_name": "酰胺态氮肥",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "amide nitrogen fertilizer"
+        }
+    },
+    {
+        "concept_name": "酸性土",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "acid soil"
+        }
+    },
+    {
+        "concept_name": "钙镁磷肥",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "fused calcium magnesium phosphate"
+        }
+    },
+    {
+        "concept_name": "钾肥",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "potasium fertilizer"
+        }
+    },
+    {
+        "concept_name": "铵态氮",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "ammonium nitrogen"
+        }
+    },
+    {
+        "concept_name": "铵态氮肥",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "ammonium fertilizer"
+        }
+    },
+    {
+        "concept_name": "阳离子交换量",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "cation exchange capacity"
+        }
+    },
+    {
+        "concept_name": "需水量",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "water requirement"
+        }
+    },
+    {
+        "concept_name": "非共生固氮作用",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "asymbiotic nitrogen fixation"
+        }
+    },
+    {
+        "concept_name": "骨粉",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "bone meal"
+        }
+    },
+    {
+        "concept_name": "黄花苜蓿",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "又称": " 野苜蓿",
+            "见载": "《农学名词》第一版",
+            "英文名": "sickle alfalfa"
+        }
+    },
+    {
+        "concept_name": "黏土",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "clay soil"
+        }
+    },
+    {
+        "concept_name": "黏重土壤",
+        "details": {
+            "学科": "农学_土地、土壤与肥料",
+            "见载": "《农学名词》第一版",
+            "英文名": "heavy soil"
+        }
+    }
+]

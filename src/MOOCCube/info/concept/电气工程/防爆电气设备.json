@@ -1,0 +1,644 @@
+[
+    {
+        "concept_name": "保护气体",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "protective gas"
+        }
+    },
+    {
+        "concept_name": "保护高度",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "protection height"
+        }
+    },
+    {
+        "concept_name": "储备层高度",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "height of reserve layer"
+        }
+    },
+    {
+        "concept_name": "充砂型电气设备",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "sand-filled electrical apparatus"
+        }
+    },
+    {
+        "concept_name": "关联电气设备",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "associated electrical apparatus"
+        }
+    },
+    {
+        "concept_name": "净容积",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "free volume"
+        }
+    },
+    {
+        "concept_name": "分流安全元件",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "shunt safety component"
+        }
+    },
+    {
+        "concept_name": "分隔电容器",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "blocking capacitor"
+        }
+    },
+    {
+        "concept_name": "动态[压力]试验",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "dynamic test [of pressure]"
+        }
+    },
+    {
+        "concept_name": "压力试验",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "pressure test"
+        }
+    },
+    {
+        "concept_name": "压力重叠",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "pressure piling"
+        }
+    },
+    {
+        "concept_name": "参比压力",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "reference pressure"
+        }
+    },
+    {
+        "concept_name": "呼吸装置",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "breather"
+        }
+    },
+    {
+        "concept_name": "圆筒隔爆接合面",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "cylindrical flameproof joint"
+        }
+    },
+    {
+        "concept_name": "堵封件",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "blanking element"
+        }
+    },
+    {
+        "concept_name": "增安型电气设备",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "increased safety electrical appara- tus"
+        }
+    },
+    {
+        "concept_name": "密实度",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "packing"
+        }
+    },
+    {
+        "concept_name": "密封衬垫",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "sealing gasket"
+        }
+    },
+    {
+        "concept_name": "导管引入装置",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "conduit entry"
+        }
+    },
+    {
+        "concept_name": "平滑压力",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "smoothed pressure"
+        }
+    },
+    {
+        "concept_name": "平面隔爆接合面",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "flanged flameproof joint"
+        }
+    },
+    {
+        "concept_name": "引燃温度",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "ignition temperature"
+        }
+    },
+    {
+        "concept_name": "护圈",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "protective shroud"
+        }
+    },
+    {
+        "concept_name": "换气",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "purging"
+        }
+    },
+    {
+        "concept_name": "排液装置",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "drain"
+        }
+    },
+    {
+        "concept_name": "无危险火花金属",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "non-sparking metal"
+        }
+    },
+    {
+        "concept_name": "曲路隔爆接合物",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "labyrinth flameproof joint"
+        }
+    },
+    {
+        "concept_name": "最大爆炸压力混合物",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "highest explosive pressure mixture"
+        }
+    },
+    {
+        "concept_name": "最大许可间隙",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "maximum permitted gap"
+        }
+    },
+    {
+        "concept_name": "最大试验安全间隙",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "maximum experimental safe gap"
+        }
+    },
+    {
+        "concept_name": "最小安全高度",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "minimum safe height"
+        }
+    },
+    {
+        "concept_name": "最小点燃电流",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "英文": "minimum igniting current ;MIC",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "minimum igniting current"
+        }
+    },
+    {
+        "concept_name": "最易传爆混合物",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "most transmittable mixture"
+        }
+    },
+    {
+        "concept_name": "最易点燃混合物",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "most easily ignitable mixture"
+        }
+    },
+    {
+        "concept_name": "本质安全型电气设备",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "intrinsically safe electrical appara- tus"
+        }
+    },
+    {
+        "concept_name": "本质安全电路",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "intrinsically safe circuit"
+        }
+    },
+    {
+        "concept_name": "机械通风场所",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "artificially ventilated area"
+        }
+    },
+    {
+        "concept_name": "极限温度",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "limiting temperature"
+        }
+    },
+    {
+        "concept_name": "极限温度时间",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "又称": " tE时间",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "time tE"
+        }
+    },
+    {
+        "concept_name": "格网",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "screen"
+        }
+    },
+    {
+        "concept_name": "止口隔爆接合物",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "spigot flameproof joint"
+        }
+    },
+    {
+        "concept_name": "正压型电气设备",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "pressurized electrical apparatus"
+        }
+    },
+    {
+        "concept_name": "正压外壳",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "pressurized enclosure"
+        }
+    },
+    {
+        "concept_name": "气体流通保压",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "pressurization by continuous circu- lation of protective gas"
+        }
+    },
+    {
+        "concept_name": "气密外壳",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "hermetically sealed"
+        }
+    },
+    {
+        "concept_name": "沼气矿井",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "gassy mine"
+        }
+    },
+    {
+        "concept_name": "泄漏补偿保压",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "pressurization with leakage com- pensation"
+        }
+    },
+    {
+        "concept_name": "浮动密封隔爆接合面",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "flameproof joint with floating gland"
+        }
+    },
+    {
+        "concept_name": "温度组别",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "temperature class"
+        }
+    },
+    {
+        "concept_name": "火花试验装置",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "spark test apparatus"
+        }
+    },
+    {
+        "concept_name": "热极限电流",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "thermal current limit"
+        }
+    },
+    {
+        "concept_name": "爆炸",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "explosion"
+        }
+    },
+    {
+        "concept_name": "爆炸危险场所",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "explosion hazard area"
+        }
+    },
+    {
+        "concept_name": "爆炸性气体混合物",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "explosive gas mixture"
+        }
+    },
+    {
+        "concept_name": "爆炸性气体环境",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "explosive gas atmosphere"
+        }
+    },
+    {
+        "concept_name": "爆炸性混合物",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "explosive mixture"
+        }
+    },
+    {
+        "concept_name": "爆炸性环境",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "explosive atmosphere"
+        }
+    },
+    {
+        "concept_name": "爆炸性粉尘混合物",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "explosive dust mixture"
+        }
+    },
+    {
+        "concept_name": "爆炸性粉尘环境",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "explosive dust atmosphere"
+        }
+    },
+    {
+        "concept_name": "特殊紧固件",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "special fastener"
+        }
+    },
+    {
+        "concept_name": "电缆引入装置",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "cable entry"
+        }
+    },
+    {
+        "concept_name": "直接引入",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "direct entry"
+        }
+    },
+    {
+        "concept_name": "砂粒材料",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "sand material"
+        }
+    },
+    {
+        "concept_name": "自显故障",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "self-revealing fault"
+        }
+    },
+    {
+        "concept_name": "自然通风场所",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "naturally ventilated area"
+        }
+    },
+    {
+        "concept_name": "螺纹隔爆接合面",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "threaded flameproof joint"
+        }
+    },
+    {
+        "concept_name": "认可过载",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "recognized overload"
+        }
+    },
+    {
+        "concept_name": "试验容器",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "test chamber"
+        }
+    },
+    {
+        "concept_name": "释放源",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "source of release"
+        }
+    },
+    {
+        "concept_name": "间接引入",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "indirect entry"
+        }
+    },
+    {
+        "concept_name": "防爆型式",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "type of explosion-proof construc- tion"
+        }
+    },
+    {
+        "concept_name": "防爆电气设备",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electrical apparatus for explosive atmospheres"
+        }
+    },
+    {
+        "concept_name": "隔爆型电气设备",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "flameproof electrical apparatus"
+        }
+    },
+    {
+        "concept_name": "隔爆外壳",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "flameproof enclosure"
+        }
+    },
+    {
+        "concept_name": "隔爆性能试验",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "test for non-transmission of an in- ternal explosion"
+        }
+    },
+    {
+        "concept_name": "隔爆接合面",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "flameproof joint"
+        }
+    },
+    {
+        "concept_name": "隔爆接合面折算长度",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "reduced length of flameproof joint"
+        }
+    },
+    {
+        "concept_name": "静态[压力]试验",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "static test [of pressure]"
+        }
+    },
+    {
+        "concept_name": "非爆炸危险场所",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "non-explosion hazard area"
+        }
+    },
+    {
+        "concept_name": "非自显故障",
+        "details": {
+            "学科": "电气工程_防爆电气设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "non-self-revealing fault"
+        }
+    }
+]

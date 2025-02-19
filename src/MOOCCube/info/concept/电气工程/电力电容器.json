@@ -1,0 +1,786 @@
+[
+    {
+        "concept_name": "中间电压端子",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "intermediate voltage terminal"
+        }
+    },
+    {
+        "concept_name": "串联[电容]补偿",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "series capacitive compensation"
+        }
+    },
+    {
+        "concept_name": "串联电容器",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "series capacitor"
+        }
+    },
+    {
+        "concept_name": "低电压端子",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "low voltage terminal"
+        }
+    },
+    {
+        "concept_name": "保护器件",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "protective device"
+        }
+    },
+    {
+        "concept_name": "保护电力间隙",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "protection power gap"
+        }
+    },
+    {
+        "concept_name": "保护电容器",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "capacitor for voltage protection"
+        }
+    },
+    {
+        "concept_name": "储能电容器",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "energy storage capacitor"
+        }
+    },
+    {
+        "concept_name": "充气式电容器",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "gas-filled capacitor"
+        }
+    },
+    {
+        "concept_name": "充电电流",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "charging current"
+        }
+    },
+    {
+        "concept_name": "内部熔丝",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "internal fuse"
+        }
+    },
+    {
+        "concept_name": "再插入",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "reinsertion"
+        }
+    },
+    {
+        "concept_name": "再插入电压",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "reinsertion voltage"
+        }
+    },
+    {
+        "concept_name": "再插入电流",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "reinsertion current"
+        }
+    },
+    {
+        "concept_name": "参比温度范围",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "reference range of temperature"
+        }
+    },
+    {
+        "concept_name": "参比频率范围",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "reference range of frequency"
+        }
+    },
+    {
+        "concept_name": "后备间隙",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "backup gap"
+        }
+    },
+    {
+        "concept_name": "固有电感",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "inherent inductance"
+        }
+    },
+    {
+        "concept_name": "复合介质电容器",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "composite dielectric capacitor"
+        }
+    },
+    {
+        "concept_name": "外壳爆裂",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "rupture of case"
+        }
+    },
+    {
+        "concept_name": "外壳鼓胀",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "swelling of case"
+        }
+    },
+    {
+        "concept_name": "外部熔断器",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "fuses for external protection"
+        }
+    },
+    {
+        "concept_name": "封闭式电容器",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "enclosed capacitor"
+        }
+    },
+    {
+        "concept_name": "带熔断器电容器",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "fused capacitor"
+        }
+    },
+    {
+        "concept_name": "并联[电容]补偿",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "parallel capacitive compensation"
+        }
+    },
+    {
+        "concept_name": "并联电容器",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "shunt capacitor"
+        }
+    },
+    {
+        "concept_name": "开路中间电压",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "open circuit intermediate voltage"
+        }
+    },
+    {
+        "concept_name": "持续间隙电弧保护",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "sustained gap-arc protection"
+        }
+    },
+    {
+        "concept_name": "振荡放电试验",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "oscillating discharge test"
+        }
+    },
+    {
+        "concept_name": "损耗-温度特性测定",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "determination of loss-temperature characteristic"
+        }
+    },
+    {
+        "concept_name": "插入电流",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "insertion current"
+        }
+    },
+    {
+        "concept_name": "操作组段",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "operational grade"
+        }
+    },
+    {
+        "concept_name": "放电电流",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "discharging current"
+        }
+    },
+    {
+        "concept_name": "放电电流限制器件",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "discharge-current-limiting device"
+        }
+    },
+    {
+        "concept_name": "放电试验",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "discharge test"
+        }
+    },
+    {
+        "concept_name": "断路器电容器",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "circuit-breaker capacitor"
+        }
+    },
+    {
+        "concept_name": "旁路开关",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "by-pass switch"
+        }
+    },
+    {
+        "concept_name": "旁路电流",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "by-pass current"
+        }
+    },
+    {
+        "concept_name": "最大允许电流",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "maximum permissible current"
+        }
+    },
+    {
+        "concept_name": "最高允许电压",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "maximum permissible voltage"
+        }
+    },
+    {
+        "concept_name": "极限电压",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "limiting voltage"
+        }
+    },
+    {
+        "concept_name": "极限电流",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "limiting current"
+        }
+    },
+    {
+        "concept_name": "标准电容器",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "standard capacitor"
+        }
+    },
+    {
+        "concept_name": "次谐波保护器",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "subharmonic protector"
+        }
+    },
+    {
+        "concept_name": "滤波电容器",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "filter capacitor"
+        }
+    },
+    {
+        "concept_name": "热稳定试验",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "thermal stability test"
+        }
+    },
+    {
+        "concept_name": "热过载保护",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "thermal-overload protection"
+        }
+    },
+    {
+        "concept_name": "电力电子电容器",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "power electronic capacitor"
+        }
+    },
+    {
+        "concept_name": "电力电容器",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "power capacitor"
+        }
+    },
+    {
+        "concept_name": "电动机起动电容器",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "motor starting capacitor"
+        }
+    },
+    {
+        "concept_name": "电动机运转电容器",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "motor running capacitor"
+        }
+    },
+    {
+        "concept_name": "电压试验",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "voltage test"
+        }
+    },
+    {
+        "concept_name": "电容-温度特性",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "capacitance-temperature characteristic"
+        }
+    },
+    {
+        "concept_name": "电容-频率特性",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "capacitance-frequency characteristic"
+        }
+    },
+    {
+        "concept_name": "电容不平衡保护装置",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "capacitance unbalance protection device"
+        }
+    },
+    {
+        "concept_name": "电容允[许偏]差",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "capacitance tolerance"
+        }
+    },
+    {
+        "concept_name": "电容分压器",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "capacitor voltage divider"
+        }
+    },
+    {
+        "concept_name": "电容器元件",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "capacitor element"
+        }
+    },
+    {
+        "concept_name": "电容器切换级",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "capacitor switching step"
+        }
+    },
+    {
+        "concept_name": "电容器单元",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "capacitor unit"
+        }
+    },
+    {
+        "concept_name": "电容器叠柱",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "capacitor stack"
+        }
+    },
+    {
+        "concept_name": "电容器器身",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "capacitor body"
+        }
+    },
+    {
+        "concept_name": "电容器外壳",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "capacitor case"
+        }
+    },
+    {
+        "concept_name": "电容器心子",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "capacitor packet"
+        }
+    },
+    {
+        "concept_name": "电容器成套装置",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "capacitor installation"
+        }
+    },
+    {
+        "concept_name": "电容器指示熔断器",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "capacitor indicating fuse"
+        }
+    },
+    {
+        "concept_name": "电容器放电装置",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "discharge device of a capacitor"
+        }
+    },
+    {
+        "concept_name": "电容器组",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "capacitor bank"
+        }
+    },
+    {
+        "concept_name": "电容器节段",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "capacitor section"
+        }
+    },
+    {
+        "concept_name": "电容式电压互感器",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "capacitor voltage transformer"
+        }
+    },
+    {
+        "concept_name": "电容电压系数",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "voltage coefficient of capacitance"
+        }
+    },
+    {
+        "concept_name": "电热电容器",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "capacitor for electric induction heating system"
+        }
+    },
+    {
+        "concept_name": "电磁单元",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electromagnetic unit"
+        }
+    },
+    {
+        "concept_name": "电缆耦合电容器",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "cable coupling capacitor"
+        }
+    },
+    {
+        "concept_name": "直流电容器",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "direct current capacitor"
+        }
+    },
+    {
+        "concept_name": "真空储存",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "vacuum storage"
+        }
+    },
+    {
+        "concept_name": "真空脱气",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "vacuum degassing"
+        }
+    },
+    {
+        "concept_name": "短时电压",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "short-time voltage"
+        }
+    },
+    {
+        "concept_name": "短时电压试验",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "short-duration voltage test"
+        }
+    },
+    {
+        "concept_name": "移相电容器",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "phase-shifting capacitor"
+        }
+    },
+    {
+        "concept_name": "等效串联电阻",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "equivalent series resistance"
+        }
+    },
+    {
+        "concept_name": "纸介电容器",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "paper capacitor"
+        }
+    },
+    {
+        "concept_name": "耦合电容器",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "coupling capacitor"
+        }
+    },
+    {
+        "concept_name": "脉冲电容器",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "impulse capacitor"
+        }
+    },
+    {
+        "concept_name": "自愈式电容器",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "self-healing capacitor"
+        }
+    },
+    {
+        "concept_name": "自持放电试验",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "self-sustained discharge test"
+        }
+    },
+    {
+        "concept_name": "薄膜电容器",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "film capacitor"
+        }
+    },
+    {
+        "concept_name": "触发间隙",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "trigger gap"
+        }
+    },
+    {
+        "concept_name": "载波耦合装置",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "carrier-frequency coupling device"
+        }
+    },
+    {
+        "concept_name": "过压力隔离器",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "overpressure disconnector"
+        }
+    },
+    {
+        "concept_name": "金属化电容器",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "metallized capacitor"
+        }
+    },
+    {
+        "concept_name": "金属封闭式电容器",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "metal-enclosed capacitor"
+        }
+    },
+    {
+        "concept_name": "金属箔电容器",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "metal foil capacitor"
+        }
+    },
+    {
+        "concept_name": "铁磁谐振",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "ferro-resonance"
+        }
+    },
+    {
+        "concept_name": "锁定保护装置",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "lockout protection device"
+        }
+    },
+    {
+        "concept_name": "阻尼装置",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "damping device"
+        }
+    },
+    {
+        "concept_name": "高电压端子",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "high voltage terminal"
+        }
+    },
+    {
+        "concept_name": "高频电容",
+        "details": {
+            "学科": "电气工程_电力电容器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "high frequency capacitance"
+        }
+    }
+]

@@ -1,0 +1,1256 @@
+[
+    {
+        "concept_name": "u态",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "英文": "ungerade state ;u-state",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ungerade state"
+        }
+    },
+    {
+        "concept_name": "三心键",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "three-center bond"
+        }
+    },
+    {
+        "concept_name": "三重态",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "triplet [state]"
+        }
+    },
+    {
+        "concept_name": "不变嵌入法",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "invariant imbedding method"
+        }
+    },
+    {
+        "concept_name": "不相交定则",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "non-crossing rule"
+        }
+    },
+    {
+        "concept_name": "不相容性",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "incompatibility"
+        }
+    },
+    {
+        "concept_name": "二能级系统",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "two-level system"
+        }
+    },
+    {
+        "concept_name": "互补性",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "complementarity"
+        }
+    },
+    {
+        "concept_name": "亲电体",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electrophile"
+        }
+    },
+    {
+        "concept_name": "仲氢",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "parahydrogen"
+        }
+    },
+    {
+        "concept_name": "价电子",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "valence electron"
+        }
+    },
+    {
+        "concept_name": "倒多重态",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "inverted multiplet"
+        }
+    },
+    {
+        "concept_name": "倒多重线",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "inverted multiplet"
+        }
+    },
+    {
+        "concept_name": "光学势",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical potential"
+        }
+    },
+    {
+        "concept_name": "光频饴",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optical molasses"
+        }
+    },
+    {
+        "concept_name": "兰姆移位",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Lamb shift"
+        }
+    },
+    {
+        "concept_name": "内屏蔽",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "inner screening"
+        }
+    },
+    {
+        "concept_name": "冲激近似",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "impulse approximation"
+        }
+    },
+    {
+        "concept_name": "冻结芯近似",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "frozen-core approximation"
+        }
+    },
+    {
+        "concept_name": "准分子",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "quasi-molecule"
+        }
+    },
+    {
+        "concept_name": "分子光谱",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "molecular spectrum"
+        }
+    },
+    {
+        "concept_name": "分子物理[学]",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "molecular physics"
+        }
+    },
+    {
+        "concept_name": "分子结构",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "molecular structure"
+        }
+    },
+    {
+        "concept_name": "分子间力",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "intermolecular force"
+        }
+    },
+    {
+        "concept_name": "前沿轨函",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "frontier orbital"
+        }
+    },
+    {
+        "concept_name": "动力学对称",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "dynamical symmetry"
+        }
+    },
+    {
+        "concept_name": "势形共振",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "shape resonance"
+        }
+    },
+    {
+        "concept_name": "势脊",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "potential ridge"
+        }
+    },
+    {
+        "concept_name": "化学电离",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "chemi-ionization"
+        }
+    },
+    {
+        "concept_name": "单态",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "singlet state"
+        }
+    },
+    {
+        "concept_name": "原子",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "atom"
+        }
+    },
+    {
+        "concept_name": "原子光谱",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "atomic spectrum"
+        }
+    },
+    {
+        "concept_name": "原子分离极限",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "separate-atom limit"
+        }
+    },
+    {
+        "concept_name": "原子单位",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "atomic unit"
+        }
+    },
+    {
+        "concept_name": "原子实",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "atomic kernel"
+        }
+    },
+    {
+        "concept_name": "原子序数",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "atomic number"
+        }
+    },
+    {
+        "concept_name": "原子束",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "atomic beam"
+        }
+    },
+    {
+        "concept_name": "原子模型",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "atomic model"
+        }
+    },
+    {
+        "concept_name": "原子物理[学]",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "atomic physics"
+        }
+    },
+    {
+        "concept_name": "原子碰撞",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "atomic collision"
+        }
+    },
+    {
+        "concept_name": "原子结构",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "atomic structure"
+        }
+    },
+    {
+        "concept_name": "原子联合极限",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "united-atom limit"
+        }
+    },
+    {
+        "concept_name": "参变混合",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "parametric mixing"
+        }
+    },
+    {
+        "concept_name": "双电子复合",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "dielectronic recombination"
+        }
+    },
+    {
+        "concept_name": "双稳性",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "bistability"
+        }
+    },
+    {
+        "concept_name": "反应矩阵",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "reaction matrix"
+        }
+    },
+    {
+        "concept_name": "受驱振荡",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "driven oscillation"
+        }
+    },
+    {
+        "concept_name": "变[化]率方程",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "rate equation"
+        }
+    },
+    {
+        "concept_name": "同位素移位",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "isotope shift"
+        }
+    },
+    {
+        "concept_name": "回避交叉",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "avoided crossing"
+        }
+    },
+    {
+        "concept_name": "塞曼效应",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Zeeman effect"
+        }
+    },
+    {
+        "concept_name": "增强因数",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "enhancement factor"
+        }
+    },
+    {
+        "concept_name": "壳[层]模型",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "shell model"
+        }
+    },
+    {
+        "concept_name": "壳层坍缩",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "collapse of shell"
+        }
+    },
+    {
+        "concept_name": "多能级系统",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "multilevel system"
+        }
+    },
+    {
+        "concept_name": "奇特分子",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "exotic molecule"
+        }
+    },
+    {
+        "concept_name": "完全性关系",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "completeness relation"
+        }
+    },
+    {
+        "concept_name": "宏观极化",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "macroscopic polarization"
+        }
+    },
+    {
+        "concept_name": "密立根油滴实验",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Millikan oil-drop experiment"
+        }
+    },
+    {
+        "concept_name": "对称适化波函数",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "symmetry-adapted wave function"
+        }
+    },
+    {
+        "concept_name": "对称适化系数",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "symmetry-adapted coefficient"
+        }
+    },
+    {
+        "concept_name": "射频[波]谱",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "radio-frequency spectrum"
+        }
+    },
+    {
+        "concept_name": "局域交换势",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "local exchange potential"
+        }
+    },
+    {
+        "concept_name": "屏蔽势",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "screened potential"
+        }
+    },
+    {
+        "concept_name": "巴耳末系",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Balmer series"
+        }
+    },
+    {
+        "concept_name": "布拉开系",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Brackett series"
+        }
+    },
+    {
+        "concept_name": "帕邢-巴克效应",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Paschen-Back effect"
+        }
+    },
+    {
+        "concept_name": "帕邢系",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Paschen series"
+        }
+    },
+    {
+        "concept_name": "弗兰克-赫兹实验",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Franck-Hertz experiment"
+        }
+    },
+    {
+        "concept_name": "弯键",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "bent bond"
+        }
+    },
+    {
+        "concept_name": "彭宁电离",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Penning ionization"
+        }
+    },
+    {
+        "concept_name": "手征化合物",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "chiral compound"
+        }
+    },
+    {
+        "concept_name": "抗交叉效应",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "anti-crossing effect"
+        }
+    },
+    {
+        "concept_name": "振动激发",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "vibrational excitation"
+        }
+    },
+    {
+        "concept_name": "振动能带",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "vibrational band"
+        }
+    },
+    {
+        "concept_name": "振子强度",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "oscillator strength"
+        }
+    },
+    {
+        "concept_name": "散射长度",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "scattering length"
+        }
+    },
+    {
+        "concept_name": "斯塔克效应",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Stark effect"
+        }
+    },
+    {
+        "concept_name": "施特恩-格拉赫实验",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Stern-Gerlach experiment"
+        }
+    },
+    {
+        "concept_name": "无辐射跃迁",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "radiationless transition"
+        }
+    },
+    {
+        "concept_name": "普丰德系",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Pfund series"
+        }
+    },
+    {
+        "concept_name": "最低未占分子轨道",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "英文": "lowest unoccupied molecular orbit ;LUMO",
+            "见载": "《物理学名词》第二版",
+            "英文名": "lowest unoccupied molecular orbit"
+        }
+    },
+    {
+        "concept_name": "最高已占分子轨道",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "英文": "highest occupied molecular orbit ;HOMO",
+            "见载": "《物理学名词》第二版",
+            "英文名": "highest occupied molecular orbit"
+        }
+    },
+    {
+        "concept_name": "有效算符",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "effective operator"
+        }
+    },
+    {
+        "concept_name": "朗德间隔定则",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Lande&1& interval rule"
+        }
+    },
+    {
+        "concept_name": "朗德ｇ因子",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Lande&1& g-factor"
+        }
+    },
+    {
+        "concept_name": "本征态全集",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "complete set of eigenstates"
+        }
+    },
+    {
+        "concept_name": "本征通道",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "eigenchannel"
+        }
+    },
+    {
+        "concept_name": "杂化轨函",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "hybrid orbital"
+        }
+    },
+    {
+        "concept_name": "桥键",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "bridge bond"
+        }
+    },
+    {
+        "concept_name": "正氢",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "orthohydrogen"
+        }
+    },
+    {
+        "concept_name": "氢原子",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "hydrogen atom"
+        }
+    },
+    {
+        "concept_name": "水合能",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "hydration energy"
+        }
+    },
+    {
+        "concept_name": "洪德定则",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Hund rule"
+        }
+    },
+    {
+        "concept_name": "浸渐条件",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "adiabatic condition"
+        }
+    },
+    {
+        "concept_name": "浸渐演化",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "adiabatic evolution"
+        }
+    },
+    {
+        "concept_name": "消除点",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "cancellation point"
+        }
+    },
+    {
+        "concept_name": "激活电子",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "active electron"
+        }
+    },
+    {
+        "concept_name": "物质波",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "matter wave"
+        }
+    },
+    {
+        "concept_name": "玻尔单位",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Bohr unit"
+        }
+    },
+    {
+        "concept_name": "玻尔对应原理",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Bohr correspondence principle"
+        }
+    },
+    {
+        "concept_name": "玻尔频率条件",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Bohr frequency condition"
+        }
+    },
+    {
+        "concept_name": "电偶极跃迁",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electric dipole transition"
+        }
+    },
+    {
+        "concept_name": "电子欠缺",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electron deficiency"
+        }
+    },
+    {
+        "concept_name": "电离能",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ionization energy"
+        }
+    },
+    {
+        "concept_name": "疾[速]交叉",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "diabatic crossing"
+        }
+    },
+    {
+        "concept_name": "相位约定",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "phase convention"
+        }
+    },
+    {
+        "concept_name": "相容性",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "compatibility"
+        }
+    },
+    {
+        "concept_name": "着衣电子",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "dressed electron"
+        }
+    },
+    {
+        "concept_name": "碰撞强度",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "collision strength"
+        }
+    },
+    {
+        "concept_name": "碰撞过程",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "collision process"
+        }
+    },
+    {
+        "concept_name": "碱金属原子",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "alkali-metal atom"
+        }
+    },
+    {
+        "concept_name": "祖源",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "parentage"
+        }
+    },
+    {
+        "concept_name": "离散谱",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "曾称": " 分立谱",
+            "见载": "《物理学名词》第二版",
+            "英文名": "discrete spectrum"
+        }
+    },
+    {
+        "concept_name": "离解复合[过程]",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "dissociative recombination"
+        }
+    },
+    {
+        "concept_name": "离解态",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "dissociative state"
+        }
+    },
+    {
+        "concept_name": "等效电子",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "曾称": " 同科电子",
+            "见载": "《物理学名词》第二版",
+            "英文名": "equivalent electron"
+        }
+    },
+    {
+        "concept_name": "等电子序",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "isoelectronic sequence"
+        }
+    },
+    {
+        "concept_name": "类氢原子",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "hydrogen-like atom"
+        }
+    },
+    {
+        "concept_name": "精细结构",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "fine structure"
+        }
+    },
+    {
+        "concept_name": "精细结构常数",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "fine structure constant"
+        }
+    },
+    {
+        "concept_name": "线系极限",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "series limit"
+        }
+    },
+    {
+        "concept_name": "组态",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "configuration"
+        }
+    },
+    {
+        "concept_name": "维格纳阈值定律",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Wigner threshold law"
+        }
+    },
+    {
+        "concept_name": "耦合方式",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "coupling scheme"
+        }
+    },
+    {
+        "concept_name": "背成键",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "back bonding"
+        }
+    },
+    {
+        "concept_name": "能级交叉效应",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "level-crossiong effect"
+        }
+    },
+    {
+        "concept_name": "能级宽度",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "width of energy level"
+        }
+    },
+    {
+        "concept_name": "自分离[过程]",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "autodetachment"
+        }
+    },
+    {
+        "concept_name": "自电离",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "autoionization"
+        }
+    },
+    {
+        "concept_name": "自电离态",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "autoionization state"
+        }
+    },
+    {
+        "concept_name": "芯电子",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "core electron"
+        }
+    },
+    {
+        "concept_name": "莫塞莱图",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Moseley diagram"
+        }
+    },
+    {
+        "concept_name": "莫塞莱定律",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Moseley law"
+        }
+    },
+    {
+        "concept_name": "莱曼系",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Lyman series"
+        }
+    },
+    {
+        "concept_name": "萃取势",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "extraction potential"
+        }
+    },
+    {
+        "concept_name": "虚跃迁",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "virtual transition"
+        }
+    },
+    {
+        "concept_name": "角因数",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "angular factor"
+        }
+    },
+    {
+        "concept_name": "谱",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "spectrum"
+        }
+    },
+    {
+        "concept_name": "谱项",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "spectral term"
+        }
+    },
+    {
+        "concept_name": "超精细结构",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "hyperfine structure"
+        }
+    },
+    {
+        "concept_name": "轨函[数]",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "曾称": " 轨道",
+            "见载": "《物理学名词》第二版",
+            "英文名": "orbital"
+        }
+    },
+    {
+        "concept_name": "运送电子",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "convey electron"
+        }
+    },
+    {
+        "concept_name": "连带电离[作用]",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "associative ionization"
+        }
+    },
+    {
+        "concept_name": "通道内[相]互作用",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "intrachannel interaction"
+        }
+    },
+    {
+        "concept_name": "通道间[相]互作用",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "interchannel interaction"
+        }
+    },
+    {
+        "concept_name": "里德伯原子",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Rydberg atom"
+        }
+    },
+    {
+        "concept_name": "里德伯常量",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Rydberg constant"
+        }
+    },
+    {
+        "concept_name": "键序",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "bond order"
+        }
+    },
+    {
+        "concept_name": "键能",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "bond energy"
+        }
+    },
+    {
+        "concept_name": "键长",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "bond distance"
+        }
+    },
+    {
+        "concept_name": "零程近似",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "zero-range approximation"
+        }
+    },
+    {
+        "concept_name": "震激",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "shake-up"
+        }
+    },
+    {
+        "concept_name": "震离",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "shake-off"
+        }
+    },
+    {
+        "concept_name": "非定态",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "nonstationary state"
+        }
+    },
+    {
+        "concept_name": "非谐校正",
+        "details": {
+            "学科": "物理学_原子、分子物理学",
+            "见载": "《物理学名词》第二版",
+            "英文名": "anharmonic correction"
+        }
+    }
+]

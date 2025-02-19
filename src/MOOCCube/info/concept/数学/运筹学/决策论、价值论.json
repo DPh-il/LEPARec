@@ -1,0 +1,334 @@
+[
+    {
+        "concept_name": "ε最优策略",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "英文": "ε-optimal policy ;epsilon-optimal policy",
+            "见载": "《数学名词》第一版",
+            "英文名": "ε-optimal policy"
+        }
+    },
+    {
+        "concept_name": "不确定决策",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "decision under uncertainty"
+        }
+    },
+    {
+        "concept_name": "交互决策",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "interactive decision making"
+        }
+    },
+    {
+        "concept_name": "价值论",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "value theory"
+        }
+    },
+    {
+        "concept_name": "决策",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "decision making",
+            "prerequisite": [
+                "K_枚举_数学"
+            ]
+        }
+    },
+    {
+        "concept_name": "决策分析",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "decision analysis"
+        }
+    },
+    {
+        "concept_name": "决策树",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "decision tree"
+        }
+    },
+    {
+        "concept_name": "决策模型",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "decision model"
+        }
+    },
+    {
+        "concept_name": "决策表",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "decision table"
+        }
+    },
+    {
+        "concept_name": "决策论",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "decision theory"
+        }
+    },
+    {
+        "concept_name": "决策过程",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "decision process"
+        }
+    },
+    {
+        "concept_name": "多目标决策",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "multiple criteria decision making"
+        }
+    },
+    {
+        "concept_name": "平均报酬模型",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "average reward model"
+        }
+    },
+    {
+        "concept_name": "平稳策略",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "stationary policy"
+        }
+    },
+    {
+        "concept_name": "序贯决策",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "sequential decision"
+        }
+    },
+    {
+        "concept_name": "折扣模型",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "discounted reward model"
+        }
+    },
+    {
+        "concept_name": "报酬函数",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "reward function"
+        }
+    },
+    {
+        "concept_name": "抽奖",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "lottery"
+        }
+    },
+    {
+        "concept_name": "效用函数",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "utility function"
+        }
+    },
+    {
+        "concept_name": "效用理论",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "utility theory"
+        }
+    },
+    {
+        "concept_name": "无界报酬模型",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "unbounded reward model"
+        }
+    },
+    {
+        "concept_name": "最小费用函数",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "minimum-cost function"
+        }
+    },
+    {
+        "concept_name": "有限阶段模型",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "finite horizon model"
+        }
+    },
+    {
+        "concept_name": "极大风险模型",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "maximum risk pattern"
+        }
+    },
+    {
+        "concept_name": "活动分析",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "activity analysis"
+        }
+    },
+    {
+        "concept_name": "确定性策略",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "deterministic policy"
+        }
+    },
+    {
+        "concept_name": "策略改进[迭代]",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "policy improvement iteration"
+        }
+    },
+    {
+        "concept_name": "策略空间",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "policy space"
+        }
+    },
+    {
+        "concept_name": "群决策",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "group decision"
+        }
+    },
+    {
+        "concept_name": "费用函数",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "cost function"
+        }
+    },
+    {
+        "concept_name": "费用分析",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "cost analysis"
+        }
+    },
+    {
+        "concept_name": "费用向量",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "cost vector"
+        }
+    },
+    {
+        "concept_name": "费用系数",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "cost coefficients"
+        }
+    },
+    {
+        "concept_name": "费用结构",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "cost structure"
+        }
+    },
+    {
+        "concept_name": "连续时间模型",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "continuous time model"
+        }
+    },
+    {
+        "concept_name": "递阶决策",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "hierarchical decision"
+        }
+    },
+    {
+        "concept_name": "风险",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "risk"
+        }
+    },
+    {
+        "concept_name": "风险决策",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "decision under risk"
+        }
+    },
+    {
+        "concept_name": "马尔可夫决策规划",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "Markov decision programming"
+        }
+    },
+    {
+        "concept_name": "马尔可夫决策过程",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "Markov decision process"
+        }
+    },
+    {
+        "concept_name": "马尔可夫策略",
+        "details": {
+            "学科": "数学_运筹学_决策论、价值论",
+            "见载": "《数学名词》第一版",
+            "英文名": "Markov policy"
+        }
+    }
+]

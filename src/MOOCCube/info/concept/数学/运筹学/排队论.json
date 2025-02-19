@@ -1,0 +1,466 @@
+[
+    {
+        "concept_name": "事件步长法",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "next-event incrementing method"
+        }
+    },
+    {
+        "concept_name": "优先排队",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "priority queues"
+        }
+    },
+    {
+        "concept_name": "优先服务",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "priority service"
+        }
+    },
+    {
+        "concept_name": "优先权",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "priority"
+        }
+    },
+    {
+        "concept_name": "低负荷服务",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "light traffic"
+        }
+    },
+    {
+        "concept_name": "先到先服务",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "first-come first-served"
+        }
+    },
+    {
+        "concept_name": "到达时刻",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "arrival instant"
+        }
+    },
+    {
+        "concept_name": "到达间隔",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "interarrival time"
+        }
+    },
+    {
+        "concept_name": "单台服务系统",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "single-server system"
+        }
+    },
+    {
+        "concept_name": "后到先服务",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "last-come first-served"
+        }
+    },
+    {
+        "concept_name": "埃尔朗分布",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "Erlang distribution"
+        }
+    },
+    {
+        "concept_name": "多台服务系统",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "multi-server system"
+        }
+    },
+    {
+        "concept_name": "多重排队",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "multiqueue"
+        }
+    },
+    {
+        "concept_name": "对偶排队系统",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "dual queueing system"
+        }
+    },
+    {
+        "concept_name": "嵌入马尔可夫链",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "imbedded Markov chain"
+        }
+    },
+    {
+        "concept_name": "平稳性态",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "stationary behavior"
+        }
+    },
+    {
+        "concept_name": "强占型优先权",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "preemptive priority"
+        }
+    },
+    {
+        "concept_name": "循环排队[系统]",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "cyclic queue [system]"
+        }
+    },
+    {
+        "concept_name": "忙循环",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "busy cycle"
+        }
+    },
+    {
+        "concept_name": "忙期",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "busy period"
+        }
+    },
+    {
+        "concept_name": "忙路线",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "busy channel"
+        }
+    },
+    {
+        "concept_name": "成批到达",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "又称": " 大量到达",
+            "见载": "《数学名词》第一版",
+            "英文名": "batch arrival"
+        }
+    },
+    {
+        "concept_name": "成批排队",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "bulk queue"
+        }
+    },
+    {
+        "concept_name": "成批服务",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "又称": " 大量服务",
+            "见载": "《数学名词》第一版",
+            "英文名": "batch service"
+        }
+    },
+    {
+        "concept_name": "损失制系统",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "又称": " 消失服务系统",
+            "见载": "《数学名词》第一版",
+            "英文名": "loss system"
+        }
+    },
+    {
+        "concept_name": "损失率",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "loss probability"
+        }
+    },
+    {
+        "concept_name": "排队时间",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "queueing time"
+        }
+    },
+    {
+        "concept_name": "排队模型",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "queueing model"
+        }
+    },
+    {
+        "concept_name": "排队空间",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "又称": " 缓冲区",
+            "见载": "《数学名词》第一版",
+            "英文名": "buffer"
+        }
+    },
+    {
+        "concept_name": "排队网络",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "queueing network"
+        }
+    },
+    {
+        "concept_name": "排队规则",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "queue discipline"
+        }
+    },
+    {
+        "concept_name": "排队论",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "queueing theory"
+        }
+    },
+    {
+        "concept_name": "排队过程",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "queue process"
+        }
+    },
+    {
+        "concept_name": "时间步长法",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "fixed-time incrementing method"
+        }
+    },
+    {
+        "concept_name": "最短剩余服务时间",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "shortest remaining service time"
+        }
+    },
+    {
+        "concept_name": "最短服务时间",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "shortest service time"
+        }
+    },
+    {
+        "concept_name": "最长剩余服务时间",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "longest remaining service time"
+        }
+    },
+    {
+        "concept_name": "最长服务时间",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "longest service time"
+        }
+    },
+    {
+        "concept_name": "服务台",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "server"
+        }
+    },
+    {
+        "concept_name": "服务时间",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "service time"
+        }
+    },
+    {
+        "concept_name": "混合制系统",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "mixed system"
+        }
+    },
+    {
+        "concept_name": "特殊服务时间",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "special service times"
+        }
+    },
+    {
+        "concept_name": "瞬时性态",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "transient behavior"
+        }
+    },
+    {
+        "concept_name": "等待制系统",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "又称": " 等待服务系统",
+            "见载": "《数学名词》第一版",
+            "英文名": "waiting system"
+        }
+    },
+    {
+        "concept_name": "等待时间",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "waiting time"
+        }
+    },
+    {
+        "concept_name": "简单流",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "simple stream"
+        }
+    },
+    {
+        "concept_name": "肯德尔记号",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "Kendall notation"
+        }
+    },
+    {
+        "concept_name": "虚等待时间",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "virtual waiting time"
+        }
+    },
+    {
+        "concept_name": "输入过程",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "又称": " 输入流",
+            "见载": "《数学名词》第一版",
+            "英文名": "input stream"
+        }
+    },
+    {
+        "concept_name": "逗留时间",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "sojourn time"
+        }
+    },
+    {
+        "concept_name": "闲期",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "idle period"
+        }
+    },
+    {
+        "concept_name": "队列量",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "queue size"
+        }
+    },
+    {
+        "concept_name": "队列长度",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "简称": " 队长",
+            "见载": "《数学名词》第一版",
+            "英文名": "queue length"
+        }
+    },
+    {
+        "concept_name": "随机服务系统",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "stochastic service system"
+        }
+    },
+    {
+        "concept_name": "非强占型优先权",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "non-preemptive priority"
+        }
+    },
+    {
+        "concept_name": "顾客",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "又称": " 服务对象",
+            "见载": "《数学名词》第一版",
+            "英文名": "customer"
+        }
+    },
+    {
+        "concept_name": "高负荷服务",
+        "details": {
+            "学科": "数学_运筹学_排队论",
+            "见载": "《数学名词》第一版",
+            "英文名": "heavy traffic"
+        }
+    }
+]

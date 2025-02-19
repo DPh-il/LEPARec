@@ -1,0 +1,1298 @@
+[
+    {
+        "concept_name": "临界温度",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "critical temperature"
+        }
+    },
+    {
+        "concept_name": "体电流密度",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "volume current density"
+        }
+    },
+    {
+        "concept_name": "储备电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "reserve cell"
+        }
+    },
+    {
+        "concept_name": "储备蓄电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "reserve [storage] cell"
+        }
+    },
+    {
+        "concept_name": "充电保持能力",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "charge retention"
+        }
+    },
+    {
+        "concept_name": "充电因数",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "charge factor"
+        }
+    },
+    {
+        "concept_name": "充电接受能力",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "charge acceptance"
+        }
+    },
+    {
+        "concept_name": "充电效率",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "又称": " 安时效率",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "charge efficiency"
+        }
+    },
+    {
+        "concept_name": "充电率",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "charge rate"
+        }
+    },
+    {
+        "concept_name": "充电终止电压",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "end-of-charge voltage"
+        }
+    },
+    {
+        "concept_name": "光亮电镀",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "bright plating"
+        }
+    },
+    {
+        "concept_name": "免维护蓄电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "maintenance-free cell"
+        }
+    },
+    {
+        "concept_name": "初充电",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "initial charge"
+        }
+    },
+    {
+        "concept_name": "初始温度",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "initial temperature"
+        }
+    },
+    {
+        "concept_name": "初始电压",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "initial voltage"
+        }
+    },
+    {
+        "concept_name": "原电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "primary cell"
+        }
+    },
+    {
+        "concept_name": "反极",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "reversal"
+        }
+    },
+    {
+        "concept_name": "可充电干电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "rechargeable cell"
+        }
+    },
+    {
+        "concept_name": "合金电镀",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "alloy plating"
+        }
+    },
+    {
+        "concept_name": "固体电解质电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "solid electrolyte cell"
+        }
+    },
+    {
+        "concept_name": "均衡充电",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "equalizing charge"
+        }
+    },
+    {
+        "concept_name": "复合电镀",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "composite plating"
+        }
+    },
+    {
+        "concept_name": "多层电镀",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "multilayer plating"
+        }
+    },
+    {
+        "concept_name": "安全塞",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "flame arrester vent plug"
+        }
+    },
+    {
+        "concept_name": "容量温度系数",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "temperature coefficient of capacity"
+        }
+    },
+    {
+        "concept_name": "密封蓄电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "sealed cell"
+        }
+    },
+    {
+        "concept_name": "富尔极板",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "Faure plate"
+        }
+    },
+    {
+        "concept_name": "局部腐蚀",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "local corrosion"
+        }
+    },
+    {
+        "concept_name": "工作电压",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "operating voltage"
+        }
+    },
+    {
+        "concept_name": "带液荷电蓄电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "filled charged cell"
+        }
+    },
+    {
+        "concept_name": "带液非荷电蓄电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "filled discharged cell"
+        }
+    },
+    {
+        "concept_name": "干式荷电蓄电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "dry charged cell"
+        }
+    },
+    {
+        "concept_name": "干式非荷电蓄电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "dry discharged cell"
+        }
+    },
+    {
+        "concept_name": "干电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "dry cell"
+        }
+    },
+    {
+        "concept_name": "平均电压",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "mean voltage"
+        }
+    },
+    {
+        "concept_name": "平衡电极电位",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "equilibrium electrode potential"
+        }
+    },
+    {
+        "concept_name": "开路电压",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "open circuit voltage"
+        }
+    },
+    {
+        "concept_name": "形成式极板",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "又称": " 普朗泰极板",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "Planté plate"
+        }
+    },
+    {
+        "concept_name": "快速放电率容量",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "rapid-discharge-rate capacity"
+        }
+    },
+    {
+        "concept_name": "扣式电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "button cell"
+        }
+    },
+    {
+        "concept_name": "挂镀",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "rack plating"
+        }
+    },
+    {
+        "concept_name": "排气式蓄电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "又称": " 开口蓄电池",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "vented cell"
+        }
+    },
+    {
+        "concept_name": "排气阀",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "vent valve"
+        }
+    },
+    {
+        "concept_name": "改型恒压充电",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "modified-constant voltage charge"
+        }
+    },
+    {
+        "concept_name": "放电曲线",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "discharge curve"
+        }
+    },
+    {
+        "concept_name": "放电率",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "discharge rate"
+        }
+    },
+    {
+        "concept_name": "整体壳",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "monobloc container"
+        }
+    },
+    {
+        "concept_name": "整体蓄电池组",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "monobloc battery"
+        }
+    },
+    {
+        "concept_name": "无泄漏蓄电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "unspillable cell"
+        }
+    },
+    {
+        "concept_name": "普通型干电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "standard type dry cell"
+        }
+    },
+    {
+        "concept_name": "晶间腐蚀",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "intercrystalline corrosion"
+        }
+    },
+    {
+        "concept_name": "未化成干态蓄电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "unformed dry cell"
+        }
+    },
+    {
+        "concept_name": "极板",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "plate"
+        }
+    },
+    {
+        "concept_name": "极板组",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "plate group"
+        }
+    },
+    {
+        "concept_name": "析气",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "gassing"
+        }
+    },
+    {
+        "concept_name": "标准电极电位",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "standard electrode potential"
+        }
+    },
+    {
+        "concept_name": "槽电压",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "tank voltage"
+        }
+    },
+    {
+        "concept_name": "欧姆极化",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "ohmic polarization"
+        }
+    },
+    {
+        "concept_name": "正极",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "positive electrode"
+        }
+    },
+    {
+        "concept_name": "正极板",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "positive plate"
+        }
+    },
+    {
+        "concept_name": "正极柱",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "positive terminal"
+        }
+    },
+    {
+        "concept_name": "比功率",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "specific power"
+        }
+    },
+    {
+        "concept_name": "比容量",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "specific capacity"
+        }
+    },
+    {
+        "concept_name": "氢氧燃料电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "hydrogen-oxygen fuel cell"
+        }
+    },
+    {
+        "concept_name": "氨空气燃料电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "ammonia-air fuel cell"
+        }
+    },
+    {
+        "concept_name": "氯化锌干电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "zinc chloride dry cell"
+        }
+    },
+    {
+        "concept_name": "沉积速率",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "deposition rate"
+        }
+    },
+    {
+        "concept_name": "活化",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "activation"
+        }
+    },
+    {
+        "concept_name": "活度",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "activity"
+        }
+    },
+    {
+        "concept_name": "活性物质",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "active material"
+        }
+    },
+    {
+        "concept_name": "浮充电",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "floating charge"
+        }
+    },
+    {
+        "concept_name": "浮充蓄电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "floating cell"
+        }
+    },
+    {
+        "concept_name": "涂膏式极板",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "grid type plate"
+        }
+    },
+    {
+        "concept_name": "液位指示器",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electrolyte level indicator"
+        }
+    },
+    {
+        "concept_name": "液孔塞",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "又称": " 气塞",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "vent plug"
+        }
+    },
+    {
+        "concept_name": "湿式荷电蓄电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "drained charged cell"
+        }
+    },
+    {
+        "concept_name": "湿式非荷电蓄电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "drained discharged cell"
+        }
+    },
+    {
+        "concept_name": "滚镀",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "barrel plating"
+        }
+    },
+    {
+        "concept_name": "漏液",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "leakage"
+        }
+    },
+    {
+        "concept_name": "点腐蚀",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "spot corrosion"
+        }
+    },
+    {
+        "concept_name": "烧结式极板",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "sintered plate"
+        }
+    },
+    {
+        "concept_name": "热失控",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "thermal runaway"
+        }
+    },
+    {
+        "concept_name": "热电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "thermal cell"
+        }
+    },
+    {
+        "concept_name": "燃料电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "fuel cell"
+        }
+    },
+    {
+        "concept_name": "燃料电池系统标准热效率",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "fuel-cell-system standard thermal efficiency"
+        }
+    },
+    {
+        "concept_name": "燃料电池系统能量-容积比",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "fuel-cell-system energy-to-volume ratio"
+        }
+    },
+    {
+        "concept_name": "燃料电池系统能量-重量比",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "fuel-cell-system energy-to-weight ratio"
+        }
+    },
+    {
+        "concept_name": "燃料电池组",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "fuel battery"
+        }
+    },
+    {
+        "concept_name": "燃料电池组功率-重量比",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "fuel-battery power-to-weight ratio"
+        }
+    },
+    {
+        "concept_name": "牵引用蓄电池组",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "traction battery"
+        }
+    },
+    {
+        "concept_name": "电动势温度系数",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "temperature coefficient of electro- motive force"
+        }
+    },
+    {
+        "concept_name": "电化学",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electrochemistry"
+        }
+    },
+    {
+        "concept_name": "电化学极化",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "又称": " 活化极化",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electrochemical polarization"
+        }
+    },
+    {
+        "concept_name": "电化当量",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electrochemical equivalent"
+        }
+    },
+    {
+        "concept_name": "电抛光",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electropolishing"
+        }
+    },
+    {
+        "concept_name": "电极反应",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electrode reaction"
+        }
+    },
+    {
+        "concept_name": "电极电位",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electrode potential"
+        }
+    },
+    {
+        "concept_name": "电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "cell"
+        }
+    },
+    {
+        "concept_name": "电泳",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electrophoresis"
+        }
+    },
+    {
+        "concept_name": "电流密度范围",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "current density range"
+        }
+    },
+    {
+        "concept_name": "电解",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electrolysis"
+        }
+    },
+    {
+        "concept_name": "电解槽",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electrolyte tank"
+        }
+    },
+    {
+        "concept_name": "电解液",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "又称": " 电解质",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electrolyte"
+        }
+    },
+    {
+        "concept_name": "电解液保持能力",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electrolyte retention"
+        }
+    },
+    {
+        "concept_name": "电解清洗",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electrolytic cleaning"
+        }
+    },
+    {
+        "concept_name": "电解精炼",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electrorefining"
+        }
+    },
+    {
+        "concept_name": "电镀",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electroplating"
+        }
+    },
+    {
+        "concept_name": "电镀槽",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electroplating bath"
+        }
+    },
+    {
+        "concept_name": "碱性蓄电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "alkaline cell"
+        }
+    },
+    {
+        "concept_name": "碱性锌锰干电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "alkaline zinc-manganese dioxide cell"
+        }
+    },
+    {
+        "concept_name": "磷酸燃料电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "phosphoric acid fuel cell"
+        }
+    },
+    {
+        "concept_name": "箱式负极板",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "box negative plate"
+        }
+    },
+    {
+        "concept_name": "终止电压",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "final voltage"
+        }
+    },
+    {
+        "concept_name": "耐久能力",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "endurance"
+        }
+    },
+    {
+        "concept_name": "能量容量",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "energy capacity"
+        }
+    },
+    {
+        "concept_name": "能量效率",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "又称": " 瓦时效率",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "energy efficiency"
+        }
+    },
+    {
+        "concept_name": "航空用蓄电池组",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "aircraft battery"
+        }
+    },
+    {
+        "concept_name": "蓄电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "英文": "storage cell ;secondary cell ;accumulator",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "storage cell"
+        }
+    },
+    {
+        "concept_name": "蓄电池壳",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "container"
+        }
+    },
+    {
+        "concept_name": "蓄电池容量",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "battery capacity"
+        }
+    },
+    {
+        "concept_name": "蓄电池盖",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "cover"
+        }
+    },
+    {
+        "concept_name": "蓄电池组",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "storage battery"
+        }
+    },
+    {
+        "concept_name": "表观内阻",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "apparent internal resistance"
+        }
+    },
+    {
+        "concept_name": "袋式极板",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "pocket type plate"
+        }
+    },
+    {
+        "concept_name": "负极",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "negative electrode"
+        }
+    },
+    {
+        "concept_name": "负极板",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "negative plate"
+        }
+    },
+    {
+        "concept_name": "起动用蓄电池组",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "starter battery"
+        }
+    },
+    {
+        "concept_name": "起动能力",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "starting capability"
+        }
+    },
+    {
+        "concept_name": "辅助阳极",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "auxiliary anode"
+        }
+    },
+    {
+        "concept_name": "辅助阴极",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "auxiliary cathode"
+        }
+    },
+    {
+        "concept_name": "过充电",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "overcharge"
+        }
+    },
+    {
+        "concept_name": "过放电",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "overdischarge"
+        }
+    },
+    {
+        "concept_name": "过电位",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "overpotential"
+        }
+    },
+    {
+        "concept_name": "连接条",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "intercell connector"
+        }
+    },
+    {
+        "concept_name": "连续放电",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "continuous discharge"
+        }
+    },
+    {
+        "concept_name": "酸性蓄电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "acid cell"
+        }
+    },
+    {
+        "concept_name": "金属电沉积",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "metal electrodeposition"
+        }
+    },
+    {
+        "concept_name": "金属防腐",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "anti-corrosion of metal"
+        }
+    },
+    {
+        "concept_name": "钝化",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "passivation"
+        }
+    },
+    {
+        "concept_name": "铁镍蓄电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "nickel-iron cell"
+        }
+    },
+    {
+        "concept_name": "铅酸蓄电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "lead-acid cell"
+        }
+    },
+    {
+        "concept_name": "铝空气电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "aluminium-air cell"
+        }
+    },
+    {
+        "concept_name": "锂二氧化硫电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "lithium-sulfur dioxide cell"
+        }
+    },
+    {
+        "concept_name": "锂电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "lithium cell"
+        }
+    },
+    {
+        "concept_name": "锂碘电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "lithium-iodine cell"
+        }
+    },
+    {
+        "concept_name": "锌汞电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "zinc-mercuric oxide cell"
+        }
+    },
+    {
+        "concept_name": "锌空气电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "zinc-air cell"
+        }
+    },
+    {
+        "concept_name": "锌银电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "zinc-silver oxide cell"
+        }
+    },
+    {
+        "concept_name": "锌银蓄电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "silver-zinc cell"
+        }
+    },
+    {
+        "concept_name": "锌锰干电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "zinc-manganese dioxide dry cell"
+        }
+    },
+    {
+        "concept_name": "锌镍蓄电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "nickel-zinc cell"
+        }
+    },
+    {
+        "concept_name": "镁干电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "magnesium dry cell"
+        }
+    },
+    {
+        "concept_name": "镉银蓄电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "silver-cadmium cell"
+        }
+    },
+    {
+        "concept_name": "镉镍蓄电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "nickel-cadmium cell"
+        }
+    },
+    {
+        "concept_name": "间歇放电",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "intermittent discharge"
+        }
+    },
+    {
+        "concept_name": "隔离物",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "spacer"
+        }
+    },
+    {
+        "concept_name": "静态电极电位",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "static electrode potential"
+        }
+    },
+    {
+        "concept_name": "高功率干电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "high power type dry cell"
+        }
+    },
+    {
+        "concept_name": "高容量干电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "high capacity type dry cell"
+        }
+    },
+    {
+        "concept_name": "高温固体电解质燃料电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "high temperature solid electrolyte fuel cell"
+        }
+    },
+    {
+        "concept_name": "高温熔融碳酸盐燃料电池",
+        "details": {
+            "学科": "电气工程_电化学应用",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "high temperature molten carbonate fuel cell"
+        }
+    }
+]

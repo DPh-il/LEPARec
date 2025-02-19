@@ -1,0 +1,693 @@
+[
+    {
+        "concept_name": "不确定性系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "uncertain system"
+        }
+    },
+    {
+        "concept_name": "不连续控制系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "discontinuous control system"
+        }
+    },
+    {
+        "concept_name": "二维系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "简称": " 2D系统",
+            "见载": "《数学名词》第一版",
+            "英文名": "two dimensional system"
+        }
+    },
+    {
+        "concept_name": "代数系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "algebraic system"
+        }
+    },
+    {
+        "concept_name": "关联系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "interconnected system"
+        }
+    },
+    {
+        "concept_name": "分布参数系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "distributed parameter system"
+        }
+    },
+    {
+        "concept_name": "分散控制",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "decentralized control"
+        }
+    },
+    {
+        "concept_name": "前馈控制",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "feedforward control"
+        }
+    },
+    {
+        "concept_name": "单变量系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "又称": " 单输入单输出系统",
+            "见载": "《数学名词》第一版",
+            "英文名": "single variable system"
+        }
+    },
+    {
+        "concept_name": "双线性系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "bilinear system"
+        }
+    },
+    {
+        "concept_name": "反馈控制",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "feedback control"
+        }
+    },
+    {
+        "concept_name": "变结构控制",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "variable structure control"
+        }
+    },
+    {
+        "concept_name": "变结构控制系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "variable structure control system"
+        }
+    },
+    {
+        "concept_name": "可逆系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "invertible system"
+        }
+    },
+    {
+        "concept_name": "多变量系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "又称": " 多输入多输出系统",
+            "见载": "《数学名词》第一版",
+            "英文名": "multivariable system"
+        }
+    },
+    {
+        "concept_name": "多级控制",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "multilevel control"
+        }
+    },
+    {
+        "concept_name": "多级系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "multilevel system"
+        }
+    },
+    {
+        "concept_name": "多维系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "multidimensional system"
+        }
+    },
+    {
+        "concept_name": "多项式矩阵系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "polynomial matrix system"
+        }
+    },
+    {
+        "concept_name": "大型动态系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "large scale dynamic system"
+        }
+    },
+    {
+        "concept_name": "大系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "large scale system"
+        }
+    },
+    {
+        "concept_name": "奇异控制",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "singular control"
+        }
+    },
+    {
+        "concept_name": "奇异摄动系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "singularly perturbed system"
+        }
+    },
+    {
+        "concept_name": "奇异线性系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "singular linear system"
+        }
+    },
+    {
+        "concept_name": "子系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "subsystem"
+        }
+    },
+    {
+        "concept_name": "孤立子系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "isolated subsystem"
+        }
+    },
+    {
+        "concept_name": "孤立系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "isolated system"
+        }
+    },
+    {
+        "concept_name": "定常系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "time-invariant system"
+        }
+    },
+    {
+        "concept_name": "容许控制",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "admissible control"
+        }
+    },
+    {
+        "concept_name": "广义线性系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "generalized linear system"
+        }
+    },
+    {
+        "concept_name": "开环控制",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "open-loop control"
+        }
+    },
+    {
+        "concept_name": "开环系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "open-loop system"
+        }
+    },
+    {
+        "concept_name": "弱耦合系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "weakly coupled system"
+        }
+    },
+    {
+        "concept_name": "强耦合系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "strongly coupled system"
+        }
+    },
+    {
+        "concept_name": "微分控制",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "derivative control"
+        }
+    },
+    {
+        "concept_name": "快变子系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "fast subsystem"
+        }
+    },
+    {
+        "concept_name": "慢变子系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "slow subsystem"
+        }
+    },
+    {
+        "concept_name": "控制",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "control"
+        }
+    },
+    {
+        "concept_name": "控制变量",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "control variable"
+        }
+    },
+    {
+        "concept_name": "控制律",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "control law"
+        }
+    },
+    {
+        "concept_name": "控制系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "control system"
+        }
+    },
+    {
+        "concept_name": "数学模型",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "mathematical model"
+        }
+    },
+    {
+        "concept_name": "无穷维系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "infinite dimensional system"
+        }
+    },
+    {
+        "concept_name": "时变系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "time-varying system"
+        }
+    },
+    {
+        "concept_name": "时滞系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "又称": " 延迟系统",
+            "见载": "《数学名词》第一版",
+            "英文名": "time-delay system"
+        }
+    },
+    {
+        "concept_name": "时间最优控制",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "又称": " 快速控制",
+            "见载": "《数学名词》第一版",
+            "英文名": "time-optimal control"
+        }
+    },
+    {
+        "concept_name": "最优控制",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "optimal control"
+        }
+    },
+    {
+        "concept_name": "模型参考适应系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "model reference adaptive system"
+        }
+    },
+    {
+        "concept_name": "模型跟随控制系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "model following control system"
+        }
+    },
+    {
+        "concept_name": "次优控制",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "suboptimal control"
+        }
+    },
+    {
+        "concept_name": "比例-积分-微分控制",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "简称": " PID控制(PID control)",
+            "见载": "《数学名词》第一版",
+            "英文名": "proportional-integral-derivative control"
+        }
+    },
+    {
+        "concept_name": "比例控制",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "proportional control"
+        }
+    },
+    {
+        "concept_name": "砰砰控制",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "bang-bang control"
+        }
+    },
+    {
+        "concept_name": "确定性系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "deterministic system"
+        }
+    },
+    {
+        "concept_name": "离散事件动态系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "discrete event dynamic system"
+        }
+    },
+    {
+        "concept_name": "离散时间系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "discrete time system"
+        }
+    },
+    {
+        "concept_name": "离散系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "discrete system"
+        }
+    },
+    {
+        "concept_name": "积分控制",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "integral control"
+        }
+    },
+    {
+        "concept_name": "系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "system"
+        }
+    },
+    {
+        "concept_name": "系统仿真",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "system simulation"
+        }
+    },
+    {
+        "concept_name": "系统分析",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "system analysis"
+        }
+    },
+    {
+        "concept_name": "系统建模",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "system modelling"
+        }
+    },
+    {
+        "concept_name": "系统综合",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "system synthesis"
+        }
+    },
+    {
+        "concept_name": "系统设计",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "system design",
+            "prerequisite": [
+                "K_存储容量_数学"
+            ]
+        }
+    },
+    {
+        "concept_name": "系统辨识",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "system identification"
+        }
+    },
+    {
+        "concept_name": "线性系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "linear system"
+        }
+    },
+    {
+        "concept_name": "组合系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "composite system"
+        }
+    },
+    {
+        "concept_name": "终值控制",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "terminal value control"
+        }
+    },
+    {
+        "concept_name": "耦合系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "coupled system"
+        }
+    },
+    {
+        "concept_name": "自校正控制",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "self-tuning control"
+        }
+    },
+    {
+        "concept_name": "解耦系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "decoupled system"
+        }
+    },
+    {
+        "concept_name": "边界控制",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "boundary control"
+        }
+    },
+    {
+        "concept_name": "连续控制系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "continuous control system"
+        }
+    },
+    {
+        "concept_name": "连续时间系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "continuous time system"
+        }
+    },
+    {
+        "concept_name": "适应控制",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "adaptive control"
+        }
+    },
+    {
+        "concept_name": "逆系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "inverse system"
+        }
+    },
+    {
+        "concept_name": "递阶控制",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "hierarchical control"
+        }
+    },
+    {
+        "concept_name": "闭环控制",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "closed-loop control"
+        }
+    },
+    {
+        "concept_name": "闭环系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "closed-loop system"
+        }
+    },
+    {
+        "concept_name": "随机控制",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "stochastic control"
+        }
+    },
+    {
+        "concept_name": "随机系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "stochastic system"
+        }
+    },
+    {
+        "concept_name": "集中控制",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "centralized control"
+        }
+    },
+    {
+        "concept_name": "集总参数系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "又称": " 集中参数系统",
+            "见载": "《数学名词》第一版",
+            "英文名": "lumped parameter system"
+        }
+    },
+    {
+        "concept_name": "非线性系统",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "见载": "《数学名词》第一版",
+            "英文名": "non-linear system"
+        }
+    },
+    {
+        "concept_name": "鲁棒控制",
+        "details": {
+            "学科": "数学_信息论_控制论_系统、控制（数学）",
+            "又称": " 稳健控制",
+            "见载": "《数学名词》第一版",
+            "英文名": "robust control"
+        }
+    }
+]

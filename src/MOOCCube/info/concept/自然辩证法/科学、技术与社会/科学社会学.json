@@ -1,0 +1,394 @@
+[
+    {
+        "concept_name": "优先权",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "priority"
+        }
+    },
+    {
+        "concept_name": "内部方法",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "internalist methodology"
+        }
+    },
+    {
+        "concept_name": "同时发现",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "simultaneous discoveries"
+        }
+    },
+    {
+        "concept_name": "同行评议",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "peer review"
+        }
+    },
+    {
+        "concept_name": "外部方法",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "externalist methodology"
+        }
+    },
+    {
+        "concept_name": "多重发现",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "multiple discoveries"
+        }
+    },
+    {
+        "concept_name": "大科学",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "big science"
+        }
+    },
+    {
+        "concept_name": "宏观取向",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "macroscopic orientation"
+        }
+    },
+    {
+        "concept_name": "小科学",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "little science"
+        }
+    },
+    {
+        "concept_name": "常人方法论",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "ethnomethodology"
+        }
+    },
+    {
+        "concept_name": "微观取向",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "microscopic orientation"
+        }
+    },
+    {
+        "concept_name": "无形学院",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "invisibles college"
+        }
+    },
+    {
+        "concept_name": "民族志",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "ethnography"
+        }
+    },
+    {
+        "concept_name": "科学中心",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientific center"
+        }
+    },
+    {
+        "concept_name": "科学中的人力",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "manpower in science"
+        }
+    },
+    {
+        "concept_name": "科学中的社会分层",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "social stratification in science"
+        }
+    },
+    {
+        "concept_name": "科学中的老人统治",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "gerontocracy in science"
+        }
+    },
+    {
+        "concept_name": "科学分类",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "taxonomy of science"
+        }
+    },
+    {
+        "concept_name": "科学创造力",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientific creativity"
+        }
+    },
+    {
+        "concept_name": "科学发展模式",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "pattern of scientific development"
+        }
+    },
+    {
+        "concept_name": "科学启蒙",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "enlightenment of science"
+        }
+    },
+    {
+        "concept_name": "科学基金",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientific fund"
+        }
+    },
+    {
+        "concept_name": "科学增长指标",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "indicators of scientific growth"
+        }
+    },
+    {
+        "concept_name": "科学学派",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "schools in science"
+        }
+    },
+    {
+        "concept_name": "科学家共同体",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientist community"
+        }
+    },
+    {
+        "concept_name": "科学家的分层",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "stratification of scientists"
+        }
+    },
+    {
+        "concept_name": "科学家的生产率",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "productivity of scientists"
+        }
+    },
+    {
+        "concept_name": "科学家的社会责任",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "social responsibility of scientist"
+        }
+    },
+    {
+        "concept_name": "科学态度",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientific attitude"
+        }
+    },
+    {
+        "concept_name": "科学情报",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientific information"
+        }
+    },
+    {
+        "concept_name": "科学意识",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientific consciousness"
+        }
+    },
+    {
+        "concept_name": "科学政策",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientific policy"
+        }
+    },
+    {
+        "concept_name": "科学文化",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientific culture"
+        }
+    },
+    {
+        "concept_name": "科学普及",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "popularization of scientific knowledge"
+        }
+    },
+    {
+        "concept_name": "科学权威",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "prestige of science"
+        }
+    },
+    {
+        "concept_name": "科学的价值",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "values of science"
+        }
+    },
+    {
+        "concept_name": "科学的制度化",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "institutionalization of science"
+        }
+    },
+    {
+        "concept_name": "科学的年龄结构",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "age structure in science"
+        }
+    },
+    {
+        "concept_name": "科学的指数增长",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "exponential growth of science"
+        }
+    },
+    {
+        "concept_name": "科学的社会目的",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "social goals of science"
+        }
+    },
+    {
+        "concept_name": "科学的自主性",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "autonomy of science"
+        }
+    },
+    {
+        "concept_name": "科学研究的职业化",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "professionalization of scientific research"
+        }
+    },
+    {
+        "concept_name": "科学社会学",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "sociology of science"
+        }
+    },
+    {
+        "concept_name": "科学精英",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientific elite"
+        }
+    },
+    {
+        "concept_name": "科学素养",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientific literacy"
+        }
+    },
+    {
+        "concept_name": "科学计量学",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "scientometrics"
+        }
+    },
+    {
+        "concept_name": "科层制",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "bureaucracy"
+        }
+    },
+    {
+        "concept_name": "话语分析",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "discourse analysis"
+        }
+    },
+    {
+        "concept_name": "马太效应",
+        "details": {
+            "学科": "自然辩证法_科学、技术与社会_科学社会学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "Matthew effect"
+        }
+    }
+]

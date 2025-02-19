@@ -1,0 +1,867 @@
+[
+    {
+        "concept_name": "传感信息控制",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "sensory control"
+        }
+    },
+    {
+        "concept_name": "位姿",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "pose"
+        }
+    },
+    {
+        "concept_name": "位姿到位姿控制",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "pose to pose control"
+        }
+    },
+    {
+        "concept_name": "位姿稳态时间",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "pose stabilization time"
+        }
+    },
+    {
+        "concept_name": "位姿精度",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "pose accuracy"
+        }
+    },
+    {
+        "concept_name": "位姿精度漂移",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "drift of pose accuracy"
+        }
+    },
+    {
+        "concept_name": "位姿超调量",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "pose overshoot"
+        }
+    },
+    {
+        "concept_name": "位姿重复精度",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "pose repeatability"
+        }
+    },
+    {
+        "concept_name": "作业程序",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "task program"
+        }
+    },
+    {
+        "concept_name": "作业编程",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "task programming"
+        }
+    },
+    {
+        "concept_name": "使神号机械臂",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "Hermes robot arm"
+        }
+    },
+    {
+        "concept_name": "保持",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "hold"
+        }
+    },
+    {
+        "concept_name": "停止",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "stop"
+        }
+    },
+    {
+        "concept_name": "关节坐标系",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "joint coordinate system"
+        }
+    },
+    {
+        "concept_name": "关节形机器人",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "articulated robot"
+        }
+    },
+    {
+        "concept_name": "分布式关节",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "distributed joint"
+        }
+    },
+    {
+        "concept_name": "动式机器人服务系统",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "mobile [robot] servicing system"
+        }
+    },
+    {
+        "concept_name": "固定顺序机械手",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "fixed sequence manipulator"
+        }
+    },
+    {
+        "concept_name": "圆柱坐标机器人",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "cylindrical robot"
+        }
+    },
+    {
+        "concept_name": "基座坐标系",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "base coordinate system"
+        }
+    },
+    {
+        "concept_name": "多关节结构",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "articulated structure"
+        }
+    },
+    {
+        "concept_name": "大地坐标系",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "geodetic coordinate system"
+        }
+    },
+    {
+        "concept_name": "学习控制",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "learning control"
+        }
+    },
+    {
+        "concept_name": "安装",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "installation"
+        }
+    },
+    {
+        "concept_name": "工业机器人",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "industrial robot"
+        }
+    },
+    {
+        "concept_name": "工作空间",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "working space"
+        }
+    },
+    {
+        "concept_name": "工具中心点",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "tool center point"
+        }
+    },
+    {
+        "concept_name": "循环时间",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "cycle time"
+        }
+    },
+    {
+        "concept_name": "手动模式",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "manual mode"
+        }
+    },
+    {
+        "concept_name": "手工数据输入编程",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "manual data input programming"
+        }
+    },
+    {
+        "concept_name": "手形爪",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "gripper"
+        }
+    },
+    {
+        "concept_name": "技术实验卫星机械手",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "engineering test satellite manipulator"
+        }
+    },
+    {
+        "concept_name": "投入运行",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "commissioning"
+        }
+    },
+    {
+        "concept_name": "控制程序",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "control program"
+        }
+    },
+    {
+        "concept_name": "搜索功能",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "search function"
+        }
+    },
+    {
+        "concept_name": "摆动式机器人",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "pendular robot"
+        }
+    },
+    {
+        "concept_name": "操作员",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "operator"
+        }
+    },
+    {
+        "concept_name": "操作模式",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "operation mode"
+        }
+    },
+    {
+        "concept_name": "操作空间",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "operational space"
+        }
+    },
+    {
+        "concept_name": "操纵杆",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "joystick"
+        }
+    },
+    {
+        "concept_name": "显路径编程",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "explicit path programming"
+        }
+    },
+    {
+        "concept_name": "最大力矩",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "maximum torque"
+        }
+    },
+    {
+        "concept_name": "最大空间",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "maximum space"
+        }
+    },
+    {
+        "concept_name": "末端执行器",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "end-effector"
+        }
+    },
+    {
+        "concept_name": "末端执行器耦合装置",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "end-effector coupling device"
+        }
+    },
+    {
+        "concept_name": "机器人",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "robot"
+        }
+    },
+    {
+        "concept_name": "机器人学",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "robotics"
+        }
+    },
+    {
+        "concept_name": "机器人技术实验装置",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "robot technology experiment device"
+        }
+    },
+    {
+        "concept_name": "机器人系统",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "robot system"
+        }
+    },
+    {
+        "concept_name": "机械手",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "又称": " 操作机",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "manipulator"
+        }
+    },
+    {
+        "concept_name": "机械接口",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "mechanical interface"
+        }
+    },
+    {
+        "concept_name": "机械接口坐标系",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "mechanical interface coordinate system"
+        }
+    },
+    {
+        "concept_name": "极坐标机器人",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "polar robot"
+        }
+    },
+    {
+        "concept_name": "极限负载",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "limiting load"
+        }
+    },
+    {
+        "concept_name": "柔顺性",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "compliance"
+        }
+    },
+    {
+        "concept_name": "标准循环",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "standard cycle"
+        }
+    },
+    {
+        "concept_name": "校准位姿",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "alignment pose"
+        }
+    },
+    {
+        "concept_name": "桁架式机器人",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "gantry robot"
+        }
+    },
+    {
+        "concept_name": "棱柱型关节",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "prismatic joint"
+        }
+    },
+    {
+        "concept_name": "正常工作条件",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "normal operating condition"
+        }
+    },
+    {
+        "concept_name": "滑动关节",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "sliding joint"
+        }
+    },
+    {
+        "concept_name": "漫游机器人",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "rover"
+        }
+    },
+    {
+        "concept_name": "目标指向编程",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "goal directed programming"
+        }
+    },
+    {
+        "concept_name": "直角坐标机器人",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "rectangular robot"
+        }
+    },
+    {
+        "concept_name": "示教再现机器人",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "playback robot"
+        }
+    },
+    {
+        "concept_name": "示教盒",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "teach pendant"
+        }
+    },
+    {
+        "concept_name": "示教编程",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "teach programming"
+        }
+    },
+    {
+        "concept_name": "移动式机器人",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "mobile robot"
+        }
+    },
+    {
+        "concept_name": "空间站遥控机械手系统",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "space station remote manipulator system"
+        }
+    },
+    {
+        "concept_name": "空间自由飞行器机械手",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "space free flight unit manipulator"
+        }
+    },
+    {
+        "concept_name": "紧急停止",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "emergency stop"
+        }
+    },
+    {
+        "concept_name": "编程人员",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "programmer"
+        }
+    },
+    {
+        "concept_name": "腕",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "wrist"
+        }
+    },
+    {
+        "concept_name": "臂",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "arm"
+        }
+    },
+    {
+        "concept_name": "自主式机器人",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "autonomous robot"
+        }
+    },
+    {
+        "concept_name": "自动模式",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "automatic mode"
+        }
+    },
+    {
+        "concept_name": "自由飞行机器人",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "free flying robot"
+        }
+    },
+    {
+        "concept_name": "航天飞机遥控机械手系统",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "shuttle remote manipulator system"
+        }
+    },
+    {
+        "concept_name": "舱内活动机器人",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "intravehicular activity robot"
+        }
+    },
+    {
+        "concept_name": "舱外活动机器人",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "extravehicular activity robot"
+        }
+    },
+    {
+        "concept_name": "行星考察机器人",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "planetary exploration robot"
+        }
+    },
+    {
+        "concept_name": "负载",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "load"
+        }
+    },
+    {
+        "concept_name": "路径",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "path"
+        }
+    },
+    {
+        "concept_name": "路径加速度",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "path acceleration"
+        }
+    },
+    {
+        "concept_name": "路径精度",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "path accuracy"
+        }
+    },
+    {
+        "concept_name": "路径速度",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "path velocity"
+        }
+    },
+    {
+        "concept_name": "路径速度波动量",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "path velocity fluctuation"
+        }
+    },
+    {
+        "concept_name": "路径速度精度",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "path velocity accuracy"
+        }
+    },
+    {
+        "concept_name": "路径速度重复精度",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "path velocity repeatability"
+        }
+    },
+    {
+        "concept_name": "路径重复精度",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "path repeatability"
+        }
+    },
+    {
+        "concept_name": "转动关节",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "rotary joint"
+        }
+    },
+    {
+        "concept_name": "轴",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "axis"
+        }
+    },
+    {
+        "concept_name": "达到位姿",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "attained pose"
+        }
+    },
+    {
+        "concept_name": "运动空间",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "motion space"
+        }
+    },
+    {
+        "concept_name": "远心柔顺装置",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "remote center compliance device"
+        }
+    },
+    {
+        "concept_name": "连续路径控制",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "continuous path control"
+        }
+    },
+    {
+        "concept_name": "遥控机器人",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "telerobot"
+        }
+    },
+    {
+        "concept_name": "遥控机械手",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "teleoperator"
+        }
+    },
+    {
+        "concept_name": "遥操作技术",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "teleoperation"
+        }
+    },
+    {
+        "concept_name": "遥操作系统",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "remote operating system"
+        }
+    },
+    {
+        "concept_name": "遥现技术",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "telepresence"
+        }
+    },
+    {
+        "concept_name": "限定空间",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "restricted space"
+        }
+    },
+    {
+        "concept_name": "静态刚度",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "static stiffness"
+        }
+    },
+    {
+        "concept_name": "静态柔度",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "static compliance"
+        }
+    },
+    {
+        "concept_name": "额定负载",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "rated load"
+        }
+    },
+    {
+        "concept_name": "飞行遥控机器人服务器",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "flight telerobotic servicer"
+        }
+    },
+    {
+        "concept_name": "驱动器",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "actuator"
+        }
+    },
+    {
+        "concept_name": "龙骨式机器人",
+        "details": {
+            "学科": "航天科学技术_航天机器人",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "spine robot"
+        }
+    }
+]

@@ -1,0 +1,899 @@
+[
+    {
+        "concept_name": "[内镜]光导纤维",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "[endoscopic] optical fibers"
+        }
+    },
+    {
+        "concept_name": "[内镜]冷光源",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "[endoscopic] cold light source"
+        }
+    },
+    {
+        "concept_name": "[内镜]吸引阀",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "[endoscopic] suction valve"
+        }
+    },
+    {
+        "concept_name": "[内镜]导像束",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "[endoscopic] image guide bundles"
+        }
+    },
+    {
+        "concept_name": "[内镜]导光束",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "[endoscopic] light guide bundles"
+        }
+    },
+    {
+        "concept_name": "[内镜]导光连接部",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "[endoscopic] light guide connector section"
+        }
+    },
+    {
+        "concept_name": "[内镜]弯曲部",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "[endoscopic] bending section"
+        }
+    },
+    {
+        "concept_name": "[内镜]插入管",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "[endoscopic] insertion tube"
+        }
+    },
+    {
+        "concept_name": "[内镜]操纵部",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "[endoscopic] control section"
+        }
+    },
+    {
+        "concept_name": "[内镜]活检管道开口",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "[endoscopic] biopsy channel opening"
+        }
+    },
+    {
+        "concept_name": "[内镜]角度旋钮",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "[endoscopic] angulation knob"
+        }
+    },
+    {
+        "concept_name": "[内镜]角度锁钮",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "[endoscopic] locking knob"
+        }
+    },
+    {
+        "concept_name": "乙状结肠镜检查[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "sigmoidoscopy"
+        }
+    },
+    {
+        "concept_name": "乳头上部切开",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "suprapapillary incision"
+        }
+    },
+    {
+        "concept_name": "乳头切开刀",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "papillotome"
+        }
+    },
+    {
+        "concept_name": "乳头括约肌切开[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "sphincterotomy"
+        }
+    },
+    {
+        "concept_name": "侧视内镜",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "side-viewing endoscope"
+        }
+    },
+    {
+        "concept_name": "光动力学治疗[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "photodynamic therapy"
+        }
+    },
+    {
+        "concept_name": "全上消化道内镜检查[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "panendoscopy"
+        }
+    },
+    {
+        "concept_name": "内镜",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "endoscope"
+        }
+    },
+    {
+        "concept_name": "内镜取石[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "endoscopic stone extraction technique"
+        }
+    },
+    {
+        "concept_name": "内镜复位[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "endoscopic reduction"
+        }
+    },
+    {
+        "concept_name": "内镜检查术",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "endoscopy"
+        }
+    },
+    {
+        "concept_name": "内镜治疗[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "therapeutic endoscopy"
+        }
+    },
+    {
+        "concept_name": "内镜注射治疗[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "endoscopic injection therapy"
+        }
+    },
+    {
+        "concept_name": "内镜碎石[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "endoscopic lithotripsy"
+        }
+    },
+    {
+        "concept_name": "内镜置管[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "endoprosthesis"
+        }
+    },
+    {
+        "concept_name": "内镜胆管引流[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "endoscopic biliary drainage"
+        }
+    },
+    {
+        "concept_name": "内镜胰管引流[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "endoscopic drainage of pancreatic duct"
+        }
+    },
+    {
+        "concept_name": "内镜超声检查[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "endoscopic ultrasonography"
+        }
+    },
+    {
+        "concept_name": "内镜逆行胰胆管造影[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "endoscopic retrograde cholangiopancreatography"
+        }
+    },
+    {
+        "concept_name": "内镜黏膜下肿瘤切除[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "endoscopic enucleation of submucosal tumor"
+        }
+    },
+    {
+        "concept_name": "冲洗法细胞学检查[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "lavage cytologic examination"
+        }
+    },
+    {
+        "concept_name": "凹陷性病变",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "excavated lesion"
+        }
+    },
+    {
+        "concept_name": "前视内镜",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "forward-viewing endoscope"
+        }
+    },
+    {
+        "concept_name": "剥脱活检",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "又称": " 大活检",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "strip biopsy"
+        }
+    },
+    {
+        "concept_name": "十二指肠镜检查[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "duodenoscopy"
+        }
+    },
+    {
+        "concept_name": "单极电凝[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "monopolar electrocoagulation"
+        }
+    },
+    {
+        "concept_name": "印片法细胞学检查[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "imprint cytologic examination"
+        }
+    },
+    {
+        "concept_name": "双极电凝[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "bipolar electrocoagulation"
+        }
+    },
+    {
+        "concept_name": "吸引活检[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "suction biopsy"
+        }
+    },
+    {
+        "concept_name": "圈套器",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "snare"
+        }
+    },
+    {
+        "concept_name": "壁外性压迫",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "extrinsic compression of wall"
+        }
+    },
+    {
+        "concept_name": "多极电凝[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "multipolar electrocoagulation"
+        }
+    },
+    {
+        "concept_name": "小儿内镜检查[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "pediatric endoscopy"
+        }
+    },
+    {
+        "concept_name": "小肠镜检查[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "small intestinal endoscopy"
+        }
+    },
+    {
+        "concept_name": "巨大皱襞",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "giant folds"
+        }
+    },
+    {
+        "concept_name": "平坦性病变",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "flat lesion"
+        }
+    },
+    {
+        "concept_name": "幽门环变形",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "deformity of pyloric ring"
+        }
+    },
+    {
+        "concept_name": "息肉分块切除[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "piecemeal polypectomy"
+        }
+    },
+    {
+        "concept_name": "息肉切除[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "polypectomy"
+        }
+    },
+    {
+        "concept_name": "探条扩张[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "bougienage"
+        }
+    },
+    {
+        "concept_name": "擦拭法细胞学检查[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "abrasive cytologic examination"
+        }
+    },
+    {
+        "concept_name": "放大内镜检查[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "magnifying endoscopy"
+        }
+    },
+    {
+        "concept_name": "放大腹腔镜检查[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "magnifying laparoscopy"
+        }
+    },
+    {
+        "concept_name": "斜视内镜",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "oblique-viewing endoscope"
+        }
+    },
+    {
+        "concept_name": "术中内镜检查[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "intraoperative endoscopy"
+        }
+    },
+    {
+        "concept_name": "桥形皱襞",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "bridging fold"
+        }
+    },
+    {
+        "concept_name": "残胃",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "gastric remnant"
+        }
+    },
+    {
+        "concept_name": "气囊扩张器",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "balloon dilator"
+        }
+    },
+    {
+        "concept_name": "水充盈法",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "water-filling method"
+        }
+    },
+    {
+        "concept_name": "水囊法",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "water-filled balloon method"
+        }
+    },
+    {
+        "concept_name": "消化内镜[学]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "digestive endoscopy"
+        }
+    },
+    {
+        "concept_name": "滑管",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "sliding tube"
+        }
+    },
+    {
+        "concept_name": "激光治疗[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "laser therapy"
+        }
+    },
+    {
+        "concept_name": "热探头凝固[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "heater probe coagulation"
+        }
+    },
+    {
+        "concept_name": "热活检",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "hot biopsy"
+        }
+    },
+    {
+        "concept_name": "电子内镜检查[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "electronic endoscopy"
+        }
+    },
+    {
+        "concept_name": "皱襞集中",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "converging folds"
+        }
+    },
+    {
+        "concept_name": "直肠镜检查[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "proctoscopy"
+        }
+    },
+    {
+        "concept_name": "直视下活检[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "direct vision biopsy"
+        }
+    },
+    {
+        "concept_name": "硬式内镜",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "rigid endoscope"
+        }
+    },
+    {
+        "concept_name": "纤维内镜",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "fiberendoscope"
+        }
+    },
+    {
+        "concept_name": "经口胆管镜检查[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "peroral cholangioscopy"
+        }
+    },
+    {
+        "concept_name": "经皮内镜胃造瘘[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "percutaneous endoscopic gastrostomy"
+        }
+    },
+    {
+        "concept_name": "经皮经肝胆囊镜检查[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "percutaneous transhepatic cholecystoscopy"
+        }
+    },
+    {
+        "concept_name": "经皮经肝胆管镜检查[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "percutaneous transhepatic cholangioscopy"
+        }
+    },
+    {
+        "concept_name": "结肠镜检查[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "colonoscopy"
+        }
+    },
+    {
+        "concept_name": "缝线肉芽肿",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "suture granuloma"
+        }
+    },
+    {
+        "concept_name": "翻转法内镜检查[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "reverse method of endoscopy"
+        }
+    },
+    {
+        "concept_name": "肛门镜检查[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "anoscopy"
+        }
+    },
+    {
+        "concept_name": "胃镜",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "gastroscope"
+        }
+    },
+    {
+        "concept_name": "胃镜检查[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "gastroscopy"
+        }
+    },
+    {
+        "concept_name": "胆囊镜检查[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "cholecystoscopy"
+        }
+    },
+    {
+        "concept_name": "胆管内置管扩张[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "biliary stent dilatation"
+        }
+    },
+    {
+        "concept_name": "胰管未汇合",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "non-fusion of pancreatic ducts"
+        }
+    },
+    {
+        "concept_name": "胰管镜检查[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "pancreatoscopy"
+        }
+    },
+    {
+        "concept_name": "胰胆管汇合异常",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "malfusion of pancreatobiliary ducts"
+        }
+    },
+    {
+        "concept_name": "脱气水",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "de-aerated water"
+        }
+    },
+    {
+        "concept_name": "脱落法细胞学检查[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "exfoliative cytologic examination"
+        }
+    },
+    {
+        "concept_name": "腹腔镜治疗[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "therapeutic laparoscopy"
+        }
+    },
+    {
+        "concept_name": "腹腔镜胆囊切除[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "laparoscopic cholecystectomy"
+        }
+    },
+    {
+        "concept_name": "色素内镜检查[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "dye endoscopy"
+        }
+    },
+    {
+        "concept_name": "虫蚀样边缘",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "eroded edge"
+        }
+    },
+    {
+        "concept_name": "血管显露",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "exposed vessel"
+        }
+    },
+    {
+        "concept_name": "超声内镜",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "ultrasonic endoscope"
+        }
+    },
+    {
+        "concept_name": "超声腹腔镜",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "ultrasonic laparoscope"
+        }
+    },
+    {
+        "concept_name": "钳夹活检[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "forceps biopsy"
+        }
+    },
+    {
+        "concept_name": "隆起性病变",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "protrusion lesion"
+        }
+    },
+    {
+        "concept_name": "霜斑样病变",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "“shimofuri” lesion"
+        }
+    },
+    {
+        "concept_name": "预备性切开",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "precutting"
+        }
+    },
+    {
+        "concept_name": "食管镜检查[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "esophagoscopy"
+        }
+    },
+    {
+        "concept_name": "食管静脉曲张内镜结扎[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "endoscopic rubber banding for esophageal varices"
+        }
+    },
+    {
+        "concept_name": "食管静脉曲张硬化治疗[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "sclerotherapy for esophageal varices"
+        }
+    },
+    {
+        "concept_name": "黏膜不平",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "uneven mucosa"
+        }
+    },
+    {
+        "concept_name": "黏膜切除术",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "mucosectomy"
+        }
+    },
+    {
+        "concept_name": "黏膜桥",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "mucosal bridge"
+        }
+    },
+    {
+        "concept_name": "黏膜皱襞中断",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "abrupt ending of mucosal fold"
+        }
+    },
+    {
+        "concept_name": "黏膜皱襞前端变细",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tapering of mucosal fold"
+        }
+    },
+    {
+        "concept_name": "黏膜皱襞杵状肥大",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "clubbing of mucosal fold"
+        }
+    },
+    {
+        "concept_name": "黏膜缺乏光泽",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "lack of mucosal luster"
+        }
+    },
+    {
+        "concept_name": "鼻胆管引流[术]",
+        "details": {
+            "学科": "医学_消化内镜学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "nasobiliary drainage"
+        }
+    }
+]

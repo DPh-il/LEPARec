@@ -1,0 +1,1063 @@
+[
+    {
+        "concept_name": "WKB方法",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "WKB method"
+        }
+    },
+    {
+        "concept_name": "不平衡",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "unbalance"
+        }
+    },
+    {
+        "concept_name": "不平衡量",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "unbalance"
+        }
+    },
+    {
+        "concept_name": "临界转速",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "critical speed of rotation"
+        }
+    },
+    {
+        "concept_name": "久期不稳定性",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "secular instability"
+        }
+    },
+    {
+        "concept_name": "久期项",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "secular term"
+        }
+    },
+    {
+        "concept_name": "互耦力",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "cross force"
+        }
+    },
+    {
+        "concept_name": "亚临界转速",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "subcritical speed"
+        }
+    },
+    {
+        "concept_name": "亚谐波",
+        "details": {
+            "学科": "力学_一般力学",
+            "曾称": " 次谐波",
+            "见载": "《力学名词》第一版",
+            "英文名": "subharmonic"
+        }
+    },
+    {
+        "concept_name": "优势频率",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "dominant frequency"
+        }
+    },
+    {
+        "concept_name": "作用-角度变量",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "action-angle variables"
+        }
+    },
+    {
+        "concept_name": "作用量积分",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "action integral"
+        }
+    },
+    {
+        "concept_name": "倒谱",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "cepstrum"
+        }
+    },
+    {
+        "concept_name": "倾覆力矩",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "capsizing moment"
+        }
+    },
+    {
+        "concept_name": "减振",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "vibration reduction"
+        }
+    },
+    {
+        "concept_name": "凯恩方法",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Kane method"
+        }
+    },
+    {
+        "concept_name": "分布参量系统",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "distributed parameter system"
+        }
+    },
+    {
+        "concept_name": "分析力学",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "analytic mechanics"
+        }
+    },
+    {
+        "concept_name": "分界线",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "separatrix"
+        }
+    },
+    {
+        "concept_name": "分频进动",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "fractional frequency precession"
+        }
+    },
+    {
+        "concept_name": "动不平衡",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "dynamic unbalance"
+        }
+    },
+    {
+        "concept_name": "动平衡",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "dynamic balancing"
+        }
+    },
+    {
+        "concept_name": "劳斯方程",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Routh equation"
+        }
+    },
+    {
+        "concept_name": "半峰宽度",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "half-peak width"
+        }
+    },
+    {
+        "concept_name": "半频进动",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "half frequency precession"
+        }
+    },
+    {
+        "concept_name": "参量[激励]振动",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "parametric vibration"
+        }
+    },
+    {
+        "concept_name": "反共振",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "anti-resonance"
+        }
+    },
+    {
+        "concept_name": "同步",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "synchronization"
+        }
+    },
+    {
+        "concept_name": "同相分量",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "in-phase component"
+        }
+    },
+    {
+        "concept_name": "哈密顿-雅可比方程",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Hamilton-Jacobi equation"
+        }
+    },
+    {
+        "concept_name": "哈密顿[量]",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Hamiltonian"
+        }
+    },
+    {
+        "concept_name": "哈密顿函数",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Hamiltonian function"
+        }
+    },
+    {
+        "concept_name": "哈密顿原理",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Hamilton principle"
+        }
+    },
+    {
+        "concept_name": "喘振",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "surge"
+        }
+    },
+    {
+        "concept_name": "嗡鸣",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "buzz"
+        }
+    },
+    {
+        "concept_name": "固有振动",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "natural vibration"
+        }
+    },
+    {
+        "concept_name": "固有模态",
+        "details": {
+            "学科": "力学_一般力学",
+            "又称": " 固有振型",
+            "见载": "《力学名词》第一版",
+            "英文名": "natural mode of vibration"
+        }
+    },
+    {
+        "concept_name": "基频",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "fundamental frequency"
+        }
+    },
+    {
+        "concept_name": "多体系统",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "multibody system"
+        }
+    },
+    {
+        "concept_name": "多刚体系统",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "multi-rigid-body system"
+        }
+    },
+    {
+        "concept_name": "姿态角",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "attitude angle"
+        }
+    },
+    {
+        "concept_name": "希尔方程",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Hill equation"
+        }
+    },
+    {
+        "concept_name": "平均法",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "averaging method"
+        }
+    },
+    {
+        "concept_name": "并矢",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "dyad"
+        }
+    },
+    {
+        "concept_name": "库仑阻尼",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Coulomb damping"
+        }
+    },
+    {
+        "concept_name": "应力过冲",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "stress overshoot"
+        }
+    },
+    {
+        "concept_name": "弗洛凯定理",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Floquet theorem"
+        }
+    },
+    {
+        "concept_name": "循环坐标",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "cyclic coordinate"
+        }
+    },
+    {
+        "concept_name": "循环积分",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "cyclic integral"
+        }
+    },
+    {
+        "concept_name": "惯性导航",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "inertial guidance"
+        }
+    },
+    {
+        "concept_name": "拉格朗日[量]",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Lagrangian"
+        }
+    },
+    {
+        "concept_name": "拉格朗日乘子",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Lagrange multiplier"
+        }
+    },
+    {
+        "concept_name": "拉格朗日函数",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Lagrangian function"
+        }
+    },
+    {
+        "concept_name": "拉格朗日括号",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Lagrange bracket"
+        }
+    },
+    {
+        "concept_name": "挠性转子",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "flexible rotor"
+        }
+    },
+    {
+        "concept_name": "摆振",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "shimmy"
+        }
+    },
+    {
+        "concept_name": "方位角",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "azimythal angle"
+        }
+    },
+    {
+        "concept_name": "暂态",
+        "details": {
+            "学科": "力学_一般力学",
+            "曾称": " 瞬态",
+            "见载": "《力学名词》第一版",
+            "英文名": "transient state"
+        }
+    },
+    {
+        "concept_name": "机动性",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "maneuverability"
+        }
+    },
+    {
+        "concept_name": "机器人动力学",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "robot dynamics"
+        }
+    },
+    {
+        "concept_name": "机械导纳",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "mechanical admittance"
+        }
+    },
+    {
+        "concept_name": "机械效率",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "mechanical efficiency"
+        }
+    },
+    {
+        "concept_name": "机械阻抗",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "mechanical impedance"
+        }
+    },
+    {
+        "concept_name": "李雅普诺夫函数",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Lyapunov function"
+        }
+    },
+    {
+        "concept_name": "模态分析",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "modal analysis"
+        }
+    },
+    {
+        "concept_name": "模糊振动",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "fuzzy vibration"
+        }
+    },
+    {
+        "concept_name": "正则变换",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "canonical transformation"
+        }
+    },
+    {
+        "concept_name": "正则变量",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "canonical variable"
+        }
+    },
+    {
+        "concept_name": "正则摄动",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "canonical perturbation"
+        }
+    },
+    {
+        "concept_name": "正则方程",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "canonical equation"
+        }
+    },
+    {
+        "concept_name": "油膜振荡",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "oil whip"
+        }
+    },
+    {
+        "concept_name": "泊松括号",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Poisson bracket"
+        }
+    },
+    {
+        "concept_name": "涡动",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "whirl"
+        }
+    },
+    {
+        "concept_name": "渐近稳定性",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "asymptotic stability"
+        }
+    },
+    {
+        "concept_name": "环境振动",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "ambient vibration"
+        }
+    },
+    {
+        "concept_name": "现场平衡",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "field balancing"
+        }
+    },
+    {
+        "concept_name": "瑞利定理",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Rayleigh theorem"
+        }
+    },
+    {
+        "concept_name": "相平面法",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "phase plane method"
+        }
+    },
+    {
+        "concept_name": "相轨迹",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "phase trajectory"
+        }
+    },
+    {
+        "concept_name": "硬弹簧",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "hard spring"
+        }
+    },
+    {
+        "concept_name": "硬激励",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "hard excitation"
+        }
+    },
+    {
+        "concept_name": "等倾线法",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "isocline method"
+        }
+    },
+    {
+        "concept_name": "组合音调",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "combination tone"
+        }
+    },
+    {
+        "concept_name": "结构稳定性",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "structural stability"
+        }
+    },
+    {
+        "concept_name": "缓冲器",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "buffer"
+        }
+    },
+    {
+        "concept_name": "耗散函数",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "dissipative function"
+        }
+    },
+    {
+        "concept_name": "自动定心",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "self-alignment"
+        }
+    },
+    {
+        "concept_name": "自激振动",
+        "details": {
+            "学科": "力学_一般力学",
+            "简称": " 自振",
+            "见载": "《力学名词》第一版",
+            "英文名": "self-excited vibration"
+        }
+    },
+    {
+        "concept_name": "自由振动",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "free vibration"
+        }
+    },
+    {
+        "concept_name": "舒勒周期",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Schuler period"
+        }
+    },
+    {
+        "concept_name": "范德波尔方程",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "van der Pol equation"
+        }
+    },
+    {
+        "concept_name": "蛇行",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "hunting"
+        }
+    },
+    {
+        "concept_name": "衰减",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "attenuation"
+        }
+    },
+    {
+        "concept_name": "解谐",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "detuning"
+        }
+    },
+    {
+        "concept_name": "诺特定理",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Noether theorem"
+        }
+    },
+    {
+        "concept_name": "谐波平衡法",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "harmonic balance method"
+        }
+    },
+    {
+        "concept_name": "负阻尼",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "negative damping"
+        }
+    },
+    {
+        "concept_name": "起伏振荡",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "phugoid oscillation"
+        }
+    },
+    {
+        "concept_name": "起伏运动",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "phugoid motion"
+        }
+    },
+    {
+        "concept_name": "超调量",
+        "details": {
+            "学科": "力学_一般力学",
+            "又称": " 过冲",
+            "见载": "《力学名词》第一版",
+            "英文名": "overshoot"
+        }
+    },
+    {
+        "concept_name": "超谐波",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "ultraharmonic"
+        }
+    },
+    {
+        "concept_name": "跳跃现象",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "jump phenomenon"
+        }
+    },
+    {
+        "concept_name": "轨道稳定性",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "orbital stability"
+        }
+    },
+    {
+        "concept_name": "转子[-支承-基础]系统",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "rotor-support-foundation system"
+        }
+    },
+    {
+        "concept_name": "转子[系统]动力学",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "rotor dynamics"
+        }
+    },
+    {
+        "concept_name": "转子临界转速",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "rotor critical speed"
+        }
+    },
+    {
+        "concept_name": "软弹簧",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "soft spring"
+        }
+    },
+    {
+        "concept_name": "软激励",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "soft excitation"
+        }
+    },
+    {
+        "concept_name": "边界积分法",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "boundary integral method"
+        }
+    },
+    {
+        "concept_name": "达芬方程",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Duffing equation"
+        }
+    },
+    {
+        "concept_name": "运动稳定性",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "stability of motion"
+        }
+    },
+    {
+        "concept_name": "邓克利公式",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Dunkerley formula"
+        }
+    },
+    {
+        "concept_name": "阻尼器",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "damper"
+        }
+    },
+    {
+        "concept_name": "阻抗匹配",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "impedence matching"
+        }
+    },
+    {
+        "concept_name": "阿佩尔方程",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Appel equation"
+        }
+    },
+    {
+        "concept_name": "陀螺体",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "gyrostat"
+        }
+    },
+    {
+        "concept_name": "陀螺力矩",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "gyroscopic torque"
+        }
+    },
+    {
+        "concept_name": "陀螺动力学",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "gyrodynamics"
+        }
+    },
+    {
+        "concept_name": "陀螺平台",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "gyroplatform"
+        }
+    },
+    {
+        "concept_name": "陀螺摆",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "gyropendulum"
+        }
+    },
+    {
+        "concept_name": "陀螺稳定器",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "gyrostabilizer"
+        }
+    },
+    {
+        "concept_name": "随机振动",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "stochastic vibration"
+        }
+    },
+    {
+        "concept_name": "隔振",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "vibration isolation"
+        }
+    },
+    {
+        "concept_name": "集总参量系统",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "lumped parameter system"
+        }
+    },
+    {
+        "concept_name": "静不平衡",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "static unbalance"
+        }
+    },
+    {
+        "concept_name": "静平衡",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "static balancing"
+        }
+    },
+    {
+        "concept_name": "非同相分量",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "out-of-phase component"
+        }
+    },
+    {
+        "concept_name": "频谱",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "frequency spectrum"
+        }
+    },
+    {
+        "concept_name": "颤动",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "chatter"
+        }
+    },
+    {
+        "concept_name": "风激振动",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "aeolian vibration"
+        }
+    },
+    {
+        "concept_name": "马蒂厄方程",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "Mathieu equation"
+        }
+    },
+    {
+        "concept_name": "驰振",
+        "details": {
+            "学科": "力学_一般力学",
+            "见载": "《力学名词》第一版",
+            "英文名": "galloping"
+        }
+    }
+]

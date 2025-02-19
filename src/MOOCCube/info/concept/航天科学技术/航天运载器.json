@@ -1,0 +1,1494 @@
+[
+    {
+        "concept_name": "[多级运载火箭的]级",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "stage"
+        }
+    },
+    {
+        "concept_name": "[飞行]安全判断准则",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "flight-safety judgment criterion"
+        }
+    },
+    {
+        "concept_name": "[飞行]安全控制系统",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "flight-safety control system"
+        }
+    },
+    {
+        "concept_name": "[飞行]安全自毁判定模式",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "flight-safety self-destruction determine mode"
+        }
+    },
+    {
+        "concept_name": "[飞行]安全自毁系统",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "flight-safety self-destruction system"
+        }
+    },
+    {
+        "concept_name": "一次性使用运载器",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "expendable launch vehicle"
+        }
+    },
+    {
+        "concept_name": "一级半火箭",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "one and a half stage rocket"
+        }
+    },
+    {
+        "concept_name": "万有引力常数",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "universal gravitational constant"
+        }
+    },
+    {
+        "concept_name": "上面级",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "upper stage"
+        }
+    },
+    {
+        "concept_name": "下面级",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "lower stage"
+        }
+    },
+    {
+        "concept_name": "中制导",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "midcourse guidance"
+        }
+    },
+    {
+        "concept_name": "人孔",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "英文": "access opening ;manhole",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "access opening"
+        }
+    },
+    {
+        "concept_name": "仪器舱",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "英文": "instrument compartment ;instrument module",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "instrument compartment"
+        }
+    },
+    {
+        "concept_name": "任务要求",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "mission requirement"
+        }
+    },
+    {
+        "concept_name": "伺服机构",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "servomechanism"
+        }
+    },
+    {
+        "concept_name": "俯仰程序角",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "pitch program angle"
+        }
+    },
+    {
+        "concept_name": "允许自毁",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "self-destruction permissible"
+        }
+    },
+    {
+        "concept_name": "光学瞄准",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "optical sighting"
+        }
+    },
+    {
+        "concept_name": "关机方程",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "cutoff equation"
+        }
+    },
+    {
+        "concept_name": "分布式遥测系统",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "distributed telemetry system"
+        }
+    },
+    {
+        "concept_name": "分离机构",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "separation device"
+        }
+    },
+    {
+        "concept_name": "分裂",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "fragmentation"
+        }
+    },
+    {
+        "concept_name": "初样设计",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "prototype design"
+        }
+    },
+    {
+        "concept_name": "初步设计",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "preliminary design"
+        }
+    },
+    {
+        "concept_name": "加注后总质量",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "英文": "loaded-rocket mass ;total mass after loading",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "loaded-rocket mass"
+        }
+    },
+    {
+        "concept_name": "单级入轨运载器",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "single-stage-to orbit launch vehicle"
+        }
+    },
+    {
+        "concept_name": "卫星整流罩",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "satellite fairing"
+        }
+    },
+    {
+        "concept_name": "原始数据",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "英文": "original data ;raw data",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "original data"
+        }
+    },
+    {
+        "concept_name": "反推喷管",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "retro-nozzle"
+        }
+    },
+    {
+        "concept_name": "发动机[推力]架",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "engine thrust frame"
+        }
+    },
+    {
+        "concept_name": "发动机关机",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "engine cutoff"
+        }
+    },
+    {
+        "concept_name": "发动机可靠性",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "engine reliability"
+        }
+    },
+    {
+        "concept_name": "发动机喷管",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "engine nozzle"
+        }
+    },
+    {
+        "concept_name": "发动机试车台",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "engine test stand"
+        }
+    },
+    {
+        "concept_name": "发动机起动",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "engine starting"
+        }
+    },
+    {
+        "concept_name": "发射勤务塔",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "launching service tower"
+        }
+    },
+    {
+        "concept_name": "发射区",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "launch area"
+        }
+    },
+    {
+        "concept_name": "发射场",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "launch site"
+        }
+    },
+    {
+        "concept_name": "发射坐标系",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "launching coordinate system"
+        }
+    },
+    {
+        "concept_name": "发射方式",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "launch mode"
+        }
+    },
+    {
+        "concept_name": "发射诸元",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "launch data"
+        }
+    },
+    {
+        "concept_name": "发射逃逸",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "launch escape"
+        }
+    },
+    {
+        "concept_name": "变截面梁",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "beam with variable cross-section"
+        }
+    },
+    {
+        "concept_name": "可编程遥测系统",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "programmable telemetry system"
+        }
+    },
+    {
+        "concept_name": "可行性论证",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "feasibility study"
+        }
+    },
+    {
+        "concept_name": "后效段",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "thrust decay phase"
+        }
+    },
+    {
+        "concept_name": "喷焰衰减",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "plume attenuation"
+        }
+    },
+    {
+        "concept_name": "回收区",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "recovery area"
+        }
+    },
+    {
+        "concept_name": "固体火箭推进剂",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "solid rocket propellant"
+        }
+    },
+    {
+        "concept_name": "地球扁率",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "earth oblateness"
+        }
+    },
+    {
+        "concept_name": "复合材料结构",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "composite structure"
+        }
+    },
+    {
+        "concept_name": "夹层结构",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "sandwich structure"
+        }
+    },
+    {
+        "concept_name": "姿态控制系统",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "attitude control system"
+        }
+    },
+    {
+        "concept_name": "安全溢出阀",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "discharge valve"
+        }
+    },
+    {
+        "concept_name": "安装环",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "installation ring"
+        }
+    },
+    {
+        "concept_name": "完全重复使用运载器",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "complete reusable space vehicle"
+        }
+    },
+    {
+        "concept_name": "对接框",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "英文": "interface frame ;mating frame",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "interface frame"
+        }
+    },
+    {
+        "concept_name": "导引方程",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "steering equation"
+        }
+    },
+    {
+        "concept_name": "导爆管",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "exploding pipe"
+        }
+    },
+    {
+        "concept_name": "导爆索",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "exploding fuse"
+        }
+    },
+    {
+        "concept_name": "干涉仪跟踪系统",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "interferometer tracking system"
+        }
+    },
+    {
+        "concept_name": "底部防热",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "base heat protection"
+        }
+    },
+    {
+        "concept_name": "弹射机构",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ejection mechanism"
+        }
+    },
+    {
+        "concept_name": "弹簧分离机构",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "spring separation device"
+        }
+    },
+    {
+        "concept_name": "弹道倾角",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "英文": "trajectory tilt angle ;flight path angle",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "trajectory tilt angle"
+        }
+    },
+    {
+        "concept_name": "弹道偏角",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "trajectory deflection angle"
+        }
+    },
+    {
+        "concept_name": "弹道学",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ballistics"
+        }
+    },
+    {
+        "concept_name": "当地重力加速度",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "local gravitational acceleration"
+        }
+    },
+    {
+        "concept_name": "总体结构系统",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "general structure system"
+        }
+    },
+    {
+        "concept_name": "总体设计要求",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "general design requirement"
+        }
+    },
+    {
+        "concept_name": "总装直属件",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "final assembly parts"
+        }
+    },
+    {
+        "concept_name": "惯性平台瞄准",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "inertial platform aiming"
+        }
+    },
+    {
+        "concept_name": "振动[火]箭",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "vibration test rocket"
+        }
+    },
+    {
+        "concept_name": "捷联式惯性制导",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "strap-down inertial guidance"
+        }
+    },
+    {
+        "concept_name": "控制系统",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "control system"
+        }
+    },
+    {
+        "concept_name": "控制系统模型",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "control system model"
+        }
+    },
+    {
+        "concept_name": "推进剂贮箱",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "propellant tank"
+        }
+    },
+    {
+        "concept_name": "推进系统",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "propulsion system"
+        }
+    },
+    {
+        "concept_name": "操纵机构",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "steering unit"
+        }
+    },
+    {
+        "concept_name": "整体壁板",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "integral panel"
+        }
+    },
+    {
+        "concept_name": "整体结构",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "integral structure"
+        }
+    },
+    {
+        "concept_name": "方向舵",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "yaw rudder"
+        }
+    },
+    {
+        "concept_name": "时分多路传输遥测系统",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "time division multiplex telemetry system"
+        }
+    },
+    {
+        "concept_name": "时间关机",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "time shutdown"
+        }
+    },
+    {
+        "concept_name": "最大动压载荷",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "maximum dynamic pressure load"
+        }
+    },
+    {
+        "concept_name": "有效载荷整流罩",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "payload fairing"
+        }
+    },
+    {
+        "concept_name": "末制导",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "terminal guidance"
+        }
+    },
+    {
+        "concept_name": "杆系结构",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "rod-type structure"
+        }
+    },
+    {
+        "concept_name": "标准大气",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "standard atmosphere"
+        }
+    },
+    {
+        "concept_name": "模样[火]箭",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "prototype rocket"
+        }
+    },
+    {
+        "concept_name": "歧管连接器",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "manifold connector"
+        }
+    },
+    {
+        "concept_name": "氧化剂箱",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "oxidizer tank"
+        }
+    },
+    {
+        "concept_name": "法兰盘",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "flange"
+        }
+    },
+    {
+        "concept_name": "法向导引",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "normal steering"
+        }
+    },
+    {
+        "concept_name": "液氧箱",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "liquid oxygen tank"
+        }
+    },
+    {
+        "concept_name": "深空探测与跟踪系统",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "deep-space detecting and tracking system"
+        }
+    },
+    {
+        "concept_name": "火箭",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "rocket"
+        }
+    },
+    {
+        "concept_name": "火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "rocket engine"
+        }
+    },
+    {
+        "concept_name": "火箭推进系统",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "rocket propulsion system"
+        }
+    },
+    {
+        "concept_name": "点火器",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "英文": "firing unit ;igniter",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "firing unit"
+        }
+    },
+    {
+        "concept_name": "爆炸螺栓",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "explosive bolt"
+        }
+    },
+    {
+        "concept_name": "爆炸螺母",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "explosive nut"
+        }
+    },
+    {
+        "concept_name": "环境仿真",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "environmental simulation"
+        }
+    },
+    {
+        "concept_name": "环境噪声",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "environmental noise"
+        }
+    },
+    {
+        "concept_name": "理想速度",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ideal velocity"
+        }
+    },
+    {
+        "concept_name": "电爆阀",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "electric blasting valve"
+        }
+    },
+    {
+        "concept_name": "电缆网",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "cable"
+        }
+    },
+    {
+        "concept_name": "电量参数",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "electrical parameter"
+        }
+    },
+    {
+        "concept_name": "瞄准方位角",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "aiming azimuth"
+        }
+    },
+    {
+        "concept_name": "离轨",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "deorbit"
+        }
+    },
+    {
+        "concept_name": "空天飞机",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "aerospace plane"
+        }
+    },
+    {
+        "concept_name": "空载",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "no-load"
+        }
+    },
+    {
+        "concept_name": "空重",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "empty weight"
+        }
+    },
+    {
+        "concept_name": "空间物体",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "space object"
+        }
+    },
+    {
+        "concept_name": "空间监视系统",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "space surveillance system"
+        }
+    },
+    {
+        "concept_name": "空间监视网",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "space surveillance network"
+        }
+    },
+    {
+        "concept_name": "第二宇宙速度",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "second cosmic velocity"
+        }
+    },
+    {
+        "concept_name": "等强度梁",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "constant strength beam"
+        }
+    },
+    {
+        "concept_name": "管路",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "pipeline"
+        }
+    },
+    {
+        "concept_name": "箭上跟踪与安[全]控[制]系统",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "onboard tracking and safety control system"
+        }
+    },
+    {
+        "concept_name": "箭上遥测系统",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "onboard telemetering system"
+        }
+    },
+    {
+        "concept_name": "箭体",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "rocket body"
+        }
+    },
+    {
+        "concept_name": "箱间段",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "inter-tank section"
+        }
+    },
+    {
+        "concept_name": "精度分配",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "英文": "accuracy distribution ;accuracy allocation",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "accuracy distribution"
+        }
+    },
+    {
+        "concept_name": "系统设计",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "system design"
+        }
+    },
+    {
+        "concept_name": "红外制导",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "infrared guidance"
+        }
+    },
+    {
+        "concept_name": "级间段",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "interstate section"
+        }
+    },
+    {
+        "concept_name": "结构系统",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "structural system"
+        }
+    },
+    {
+        "concept_name": "统一S波段",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "英文": "unified S-band ;USB",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "unified S-band"
+        }
+    },
+    {
+        "concept_name": "统一S波段测控系统",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "USB tracking telemetering and control system"
+        }
+    },
+    {
+        "concept_name": "缠绕结构",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "winding structure"
+        }
+    },
+    {
+        "concept_name": "网格结构",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "cellular structure"
+        }
+    },
+    {
+        "concept_name": "脱落插头",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "umbilical plug"
+        }
+    },
+    {
+        "concept_name": "脱落插座",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "umbilical socket"
+        }
+    },
+    {
+        "concept_name": "自毁时间",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "self-destruction time"
+        }
+    },
+    {
+        "concept_name": "舱口",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "hatch"
+        }
+    },
+    {
+        "concept_name": "舱段",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "bay section"
+        }
+    },
+    {
+        "concept_name": "舱门",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "cabin door"
+        }
+    },
+    {
+        "concept_name": "舵",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "rudder"
+        }
+    },
+    {
+        "concept_name": "舵机",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "英文": "rudder actuator ;vane actuator",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "rudder actuator"
+        }
+    },
+    {
+        "concept_name": "草图",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "又称": " 示意图",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "sketch"
+        }
+    },
+    {
+        "concept_name": "落点",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "impact point"
+        }
+    },
+    {
+        "concept_name": "蒙皮",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "skin"
+        }
+    },
+    {
+        "concept_name": "薄壁梁",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "thin-walled beam"
+        }
+    },
+    {
+        "concept_name": "薄壳结构",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "thin shell structure"
+        }
+    },
+    {
+        "concept_name": "蜂窝结构",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "honeycomb structure"
+        }
+    },
+    {
+        "concept_name": "被动段",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "unpowered-flight phase"
+        }
+    },
+    {
+        "concept_name": "视加速度",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "apparent acceleration"
+        }
+    },
+    {
+        "concept_name": "视速度",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "apparent velocity"
+        }
+    },
+    {
+        "concept_name": "设计极限载荷",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "design limit load"
+        }
+    },
+    {
+        "concept_name": "试样设计",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "flight-type design"
+        }
+    },
+    {
+        "concept_name": "试车[火]箭",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "captive-test rocket"
+        }
+    },
+    {
+        "concept_name": "详细设计",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "detail design"
+        }
+    },
+    {
+        "concept_name": "误差分离",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "error separation"
+        }
+    },
+    {
+        "concept_name": "误差补偿",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "error compensation"
+        }
+    },
+    {
+        "concept_name": "误爆概率",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "wrong burst probability"
+        }
+    },
+    {
+        "concept_name": "起吊接头",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "hanger fitting"
+        }
+    },
+    {
+        "concept_name": "起飞质量",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "lift-off mass"
+        }
+    },
+    {
+        "concept_name": "轨道倾角",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "orbit inclination"
+        }
+    },
+    {
+        "concept_name": "轨道区域",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "orbital region"
+        }
+    },
+    {
+        "concept_name": "轨道器",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "英文": "orbiter ;orbital vehicle",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "orbiter"
+        }
+    },
+    {
+        "concept_name": "轨道设计",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "trajectory design"
+        }
+    },
+    {
+        "concept_name": "轴向过载",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "axial load factor"
+        }
+    },
+    {
+        "concept_name": "载荷设计",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "load design"
+        }
+    },
+    {
+        "concept_name": "过载",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "overload"
+        }
+    },
+    {
+        "concept_name": "过载系数",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "overload factor"
+        }
+    },
+    {
+        "concept_name": "运载器垂直运输",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "vertical state transportation of launch vehicle"
+        }
+    },
+    {
+        "concept_name": "运载火箭",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "carrier rocket"
+        }
+    },
+    {
+        "concept_name": "连续波雷达跟踪系统",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "continuous waves radar tracking system"
+        }
+    },
+    {
+        "concept_name": "速变参数",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "fast varying parameter"
+        }
+    },
+    {
+        "concept_name": "遥测信号中断",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "telemetering signal blackout"
+        }
+    },
+    {
+        "concept_name": "遥测参数",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "telemetry parameter"
+        }
+    },
+    {
+        "concept_name": "遥测和指令系统",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "telemetry and command system"
+        }
+    },
+    {
+        "concept_name": "遥测容量",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "telemetry capacity"
+        }
+    },
+    {
+        "concept_name": "部分重复使用运载器",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "partial reusable space vehicle"
+        }
+    },
+    {
+        "concept_name": "铆接结构",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "riveted structure"
+        }
+    },
+    {
+        "concept_name": "防护堵盖",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "protective cover"
+        }
+    },
+    {
+        "concept_name": "防晃板",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "anti-sloshing baffles"
+        }
+    },
+    {
+        "concept_name": "阻力损失",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "drag losses"
+        }
+    },
+    {
+        "concept_name": "阻尼结构",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "damping structure"
+        }
+    },
+    {
+        "concept_name": "隧道管",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "tunnel pipe"
+        }
+    },
+    {
+        "concept_name": "集中载荷",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "concentrated load"
+        }
+    },
+    {
+        "concept_name": "非电量参数",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "non-electrical parameter"
+        }
+    },
+    {
+        "concept_name": "飞行安全走廊",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "flight-safety channel"
+        }
+    },
+    {
+        "concept_name": "飞行稳定性",
+        "details": {
+            "学科": "航天科学技术_航天运载器",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "flight stability"
+        }
+    }
+]

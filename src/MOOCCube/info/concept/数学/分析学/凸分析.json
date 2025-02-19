@@ -1,0 +1,786 @@
+[
+    {
+        "concept_name": "上境图",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "epigraph"
+        }
+    },
+    {
+        "concept_name": "下半连续包",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "lower semi-continuous hull"
+        }
+    },
+    {
+        "concept_name": "严格凸",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "strictly convex"
+        }
+    },
+    {
+        "concept_name": "严格凸函数",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "strictly convex function"
+        }
+    },
+    {
+        "concept_name": "严格凹函数",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "strictly concave function"
+        }
+    },
+    {
+        "concept_name": "严格拟凸函数",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "strictly quasi-convex function"
+        }
+    },
+    {
+        "concept_name": "仿射函数",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "affine function"
+        }
+    },
+    {
+        "concept_name": "仿射包",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "affine hull"
+        }
+    },
+    {
+        "concept_name": "仿射无关",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "affinely independent"
+        }
+    },
+    {
+        "concept_name": "仿射集",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "affine set"
+        }
+    },
+    {
+        "concept_name": "伪凹[的]",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "pseudo-concave"
+        }
+    },
+    {
+        "concept_name": "伪凹函数",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "pseudo-concave function"
+        }
+    },
+    {
+        "concept_name": "伪凹泛函",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "pseudo-concave functional"
+        }
+    },
+    {
+        "concept_name": "共轭凸函数",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "conjugate convex function"
+        }
+    },
+    {
+        "concept_name": "共轭凹函数",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "conjugate concave function"
+        }
+    },
+    {
+        "concept_name": "共轭双重函数",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "conjugate bifunction"
+        }
+    },
+    {
+        "concept_name": "凸凹[二元]函数",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "convex-concave function"
+        }
+    },
+    {
+        "concept_name": "凸函数",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "convex function"
+        }
+    },
+    {
+        "concept_name": "凸函数的回收函数",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "recession function of convex function"
+        }
+    },
+    {
+        "concept_name": "凸函数的回收锥",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "recession cone of convex function"
+        }
+    },
+    {
+        "concept_name": "凸函数闭包",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "closure of convex function"
+        }
+    },
+    {
+        "concept_name": "凸分析",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "convex analysis"
+        }
+    },
+    {
+        "concept_name": "凸包",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "convex hull"
+        }
+    },
+    {
+        "concept_name": "凸多胞体",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "convex polytope"
+        }
+    },
+    {
+        "concept_name": "凸多面体",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "convex polyhedron"
+        }
+    },
+    {
+        "concept_name": "凸多面锥",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "convex polyhedral cone"
+        }
+    },
+    {
+        "concept_name": "凸序列",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "convex sequence"
+        }
+    },
+    {
+        "concept_name": "凸性",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "convexity"
+        }
+    },
+    {
+        "concept_name": "凸组合",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "convex combination"
+        }
+    },
+    {
+        "concept_name": "凸超曲面",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "convex hypersurface"
+        }
+    },
+    {
+        "concept_name": "凸过程",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "convex process"
+        }
+    },
+    {
+        "concept_name": "凸锥",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "convex cone"
+        }
+    },
+    {
+        "concept_name": "凸集",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "convex set"
+        }
+    },
+    {
+        "concept_name": "凹[性]",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "concavity"
+        }
+    },
+    {
+        "concept_name": "凹凸[二元]函数",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "concave-convex function"
+        }
+    },
+    {
+        "concept_name": "凹凸函数的上闭包",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "superclosure of concave-convex function"
+        }
+    },
+    {
+        "concept_name": "凹凸函数的下闭包",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "lower closure of concave-convex function"
+        }
+    },
+    {
+        "concept_name": "凹函数",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "concave function"
+        }
+    },
+    {
+        "concept_name": "分离公理",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "separating axiom"
+        }
+    },
+    {
+        "concept_name": "分离凸集",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "separated convex set"
+        }
+    },
+    {
+        "concept_name": "分离定理",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "separating theorem"
+        }
+    },
+    {
+        "concept_name": "分离点",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "separated point"
+        }
+    },
+    {
+        "concept_name": "分离超平面",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "separating hyperplane"
+        }
+    },
+    {
+        "concept_name": "分离集",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "separated set"
+        }
+    },
+    {
+        "concept_name": "勒让德共轭",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Legendre conjugate"
+        }
+    },
+    {
+        "concept_name": "勒让德变换",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Legendre transformation"
+        }
+    },
+    {
+        "concept_name": "卷积下确界",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "infimal convolution"
+        }
+    },
+    {
+        "concept_name": "双重函数",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "bifunction"
+        }
+    },
+    {
+        "concept_name": "反常凸函数",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "improper convex function"
+        }
+    },
+    {
+        "concept_name": "回收方向",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "direction of recession"
+        }
+    },
+    {
+        "concept_name": "回收锥",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "recession cone"
+        }
+    },
+    {
+        "concept_name": "完全凸函数",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "completely convex function"
+        }
+    },
+    {
+        "concept_name": "广义m维单纯形",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "generalized m-dimensional simp- lex"
+        }
+    },
+    {
+        "concept_name": "广义凸规划",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "generalized convex program"
+        }
+    },
+    {
+        "concept_name": "广义多胞体",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "generalized polytope"
+        }
+    },
+    {
+        "concept_name": "度规函数",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "gauge function"
+        }
+    },
+    {
+        "concept_name": "度规函数的极函",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "polar of a gauge function"
+        }
+    },
+    {
+        "concept_name": "弱下半连续[的]",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "weakly lower semi-continuous"
+        }
+    },
+    {
+        "concept_name": "强拟凸函数",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "strongly quasi-convex function"
+        }
+    },
+    {
+        "concept_name": "拟凸",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "quasi-convex"
+        }
+    },
+    {
+        "concept_name": "拟凸函数",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "quasi-convex function"
+        }
+    },
+    {
+        "concept_name": "拟凸性",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "quasi-convexity"
+        }
+    },
+    {
+        "concept_name": "拟凸泛函",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "quasi-convex functional"
+        }
+    },
+    {
+        "concept_name": "拟凹函数",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "quasi-concave function"
+        }
+    },
+    {
+        "concept_name": "指示函数",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "indicator function"
+        }
+    },
+    {
+        "concept_name": "支撑函数",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "support function"
+        }
+    },
+    {
+        "concept_name": "支撑半空间",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "support half space"
+        }
+    },
+    {
+        "concept_name": "支撑平面",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "supporting plane"
+        }
+    },
+    {
+        "concept_name": "支撑泛函",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "supporting functional"
+        }
+    },
+    {
+        "concept_name": "支撑点",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "supporting point"
+        }
+    },
+    {
+        "concept_name": "支撑线函数",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "supporting line function"
+        }
+    },
+    {
+        "concept_name": "支撑超平面",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "supporting hyperplane"
+        }
+    },
+    {
+        "concept_name": "支撑超平面法",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "supporting hyperplane method"
+        }
+    },
+    {
+        "concept_name": "支撑超平面算法",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "supporting hyperplane algorithm"
+        }
+    },
+    {
+        "concept_name": "支撑集",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "support set"
+        }
+    },
+    {
+        "concept_name": "暴露射线",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "exposed ray"
+        }
+    },
+    {
+        "concept_name": "暴露方向",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "exposed direction"
+        }
+    },
+    {
+        "concept_name": "暴露点",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "exposed point"
+        }
+    },
+    {
+        "concept_name": "暴露面",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "exposed face"
+        }
+    },
+    {
+        "concept_name": "有效域",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "effective domain"
+        }
+    },
+    {
+        "concept_name": "本质严格凸",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "essentially strictly convex"
+        }
+    },
+    {
+        "concept_name": "次可微性",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "subdifferentiability"
+        }
+    },
+    {
+        "concept_name": "次微分映射",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "subdifferential mapping"
+        }
+    },
+    {
+        "concept_name": "正常凸函数",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "proper convex function"
+        }
+    },
+    {
+        "concept_name": "正常凹函数",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "proper concave function"
+        }
+    },
+    {
+        "concept_name": "相对内部",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "relatively interior"
+        }
+    },
+    {
+        "concept_name": "相对开",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "relatively open"
+        }
+    },
+    {
+        "concept_name": "相对边界",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "relatively boundary"
+        }
+    },
+    {
+        "concept_name": "端射线",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "extreme ray"
+        }
+    },
+    {
+        "concept_name": "端方向",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "extreme direction"
+        }
+    },
+    {
+        "concept_name": "类度规函数",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "gauge-like function"
+        }
+    },
+    {
+        "concept_name": "闭凸函数",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "closed convex function"
+        }
+    },
+    {
+        "concept_name": "闸锥",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "barrier cone"
+        }
+    },
+    {
+        "concept_name": "集合度规",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "gauge of set"
+        }
+    },
+    {
+        "concept_name": "非负凸函数的极函",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "polar of non-negative convex function"
+        }
+    },
+    {
+        "concept_name": "鞍函数",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "saddle-function"
+        }
+    },
+    {
+        "concept_name": "鞍函数的凸闭包",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "convex closure of saddle function"
+        }
+    },
+    {
+        "concept_name": "鞍函数的凹闭包",
+        "details": {
+            "学科": "数学_分析学_凸分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "concave closure of saddle function"
+        }
+    }
+]

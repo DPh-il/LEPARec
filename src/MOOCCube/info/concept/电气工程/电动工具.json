@@ -1,0 +1,771 @@
+[
+    {
+        "concept_name": "不可拆件",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "non-detachable part"
+        }
+    },
+    {
+        "concept_name": "不可拆软电缆",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "non-detachable flexible cable"
+        }
+    },
+    {
+        "concept_name": "不可拆软线",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "non-detachable cord"
+        }
+    },
+    {
+        "concept_name": "内接线",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "internal wiring"
+        }
+    },
+    {
+        "concept_name": "冲击强度试验",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "impact strength test"
+        }
+    },
+    {
+        "concept_name": "冲击电扳手",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric impact wrench"
+        }
+    },
+    {
+        "concept_name": "冲击电钻",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric impact drill"
+        }
+    },
+    {
+        "concept_name": "冲击能量",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "impact energy"
+        }
+    },
+    {
+        "concept_name": "双刃电剪",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric plate shear"
+        }
+    },
+    {
+        "concept_name": "可及件",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "accessible part"
+        }
+    },
+    {
+        "concept_name": "可及面",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "accessible surface"
+        }
+    },
+    {
+        "concept_name": "可拆件",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "detachable part"
+        }
+    },
+    {
+        "concept_name": "可拆软电缆",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "detachable flexible cable"
+        }
+    },
+    {
+        "concept_name": "可拆软线",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "detachable cord"
+        }
+    },
+    {
+        "concept_name": "多用电动工具",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "multi-purpose electric tool"
+        }
+    },
+    {
+        "concept_name": "夹持机构",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "fixture"
+        }
+    },
+    {
+        "concept_name": "定扭矩电扳手",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric definite torque wrench"
+        }
+    },
+    {
+        "concept_name": "岩石电钻",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric rock rotary drill"
+        }
+    },
+    {
+        "concept_name": "工作头",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "working head"
+        }
+    },
+    {
+        "concept_name": "手持式电动坡口机",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "hand-held electric beveller"
+        }
+    },
+    {
+        "concept_name": "手持式电动工具",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "hand-held electric tool"
+        }
+    },
+    {
+        "concept_name": "手柄",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "handle"
+        }
+    },
+    {
+        "concept_name": "拉扭试验",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "pull and torsion test"
+        }
+    },
+    {
+        "concept_name": "枕木电镐",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric vibrate tie tamper"
+        }
+    },
+    {
+        "concept_name": "正常负载",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "normal load"
+        }
+    },
+    {
+        "concept_name": "混凝土电钻",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric concrete drill"
+        }
+    },
+    {
+        "concept_name": "煤电钻",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric coal drill"
+        }
+    },
+    {
+        "concept_name": "电冲剪",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric nibbler"
+        }
+    },
+    {
+        "concept_name": "电刨",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric planer"
+        }
+    },
+    {
+        "concept_name": "电剪",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric shear"
+        }
+    },
+    {
+        "concept_name": "电动修枝剪",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric shrub and hedge trimmer"
+        }
+    },
+    {
+        "concept_name": "电动修蹄机",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric hoof renovation tool"
+        }
+    },
+    {
+        "concept_name": "电动凿岩机",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric rock drill"
+        }
+    },
+    {
+        "concept_name": "电动刀锯",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric sabre saw"
+        }
+    },
+    {
+        "concept_name": "电动切割机",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric cut-off machine"
+        }
+    },
+    {
+        "concept_name": "电动刮刀",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric scraper"
+        }
+    },
+    {
+        "concept_name": "电动剪毛机",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric wool shear"
+        }
+    },
+    {
+        "concept_name": "电动割草机",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric mower"
+        }
+    },
+    {
+        "concept_name": "电动卷花机",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric picker"
+        }
+    },
+    {
+        "concept_name": "电动地毯剪",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric carpet shear"
+        }
+    },
+    {
+        "concept_name": "电动夯实机",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric rammer"
+        }
+    },
+    {
+        "concept_name": "电动套丝机",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric pipe threading machine"
+        }
+    },
+    {
+        "concept_name": "电动工具",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric tool"
+        }
+    },
+    {
+        "concept_name": "电动带锯",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric belt saw"
+        }
+    },
+    {
+        "concept_name": "电动开槽机",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric groover"
+        }
+    },
+    {
+        "concept_name": "电动弯管机",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric pipe bender"
+        }
+    },
+    {
+        "concept_name": "电动往复锯",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric reciprocating saw"
+        }
+    },
+    {
+        "concept_name": "电动截枝机",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric branch cutter"
+        }
+    },
+    {
+        "concept_name": "电动抛光机",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric polisher"
+        }
+    },
+    {
+        "concept_name": "电动拉铆枪",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric blind-riveting tool"
+        }
+    },
+    {
+        "concept_name": "电动挤奶机",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric milking machine"
+        }
+    },
+    {
+        "concept_name": "电动搅拌机",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric mixer"
+        }
+    },
+    {
+        "concept_name": "电动攻丝机",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric tapper"
+        }
+    },
+    {
+        "concept_name": "电动曲线锯",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric jig saw"
+        }
+    },
+    {
+        "concept_name": "电动木钻",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric wood drill"
+        }
+    },
+    {
+        "concept_name": "电动木铣",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric router"
+        }
+    },
+    {
+        "concept_name": "电动榫孔机",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric chain mortiser"
+        }
+    },
+    {
+        "concept_name": "电动混凝土振动器",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric concrete vibrator"
+        }
+    },
+    {
+        "concept_name": "电动清管器",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric tube cleaner"
+        }
+    },
+    {
+        "concept_name": "电动湿式磨光机",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric wet grinder"
+        }
+    },
+    {
+        "concept_name": "电动焊缝坡口机",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "又称": " 电动倒角机",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric weld joint beveller"
+        }
+    },
+    {
+        "concept_name": "电动石材切割机",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric marble cutter"
+        }
+    },
+    {
+        "concept_name": "电动砂光机",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric sander"
+        }
+    },
+    {
+        "concept_name": "电动砂轮机",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric grinder"
+        }
+    },
+    {
+        "concept_name": "电动砖墙铣沟机",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric wall chaser"
+        }
+    },
+    {
+        "concept_name": "电动粮食扦样机",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric grain sampler"
+        }
+    },
+    {
+        "concept_name": "电动胀管机",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric tube expander"
+        }
+    },
+    {
+        "concept_name": "电动自进式锯管机",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric pipe milling machine"
+        }
+    },
+    {
+        "concept_name": "电动螺丝刀",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric screwdriver"
+        }
+    },
+    {
+        "concept_name": "电动裁布机",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric fabric cutter"
+        }
+    },
+    {
+        "concept_name": "电动采茶剪",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric tea leaflet cutter"
+        }
+    },
+    {
+        "concept_name": "电动钢筋切断机",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric rebar cutter"
+        }
+    },
+    {
+        "concept_name": "电动铲刮机",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric scaling scraper"
+        }
+    },
+    {
+        "concept_name": "电动锤钻",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric hammer drill"
+        }
+    },
+    {
+        "concept_name": "电动锯管机",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric pipe cutter"
+        }
+    },
+    {
+        "concept_name": "电动除锈机",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric rust remover"
+        }
+    },
+    {
+        "concept_name": "电动雕刻机",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric carving tool"
+        }
+    },
+    {
+        "concept_name": "电喷枪",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric spray gun"
+        }
+    },
+    {
+        "concept_name": "电圆锯",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric circular saw"
+        }
+    },
+    {
+        "concept_name": "电扳手",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric wrench"
+        }
+    },
+    {
+        "concept_name": "电钻",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric drill"
+        }
+    },
+    {
+        "concept_name": "电链锯",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric chain saw"
+        }
+    },
+    {
+        "concept_name": "电锤",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric rotary hammer"
+        }
+    },
+    {
+        "concept_name": "电镐",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric breaker"
+        }
+    },
+    {
+        "concept_name": "直向砂轮机",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric straight grinder"
+        }
+    },
+    {
+        "concept_name": "直接传动电动工具",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "direct drive electric tool"
+        }
+    },
+    {
+        "concept_name": "石膏电剪",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric plaster-bandage shear"
+        }
+    },
+    {
+        "concept_name": "石膏电锯",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric plaster-bandage saw"
+        }
+    },
+    {
+        "concept_name": "磁座钻",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "magnetic drill"
+        }
+    },
+    {
+        "concept_name": "绝缘外壳电动工具",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "insulation-encased electric tool"
+        }
+    },
+    {
+        "concept_name": "角向电钻",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "angle electric drill"
+        }
+    },
+    {
+        "concept_name": "角向砂轮机",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric angle grinder"
+        }
+    },
+    {
+        "concept_name": "软轴传动电动工具",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "flexible shaft drive electric tool"
+        }
+    },
+    {
+        "concept_name": "过转矩试验",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "over-torque test"
+        }
+    },
+    {
+        "concept_name": "金属外壳电动工具",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "metal-encased electric tool"
+        }
+    },
+    {
+        "concept_name": "防护器件",
+        "details": {
+            "学科": "电气工程_电动工具",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "protective device"
+        }
+    }
+]

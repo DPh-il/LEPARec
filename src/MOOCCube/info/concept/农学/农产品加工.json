@@ -1,0 +1,1225 @@
+[
+    {
+        "concept_name": "乌龙茶",
+        "details": {
+            "学科": "农学_农产品加工",
+            "英文": "Oolong tea ;Oolong",
+            "见载": "《农学名词》第一版",
+            "英文名": "Oolong tea"
+        }
+    },
+    {
+        "concept_name": "人造奶油",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "magarine"
+        }
+    },
+    {
+        "concept_name": "低温干燥",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "low temperature drying"
+        }
+    },
+    {
+        "concept_name": "做青",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "fine manipulation of green tea leaves"
+        }
+    },
+    {
+        "concept_name": "农产品加工",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "agro-product processing"
+        }
+    },
+    {
+        "concept_name": "冬化",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "winterization"
+        }
+    },
+    {
+        "concept_name": "冻藏",
+        "details": {
+            "学科": "农学_农产品加工",
+            "又称": " 冷冻保藏",
+            "见载": "《农学名词》第一版",
+            "英文名": "freeze preservation"
+        }
+    },
+    {
+        "concept_name": "凉米",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "rice cooling"
+        }
+    },
+    {
+        "concept_name": "初清",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "preliminary cleaning"
+        }
+    },
+    {
+        "concept_name": "制粉",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "flour milling"
+        }
+    },
+    {
+        "concept_name": "刷麦",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "wheat brushing"
+        }
+    },
+    {
+        "concept_name": "刷麸",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "bran brushing"
+        }
+    },
+    {
+        "concept_name": "压榨",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "pressing"
+        }
+    },
+    {
+        "concept_name": "发酵",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "fermentation"
+        }
+    },
+    {
+        "concept_name": "吸附脱色",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "adsorption bleaching"
+        }
+    },
+    {
+        "concept_name": "喷雾干燥",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "atomized drying"
+        }
+    },
+    {
+        "concept_name": "大豆油",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "soybean oil"
+        }
+    },
+    {
+        "concept_name": "大豆粉",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "soybean meal"
+        }
+    },
+    {
+        "concept_name": "天然[橡]胶",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "natural rubber"
+        }
+    },
+    {
+        "concept_name": "小米",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "milled foxtail millet"
+        }
+    },
+    {
+        "concept_name": "小麦搭配",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "wheat blending"
+        }
+    },
+    {
+        "concept_name": "小麦粉",
+        "details": {
+            "学科": "农学_农产品加工",
+            "又称": " 面粉",
+            "见载": "《农学名词》第一版",
+            "英文名": "wheat flour"
+        }
+    },
+    {
+        "concept_name": "干菜",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "dry vegetable"
+        }
+    },
+    {
+        "concept_name": "强化",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "enrichment"
+        }
+    },
+    {
+        "concept_name": "微波干燥",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "microwave drying"
+        }
+    },
+    {
+        "concept_name": "打麦",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "wheat scouring"
+        }
+    },
+    {
+        "concept_name": "打麸",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "bran finishing"
+        }
+    },
+    {
+        "concept_name": "抗氧剂保藏",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "antioxidant preservation"
+        }
+    },
+    {
+        "concept_name": "挤压膨化",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "extrusion"
+        }
+    },
+    {
+        "concept_name": "揉切",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "rolling and cutting"
+        }
+    },
+    {
+        "concept_name": "揉捻",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "rolling"
+        }
+    },
+    {
+        "concept_name": "撞击杀虫",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "entoleting"
+        }
+    },
+    {
+        "concept_name": "擦米",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "rice polishing"
+        }
+    },
+    {
+        "concept_name": "机械通风干燥",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "mechanical ventilation drying"
+        }
+    },
+    {
+        "concept_name": "杀青",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "Shaqing"
+        }
+    },
+    {
+        "concept_name": "松粉",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "detaching"
+        }
+    },
+    {
+        "concept_name": "果汁",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "fruit juice"
+        }
+    },
+    {
+        "concept_name": "果泥",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "fruit paste"
+        }
+    },
+    {
+        "concept_name": "果肉饮料",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "fruit squash"
+        }
+    },
+    {
+        "concept_name": "果酒",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "fruit wine"
+        }
+    },
+    {
+        "concept_name": "果酱",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "fruit jam"
+        }
+    },
+    {
+        "concept_name": "果醋",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "fruit vinegar"
+        }
+    },
+    {
+        "concept_name": "棉籽油",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "cottonseed oil"
+        }
+    },
+    {
+        "concept_name": "棉绒",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "linters"
+        }
+    },
+    {
+        "concept_name": "棕榈油",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "palm oil"
+        }
+    },
+    {
+        "concept_name": "比重分选",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "gravity separation"
+        }
+    },
+    {
+        "concept_name": "毛油",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "crude oil"
+        }
+    },
+    {
+        "concept_name": "气调贮藏",
+        "details": {
+            "学科": "农学_农产品加工",
+            "又称": " CA贮藏",
+            "见载": "《农学名词》第一版",
+            "英文名": "controlled atmosphere storage"
+        }
+    },
+    {
+        "concept_name": "氢化",
+        "details": {
+            "学科": "农学_农产品加工",
+            "又称": " 加氢作用",
+            "见载": "《农学名词》第一版",
+            "英文名": "hydrogenation"
+        }
+    },
+    {
+        "concept_name": "水代法取油",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "oil extraction by water substitu+C126263tion"
+        }
+    },
+    {
+        "concept_name": "水分调节",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "conditioning"
+        }
+    },
+    {
+        "concept_name": "水化",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "hydration"
+        }
+    },
+    {
+        "concept_name": "水果香精",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "fruit essence"
+        }
+    },
+    {
+        "concept_name": "沉淀",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "precipitation"
+        }
+    },
+    {
+        "concept_name": "油料剥壳",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "oilseed hulling"
+        }
+    },
+    {
+        "concept_name": "油料脱皮",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "oilseed decortication"
+        }
+    },
+    {
+        "concept_name": "油料预处理",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "pretreatment of oil bearing materials"
+        }
+    },
+    {
+        "concept_name": "油脂精炼",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "oil and fat refining"
+        }
+    },
+    {
+        "concept_name": "洗麦",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "wheat washing"
+        }
+    },
+    {
+        "concept_name": "流化床干燥",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "fluid-bed drying"
+        }
+    },
+    {
+        "concept_name": "浸出",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "solvent extraction"
+        }
+    },
+    {
+        "concept_name": "润麦",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "tempering"
+        }
+    },
+    {
+        "concept_name": "淀粉",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "starch"
+        }
+    },
+    {
+        "concept_name": "混合油处理",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "miscella treatment"
+        }
+    },
+    {
+        "concept_name": "清理",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "cleaning"
+        }
+    },
+    {
+        "concept_name": "清粉",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "purification"
+        }
+    },
+    {
+        "concept_name": "渥堆",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "pile fermentation"
+        }
+    },
+    {
+        "concept_name": "溶剂回收",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "solvent recovery"
+        }
+    },
+    {
+        "concept_name": "烘青",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "hongqing"
+        }
+    },
+    {
+        "concept_name": "烟熏保藏",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "smoke-dried preservation"
+        }
+    },
+    {
+        "concept_name": "燕麦片",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "oats flakes"
+        }
+    },
+    {
+        "concept_name": "玉米油",
+        "details": {
+            "学科": "农学_农产品加工",
+            "英文": "corn oil ;maize oil",
+            "见载": "《农学名词》第一版",
+            "英文名": "corn oil"
+        }
+    },
+    {
+        "concept_name": "玉米粉",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "corn flour"
+        }
+    },
+    {
+        "concept_name": "玉米糁",
+        "details": {
+            "学科": "农学_农产品加工",
+            "又称": " 玉米",
+            "见载": "《农学名词》第一版",
+            "英文名": "corn grits"
+        }
+    },
+    {
+        "concept_name": "生胶",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "crude rubber"
+        }
+    },
+    {
+        "concept_name": "白米分级",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "white rice grading"
+        }
+    },
+    {
+        "concept_name": "皮棉",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "ginned cotton"
+        }
+    },
+    {
+        "concept_name": "盐渍",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "salting"
+        }
+    },
+    {
+        "concept_name": "着水",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "dampening"
+        }
+    },
+    {
+        "concept_name": "砖茶",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "brick tea"
+        }
+    },
+    {
+        "concept_name": "砻谷",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "husking"
+        }
+    },
+    {
+        "concept_name": "碱炼",
+        "details": {
+            "学科": "农学_农产品加工",
+            "又称": " 中和",
+            "见载": "《农学名词》第一版",
+            "英文名": "caustic refining"
+        }
+    },
+    {
+        "concept_name": "碾磨",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "grinding"
+        }
+    },
+    {
+        "concept_name": "碾米",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "rice whitening"
+        }
+    },
+    {
+        "concept_name": "磁选",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "magnetic separation"
+        }
+    },
+    {
+        "concept_name": "稷米",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "milled nonglutinous broomcorn millet"
+        }
+    },
+    {
+        "concept_name": "稻壳",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "rice hull"
+        }
+    },
+    {
+        "concept_name": "筛理",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "bolting"
+        }
+    },
+    {
+        "concept_name": "筛选",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "screening"
+        }
+    },
+    {
+        "concept_name": "米糠",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "rice bran"
+        }
+    },
+    {
+        "concept_name": "米糠油",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "rice bran oil"
+        }
+    },
+    {
+        "concept_name": "籼米",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "milled long-grain nonglutinous rice"
+        }
+    },
+    {
+        "concept_name": "籽棉",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "seed cotton"
+        }
+    },
+    {
+        "concept_name": "粗纤维",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "raw fiber"
+        }
+    },
+    {
+        "concept_name": "粳米",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "milled medium to short-grain nonglutinous rice"
+        }
+    },
+    {
+        "concept_name": "精炼油",
+        "details": {
+            "学科": "农学_农产品加工",
+            "又称": " 精制油",
+            "见载": "《农学名词》第一版",
+            "英文名": "refined oil"
+        }
+    },
+    {
+        "concept_name": "精选",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "foreign seeds extraction"
+        }
+    },
+    {
+        "concept_name": "糖渍",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "sugaring"
+        }
+    },
+    {
+        "concept_name": "糙米",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "brown rice"
+        }
+    },
+    {
+        "concept_name": "糟渍",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "pickled with grains"
+        }
+    },
+    {
+        "concept_name": "糠粞分离",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "floury product separation"
+        }
+    },
+    {
+        "concept_name": "糯米",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "glutinous rice"
+        }
+    },
+    {
+        "concept_name": "红外线干燥",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "infrared drying"
+        }
+    },
+    {
+        "concept_name": "红花籽油",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "safflower oil"
+        }
+    },
+    {
+        "concept_name": "红茶",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "black tea"
+        }
+    },
+    {
+        "concept_name": "绉片",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "crepe"
+        }
+    },
+    {
+        "concept_name": "缺氧保藏",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "oxygen deficit preservation"
+        }
+    },
+    {
+        "concept_name": "罐藏",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "canning"
+        }
+    },
+    {
+        "concept_name": "胶乳",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "latex"
+        }
+    },
+    {
+        "concept_name": "胶片",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "rubber sheet"
+        }
+    },
+    {
+        "concept_name": "脱壳",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "husking"
+        }
+    },
+    {
+        "concept_name": "脱水蔬菜",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "dehydrated vegetable"
+        }
+    },
+    {
+        "concept_name": "脱胶",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "degumming"
+        }
+    },
+    {
+        "concept_name": "脱蜡",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "dewaxing"
+        }
+    },
+    {
+        "concept_name": "脱酸",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "deacidification"
+        }
+    },
+    {
+        "concept_name": "腌制",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "curing"
+        }
+    },
+    {
+        "concept_name": "膨化",
+        "details": {
+            "学科": "农学_农产品加工",
+            "又称": " 爆花",
+            "见载": "《农学名词》第一版",
+            "英文名": "puffing"
+        }
+    },
+    {
+        "concept_name": "自发气调贮藏",
+        "details": {
+            "学科": "农学_农产品加工",
+            "又称": " MA贮藏",
+            "见载": "《农学名词》第一版",
+            "英文名": "modified atmosphere storage"
+        }
+    },
+    {
+        "concept_name": "自然通风干燥",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "natural-draft drying"
+        }
+    },
+    {
+        "concept_name": "芝麻油",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "sesame oil"
+        }
+    },
+    {
+        "concept_name": "芝麻酱",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "sesame paste"
+        }
+    },
+    {
+        "concept_name": "花生油",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "peanut oil"
+        }
+    },
+    {
+        "concept_name": "花生酱",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "peanut butter"
+        }
+    },
+    {
+        "concept_name": "花薰茶",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "scented tea"
+        }
+    },
+    {
+        "concept_name": "茶[籽]油",
+        "details": {
+            "学科": "农学_农产品加工",
+            "英文": "tea oil ;tea-seed oil",
+            "见载": "《农学名词》第一版",
+            "英文名": "tea oil"
+        }
+    },
+    {
+        "concept_name": "莜麦粉",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "naked oats flour"
+        }
+    },
+    {
+        "concept_name": "菜籽油",
+        "details": {
+            "学科": "农学_农产品加工",
+            "英文": "rapeseed oil ;colza oil",
+            "见载": "《农学名词》第一版",
+            "英文名": "rapeseed oil"
+        }
+    },
+    {
+        "concept_name": "蒸汽蒸馏",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "steaming"
+        }
+    },
+    {
+        "concept_name": "蒸炒",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "cooking"
+        }
+    },
+    {
+        "concept_name": "蒸谷米",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "parboiled rice"
+        }
+    },
+    {
+        "concept_name": "蒸青",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "steam tea"
+        }
+    },
+    {
+        "concept_name": "蔬菜汁",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "vegetable juice"
+        }
+    },
+    {
+        "concept_name": "裸大麦粉",
+        "details": {
+            "学科": "农学_农产品加工",
+            "又称": " 青稞面",
+            "见载": "《农学名词》第一版",
+            "英文名": "naked barley flour"
+        }
+    },
+    {
+        "concept_name": "谷壳分离",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "husk separation"
+        }
+    },
+    {
+        "concept_name": "谷糙分离",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "husked rice separation"
+        }
+    },
+    {
+        "concept_name": "轧胚",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "flaking"
+        }
+    },
+    {
+        "concept_name": "辐射保藏",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "radiation preservation"
+        }
+    },
+    {
+        "concept_name": "辐射处理",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "radiation treatment"
+        }
+    },
+    {
+        "concept_name": "酸渍",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "pickling"
+        }
+    },
+    {
+        "concept_name": "酸炼",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "acid-refining"
+        }
+    },
+    {
+        "concept_name": "重力分级",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "gravity selection"
+        }
+    },
+    {
+        "concept_name": "防腐剂保藏",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "antiseptic preservation"
+        }
+    },
+    {
+        "concept_name": "面筋",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "gluten"
+        }
+    },
+    {
+        "concept_name": "面粉处理",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "flour treatment"
+        }
+    },
+    {
+        "concept_name": "面粉搭配",
+        "details": {
+            "学科": "农学_农产品加工",
+            "又称": " 配粉",
+            "见载": "《农学名词》第一版",
+            "英文名": "flour blending"
+        }
+    },
+    {
+        "concept_name": "风选",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "aspiration"
+        }
+    },
+    {
+        "concept_name": "食用植物油",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "edible vegetable oil"
+        }
+    },
+    {
+        "concept_name": "高粱米",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "sorghum rice"
+        }
+    },
+    {
+        "concept_name": "高频干燥",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "high-frequency drying"
+        }
+    },
+    {
+        "concept_name": "麸皮",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "bran"
+        }
+    },
+    {
+        "concept_name": "黍米",
+        "details": {
+            "学科": "农学_农产品加工",
+            "见载": "《农学名词》第一版",
+            "英文名": "milled glutinous broomcorn millet"
+        }
+    }
+]

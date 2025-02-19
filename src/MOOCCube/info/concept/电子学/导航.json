@@ -1,0 +1,1250 @@
+[
+    {
+        "concept_name": "主台",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "master station"
+        }
+    },
+    {
+        "concept_name": "仪表着陆系统",
+        "details": {
+            "学科": "电子学_导航",
+            "英文": "instrument landing system ;ILS",
+            "见载": "《电子学名词》第一版",
+            "英文名": "instrument landing system"
+        }
+    },
+    {
+        "concept_name": "仪表飞行规则",
+        "details": {
+            "学科": "电子学_导航",
+            "英文": "instrument flight rules ;IFR",
+            "见载": "《电子学名词》第一版",
+            "英文名": "instrument flight rules"
+        }
+    },
+    {
+        "concept_name": "仰角引导单元",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "elevation guidance unit"
+        }
+    },
+    {
+        "concept_name": "伏塔克",
+        "details": {
+            "学科": "电子学_导航",
+            "英文": "VHF omnirange and tactical air navigation system ;VORTAC",
+            "见载": "《电子学名词》第一版",
+            "英文名": "VHF omnirange and tactical air navigation system"
+        }
+    },
+    {
+        "concept_name": "伏尔",
+        "details": {
+            "学科": "电子学_导航",
+            "又称": " 甚高频全向信标(VOR)",
+            "见载": "《电子学名词》第一版",
+            "英文名": "very high frequency omnidirection-al range"
+        }
+    },
+    {
+        "concept_name": "位置报告系统",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "position location reporting system"
+        }
+    },
+    {
+        "concept_name": "位置线",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "position line"
+        }
+    },
+    {
+        "concept_name": "余隙",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "clearance"
+        }
+    },
+    {
+        "concept_name": "信号格式",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "signal format"
+        }
+    },
+    {
+        "concept_name": "偏离指示器",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "deviation indicator"
+        }
+    },
+    {
+        "concept_name": "停靠表",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "parking meter"
+        }
+    },
+    {
+        "concept_name": "全向信标",
+        "details": {
+            "学科": "电子学_导航",
+            "又称": " 中波导航台",
+            "见载": "《电子学名词》第一版",
+            "英文名": "omnidirectional range"
+        }
+    },
+    {
+        "concept_name": "全天候自动着陆",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "all-weather automatic landing"
+        }
+    },
+    {
+        "concept_name": "全球定位系统",
+        "details": {
+            "学科": "电子学_导航",
+            "又称": " GPS 系统",
+            "见载": "《电子学名词》第一版",
+            "英文名": "global positioning system"
+        }
+    },
+    {
+        "concept_name": "决断高度",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "decision height"
+        }
+    },
+    {
+        "concept_name": "副台",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "slave station"
+        }
+    },
+    {
+        "concept_name": "北向参考脉冲",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "north reference pulse"
+        }
+    },
+    {
+        "concept_name": "卫星导航",
+        "details": {
+            "学科": "电子学_导航",
+            "简称": " 卫导",
+            "见载": "《电子学名词》第一版",
+            "英文名": "satellite navigation"
+        }
+    },
+    {
+        "concept_name": "卫星覆盖区",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "satellite coverage"
+        }
+    },
+    {
+        "concept_name": "卫星跟踪站",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "satellite tracking station"
+        }
+    },
+    {
+        "concept_name": "双曲线导航系统",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "hyperbolic navigation system"
+        }
+    },
+    {
+        "concept_name": "台卡",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Decca"
+        }
+    },
+    {
+        "concept_name": "台卡计",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "decometer"
+        }
+    },
+    {
+        "concept_name": "台对",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "pair of stations"
+        }
+    },
+    {
+        "concept_name": "同步卫星导航系统",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "navigation system of synchronous satellite"
+        }
+    },
+    {
+        "concept_name": "同步基线",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "synchronous baseline"
+        }
+    },
+    {
+        "concept_name": "同步离散地址信标系统",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "synchronized discrete address beacon system"
+        }
+    },
+    {
+        "concept_name": "国家空管系统",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "national airspace system"
+        }
+    },
+    {
+        "concept_name": "圆-双曲线系统",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "circle-hyperbolic system"
+        }
+    },
+    {
+        "concept_name": "地图匹配导航",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "navigation by map-matching"
+        }
+    },
+    {
+        "concept_name": "地形跟踪系统",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "terrain following system"
+        }
+    },
+    {
+        "concept_name": "地面导航设备",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ground-based navigation aid"
+        }
+    },
+    {
+        "concept_name": "地面指挥进近系统",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ground controlled approach system"
+        }
+    },
+    {
+        "concept_name": "场面检测雷达",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "airport surface detection radar"
+        }
+    },
+    {
+        "concept_name": "坐标转换计算机",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "coordinate conversion computer"
+        }
+    },
+    {
+        "concept_name": "塔康",
+        "details": {
+            "学科": "电子学_导航",
+            "又称": " 战术空中导航系统",
+            "见载": "《电子学名词》第一版",
+            "英文名": "tactical air navigation system"
+        }
+    },
+    {
+        "concept_name": "填充脉冲",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "filler pulse"
+        }
+    },
+    {
+        "concept_name": "多普勒伏尔",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Doppler VOR"
+        }
+    },
+    {
+        "concept_name": "多普勒导航",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Doppler navigation"
+        }
+    },
+    {
+        "concept_name": "大圆航线",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "course line of great circle"
+        }
+    },
+    {
+        "concept_name": "奥尔福德天线阵",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "antenna array of Alford loops"
+        }
+    },
+    {
+        "concept_name": "奥米伽[系统]",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Omega system"
+        }
+    },
+    {
+        "concept_name": "奥米伽天波修正表",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Omega sky wave correction table"
+        }
+    },
+    {
+        "concept_name": "奥米伽段同步",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Omega segment synchronization"
+        }
+    },
+    {
+        "concept_name": "子午仪卫导系统",
+        "details": {
+            "学科": "电子学_导航",
+            "又称": " 海军卫导系统",
+            "见载": "《电子学名词》第一版",
+            "英文名": "transit navigation system"
+        }
+    },
+    {
+        "concept_name": "定位",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "position fixing"
+        }
+    },
+    {
+        "concept_name": "定位均方根误差",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "position root-mean-square error"
+        }
+    },
+    {
+        "concept_name": "定位重复误差",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "position repetitive error"
+        }
+    },
+    {
+        "concept_name": "容积扫描系统",
+        "details": {
+            "学科": "电子学_导航",
+            "又称": " 沃尔斯康系统",
+            "见载": "《电子学名词》第一版",
+            "英文名": "VOLSCAN system"
+        }
+    },
+    {
+        "concept_name": "导出包络",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "derived envelope"
+        }
+    },
+    {
+        "concept_name": "导航",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "navigation"
+        }
+    },
+    {
+        "concept_name": "导航卫星",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "navigation satellite"
+        }
+    },
+    {
+        "concept_name": "工作区",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "service area"
+        }
+    },
+    {
+        "concept_name": "差分GPS系统",
+        "details": {
+            "学科": "电子学_导航",
+            "又称": " 差分全球定位系统",
+            "见载": "《电子学名词》第一版",
+            "英文名": "differential global positioning system"
+        }
+    },
+    {
+        "concept_name": "差奥米伽[系统]",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "differential Omega"
+        }
+    },
+    {
+        "concept_name": "差频相位延迟",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "phase-delay of difference frequ-ency"
+        }
+    },
+    {
+        "concept_name": "巷宽",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "lane width"
+        }
+    },
+    {
+        "concept_name": "巷道",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "lane"
+        }
+    },
+    {
+        "concept_name": "巷道识别",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "lane identification"
+        }
+    },
+    {
+        "concept_name": "应答器",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "transponder"
+        }
+    },
+    {
+        "concept_name": "康索尔系统",
+        "details": {
+            "学科": "电子学_导航",
+            "又称": " 扇区无线电指向标",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Consol sector radio marker"
+        }
+    },
+    {
+        "concept_name": "微奥米伽[系统]",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "micro Omega"
+        }
+    },
+    {
+        "concept_name": "微波着陆系统",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "microwave landing system"
+        }
+    },
+    {
+        "concept_name": "微波航道信标",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "microwave course beacon"
+        }
+    },
+    {
+        "concept_name": "恒向线",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "rhumb line"
+        }
+    },
+    {
+        "concept_name": "扇形塔康",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "sector TACAN"
+        }
+    },
+    {
+        "concept_name": "拉平引导单元",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "flare-out guidance unit"
+        }
+    },
+    {
+        "concept_name": "拉平计算机",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "flare computer"
+        }
+    },
+    {
+        "concept_name": "指点信标",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "marker beacon"
+        }
+    },
+    {
+        "concept_name": "数据稳定平台",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "data stable platform"
+        }
+    },
+    {
+        "concept_name": "方位引导单元",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "azimuth guidance unit"
+        }
+    },
+    {
+        "concept_name": "方向效应",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "directive effect"
+        }
+    },
+    {
+        "concept_name": "无方向性信标",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "nondirectional beacon"
+        }
+    },
+    {
+        "concept_name": "无线电信标",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "radio beacon"
+        }
+    },
+    {
+        "concept_name": "无线电浮标",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "radio-beacon buoy"
+        }
+    },
+    {
+        "concept_name": "无线电磁指示器",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "radio magnetic indicator"
+        }
+    },
+    {
+        "concept_name": "无线电罗盘",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "radio compass"
+        }
+    },
+    {
+        "concept_name": "星下点",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "substar"
+        }
+    },
+    {
+        "concept_name": "星下点轨迹",
+        "details": {
+            "学科": "电子学_导航",
+            "又称": " 子轨迹",
+            "见载": "《电子学名词》第一版",
+            "英文名": "subtrack"
+        }
+    },
+    {
+        "concept_name": "星历",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ephemeris"
+        }
+    },
+    {
+        "concept_name": "星基导航",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "satellite-based navigation"
+        }
+    },
+    {
+        "concept_name": "标准罗兰",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "standard Loran"
+        }
+    },
+    {
+        "concept_name": "模转换干扰",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "modes change-over disturbance"
+        }
+    },
+    {
+        "concept_name": "气象回避",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "weather avoidance"
+        }
+    },
+    {
+        "concept_name": "气象穿越",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "weather penetration"
+        }
+    },
+    {
+        "concept_name": "注入站",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "injection station"
+        }
+    },
+    {
+        "concept_name": "测向测距系统",
+        "details": {
+            "学科": "电子学_导航",
+            "又称": " ρ-θ系统",
+            "见载": "《电子学名词》第一版",
+            "英文名": "direction-range measurement system"
+        }
+    },
+    {
+        "concept_name": "测向系统",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "direction-finding system"
+        }
+    },
+    {
+        "concept_name": "测距器",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "distance measuring equipment"
+        }
+    },
+    {
+        "concept_name": "测距码",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ranging code"
+        }
+    },
+    {
+        "concept_name": "测距系统",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ranging system"
+        }
+    },
+    {
+        "concept_name": "混合路径",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "mixed path"
+        }
+    },
+    {
+        "concept_name": "激光航道标",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "laser channel marker"
+        }
+    },
+    {
+        "concept_name": "独立基线",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "individual baseline"
+        }
+    },
+    {
+        "concept_name": "环状天线测向器",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "loop direction finder"
+        }
+    },
+    {
+        "concept_name": "电台方位",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "bearing of station"
+        }
+    },
+    {
+        "concept_name": "电台磁方位",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "magnetic bearing of station"
+        }
+    },
+    {
+        "concept_name": "电台航向",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "heading of station"
+        }
+    },
+    {
+        "concept_name": "电扫伏尔天线阵",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "VOR scanned array"
+        }
+    },
+    {
+        "concept_name": "目视飞行规则",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "visual flight rules"
+        }
+    },
+    {
+        "concept_name": "直漏干扰",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "leakage noise"
+        }
+    },
+    {
+        "concept_name": "相对高度",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "relative altitude"
+        }
+    },
+    {
+        "concept_name": "真实高度",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "true altitude"
+        }
+    },
+    {
+        "concept_name": "着陆标准",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "landing standard"
+        }
+    },
+    {
+        "concept_name": "离散地址信标系统",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "discrete-address beacon system"
+        }
+    },
+    {
+        "concept_name": "空中交通管制",
+        "details": {
+            "学科": "电子学_导航",
+            "简称": " 空管",
+            "见载": "《电子学名词》第一版",
+            "英文名": "air traffic control"
+        }
+    },
+    {
+        "concept_name": "空域划分",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "division of airspace"
+        }
+    },
+    {
+        "concept_name": "空基导航",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "airborne-based navigation"
+        }
+    },
+    {
+        "concept_name": "空速",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "air speed"
+        }
+    },
+    {
+        "concept_name": "等多普勒频移线",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "line of constant Doppler shift"
+        }
+    },
+    {
+        "concept_name": "等精度曲线",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "contours of constant geometric accuracy"
+        }
+    },
+    {
+        "concept_name": "精密伏尔",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "precise VOR"
+        }
+    },
+    {
+        "concept_name": "精密测距器",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "precision distance measuring equipment"
+        }
+    },
+    {
+        "concept_name": "组重复间隔",
+        "details": {
+            "学科": "电子学_导航",
+            "英文": "group repetition interval ;GRI",
+            "见载": "《电子学名词》第一版",
+            "英文名": "group repetition interval"
+        }
+    },
+    {
+        "concept_name": "终端伏尔",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "terminal VOR"
+        }
+    },
+    {
+        "concept_name": "绝对高度",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "absolute altitude"
+        }
+    },
+    {
+        "concept_name": "综合卫星系统",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "hybrid satellite system"
+        }
+    },
+    {
+        "concept_name": "罗兰",
+        "details": {
+            "学科": "电子学_导航",
+            "又称": " 远程[无线电]导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "long range navigation"
+        }
+    },
+    {
+        "concept_name": "罗兰-C",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Loran-C"
+        }
+    },
+    {
+        "concept_name": "罗兰-C授时",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Loran-C timing"
+        }
+    },
+    {
+        "concept_name": "罗兰转发",
+        "details": {
+            "学科": "电子学_导航",
+            "又称": " 罗尔特",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Loran retransmission"
+        }
+    },
+    {
+        "concept_name": "罗兰通信",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Loran communication"
+        }
+    },
+    {
+        "concept_name": "罗坦系统",
+        "details": {
+            "学科": "电子学_导航",
+            "又称": " 远程战术导航系统",
+            "见载": "《电子学名词》第一版",
+            "英文名": "long range and tactical navigation system"
+        }
+    },
+    {
+        "concept_name": "脉相系统",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "pulse-phase system"
+        }
+    },
+    {
+        "concept_name": "自主导航",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "self-contained navigation"
+        }
+    },
+    {
+        "concept_name": "自动着陆",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "automatic landing"
+        }
+    },
+    {
+        "concept_name": "航位推算法",
+        "details": {
+            "学科": "电子学_导航",
+            "又称": " 航位推算导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "dead-reckoning"
+        }
+    },
+    {
+        "concept_name": "航向信标",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "localizer"
+        }
+    },
+    {
+        "concept_name": "航行速度三角形",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "forward velocity triangle"
+        }
+    },
+    {
+        "concept_name": "舰船停靠系统",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "vessel approach and berthing system"
+        }
+    },
+    {
+        "concept_name": "警旗",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "flag alarm"
+        }
+    },
+    {
+        "concept_name": "询问器",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "interrogator"
+        }
+    },
+    {
+        "concept_name": "询问模式",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "interrogation mode"
+        }
+    },
+    {
+        "concept_name": "误差几何放大因子",
+        "details": {
+            "学科": "电子学_导航",
+            "又称": " 几何因子",
+            "见载": "《电子学名词》第一版",
+            "英文名": "geometric dilution of precision"
+        }
+    },
+    {
+        "concept_name": "误差圆半径",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "error-circular radius"
+        }
+    },
+    {
+        "concept_name": "误差场",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "error field"
+        }
+    },
+    {
+        "concept_name": "误差椭圆",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "error ellipse"
+        }
+    },
+    {
+        "concept_name": "轨道预报",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "orbit prediction"
+        }
+    },
+    {
+        "concept_name": "轨道高度",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "orbit altitude"
+        }
+    },
+    {
+        "concept_name": "辅助参考脉冲",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "auxiliary reference pulse"
+        }
+    },
+    {
+        "concept_name": "进近着陆系统",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "approach and landing system"
+        }
+    },
+    {
+        "concept_name": "进近窗口",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "approach aperture"
+        }
+    },
+    {
+        "concept_name": "逆式塔康",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "inverse TACAN"
+        }
+    },
+    {
+        "concept_name": "透水深度",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "underwater penetration"
+        }
+    },
+    {
+        "concept_name": "间隔标准",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "separation standard"
+        }
+    },
+    {
+        "concept_name": "阿尔法奥米伽[系统]",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Alpha Omega"
+        }
+    },
+    {
+        "concept_name": "雷达进近管制系统",
+        "details": {
+            "学科": "电子学_导航",
+            "英文": "radar approach control system ;RAPCON",
+            "见载": "《电子学名词》第一版",
+            "英文名": "radar approach control system"
+        }
+    },
+    {
+        "concept_name": "雷达领航",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "radar pilotage"
+        }
+    },
+    {
+        "concept_name": "顶空盲区",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "upper space of silence"
+        }
+    },
+    {
+        "concept_name": "驾驶员告警指示器",
+        "details": {
+            "学科": "电子学_导航",
+            "英文": "pilot warning indicator ;PWI",
+            "见载": "《电子学名词》第一版",
+            "英文名": "pilot warning indicator"
+        }
+    },
+    {
+        "concept_name": "高度空穴效应",
+        "details": {
+            "学科": "电子学_导航",
+            "见载": "《电子学名词》第一版",
+            "英文名": "altitude-hole effect"
+        }
+    },
+    {
+        "concept_name": "高度表",
+        "details": {
+            "学科": "电子学_导航",
+            "又称": " 测高仪",
+            "见载": "《电子学名词》第一版",
+            "英文名": "altimeter"
+        }
+    }
+]

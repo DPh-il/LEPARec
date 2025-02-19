@@ -1,0 +1,339 @@
+[
+    {
+        "concept_name": "T2拓扑群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "又称": " 豪斯多夫拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "T2-topological group"
+        }
+    },
+    {
+        "concept_name": "T2拓扑群的完全化",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "completion of T2 topological group"
+        }
+    },
+    {
+        "concept_name": "不连续变换群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "discontinuous group of trans- formations"
+        }
+    },
+    {
+        "concept_name": "全不连通紧群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "totally disconnected compact group"
+        }
+    },
+    {
+        "concept_name": "初等拓扑阿贝尔群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "elementary topological Abelian group"
+        }
+    },
+    {
+        "concept_name": "完全的拓扑群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "complete topological group"
+        }
+    },
+    {
+        "concept_name": "实数加法群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "additive group of real numbers"
+        }
+    },
+    {
+        "concept_name": "容许T2拓扑空间",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "admissible T2 topological space"
+        }
+    },
+    {
+        "concept_name": "容许拓扑群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "admissible topological group"
+        }
+    },
+    {
+        "concept_name": "局部单连通",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "locally simply connected"
+        }
+    },
+    {
+        "concept_name": "局部同态",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "local homomorphism"
+        }
+    },
+    {
+        "concept_name": "局部同构",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "locally isomorphic"
+        }
+    },
+    {
+        "concept_name": "局部弧连通",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "locally arcwise connected"
+        }
+    },
+    {
+        "concept_name": "局部紧群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "locally compact group"
+        }
+    },
+    {
+        "concept_name": "局部紧群的酉表示",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "unitary representation of locally compact group"
+        }
+    },
+    {
+        "concept_name": "左一致结构",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "left uniformity"
+        }
+    },
+    {
+        "concept_name": "底群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "underlying group"
+        }
+    },
+    {
+        "concept_name": "庞特里亚金对偶定理",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "Pontryagin duality theorem"
+        }
+    },
+    {
+        "concept_name": "开子群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "open subgroup"
+        }
+    },
+    {
+        "concept_name": "投射有限群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "profinite group"
+        }
+    },
+    {
+        "concept_name": "拓扑变换群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "topological transformation group"
+        }
+    },
+    {
+        "concept_name": "拓扑群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "topological group"
+        }
+    },
+    {
+        "concept_name": "拓扑群同态",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "homomorphism of topological groups"
+        }
+    },
+    {
+        "concept_name": "拓扑群同构",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "isomorphism of topological groups"
+        }
+    },
+    {
+        "concept_name": "拓扑群的投射系",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "projective system of topological groups"
+        }
+    },
+    {
+        "concept_name": "拓扑群的直积",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "direct product of topological groups"
+        }
+    },
+    {
+        "concept_name": "拓扑阿贝尔群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "topological Abelian group"
+        }
+    },
+    {
+        "concept_name": "泛覆叠群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "universal covering group"
+        }
+    },
+    {
+        "concept_name": "环面群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "torus group"
+        }
+    },
+    {
+        "concept_name": "离散阿贝尔群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "discrete Abelian group"
+        }
+    },
+    {
+        "concept_name": "紧拓扑群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "compact topological group"
+        }
+    },
+    {
+        "concept_name": "紧群上的不变积分",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "invariant integral on compact group"
+        }
+    },
+    {
+        "concept_name": "紧群的正则表示",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "regular representation of compact group"
+        }
+    },
+    {
+        "concept_name": "紧群的群环",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "group ring of compact group"
+        }
+    },
+    {
+        "concept_name": "紧群的表示",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "representation of compact group"
+        }
+    },
+    {
+        "concept_name": "紧阿贝尔群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "compact Abelian group"
+        }
+    },
+    {
+        "concept_name": "覆叠同态",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "covering homomorphism"
+        }
+    },
+    {
+        "concept_name": "覆叠群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "covering group"
+        }
+    },
+    {
+        "concept_name": "连续同态",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "continuous homomorphism"
+        }
+    },
+    {
+        "concept_name": "闭子群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "closed subgroup"
+        }
+    },
+    {
+        "concept_name": "零化子的互反性",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "reciprocity of annihilators"
+        }
+    },
+    {
+        "concept_name": "齐性空间",
+        "details": {
+            "学科": "数学_代数学_代数几何学_拓扑群",
+            "见载": "《数学名词》第一版",
+            "英文名": "homogeneous space"
+        }
+    }
+]

@@ -1,0 +1,1206 @@
+[
+    {
+        "concept_name": "t检验",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Student's t test"
+        }
+    },
+    {
+        "concept_name": "χ2分布",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "chi square distribution"
+        }
+    },
+    {
+        "concept_name": "χ2检验",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "chi square test"
+        }
+    },
+    {
+        "concept_name": "不确定度",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "uncertainty"
+        }
+    },
+    {
+        "concept_name": "二项分布",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "binomial distribution"
+        }
+    },
+    {
+        "concept_name": "仪器",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "英文": "apparatus ;instrument",
+            "见载": "《物理学名词》第二版",
+            "英文名": "apparatus"
+        }
+    },
+    {
+        "concept_name": "估计",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "estimation"
+        }
+    },
+    {
+        "concept_name": "体积",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "volume"
+        }
+    },
+    {
+        "concept_name": "佯谬",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "paradox"
+        }
+    },
+    {
+        "concept_name": "保真性",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "fidelity"
+        }
+    },
+    {
+        "concept_name": "信噪比",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "signal-to-noise ratio"
+        }
+    },
+    {
+        "concept_name": "修正",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "correction"
+        }
+    },
+    {
+        "concept_name": "假设",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "assumption"
+        }
+    },
+    {
+        "concept_name": "假说",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "hypothesis"
+        }
+    },
+    {
+        "concept_name": "偏差",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "deviation"
+        }
+    },
+    {
+        "concept_name": "偶然误差",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "accidental error"
+        }
+    },
+    {
+        "concept_name": "元件",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "element"
+        }
+    },
+    {
+        "concept_name": "关联系数",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "correlation coefficient"
+        }
+    },
+    {
+        "concept_name": "内插",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "interpolation"
+        }
+    },
+    {
+        "concept_name": "决定论",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "determinism"
+        }
+    },
+    {
+        "concept_name": "准确度",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "accuracy"
+        }
+    },
+    {
+        "concept_name": "分辨率",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "resolution"
+        }
+    },
+    {
+        "concept_name": "判据",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "criterion"
+        }
+    },
+    {
+        "concept_name": "加权平均",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "weighted mean"
+        }
+    },
+    {
+        "concept_name": "化学物理[学]",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "chemical physics"
+        }
+    },
+    {
+        "concept_name": "单位",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "unit"
+        }
+    },
+    {
+        "concept_name": "单位制",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "system of units"
+        }
+    },
+    {
+        "concept_name": "原理",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "principle"
+        }
+    },
+    {
+        "concept_name": "参考系",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "reference frame"
+        }
+    },
+    {
+        "concept_name": "参量",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "parameter"
+        }
+    },
+    {
+        "concept_name": "取向",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "orientation"
+        }
+    },
+    {
+        "concept_name": "变量",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "variable"
+        }
+    },
+    {
+        "concept_name": "周期",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "period"
+        }
+    },
+    {
+        "concept_name": "唯象理论",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "phenomenological theory"
+        }
+    },
+    {
+        "concept_name": "器件",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "device"
+        }
+    },
+    {
+        "concept_name": "因子",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "factor"
+        }
+    },
+    {
+        "concept_name": "因数",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "factor"
+        }
+    },
+    {
+        "concept_name": "国际单位制",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "法文名": "SI(法)；Le Système International d'Unite&1&s(法)",
+            "见载": "《物理学名词》第二版"
+        }
+    },
+    {
+        "concept_name": "国际纯粹物理与应用物理联合会",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "英文": "International Union of Pure and Applied Physics ;IUPAP",
+            "见载": "《物理学名词》第二版",
+            "英文名": "International Union of Pure and Applied Physics"
+        }
+    },
+    {
+        "concept_name": "图解法",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "graphical method"
+        }
+    },
+    {
+        "concept_name": "地球物理[学]",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "geophysics"
+        }
+    },
+    {
+        "concept_name": "坐标系",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "coordinate system"
+        }
+    },
+    {
+        "concept_name": "基本物理常量",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "fundamental physical constant"
+        }
+    },
+    {
+        "concept_name": "外推",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "extrapolation"
+        }
+    },
+    {
+        "concept_name": "天体物理[学]",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "astrophysics"
+        }
+    },
+    {
+        "concept_name": "守恒律",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "conservation law"
+        }
+    },
+    {
+        "concept_name": "定则",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "rule"
+        }
+    },
+    {
+        "concept_name": "定律",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "law"
+        }
+    },
+    {
+        "concept_name": "定理",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "theorem"
+        }
+    },
+    {
+        "concept_name": "实验",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "experiment"
+        }
+    },
+    {
+        "concept_name": "实验物理[学]",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "experimental physics"
+        }
+    },
+    {
+        "concept_name": "尝试法",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "trial-and-error method"
+        }
+    },
+    {
+        "concept_name": "常量",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "又称": " 常数",
+            "见载": "《物理学名词》第二版",
+            "英文名": "constant"
+        }
+    },
+    {
+        "concept_name": "平均偏差",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "mean deviation"
+        }
+    },
+    {
+        "concept_name": "平均误差",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "average error"
+        }
+    },
+    {
+        "concept_name": "应用物理[学]",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "applied physics"
+        }
+    },
+    {
+        "concept_name": "张量",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "tensor"
+        }
+    },
+    {
+        "concept_name": "拟设",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ansatz"
+        }
+    },
+    {
+        "concept_name": "推广",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "generalization"
+        }
+    },
+    {
+        "concept_name": "推理",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "reasoning"
+        }
+    },
+    {
+        "concept_name": "数据",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "data"
+        }
+    },
+    {
+        "concept_name": "数据光滑[化]",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "data smoothing"
+        }
+    },
+    {
+        "concept_name": "数据处理",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "data processing"
+        }
+    },
+    {
+        "concept_name": "数据舍弃",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "rejection of data"
+        }
+    },
+    {
+        "concept_name": "数理物理[学]",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "mathematical physics"
+        }
+    },
+    {
+        "concept_name": "方均根误差",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "root-mean-square error"
+        }
+    },
+    {
+        "concept_name": "无量纲化",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "nondimensionalization"
+        }
+    },
+    {
+        "concept_name": "时间",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "time"
+        }
+    },
+    {
+        "concept_name": "普适常量",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "universal constant"
+        }
+    },
+    {
+        "concept_name": "普通物理[学]",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "general physics"
+        }
+    },
+    {
+        "concept_name": "曲线拟合",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "curve fitting"
+        }
+    },
+    {
+        "concept_name": "最大似然法",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "maximum likelihood method"
+        }
+    },
+    {
+        "concept_name": "最大偏差",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "maximum deviation"
+        }
+    },
+    {
+        "concept_name": "最大误差",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "maximum error"
+        }
+    },
+    {
+        "concept_name": "最小二乘法",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "least square method"
+        }
+    },
+    {
+        "concept_name": "最概然值",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "most probable value"
+        }
+    },
+    {
+        "concept_name": "有效数字",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "significant figure"
+        }
+    },
+    {
+        "concept_name": "本底",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "background"
+        }
+    },
+    {
+        "concept_name": "权[重]",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "weight"
+        }
+    },
+    {
+        "concept_name": "标准偏差",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "standard deviation"
+        }
+    },
+    {
+        "concept_name": "标准误差",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "standard error"
+        }
+    },
+    {
+        "concept_name": "标定",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "scaling"
+        }
+    },
+    {
+        "concept_name": "标积",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "scalar product"
+        }
+    },
+    {
+        "concept_name": "标量",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "scalar"
+        }
+    },
+    {
+        "concept_name": "校准",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "calibration"
+        }
+    },
+    {
+        "concept_name": "校正",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "correction"
+        }
+    },
+    {
+        "concept_name": "检测",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "detection"
+        }
+    },
+    {
+        "concept_name": "概然误差",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "probable error"
+        }
+    },
+    {
+        "concept_name": "模拟",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "simulation"
+        }
+    },
+    {
+        "concept_name": "模量",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "modulus"
+        }
+    },
+    {
+        "concept_name": "步骤",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "procedure"
+        }
+    },
+    {
+        "concept_name": "泊松分布",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Poisson distribution"
+        }
+    },
+    {
+        "concept_name": "测定",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "determination"
+        }
+    },
+    {
+        "concept_name": "测量",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "measurement"
+        }
+    },
+    {
+        "concept_name": "灵敏度",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "sensitivity"
+        }
+    },
+    {
+        "concept_name": "物理[学]",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "physics"
+        }
+    },
+    {
+        "concept_name": "物理量",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "physical quantity"
+        }
+    },
+    {
+        "concept_name": "物质",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "matter"
+        }
+    },
+    {
+        "concept_name": "现象",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "phenomenon"
+        }
+    },
+    {
+        "concept_name": "理想实验",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "gedanken experiment"
+        }
+    },
+    {
+        "concept_name": "理论",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "theory"
+        }
+    },
+    {
+        "concept_name": "理论物理[学]",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "theoretical physics"
+        }
+    },
+    {
+        "concept_name": "理论误差",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "theoretical error"
+        }
+    },
+    {
+        "concept_name": "生物物理[学]",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "biophysics"
+        }
+    },
+    {
+        "concept_name": "电子光学",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electron optics"
+        }
+    },
+    {
+        "concept_name": "电子学",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electronics"
+        }
+    },
+    {
+        "concept_name": "疏失误差",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "blunder error"
+        }
+    },
+    {
+        "concept_name": "疑难",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "puzzle"
+        }
+    },
+    {
+        "concept_name": "直接测量",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "direct measurement"
+        }
+    },
+    {
+        "concept_name": "直方图",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "histogram"
+        }
+    },
+    {
+        "concept_name": "相对误差",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "relative error"
+        }
+    },
+    {
+        "concept_name": "真值",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "true value"
+        }
+    },
+    {
+        "concept_name": "真空",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "vacuum"
+        }
+    },
+    {
+        "concept_name": "矢积",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "vector product"
+        }
+    },
+    {
+        "concept_name": "矢量",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "vector"
+        }
+    },
+    {
+        "concept_name": "符号、单位、术语、原子质量和基本常量委员会",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "英文": "Commission on Symbols ;Units ;Nomenclature ;Atomic Masses and Fundamental Constants ;SUNAMCO Commission",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Commission on Symbols"
+        }
+    },
+    {
+        "concept_name": "算术平均",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "arithmetic mean"
+        }
+    },
+    {
+        "concept_name": "类比",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "analogy"
+        }
+    },
+    {
+        "concept_name": "粗调",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "coarse adjustment"
+        }
+    },
+    {
+        "concept_name": "精密度",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "precision"
+        }
+    },
+    {
+        "concept_name": "系数",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "coefficient"
+        }
+    },
+    {
+        "concept_name": "系统误差",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "systematic error"
+        }
+    },
+    {
+        "concept_name": "级别",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "level"
+        }
+    },
+    {
+        "concept_name": "细调",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "fine adjustment"
+        }
+    },
+    {
+        "concept_name": "经典物理[学]",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "classical physics"
+        }
+    },
+    {
+        "concept_name": "绝对误差",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "absolute error"
+        }
+    },
+    {
+        "concept_name": "统计误差",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "statistical error"
+        }
+    },
+    {
+        "concept_name": "置信水平",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "confidence level"
+        }
+    },
+    {
+        "concept_name": "置信限",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "confidence limit"
+        }
+    },
+    {
+        "concept_name": "肖维涅舍弃判据",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Chauvenet criterion for rejection"
+        }
+    },
+    {
+        "concept_name": "能量",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "energy"
+        }
+    },
+    {
+        "concept_name": "表述",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "formulation"
+        }
+    },
+    {
+        "concept_name": "装置",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "equipment"
+        }
+    },
+    {
+        "concept_name": "观察",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "observation"
+        }
+    },
+    {
+        "concept_name": "论证",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "argumentation"
+        }
+    },
+    {
+        "concept_name": "证认",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "identification"
+        }
+    },
+    {
+        "concept_name": "误差",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "error"
+        }
+    },
+    {
+        "concept_name": "误差传递",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "propagation of error"
+        }
+    },
+    {
+        "concept_name": "调节",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "adjustment"
+        }
+    },
+    {
+        "concept_name": "质量",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "mass"
+        }
+    },
+    {
+        "concept_name": "近代物理[学]",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "modern physics"
+        }
+    },
+    {
+        "concept_name": "量纲",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "dimension"
+        }
+    },
+    {
+        "concept_name": "量纲分析",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "dimensional analysis"
+        }
+    },
+    {
+        "concept_name": "鉴别",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "discrimination"
+        }
+    },
+    {
+        "concept_name": "长度",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "length"
+        }
+    },
+    {
+        "concept_name": "间接测量",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "indirect measurement"
+        }
+    },
+    {
+        "concept_name": "随机误差",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "stochastic error"
+        }
+    },
+    {
+        "concept_name": "面积",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "area"
+        }
+    },
+    {
+        "concept_name": "频率",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "frequency"
+        }
+    },
+    {
+        "concept_name": "验证",
+        "details": {
+            "学科": "物理学_物理学通类",
+            "见载": "《物理学名词》第二版",
+            "英文名": "verification"
+        }
+    }
+]

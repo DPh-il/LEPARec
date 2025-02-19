@@ -1,0 +1,1879 @@
+[
+    {
+        "concept_name": "三化螟",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "paddy stem borer ;yellow rice borer ;Scirpophaga incertulas (Walker)",
+            "见载": "《农学名词》第一版",
+            "英文名": "paddy stem borer"
+        }
+    },
+    {
+        "concept_name": "专性寄生物",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "obligate parasite"
+        }
+    },
+    {
+        "concept_name": "东亚飞蝗",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "Asiatic migratory locust"
+        }
+    },
+    {
+        "concept_name": "乳化剂",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "emulsifier"
+        }
+    },
+    {
+        "concept_name": "亚洲玉米螟",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "Asiatic corn borer ;Ostrinia furnacalis Guenée",
+            "见载": "《农学名词》第一版",
+            "英文名": "Asiatic corn borer"
+        }
+    },
+    {
+        "concept_name": "交叉侵染",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "cross infection"
+        }
+    },
+    {
+        "concept_name": "休眠",
+        "details": {
+            "学科": "农学_植物保护",
+            "又称": " 蛰伏",
+            "见载": "《农学名词》第一版",
+            "英文名": "dormancy"
+        }
+    },
+    {
+        "concept_name": "传播介体",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "vector"
+        }
+    },
+    {
+        "concept_name": "伤害",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "injury"
+        }
+    },
+    {
+        "concept_name": "侵染",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "infection"
+        }
+    },
+    {
+        "concept_name": "侵染性",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "infectivity"
+        }
+    },
+    {
+        "concept_name": "侵染性病害",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "infectious disease"
+        }
+    },
+    {
+        "concept_name": "侵染源",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "source of infection"
+        }
+    },
+    {
+        "concept_name": "免疫",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "immune"
+        }
+    },
+    {
+        "concept_name": "免疫性",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "immunity"
+        }
+    },
+    {
+        "concept_name": "内吸杀虫剂",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "systemic insecticide"
+        }
+    },
+    {
+        "concept_name": "内寄生物",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "endoparasite"
+        }
+    },
+    {
+        "concept_name": "再侵染",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "secondary infection"
+        }
+    },
+    {
+        "concept_name": "再侵染源",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "secondary source of infection"
+        }
+    },
+    {
+        "concept_name": "净化剂",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "clarificant"
+        }
+    },
+    {
+        "concept_name": "分布型",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "pattern of spatial distribution"
+        }
+    },
+    {
+        "concept_name": "分布预测",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "forecast of distribution"
+        }
+    },
+    {
+        "concept_name": "初侵染",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "primary infection"
+        }
+    },
+    {
+        "concept_name": "初侵染源",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "primary source of infection"
+        }
+    },
+    {
+        "concept_name": "利它素",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "kairomone"
+        }
+    },
+    {
+        "concept_name": "利己素",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "allomone"
+        }
+    },
+    {
+        "concept_name": "剂量效应曲线",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "dose-effect curve"
+        }
+    },
+    {
+        "concept_name": "剂量率",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "dose rate"
+        }
+    },
+    {
+        "concept_name": "半知菌",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "imperfect fungus"
+        }
+    },
+    {
+        "concept_name": "单克隆抗体",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "monoclone antibody"
+        }
+    },
+    {
+        "concept_name": "单食性",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "monophagy"
+        }
+    },
+    {
+        "concept_name": "印度谷螟",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "Indian meal moth ;Plodia interpunctella (Hübner)",
+            "见载": "《农学名词》第一版",
+            "英文名": "Indian meal moth"
+        }
+    },
+    {
+        "concept_name": "危害程度预测",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "forecast of damage"
+        }
+    },
+    {
+        "concept_name": "卵寄生物",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "egg parasite"
+        }
+    },
+    {
+        "concept_name": "卵菌",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "oomycetes"
+        }
+    },
+    {
+        "concept_name": "发生期预测",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "forecast of emergence period"
+        }
+    },
+    {
+        "concept_name": "发生量预测",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "forecast of emergence size"
+        }
+    },
+    {
+        "concept_name": "发病指数",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "disease index"
+        }
+    },
+    {
+        "concept_name": "变绿",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "virescent"
+        }
+    },
+    {
+        "concept_name": "可可象虫",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "cocoa pruner"
+        }
+    },
+    {
+        "concept_name": "叶斑",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "leaf spot"
+        }
+    },
+    {
+        "concept_name": "吸收剂量",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "absorbed dose"
+        }
+    },
+    {
+        "concept_name": "吹绵蚧",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "cottonycushion scale ;Icerya purchasi Maskell",
+            "见载": "《农学名词》第一版",
+            "英文名": "cottonycushion scale"
+        }
+    },
+    {
+        "concept_name": "周期性症状",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "chronic symptom"
+        }
+    },
+    {
+        "concept_name": "咖啡果小蠹",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "coffee berryborer"
+        }
+    },
+    {
+        "concept_name": "咖啡枝小蠹",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "coffee shot-hole borer"
+        }
+    },
+    {
+        "concept_name": "咖啡潜叶蛾",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "coffee leafminer"
+        }
+    },
+    {
+        "concept_name": "咖啡豆象",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "coffee bean weevil ;Araecerus fasciaculatus (De Geer)",
+            "见载": "《农学名词》第一版",
+            "英文名": "coffee bean weevil"
+        }
+    },
+    {
+        "concept_name": "国际检疫",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "international quarantine"
+        }
+    },
+    {
+        "concept_name": "地下害虫",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil insect"
+        }
+    },
+    {
+        "concept_name": "坚黑穗病",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "covered smut"
+        }
+    },
+    {
+        "concept_name": "增生",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "hyperplasia"
+        }
+    },
+    {
+        "concept_name": "外寄生物",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "ectoparasite"
+        }
+    },
+    {
+        "concept_name": "多寄生",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "multiparasitism"
+        }
+    },
+    {
+        "concept_name": "大螟",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "purplish rice borer ;Sesamia inferens Walker",
+            "见载": "《农学名词》第一版",
+            "英文名": "purplish rice borer"
+        }
+    },
+    {
+        "concept_name": "大豆蚜",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "soybean aphid ;Aphis glycines Matsumura",
+            "见载": "《农学名词》第一版",
+            "英文名": "soybean aphid"
+        }
+    },
+    {
+        "concept_name": "天敌",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "natural enemy"
+        }
+    },
+    {
+        "concept_name": "姬蜂",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "ichneumon fly"
+        }
+    },
+    {
+        "concept_name": "子囊菌",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "ascomycetes"
+        }
+    },
+    {
+        "concept_name": "它感素",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "allelochemics"
+        }
+    },
+    {
+        "concept_name": "寄主植物",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "host plant"
+        }
+    },
+    {
+        "concept_name": "寄生性",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "parasitism"
+        }
+    },
+    {
+        "concept_name": "寄生蝇",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "parasitic fly"
+        }
+    },
+    {
+        "concept_name": "寄蝇",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "tachina fly"
+        }
+    },
+    {
+        "concept_name": "寡食性",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "oligophagy"
+        }
+    },
+    {
+        "concept_name": "小菜蛾",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "diamond-back moth"
+        }
+    },
+    {
+        "concept_name": "小麦赤霉病",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "wheat scab"
+        }
+    },
+    {
+        "concept_name": "展着剂",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "spreader"
+        }
+    },
+    {
+        "concept_name": "山楂红蜘蛛",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "hawthron spider mite"
+        }
+    },
+    {
+        "concept_name": "带化",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "fasciation"
+        }
+    },
+    {
+        "concept_name": "带毒者",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "carrier"
+        }
+    },
+    {
+        "concept_name": "微生物杀虫剂",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "microbial insecticide"
+        }
+    },
+    {
+        "concept_name": "急性伤害",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "acute injury"
+        }
+    },
+    {
+        "concept_name": "急性症状",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "acute symptom ;shock symptom",
+            "见载": "《农学名词》第一版",
+            "英文名": "acute symptom"
+        }
+    },
+    {
+        "concept_name": "性比",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "sex ratio"
+        }
+    },
+    {
+        "concept_name": "慢性伤害",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "chronic injury"
+        }
+    },
+    {
+        "concept_name": "抗体",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "antibody"
+        }
+    },
+    {
+        "concept_name": "抗原",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "antigen"
+        }
+    },
+    {
+        "concept_name": "抗变剂",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "anti-mutagen"
+        }
+    },
+    {
+        "concept_name": "抗生性",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "antibiosis"
+        }
+    },
+    {
+        "concept_name": "抗虫性",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "resistance to insects"
+        }
+    },
+    {
+        "concept_name": "抗血清",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "antiserum"
+        }
+    },
+    {
+        "concept_name": "拮抗[作用]",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "antagonism"
+        }
+    },
+    {
+        "concept_name": "拮抗体",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "antagonist"
+        }
+    },
+    {
+        "concept_name": "拮抗生物",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "antibionts"
+        }
+    },
+    {
+        "concept_name": "捕食性螨",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "predacious mite"
+        }
+    },
+    {
+        "concept_name": "损失估计",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "loss assessment"
+        }
+    },
+    {
+        "concept_name": "排趋性",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "antixenosis"
+        }
+    },
+    {
+        "concept_name": "放线菌",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "actinomycetes"
+        }
+    },
+    {
+        "concept_name": "日灼病",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "sunscald"
+        }
+    },
+    {
+        "concept_name": "有害生物",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "pest"
+        }
+    },
+    {
+        "concept_name": "有害生物综合治理",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "integrated pest management ;IPM",
+            "见载": "《农学名词》第一版",
+            "英文名": "integrated pest management"
+        }
+    },
+    {
+        "concept_name": "有效成分",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "active ingredient"
+        }
+    },
+    {
+        "concept_name": "杀线虫剂",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "nematocide"
+        }
+    },
+    {
+        "concept_name": "杀虫剂",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "insecticide"
+        }
+    },
+    {
+        "concept_name": "杀螨剂",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "acaricide ;miticide",
+            "见载": "《农学名词》第一版",
+            "英文名": "acaricide"
+        }
+    },
+    {
+        "concept_name": "杀鼠剂",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "rodenticide"
+        }
+    },
+    {
+        "concept_name": "条纹病",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "stripe"
+        }
+    },
+    {
+        "concept_name": "枣黏虫",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "jujube fruit borer ;jujube leaf roller ;Ancylis satira Liu",
+            "见载": "《农学名词》第一版",
+            "英文名": "jujube fruit borer"
+        }
+    },
+    {
+        "concept_name": "枯心",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "dead heart"
+        }
+    },
+    {
+        "concept_name": "枯斑",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "lesion"
+        }
+    },
+    {
+        "concept_name": "柑桔大实蝇",
+        "details": {
+            "学科": "农学_植物保护",
+            "又称": " 柑蛆",
+            "见载": "《农学名词》第一版",
+            "英文名": "citrus fruit fly"
+        }
+    },
+    {
+        "concept_name": "柑桔锈螨",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "citrus rust mite ;Phyllocoptruta oleivora (Ashmead)",
+            "见载": "《农学名词》第一版",
+            "英文名": "citrus rust mite"
+        }
+    },
+    {
+        "concept_name": "桃蚜",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "green peach aphid ;Myzus persicae (Sulzer)",
+            "又称": " 烟蚜",
+            "见载": "《农学名词》第一版",
+            "英文名": "green peach aphid"
+        }
+    },
+    {
+        "concept_name": "桃蠹螟",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "peach pyralid moth"
+        }
+    },
+    {
+        "concept_name": "桑天牛",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "mulberry longicorn ;Apriona germari Hope",
+            "见载": "《农学名词》第一版",
+            "英文名": "mulberry longicorn"
+        }
+    },
+    {
+        "concept_name": "桑木虱",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "mulberry psylla ;Anomoneura mori Schwarz",
+            "见载": "《农学名词》第一版",
+            "英文名": "mulberry psylla"
+        }
+    },
+    {
+        "concept_name": "桑象虫",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "mulberry small weevil"
+        }
+    },
+    {
+        "concept_name": "桑透翅蛾",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "mulberry clearwing moth"
+        }
+    },
+    {
+        "concept_name": "梢枯",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "dieback"
+        }
+    },
+    {
+        "concept_name": "梨小食心虫",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "oriental fruit moth ;Cydia molesta (Busck)",
+            "见载": "《农学名词》第一版",
+            "英文名": "oriental fruit moth"
+        }
+    },
+    {
+        "concept_name": "棉叶蝉",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "cotton leafhopper"
+        }
+    },
+    {
+        "concept_name": "棉盲蝽",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "cotton leaf bug"
+        }
+    },
+    {
+        "concept_name": "棉红蜘蛛",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "two-spotted spider mite ;Tetranychus urticae Koch",
+            "又称": " 棉叶螨 ；二点红蜘蛛",
+            "见载": "《农学名词》第一版",
+            "英文名": "two-spotted spider mite"
+        }
+    },
+    {
+        "concept_name": "棉蚜",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "cotton aphid ;melon aphid ;Aphis gossypii Glover",
+            "见载": "《农学名词》第一版",
+            "英文名": "cotton aphid"
+        }
+    },
+    {
+        "concept_name": "棉铃虫",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "cotton bollworm"
+        }
+    },
+    {
+        "concept_name": "植物检疫",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "plant quarantine"
+        }
+    },
+    {
+        "concept_name": "植物流行病学",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "epiphytology"
+        }
+    },
+    {
+        "concept_name": "植物病害",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "plant disease"
+        }
+    },
+    {
+        "concept_name": "植物病害流行预测",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "forecast of epiphytotic"
+        }
+    },
+    {
+        "concept_name": "橡胶白蚁",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "rubber termite"
+        }
+    },
+    {
+        "concept_name": "欧洲玉米螟",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "European corn borer ;Ostrinia nubilalis (Hübner)",
+            "见载": "《农学名词》第一版",
+            "英文名": "European corn borer"
+        }
+    },
+    {
+        "concept_name": "残效",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "residual effect"
+        }
+    },
+    {
+        "concept_name": "残毒",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "residual toxicity"
+        }
+    },
+    {
+        "concept_name": "毒力",
+        "details": {
+            "学科": "农学_植物保护",
+            "又称": " 致病力",
+            "见载": "《农学名词》第一版",
+            "英文名": "virulence"
+        }
+    },
+    {
+        "concept_name": "毒性",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "toxity"
+        }
+    },
+    {
+        "concept_name": "毒植物素",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "phytotoxin"
+        }
+    },
+    {
+        "concept_name": "气传病害",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "aeroborne disease"
+        }
+    },
+    {
+        "concept_name": "法规防治",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "legal control"
+        }
+    },
+    {
+        "concept_name": "活化剂",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "activator"
+        }
+    },
+    {
+        "concept_name": "消毒剂",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "disinfectant"
+        }
+    },
+    {
+        "concept_name": "湿润剂",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "wetting agent"
+        }
+    },
+    {
+        "concept_name": "潜伏侵染",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "latent infection"
+        }
+    },
+    {
+        "concept_name": "潜育期",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "incubation period"
+        }
+    },
+    {
+        "concept_name": "炭疽病",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "anthracnose"
+        }
+    },
+    {
+        "concept_name": "烟青虫",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "oriental tobacco budworm ;Helicoverpa assulta Guenée",
+            "见载": "《农学名词》第一版",
+            "英文名": "oriental tobacco budworm"
+        }
+    },
+    {
+        "concept_name": "猎蝽",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "assassin bug"
+        }
+    },
+    {
+        "concept_name": "猝倒病",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "damping-off"
+        }
+    },
+    {
+        "concept_name": "瓢虫",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "ladybird beetle"
+        }
+    },
+    {
+        "concept_name": "甘蓝蚜",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "cabbage aphid ;Brevicoryne brassicae L.",
+            "见载": "《农学名词》第一版",
+            "英文名": "cabbage aphid"
+        }
+    },
+    {
+        "concept_name": "甘薯小象虫",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "sweet potato weevil"
+        }
+    },
+    {
+        "concept_name": "生殖力",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "fecundity"
+        }
+    },
+    {
+        "concept_name": "生物型",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "biotype"
+        }
+    },
+    {
+        "concept_name": "疱痂",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "scab"
+        }
+    },
+    {
+        "concept_name": "病原学",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "etiology"
+        }
+    },
+    {
+        "concept_name": "瘟病",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "blast"
+        }
+    },
+    {
+        "concept_name": "白化",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "albinism"
+        }
+    },
+    {
+        "concept_name": "白穗",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "white head"
+        }
+    },
+    {
+        "concept_name": "白粉病",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "powdery mildew"
+        }
+    },
+    {
+        "concept_name": "矮化",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "dwarf"
+        }
+    },
+    {
+        "concept_name": "秆黑粉病",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "flag smut"
+        }
+    },
+    {
+        "concept_name": "积分剂量计",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "integrating dosimeter"
+        }
+    },
+    {
+        "concept_name": "稳定剂",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "stabilizing agent"
+        }
+    },
+    {
+        "concept_name": "稻瘿蚊",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "rice gall midge ;Orseolia oryzae (Wood-Mason)",
+            "见载": "《农学名词》第一版",
+            "英文名": "rice gall midge"
+        }
+    },
+    {
+        "concept_name": "稻白叶枯病",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "rice bacterial leaf blight"
+        }
+    },
+    {
+        "concept_name": "稻纵卷叶螟",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "rice leaf roller"
+        }
+    },
+    {
+        "concept_name": "等剂量曲线",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "isodose curve"
+        }
+    },
+    {
+        "concept_name": "米象",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "rice weevil ;Sitophilus oryzae (L.)",
+            "见载": "《农学名词》第一版",
+            "英文名": "rice weevil"
+        }
+    },
+    {
+        "concept_name": "粟灰螟",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "millet borer ;Chilo infuscatellus Snellen",
+            "见载": "《农学名词》第一版",
+            "英文名": "millet borer"
+        }
+    },
+    {
+        "concept_name": "粟芒蝇",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "millet shoot fly"
+        }
+    },
+    {
+        "concept_name": "线虫",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "nematode"
+        }
+    },
+    {
+        "concept_name": "经济允许水平",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "economic injury level"
+        }
+    },
+    {
+        "concept_name": "经济阈值",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "economic threshold ;control index",
+            "又称": " 防治指标",
+            "见载": "《农学名词》第一版",
+            "英文名": "economic threshold"
+        }
+    },
+    {
+        "concept_name": "综合防治",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "integrated control"
+        }
+    },
+    {
+        "concept_name": "绿豆象",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "adzuki bean weevil ;Callosobruchus chinensis (L.)",
+            "见载": "《农学名词》第一版",
+            "英文名": "adzuki bean weevil"
+        }
+    },
+    {
+        "concept_name": "耐虫[害]性",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "tolerance to insects"
+        }
+    },
+    {
+        "concept_name": "联体病毒",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "gemnivirus"
+        }
+    },
+    {
+        "concept_name": "胃毒杀虫剂",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "stomach insecticide"
+        }
+    },
+    {
+        "concept_name": "致死剂量",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "lethal dose"
+        }
+    },
+    {
+        "concept_name": "苏云金杆菌",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "Bt"
+        }
+    },
+    {
+        "concept_name": "苹小食心虫",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "apple fruit borer ;Cydia inopinata Heinrich",
+            "见载": "《农学名词》第一版",
+            "英文名": "apple fruit borer"
+        }
+    },
+    {
+        "concept_name": "苹果[树]腐烂病",
+        "details": {
+            "学科": "农学_植物保护",
+            "又称": " 苹果[树]腐皮病",
+            "见载": "《农学名词》第一版",
+            "英文名": "apple valsa canker"
+        }
+    },
+    {
+        "concept_name": "苹果红蜘蛛",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "European red mite ;Panonychus ulmi (Koch)",
+            "见载": "《农学名词》第一版",
+            "英文名": "European red mite"
+        }
+    },
+    {
+        "concept_name": "苹果绵蚜",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "woolly apple aphid"
+        }
+    },
+    {
+        "concept_name": "苹果顶芽卷叶蛾",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "apple fruit licker ;apple bud moth ;Spilonota lechriaspis Meyrick",
+            "见载": "《农学名词》第一版",
+            "英文名": "apple fruit licker"
+        }
+    },
+    {
+        "concept_name": "茶二叉蚜",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "black citrus aphid ;Toxoptera aurantii (Fonscolombe)",
+            "见载": "《农学名词》第一版",
+            "英文名": "black citrus aphid"
+        }
+    },
+    {
+        "concept_name": "茶小绿叶蝉",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "tea lesser leafhopper"
+        }
+    },
+    {
+        "concept_name": "茶梢蛀蛾",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "tea shoot borer"
+        }
+    },
+    {
+        "concept_name": "茶橙瘿螨",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "pink tea rust mite"
+        }
+    },
+    {
+        "concept_name": "茶毛虫",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "tea caterpillar"
+        }
+    },
+    {
+        "concept_name": "茶短须螨",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "privet mite ;Brevipalpus obovatus Donnadieu",
+            "见载": "《农学名词》第一版",
+            "英文名": "privet mite"
+        }
+    },
+    {
+        "concept_name": "获得免疫性",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "acquired immunity"
+        }
+    },
+    {
+        "concept_name": "获得抗性",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "acquired resistance"
+        }
+    },
+    {
+        "concept_name": "菜粉蝶",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "imported cabbageworm ;Pieris rapae L.",
+            "见载": "《农学名词》第一版",
+            "英文名": "imported cabbageworm"
+        }
+    },
+    {
+        "concept_name": "菜螟",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "cabbage webworm ;Hellula undalis Fabricius",
+            "见载": "《农学名词》第一版",
+            "英文名": "cabbage webworm"
+        }
+    },
+    {
+        "concept_name": "虫情调查",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "insect survey"
+        }
+    },
+    {
+        "concept_name": "虫瘿",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "insect gall"
+        }
+    },
+    {
+        "concept_name": "被害率",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "percent of infestation"
+        }
+    },
+    {
+        "concept_name": "褐根病",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "brown root rot"
+        }
+    },
+    {
+        "concept_name": "角斑病",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "angular leaf spot"
+        }
+    },
+    {
+        "concept_name": "触杀剂",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "contact insecticide"
+        }
+    },
+    {
+        "concept_name": "诱虫剂",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "attractant"
+        }
+    },
+    {
+        "concept_name": "谷蠹",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "lesser grain borer"
+        }
+    },
+    {
+        "concept_name": "豆荚螟",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "lima bean pod borer"
+        }
+    },
+    {
+        "concept_name": "豌豆潜叶蝇",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "pea leafminer"
+        }
+    },
+    {
+        "concept_name": "负趋性",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "negative taxis"
+        }
+    },
+    {
+        "concept_name": "超低容量",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "ultra low volume ;ULV",
+            "见载": "《农学名词》第一版",
+            "英文名": "ultra low volume"
+        }
+    },
+    {
+        "concept_name": "超低容量喷雾",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "ultra low volume spraying"
+        }
+    },
+    {
+        "concept_name": "越冬防治",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "overwintering control"
+        }
+    },
+    {
+        "concept_name": "趋性",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "taxis"
+        }
+    },
+    {
+        "concept_name": "转主寄主",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "alternate host"
+        }
+    },
+    {
+        "concept_name": "转主寄生",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "heteroecism"
+        }
+    },
+    {
+        "concept_name": "软腐",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "soft rot"
+        }
+    },
+    {
+        "concept_name": "辅助剂",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "adjuvant"
+        }
+    },
+    {
+        "concept_name": "选择性杀虫剂",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "selective insecticide"
+        }
+    },
+    {
+        "concept_name": "避病性",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "disease-escaping"
+        }
+    },
+    {
+        "concept_name": "重寄生",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "hyperparasitism"
+        }
+    },
+    {
+        "concept_name": "铲除剂",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "eradicant"
+        }
+    },
+    {
+        "concept_name": "锈菌",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "rust"
+        }
+    },
+    {
+        "concept_name": "防治效果",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "control efficiency"
+        }
+    },
+    {
+        "concept_name": "防腐剂",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "antiseptics"
+        }
+    },
+    {
+        "concept_name": "隐症",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "masked symptom"
+        }
+    },
+    {
+        "concept_name": "霉",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "mold"
+        }
+    },
+    {
+        "concept_name": "非侵染性病害",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "non-infectious disease"
+        }
+    },
+    {
+        "concept_name": "非密度制约因子",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "density-independent factor"
+        }
+    },
+    {
+        "concept_name": "预测",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "forecast"
+        }
+    },
+    {
+        "concept_name": "颗粒杀虫剂",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "granular insecticide"
+        }
+    },
+    {
+        "concept_name": "飞机喷雾",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "aerial spraying"
+        }
+    },
+    {
+        "concept_name": "马铃薯块茎蛾",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "potato tuberworm ;Phthorimaea operculella (Zeller)",
+            "见载": "《农学名词》第一版",
+            "英文名": "potato tuberworm"
+        }
+    },
+    {
+        "concept_name": "高粱芒蝇",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "sorghum shoot fly"
+        }
+    },
+    {
+        "concept_name": "高粱蚜",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "sorghum aphid ;sugarcane aphid ;Melanaphis sacchari (Zehntner)",
+            "见载": "《农学名词》第一版",
+            "英文名": "sorghum aphid"
+        }
+    },
+    {
+        "concept_name": "麦二叉蚜",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "greenbug"
+        }
+    },
+    {
+        "concept_name": "麦秆蝇",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "wheat stem maggot"
+        }
+    },
+    {
+        "concept_name": "麦蛾",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "Angoumois grain moth ;Sitotroga cerealella (Olivier)",
+            "见载": "《农学名词》第一版",
+            "英文名": "Angoumois grain moth"
+        }
+    },
+    {
+        "concept_name": "麦长管蚜",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "English grain aphid"
+        }
+    },
+    {
+        "concept_name": "黏菌",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "slime mold"
+        }
+    },
+    {
+        "concept_name": "黏虫",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "armyworm"
+        }
+    },
+    {
+        "concept_name": "黑尾叶蝉",
+        "details": {
+            "学科": "农学_植物保护",
+            "英文": "rice leafhopper ;Nephotettix cincticeps (Uhler)",
+            "见载": "《农学名词》第一版",
+            "英文名": "rice leafhopper"
+        }
+    },
+    {
+        "concept_name": "黑粉菌",
+        "details": {
+            "学科": "农学_植物保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "smut"
+        }
+    }
+]

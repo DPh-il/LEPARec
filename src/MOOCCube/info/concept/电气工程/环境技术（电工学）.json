@@ -1,0 +1,1333 @@
+[
+    {
+        "concept_name": "[黏性]阻尼系数",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "[viscous] damping coefficient"
+        }
+    },
+    {
+        "concept_name": "中间检测",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "intermediate examination and mea- surement"
+        }
+    },
+    {
+        "concept_name": "临界[黏性]阻尼",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "critical [viscous] damping"
+        }
+    },
+    {
+        "concept_name": "临界频率",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "critical frequency"
+        }
+    },
+    {
+        "concept_name": "交越频率",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "又称": " 交界频率",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "crossover frequency"
+        }
+    },
+    {
+        "concept_name": "位移传感器",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "displacement transducer"
+        }
+    },
+    {
+        "concept_name": "位移幅值",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "displacement amplitude"
+        }
+    },
+    {
+        "concept_name": "低气压试验",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "low air pressure test"
+        }
+    },
+    {
+        "concept_name": "共振频率",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "resonance frequency"
+        }
+    },
+    {
+        "concept_name": "冰雹",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "hail"
+        }
+    },
+    {
+        "concept_name": "冻雨",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "freezing rain"
+        }
+    },
+    {
+        "concept_name": "减振器",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "又称": " 隔振器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "vibration isolator"
+        }
+    },
+    {
+        "concept_name": "凝露试验",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "condensation test"
+        }
+    },
+    {
+        "concept_name": "初始检测",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "initial examination and measure- ment"
+        }
+    },
+    {
+        "concept_name": "剩余冲击响应谱",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "residual shock response spectrum"
+        }
+    },
+    {
+        "concept_name": "功率谱密度",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "power spectral density"
+        }
+    },
+    {
+        "concept_name": "加速度传感器",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "acceleration transducer"
+        }
+    },
+    {
+        "concept_name": "加速度幅值",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "acceleration amplitude"
+        }
+    },
+    {
+        "concept_name": "加速度试验",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "acceleration test"
+        }
+    },
+    {
+        "concept_name": "加速度谱密度",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "acceleration spectral density"
+        }
+    },
+    {
+        "concept_name": "动物群",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "fauna"
+        }
+    },
+    {
+        "concept_name": "化学效应",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "chemical effect"
+        }
+    },
+    {
+        "concept_name": "化学腐蚀",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "chemical corrosion"
+        }
+    },
+    {
+        "concept_name": "化学腐蚀试验",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "chemical corrosion test"
+        }
+    },
+    {
+        "concept_name": "原电池腐蚀",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "galvanic corrosion"
+        }
+    },
+    {
+        "concept_name": "受控点",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "controlled point"
+        }
+    },
+    {
+        "concept_name": "可使用状态",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "up state"
+        }
+    },
+    {
+        "concept_name": "含盐气氛试验",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "salt-laden atmosphere test"
+        }
+    },
+    {
+        "concept_name": "周期振动",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "periodic vibration"
+        }
+    },
+    {
+        "concept_name": "啮齿动物",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "rodent"
+        }
+    },
+    {
+        "concept_name": "固定使用",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "stationary use"
+        }
+    },
+    {
+        "concept_name": "地震",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "earthquake"
+        }
+    },
+    {
+        "concept_name": "地面环境",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "ground environment"
+        }
+    },
+    {
+        "concept_name": "地面车载条件",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "ground vehicle condition"
+        }
+    },
+    {
+        "concept_name": "外加电压腐蚀",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "corrosion associated with external- ly applied voltage"
+        }
+    },
+    {
+        "concept_name": "大气压",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "atmospheric pressure"
+        }
+    },
+    {
+        "concept_name": "大气暴露试验",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "exposure test"
+        }
+    },
+    {
+        "concept_name": "大气腐蚀",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "atmospheric corrosion"
+        }
+    },
+    {
+        "concept_name": "大陆气候",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "continental climate"
+        }
+    },
+    {
+        "concept_name": "天空辐射",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "sky radiation"
+        }
+    },
+    {
+        "concept_name": "太阳常数",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "solar constant"
+        }
+    },
+    {
+        "concept_name": "太阳辐射",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "solar radiation"
+        }
+    },
+    {
+        "concept_name": "孢子",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "spore"
+        }
+    },
+    {
+        "concept_name": "完全有气候防护场所",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "totally weather-protected location"
+        }
+    },
+    {
+        "concept_name": "室内气候",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "indoor climate"
+        }
+    },
+    {
+        "concept_name": "宽带随机振动",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "wide-band random vibration"
+        }
+    },
+    {
+        "concept_name": "工作状态",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "operating state"
+        }
+    },
+    {
+        "concept_name": "工作环境",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "operational environment"
+        }
+    },
+    {
+        "concept_name": "工作空间",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "又称": " 有效空间",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "working space"
+        }
+    },
+    {
+        "concept_name": "平均海平面",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "mean sea level"
+        }
+    },
+    {
+        "concept_name": "年最低温度",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "annual minimum temperature"
+        }
+    },
+    {
+        "concept_name": "年最大日平均相对湿度",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "annual extreme daily mean relative humidity"
+        }
+    },
+    {
+        "concept_name": "年最大相对湿度",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "annual maximum relative humidity"
+        }
+    },
+    {
+        "concept_name": "年最小相对湿度",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "annual minimum relative humidity"
+        }
+    },
+    {
+        "concept_name": "年最高日平均温度",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "annual extreme daily mean temperature"
+        }
+    },
+    {
+        "concept_name": "年最高温度",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "annual maximum temperature"
+        }
+    },
+    {
+        "concept_name": "应力腐蚀",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "stress corrosion"
+        }
+    },
+    {
+        "concept_name": "强冲击试验",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "high impact shock test"
+        }
+    },
+    {
+        "concept_name": "循环湿热试验",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "cyclic damp heat test"
+        }
+    },
+    {
+        "concept_name": "微气候",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "micro-climate"
+        }
+    },
+    {
+        "concept_name": "微生物",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "microbe"
+        }
+    },
+    {
+        "concept_name": "总辐射",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "global radiation"
+        }
+    },
+    {
+        "concept_name": "恒加速度试验",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "fixed acceleration test"
+        }
+    },
+    {
+        "concept_name": "恢复稳定时间",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "stability recovery time"
+        }
+    },
+    {
+        "concept_name": "扫频",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "sweep"
+        }
+    },
+    {
+        "concept_name": "振动台",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "vibration machine"
+        }
+    },
+    {
+        "concept_name": "振动周期",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "vibration period"
+        }
+    },
+    {
+        "concept_name": "振动强度试验",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "vibration strength test"
+        }
+    },
+    {
+        "concept_name": "振动稳定性试验",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "stability of vibration test"
+        }
+    },
+    {
+        "concept_name": "散热试验样品",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "heat-dissipating specimen"
+        }
+    },
+    {
+        "concept_name": "方均加速度",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "mean-square acceleration"
+        }
+    },
+    {
+        "concept_name": "方均根加速度",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "root-mean-square acceleration"
+        }
+    },
+    {
+        "concept_name": "无气候防护场所",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "non-weather-protected location"
+        }
+    },
+    {
+        "concept_name": "时域",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "time domain"
+        }
+    },
+    {
+        "concept_name": "暴露",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "exposure"
+        }
+    },
+    {
+        "concept_name": "最后检测",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "final examination and measure- ment"
+        }
+    },
+    {
+        "concept_name": "月平均温度",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "monthly mean temperature"
+        }
+    },
+    {
+        "concept_name": "有气候防护场所",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "weather-protected location"
+        }
+    },
+    {
+        "concept_name": "机械效应",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "mechanical effect"
+        }
+    },
+    {
+        "concept_name": "极端最低温度",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "extreme minimum temperature"
+        }
+    },
+    {
+        "concept_name": "极端最大相对湿度",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "extreme maximum relative humidi- ty"
+        }
+    },
+    {
+        "concept_name": "极端最小相对湿度",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "extreme minimum relative humidi- ty"
+        }
+    },
+    {
+        "concept_name": "极端最高温度",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "extreme maximum temperature"
+        }
+    },
+    {
+        "concept_name": "标准大气压",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "standard atmospheric pressure"
+        }
+    },
+    {
+        "concept_name": "植物群",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "flora"
+        }
+    },
+    {
+        "concept_name": "横倾",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "transverse inclination"
+        }
+    },
+    {
+        "concept_name": "横向振动",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "transverse vibration"
+        }
+    },
+    {
+        "concept_name": "横摇",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "rolling"
+        }
+    },
+    {
+        "concept_name": "次声",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "infrasound"
+        }
+    },
+    {
+        "concept_name": "正弦振动试验",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "sinusoidal vibration test"
+        }
+    },
+    {
+        "concept_name": "气候顺序试验",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "climate sequence test"
+        }
+    },
+    {
+        "concept_name": "沙尘试验",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "sand and dust test"
+        }
+    },
+    {
+        "concept_name": "海拔",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "altitude"
+        }
+    },
+    {
+        "concept_name": "海洋大气环境",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "naval air environment"
+        }
+    },
+    {
+        "concept_name": "海洋气候",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "ocean climate"
+        }
+    },
+    {
+        "concept_name": "浸水试验",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "water test"
+        }
+    },
+    {
+        "concept_name": "淋雨试验",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "rain test"
+        }
+    },
+    {
+        "concept_name": "混响",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "reverberation"
+        }
+    },
+    {
+        "concept_name": "温室效应",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "green house effect"
+        }
+    },
+    {
+        "concept_name": "温度梯度",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "temperature gradient"
+        }
+    },
+    {
+        "concept_name": "满载最大加速度",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "maximum full load acceleration"
+        }
+    },
+    {
+        "concept_name": "潮湿试验",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "moisture test"
+        }
+    },
+    {
+        "concept_name": "激励",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "excitation"
+        }
+    },
+    {
+        "concept_name": "激振器",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "vibration generator"
+        }
+    },
+    {
+        "concept_name": "热效应",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "thermal effect"
+        }
+    },
+    {
+        "concept_name": "环境",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "environment"
+        }
+    },
+    {
+        "concept_name": "环境参数",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "environmental parameter"
+        }
+    },
+    {
+        "concept_name": "环境参数严酷等级",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "severity of environmental parame- ter"
+        }
+    },
+    {
+        "concept_name": "环境参数偏差",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "environmental parametric deviation"
+        }
+    },
+    {
+        "concept_name": "环境因素",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "environmental factor"
+        }
+    },
+    {
+        "concept_name": "环境工程",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "environmental engineering"
+        }
+    },
+    {
+        "concept_name": "环境应力",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "environmental stress"
+        }
+    },
+    {
+        "concept_name": "环境强化试验",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "environmental strengthen test"
+        }
+    },
+    {
+        "concept_name": "环境条件",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "environmental condition"
+        }
+    },
+    {
+        "concept_name": "环境温度",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "ambient temperature"
+        }
+    },
+    {
+        "concept_name": "环境试验",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "environmental test"
+        }
+    },
+    {
+        "concept_name": "环境适应性",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "environmental suitability"
+        }
+    },
+    {
+        "concept_name": "环境防护",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "environmental protection"
+        }
+    },
+    {
+        "concept_name": "理想冲击脉冲",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "ideal shock pulse"
+        }
+    },
+    {
+        "concept_name": "电化学腐蚀",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electrochemical corrosion"
+        }
+    },
+    {
+        "concept_name": "电化学腐蚀试验",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electrochemical corrosion test"
+        }
+    },
+    {
+        "concept_name": "电效应",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electrical effect"
+        }
+    },
+    {
+        "concept_name": "白蚁",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "termite"
+        }
+    },
+    {
+        "concept_name": "碰撞试验",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "bump test"
+        }
+    },
+    {
+        "concept_name": "稳定加速度",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "steady acceleration"
+        }
+    },
+    {
+        "concept_name": "稳态加速度试验",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "steady state acceleration test"
+        }
+    },
+    {
+        "concept_name": "稳态湿热试验",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "steady state damp heat test"
+        }
+    },
+    {
+        "concept_name": "空气湿度",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "air humidity"
+        }
+    },
+    {
+        "concept_name": "空载最大加速度",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "maximum bare table acceleration"
+        }
+    },
+    {
+        "concept_name": "空间环境",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "space environment"
+        }
+    },
+    {
+        "concept_name": "简谐振动",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "simple harmonic vibration"
+        }
+    },
+    {
+        "concept_name": "纵倾",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "longitudinal inclination"
+        }
+    },
+    {
+        "concept_name": "绝对湿度",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "absolute humidity"
+        }
+    },
+    {
+        "concept_name": "综合试验",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "combined test"
+        }
+    },
+    {
+        "concept_name": "老化",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "ageing"
+        }
+    },
+    {
+        "concept_name": "自然环境",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "natural environment"
+        }
+    },
+    {
+        "concept_name": "自由空气条件",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "free air condition"
+        }
+    },
+    {
+        "concept_name": "自由跌落试验",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "free-fall test"
+        }
+    },
+    {
+        "concept_name": "试验样品",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "test specimen"
+        }
+    },
+    {
+        "concept_name": "试验箱",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "test chamber"
+        }
+    },
+    {
+        "concept_name": "试验顺序",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "sequence of tests"
+        }
+    },
+    {
+        "concept_name": "诱发环境",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "induced environment"
+        }
+    },
+    {
+        "concept_name": "贮存",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "storage"
+        }
+    },
+    {
+        "concept_name": "起始冲击响应谱",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "initial shock response spectrum"
+        }
+    },
+    {
+        "concept_name": "超声",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "ultrasound"
+        }
+    },
+    {
+        "concept_name": "辐射试验",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "radiation test"
+        }
+    },
+    {
+        "concept_name": "辐射通量",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "radiant flux"
+        }
+    },
+    {
+        "concept_name": "过饱和",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "supersaturation"
+        }
+    },
+    {
+        "concept_name": "连续运行时间",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "continuous operating time"
+        }
+    },
+    {
+        "concept_name": "速度传感器",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "velocity transducer"
+        }
+    },
+    {
+        "concept_name": "速度幅值",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "velocity amplitude"
+        }
+    },
+    {
+        "concept_name": "重力加速度",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "acceleration of gravity"
+        }
+    },
+    {
+        "concept_name": "随机振动",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "random vibration"
+        }
+    },
+    {
+        "concept_name": "雪载",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "snow load"
+        }
+    },
+    {
+        "concept_name": "雷暴",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "thunderstorm"
+        }
+    },
+    {
+        "concept_name": "雾凇",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "rime"
+        }
+    },
+    {
+        "concept_name": "霉菌",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "mould"
+        }
+    },
+    {
+        "concept_name": "霉菌试验",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "mould test"
+        }
+    },
+    {
+        "concept_name": "霜凇",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "air hoar"
+        }
+    },
+    {
+        "concept_name": "露天气候",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "open-air climate"
+        }
+    },
+    {
+        "concept_name": "露点温度",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "dew-point temperature"
+        }
+    },
+    {
+        "concept_name": "非固定使用",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "non-stationary use"
+        }
+    },
+    {
+        "concept_name": "非工作状态",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "non-operating state"
+        }
+    },
+    {
+        "concept_name": "非散热试验样品",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "non-heat-dissipating specimen"
+        }
+    },
+    {
+        "concept_name": "频域",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "frequency domain"
+        }
+    },
+    {
+        "concept_name": "饱和空气",
+        "details": {
+            "学科": "电气工程_环境技术（电工学）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "saturated air"
+        }
+    }
+]

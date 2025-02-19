@@ -1,0 +1,435 @@
+[
+    {
+        "concept_name": "不平衡运输问题",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "unbalanced transportation problem"
+        }
+    },
+    {
+        "concept_name": "丹齐格-沃尔夫法",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "Dantzig-Wolfe method"
+        }
+    },
+    {
+        "concept_name": "二次指派问题",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "quadratic assignment problem"
+        }
+    },
+    {
+        "concept_name": "人工变量",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "artificial variable"
+        }
+    },
+    {
+        "concept_name": "人工基",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "artificial basis"
+        }
+    },
+    {
+        "concept_name": "修正单纯形法",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "revised simplex method"
+        }
+    },
+    {
+        "concept_name": "入向量",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "incoming vector"
+        }
+    },
+    {
+        "concept_name": "全整数割平面法",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "all integer algorithm for cutting plane"
+        }
+    },
+    {
+        "concept_name": "全整数规划",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "all integer programming"
+        }
+    },
+    {
+        "concept_name": "出向量",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "outgoing vector"
+        }
+    },
+    {
+        "concept_name": "分支定界法",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "又称": " 分支限界法",
+            "见载": "《数学名词》第一版",
+            "英文名": "branch and bound method"
+        }
+    },
+    {
+        "concept_name": "分解原理",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "decomposition principle"
+        }
+    },
+    {
+        "concept_name": "初始基本可行解",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "initial basic feasible solution"
+        }
+    },
+    {
+        "concept_name": "剩余变量",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "surplus variable"
+        }
+    },
+    {
+        "concept_name": "割平面法",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "cutting plane method"
+        }
+    },
+    {
+        "concept_name": "匈牙利法",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "Hungarian method"
+        }
+    },
+    {
+        "concept_name": "单纯形法",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "simplex method"
+        }
+    },
+    {
+        "concept_name": "单纯形表",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "simplex tabuleau"
+        }
+    },
+    {
+        "concept_name": "卡马卡法",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "Karmarkar algorithm"
+        }
+    },
+    {
+        "concept_name": "原始对偶单纯形法",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "primal-dual simplex method"
+        }
+    },
+    {
+        "concept_name": "原始对偶法",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "primal-dual method"
+        }
+    },
+    {
+        "concept_name": "可行基",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "feasible basis"
+        }
+    },
+    {
+        "concept_name": "图作业法",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "graphical method for tran- sportation"
+        }
+    },
+    {
+        "concept_name": "基[本]变量",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "basic variable"
+        }
+    },
+    {
+        "concept_name": "基本可行解",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "basic feasible solution"
+        }
+    },
+    {
+        "concept_name": "定位问题",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "location problem"
+        }
+    },
+    {
+        "concept_name": "对偶单纯形法",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "dual simplex method"
+        }
+    },
+    {
+        "concept_name": "对偶线性规划",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "dual linear programming"
+        }
+    },
+    {
+        "concept_name": "平衡指派问题",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "balanced assignment problem"
+        }
+    },
+    {
+        "concept_name": "平衡运输问题",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "balanced transportation problem"
+        }
+    },
+    {
+        "concept_name": "影子价格",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "shadow price"
+        }
+    },
+    {
+        "concept_name": "指派问题",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "assignment problem"
+        }
+    },
+    {
+        "concept_name": "整数线性规划",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "integer linear programming"
+        }
+    },
+    {
+        "concept_name": "整数规划",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "integer programming"
+        }
+    },
+    {
+        "concept_name": "最优分配问题",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "optimum allocation problem"
+        }
+    },
+    {
+        "concept_name": "最优基本可行解",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "optimal basic feasible solution"
+        }
+    },
+    {
+        "concept_name": "有界变量法",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "bounded-variable technique"
+        }
+    },
+    {
+        "concept_name": "松弛变量",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "slack variable"
+        }
+    },
+    {
+        "concept_name": "椭球法",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "ellipsoid method"
+        }
+    },
+    {
+        "concept_name": "混合整数规划",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "mixed integer programming"
+        }
+    },
+    {
+        "concept_name": "纯整数规划",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "pure integer programming"
+        }
+    },
+    {
+        "concept_name": "线性规划",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "linear programming"
+        }
+    },
+    {
+        "concept_name": "航班问题",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "problem of routing aircraft"
+        }
+    },
+    {
+        "concept_name": "营养问题",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "nutrition problem"
+        }
+    },
+    {
+        "concept_name": "表作业法",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "Hitchock method"
+        }
+    },
+    {
+        "concept_name": "转运问题",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "transshipment problem"
+        }
+    },
+    {
+        "concept_name": "辅助变量",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "auxiliary variable"
+        }
+    },
+    {
+        "concept_name": "运输问题",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "transportation problem"
+        }
+    },
+    {
+        "concept_name": "退化可行解",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "degenerate feasible solution"
+        }
+    },
+    {
+        "concept_name": "隐枚举法",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "implicit enumeration method"
+        }
+    },
+    {
+        "concept_name": "零一整数规划",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "zero-one integer programming"
+        }
+    },
+    {
+        "concept_name": "零一规划",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "zero-one programming"
+        }
+    },
+    {
+        "concept_name": "非退化基本可行解",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "non-degenerate basic feasible solution"
+        }
+    },
+    {
+        "concept_name": "食谱问题",
+        "details": {
+            "学科": "数学_运筹学_线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "diet problem"
+        }
+    }
+]

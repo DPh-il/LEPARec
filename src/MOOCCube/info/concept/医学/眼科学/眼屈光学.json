@@ -1,0 +1,1067 @@
+[
+    {
+        "concept_name": "不对称散光",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "asymmetrical astigmatism"
+        }
+    },
+    {
+        "concept_name": "不规则散光",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "irregular astigmatism"
+        }
+    },
+    {
+        "concept_name": "中度近视",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "medium myopia"
+        }
+    },
+    {
+        "concept_name": "中度远视",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "medium hypermetropia"
+        }
+    },
+    {
+        "concept_name": "亲水软性角膜接触镜",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "hydrophilic soft corneal contact lens"
+        }
+    },
+    {
+        "concept_name": "低度近视",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "low myopia"
+        }
+    },
+    {
+        "concept_name": "低度远视",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "low hypermetropia"
+        }
+    },
+    {
+        "concept_name": "假性近视",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "又称": " 调节性近视",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "pseudomyopia"
+        }
+    },
+    {
+        "concept_name": "光学中心",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "optical center"
+        }
+    },
+    {
+        "concept_name": "凸柱镜片",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "convex cylindrical lens"
+        }
+    },
+    {
+        "concept_name": "凸球镜片",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "曾称": " 凸透镜",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "convex lens"
+        }
+    },
+    {
+        "concept_name": "凹柱镜片",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "concave cylindrical lens"
+        }
+    },
+    {
+        "concept_name": "凹球镜片",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "曾称": " 凹透镜",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "concave lens"
+        }
+    },
+    {
+        "concept_name": "动态屈光",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "dynamic refraction"
+        }
+    },
+    {
+        "concept_name": "助视器",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "visual acuity aid"
+        }
+    },
+    {
+        "concept_name": "单纯性近视",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "simple myopia"
+        }
+    },
+    {
+        "concept_name": "单纯散光",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "simple astigmatism"
+        }
+    },
+    {
+        "concept_name": "单纯近视散光",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "simple myopic astigmatism"
+        }
+    },
+    {
+        "concept_name": "单纯远视散光",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "simple hyperopic astigmatism"
+        }
+    },
+    {
+        "concept_name": "双焦点镜片",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "bifocal lens"
+        }
+    },
+    {
+        "concept_name": "双眼等像",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "iseikonia"
+        }
+    },
+    {
+        "concept_name": "变性近视",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "曾称": " 进行性近视",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "degenerative myopia"
+        }
+    },
+    {
+        "concept_name": "后天近视",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "又称": " 获得性近视",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "acquired myopia"
+        }
+    },
+    {
+        "concept_name": "周视镜片",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "periscopic lens"
+        }
+    },
+    {
+        "concept_name": "回旋棱镜",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "rotary prism"
+        }
+    },
+    {
+        "concept_name": "复性散光",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "compound astigmatism"
+        }
+    },
+    {
+        "concept_name": "复性近视散光",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "compound myopic astigmatism"
+        }
+    },
+    {
+        "concept_name": "复性远视散光",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "compound hyperopic astigmatism"
+        }
+    },
+    {
+        "concept_name": "多焦点镜片",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "multifocal lens"
+        }
+    },
+    {
+        "concept_name": "夜近视",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "night myopia"
+        }
+    },
+    {
+        "concept_name": "学校近视",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "school myopia"
+        }
+    },
+    {
+        "concept_name": "对称散光",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "symmetrical astigmatism"
+        }
+    },
+    {
+        "concept_name": "屈光",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "refraction"
+        }
+    },
+    {
+        "concept_name": "屈光不同",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "hetero-refraction"
+        }
+    },
+    {
+        "concept_name": "屈光不正",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "ametropia"
+        }
+    },
+    {
+        "concept_name": "屈光不正眼",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "ametropic eye"
+        }
+    },
+    {
+        "concept_name": "屈光力",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "refractive power"
+        }
+    },
+    {
+        "concept_name": "屈光参差",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "anisometropia"
+        }
+    },
+    {
+        "concept_name": "屈光度",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "diopter"
+        }
+    },
+    {
+        "concept_name": "屈光性屈光不正",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "refractive ametropia"
+        }
+    },
+    {
+        "concept_name": "屈光指数",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "英文": "refractive index ;refr ind",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "refractive index"
+        }
+    },
+    {
+        "concept_name": "屈光等同",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "isometropia"
+        }
+    },
+    {
+        "concept_name": "屈光系统",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "dioptric system"
+        }
+    },
+    {
+        "concept_name": "巩膜接触镜",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "scleral contact lens"
+        }
+    },
+    {
+        "concept_name": "平光镜片",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "plano lens"
+        }
+    },
+    {
+        "concept_name": "弥散圈",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "circle of diffusion"
+        }
+    },
+    {
+        "concept_name": "影像不等",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "曾称": " 视像不等",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "aniseikonia"
+        }
+    },
+    {
+        "concept_name": "总远视",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "曾称": " 总合远视",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "total hypermetropia"
+        }
+    },
+    {
+        "concept_name": "指数性屈光不正",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "index ametropia"
+        }
+    },
+    {
+        "concept_name": "指数性散光",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "index astigmatism"
+        }
+    },
+    {
+        "concept_name": "指数性近视",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "index myopia"
+        }
+    },
+    {
+        "concept_name": "指数性远视",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "index hypermetropia"
+        }
+    },
+    {
+        "concept_name": "接触镜",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "俗称": " 隐形眼镜",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "contact lens"
+        }
+    },
+    {
+        "concept_name": "散光[眼]",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "astigmatism"
+        }
+    },
+    {
+        "concept_name": "散光轴",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "astigmatism axis"
+        }
+    },
+    {
+        "concept_name": "散光间距",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "英文": "astigmatism interval ;Sturm interval",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "astigmatism interval"
+        }
+    },
+    {
+        "concept_name": "散开",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "divergence"
+        }
+    },
+    {
+        "concept_name": "斜轴散光",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "oblique astigmatism"
+        }
+    },
+    {
+        "concept_name": "施图姆圆锥",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "Sturm conoid"
+        }
+    },
+    {
+        "concept_name": "显性远视",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "manifest hypermetropia"
+        }
+    },
+    {
+        "concept_name": "晶状体曲率",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "curvature of lens"
+        }
+    },
+    {
+        "concept_name": "曲率性屈光不正",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "curvature ametropia"
+        }
+    },
+    {
+        "concept_name": "曲率性散光",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "curvature astigmatism"
+        }
+    },
+    {
+        "concept_name": "曲率性近视",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "curvature myopia"
+        }
+    },
+    {
+        "concept_name": "曲率性远视",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "curvature hypermetropia"
+        }
+    },
+    {
+        "concept_name": "柱镜片",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "曾称": " 圆柱镜",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "cylindrical lens"
+        }
+    },
+    {
+        "concept_name": "棱镜尖",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "apex of prism"
+        }
+    },
+    {
+        "concept_name": "棱镜底",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "base of prism"
+        }
+    },
+    {
+        "concept_name": "棱镜底向上",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "英文": "base of prism up ;BU",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "base of prism up"
+        }
+    },
+    {
+        "concept_name": "棱镜底向下",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "base of prism down"
+        }
+    },
+    {
+        "concept_name": "棱镜底向内",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "base of prism in"
+        }
+    },
+    {
+        "concept_name": "棱镜底向外",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "英文": "base of prism out ;BO",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "base of prism out"
+        }
+    },
+    {
+        "concept_name": "棱镜片",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "曾称": " 三棱镜",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "prismatic lens"
+        }
+    },
+    {
+        "concept_name": "模型眼",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "schematic eye"
+        }
+    },
+    {
+        "concept_name": "正视眼",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "emmetropia"
+        }
+    },
+    {
+        "concept_name": "混合性近视",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "mixed myopia"
+        }
+    },
+    {
+        "concept_name": "混合散光",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "mixed astigmatism"
+        }
+    },
+    {
+        "concept_name": "球柱镜片",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "spherocylindrical lens"
+        }
+    },
+    {
+        "concept_name": "球镜片",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "曾称": " 球面透镜",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "spherical lens"
+        }
+    },
+    {
+        "concept_name": "相对调节",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "relative accommodation"
+        }
+    },
+    {
+        "concept_name": "相对集合",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "relative convergence"
+        }
+    },
+    {
+        "concept_name": "真性近视",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "true myopia"
+        }
+    },
+    {
+        "concept_name": "硬性角膜接触镜",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "hard corneal contact lens"
+        }
+    },
+    {
+        "concept_name": "空虚近视",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "empty myopia"
+        }
+    },
+    {
+        "concept_name": "简化眼",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "reduced eye"
+        }
+    },
+    {
+        "concept_name": "结点",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "nodal point"
+        }
+    },
+    {
+        "concept_name": "绝对远视",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "absolute hypermetropia"
+        }
+    },
+    {
+        "concept_name": "老视",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "presbyopia"
+        }
+    },
+    {
+        "concept_name": "联合",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "combination"
+        }
+    },
+    {
+        "concept_name": "能胜远视",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "facultative hypermetropia"
+        }
+    },
+    {
+        "concept_name": "规则散光",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "regular astigmatism"
+        }
+    },
+    {
+        "concept_name": "视轴",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "visual axis"
+        }
+    },
+    {
+        "concept_name": "视近性集合",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "proximal convergence"
+        }
+    },
+    {
+        "concept_name": "角膜接触镜",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "corneal contact lens"
+        }
+    },
+    {
+        "concept_name": "角膜曲率",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "corneal curvature"
+        }
+    },
+    {
+        "concept_name": "角膜曲率半径",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "corneal curvature radius"
+        }
+    },
+    {
+        "concept_name": "调节",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "accommodation"
+        }
+    },
+    {
+        "concept_name": "调节幅度",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "曾称": " 调节广度",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "amplitude of accommodation"
+        }
+    },
+    {
+        "concept_name": "调节性集合",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "accommodative convergence"
+        }
+    },
+    {
+        "concept_name": "调节痉挛",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "spasm of accommodation"
+        }
+    },
+    {
+        "concept_name": "调节范围",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "range of accommodation"
+        }
+    },
+    {
+        "concept_name": "调节衰退",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "accommodative failure"
+        }
+    },
+    {
+        "concept_name": "调节近点",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "near point of accommodation"
+        }
+    },
+    {
+        "concept_name": "调节远点",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "far point of accommodation"
+        }
+    },
+    {
+        "concept_name": "调节麻痹",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "paralysis of accommodation"
+        }
+    },
+    {
+        "concept_name": "软性角膜接触镜",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "soft corneal contact lens"
+        }
+    },
+    {
+        "concept_name": "轴性屈光不正",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "axial ametropia"
+        }
+    },
+    {
+        "concept_name": "轴性近视",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "axial myopia"
+        }
+    },
+    {
+        "concept_name": "轴性远视",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "axial hypermetropia"
+        }
+    },
+    {
+        "concept_name": "近点",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "near point"
+        }
+    },
+    {
+        "concept_name": "近视[眼]",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "myopia"
+        }
+    },
+    {
+        "concept_name": "近视散光",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "myopic astigmatism"
+        }
+    },
+    {
+        "concept_name": "远点",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "far point"
+        }
+    },
+    {
+        "concept_name": "远视[眼]",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "hypermetropia"
+        }
+    },
+    {
+        "concept_name": "远视散光",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "hyperopic astigmatism"
+        }
+    },
+    {
+        "concept_name": "逆规性散光",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "astigmatism against rule"
+        }
+    },
+    {
+        "concept_name": "镜片",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "lens"
+        }
+    },
+    {
+        "concept_name": "镜片中心",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "center of lens"
+        }
+    },
+    {
+        "concept_name": "隐性远视",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "latent hypermetropia"
+        }
+    },
+    {
+        "concept_name": "集合",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "曾称": " 辐凑",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "convergence"
+        }
+    },
+    {
+        "concept_name": "集合幅度",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "amplitude of convergence"
+        }
+    },
+    {
+        "concept_name": "集合范围",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "range of convergence"
+        }
+    },
+    {
+        "concept_name": "集合过度",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "convergence excess"
+        }
+    },
+    {
+        "concept_name": "集合近点",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "near point of convergence"
+        }
+    },
+    {
+        "concept_name": "集合远点",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "far point of convergence"
+        }
+    },
+    {
+        "concept_name": "集合麻痹",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "convergence paralysis"
+        }
+    },
+    {
+        "concept_name": "静态屈光",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "static refraction"
+        }
+    },
+    {
+        "concept_name": "顺规性散光",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "astigmatism with rule"
+        }
+    },
+    {
+        "concept_name": "高度近视",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "high myopia"
+        }
+    },
+    {
+        "concept_name": "高度远视",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "high hypermetropia"
+        }
+    },
+    {
+        "concept_name": "高空近视",
+        "details": {
+            "学科": "医学_眼科学_眼屈光学",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "higt altitude myopia"
+        }
+    }
+]

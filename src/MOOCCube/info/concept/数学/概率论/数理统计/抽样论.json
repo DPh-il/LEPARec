@@ -1,0 +1,403 @@
+[
+    {
+        "concept_name": "一级单元",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "primary [sampling] unit"
+        }
+    },
+    {
+        "concept_name": "上控制限",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "upper control limit"
+        }
+    },
+    {
+        "concept_name": "下控制限",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "lower control limit"
+        }
+    },
+    {
+        "concept_name": "不放回抽样",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "sampling without replacement"
+        }
+    },
+    {
+        "concept_name": "二次抽检",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "double sampling inspection"
+        }
+    },
+    {
+        "concept_name": "二级单元",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "英文": "secondary [sampling] unit ;second stage unit",
+            "见载": "《数学名词》第一版",
+            "英文名": "secondary [sampling] unit"
+        }
+    },
+    {
+        "concept_name": "产方风险",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "producer risk"
+        }
+    },
+    {
+        "concept_name": "分层抽样",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "stratified sampling"
+        }
+    },
+    {
+        "concept_name": "初检验",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "original inspection"
+        }
+    },
+    {
+        "concept_name": "加严抽检",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "tightened sampling inspection"
+        }
+    },
+    {
+        "concept_name": "双重抽样",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "double sampling"
+        }
+    },
+    {
+        "concept_name": "回归估计",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "regression estimate"
+        }
+    },
+    {
+        "concept_name": "多次抽检",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "multiple sampling inspection"
+        }
+    },
+    {
+        "concept_name": "多级抽样",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "multistage sampling"
+        }
+    },
+    {
+        "concept_name": "定额抽样",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "quota sampling"
+        }
+    },
+    {
+        "concept_name": "层",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "stratum"
+        }
+    },
+    {
+        "concept_name": "平均样本量",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "average sample number"
+        }
+    },
+    {
+        "concept_name": "序贯抽样",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "sequential sampling"
+        }
+    },
+    {
+        "concept_name": "序贯抽检",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "sequential inspection"
+        }
+    },
+    {
+        "concept_name": "截尾抽检",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "curtailed inspection"
+        }
+    },
+    {
+        "concept_name": "批量",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "lot size"
+        }
+    },
+    {
+        "concept_name": "抽样单元",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "sampling unit"
+        }
+    },
+    {
+        "concept_name": "抽样框",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "sampling frame"
+        }
+    },
+    {
+        "concept_name": "抽样比",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "sampling fraction"
+        }
+    },
+    {
+        "concept_name": "抽样论",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "sampling theory"
+        }
+    },
+    {
+        "concept_name": "抽样调查",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "sampling survey"
+        }
+    },
+    {
+        "concept_name": "抽检",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "sampling inspection"
+        }
+    },
+    {
+        "concept_name": "抽检特性曲线",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "operating characteristic curve"
+        }
+    },
+    {
+        "concept_name": "挑选型抽检",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "sampling inspection with screening"
+        }
+    },
+    {
+        "concept_name": "控制图",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "control chart"
+        }
+    },
+    {
+        "concept_name": "放回抽样",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "sampling with replacement"
+        }
+    },
+    {
+        "concept_name": "放宽抽检",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "reduced sampling inspection"
+        }
+    },
+    {
+        "concept_name": "散料抽样",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "bulk sampling"
+        }
+    },
+    {
+        "concept_name": "整群抽样",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "cluster sampling"
+        }
+    },
+    {
+        "concept_name": "最优分配",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "optimum allocation"
+        }
+    },
+    {
+        "concept_name": "最优层数",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "optimum number of strata"
+        }
+    },
+    {
+        "concept_name": "最终检验",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "final inspection"
+        }
+    },
+    {
+        "concept_name": "检验批",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "inspection lot"
+        }
+    },
+    {
+        "concept_name": "概率抽样",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "probability sampling"
+        }
+    },
+    {
+        "concept_name": "正规抽检",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "normal sampling inspection"
+        }
+    },
+    {
+        "concept_name": "比估计",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "ratio estimate"
+        }
+    },
+    {
+        "concept_name": "用方风险",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "consumer risk"
+        }
+    },
+    {
+        "concept_name": "简单随机抽样",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "simple random sampling"
+        }
+    },
+    {
+        "concept_name": "系统抽样",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "systematic sampling"
+        }
+    },
+    {
+        "concept_name": "统计质量控制",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "statistical quality control"
+        }
+    },
+    {
+        "concept_name": "计数抽检",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "sampling inspection by attributes"
+        }
+    },
+    {
+        "concept_name": "计量抽检",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "sampling inspection by variables"
+        }
+    },
+    {
+        "concept_name": "调整型抽检",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "sampling inspection with adjustment"
+        }
+    },
+    {
+        "concept_name": "跳批抽检",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "skip-lot sampling inspection"
+        }
+    },
+    {
+        "concept_name": "连续抽检",
+        "details": {
+            "学科": "数学_概率论_数理统计_抽样论",
+            "见载": "《数学名词》第一版",
+            "英文名": "continuous sampling inspection"
+        }
+    }
+]

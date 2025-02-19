@@ -1,0 +1,1755 @@
+[
+    {
+        "concept_name": "三组元[推进剂]火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "tripropellant rocket engine"
+        }
+    },
+    {
+        "concept_name": "上面级发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "英文": "upper stage rocket engine ;upper stage rocket motor",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "upper stage rocket engine"
+        }
+    },
+    {
+        "concept_name": "中频燃烧不稳定性",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "intermediate-frequency combustion instability"
+        }
+    },
+    {
+        "concept_name": "临界净正抽吸压头",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "critical net positive suction head"
+        }
+    },
+    {
+        "concept_name": "临界转速",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "critical speed"
+        }
+    },
+    {
+        "concept_name": "二次喷射",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "secondary injection"
+        }
+    },
+    {
+        "concept_name": "互击式喷嘴",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "unlike-impinging injector element"
+        }
+    },
+    {
+        "concept_name": "交联双基推进剂",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "crosslinked double-base propellant"
+        }
+    },
+    {
+        "concept_name": "人工脱黏",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "stress release boot"
+        }
+    },
+    {
+        "concept_name": "低温推进剂火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "cryogenic propellant rocket engine"
+        }
+    },
+    {
+        "concept_name": "低频燃烧不稳定性",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "low-frequency combustion instability"
+        }
+    },
+    {
+        "concept_name": "余氧系数",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "excess oxidizer coefficient"
+        }
+    },
+    {
+        "concept_name": "侵蚀压强峰",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "erosive pressure peak"
+        }
+    },
+    {
+        "concept_name": "侵蚀燃烧",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "erosive burning"
+        }
+    },
+    {
+        "concept_name": "内孔燃烧",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "internal bore burning"
+        }
+    },
+    {
+        "concept_name": "冲击式涡轮",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "impulse turbine"
+        }
+    },
+    {
+        "concept_name": "净正抽吸压头",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "net positive suction head"
+        }
+    },
+    {
+        "concept_name": "分段式固体火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "segmented solid rocket motor"
+        }
+    },
+    {
+        "concept_name": "初始推力峰",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "initial thrust peak"
+        }
+    },
+    {
+        "concept_name": "初始自由容积",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "initial free volume"
+        }
+    },
+    {
+        "concept_name": "助推发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "booster engine"
+        }
+    },
+    {
+        "concept_name": "化学火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "chemical rocket engine"
+        }
+    },
+    {
+        "concept_name": "单室双推力火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "single chamber dual thrust rocket engine"
+        }
+    },
+    {
+        "concept_name": "单推力室液体火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "single chamber liquid rocket engine"
+        }
+    },
+    {
+        "concept_name": "单组元[推进剂]火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "monopropellant rocket engine"
+        }
+    },
+    {
+        "concept_name": "单组元喷嘴",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "single-component injector element"
+        }
+    },
+    {
+        "concept_name": "压坑式推力室",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "indented thrust chamber"
+        }
+    },
+    {
+        "concept_name": "压强总冲",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "total pressure impulse"
+        }
+    },
+    {
+        "concept_name": "双模式火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "dual mode rocket engine"
+        }
+    },
+    {
+        "concept_name": "双组元[推进剂]火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "bipropellant rocket engine"
+        }
+    },
+    {
+        "concept_name": "双组元喷嘴",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "two-component injector element"
+        }
+    },
+    {
+        "concept_name": "发动机关机减速性",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "slow-down time of engine during shutdown transient"
+        }
+    },
+    {
+        "concept_name": "发动机初始质量",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "motor initial mass"
+        }
+    },
+    {
+        "concept_name": "发动机反推力",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "engine reverse thrust"
+        }
+    },
+    {
+        "concept_name": "发动机可靠性试验",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "engine reliability test"
+        }
+    },
+    {
+        "concept_name": "发动机工作时间",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "英文": "engine operating duration ;motor action time",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "engine operating duration"
+        }
+    },
+    {
+        "concept_name": "发动机干质",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "engine dry mass"
+        }
+    },
+    {
+        "concept_name": "发动机性能参数",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "engine performance parameter"
+        }
+    },
+    {
+        "concept_name": "发动机性能试验",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "engine performance test"
+        }
+    },
+    {
+        "concept_name": "发动机推力",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "engine thrust"
+        }
+    },
+    {
+        "concept_name": "发动机推质比",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "engine thrust-mass ratio"
+        }
+    },
+    {
+        "concept_name": "发动机最大负推力",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "engine maximum negative thrust"
+        }
+    },
+    {
+        "concept_name": "发动机校准试验",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "engine calibration test"
+        }
+    },
+    {
+        "concept_name": "发动机比冲",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "英文": "engine specific impulse ;motor specific impulse",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "engine specific impulse"
+        }
+    },
+    {
+        "concept_name": "发动机混合比",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "engine mixture ratio"
+        }
+    },
+    {
+        "concept_name": "发动机湿质",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "engine wet mass"
+        }
+    },
+    {
+        "concept_name": "发动机管路特性",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "engine line characteristic"
+        }
+    },
+    {
+        "concept_name": "发动机节流特性",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "engine throttle characteristic"
+        }
+    },
+    {
+        "concept_name": "发动机试验",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "engine test"
+        }
+    },
+    {
+        "concept_name": "发动机负推力",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "engine negative thrust"
+        }
+    },
+    {
+        "concept_name": "发动机起动加速性",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "acceleration time of engine during start transient"
+        }
+    },
+    {
+        "concept_name": "发动机高度特性",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "engine altitude characteristic"
+        }
+    },
+    {
+        "concept_name": "发动机高空仿真试验",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "engine test in simulated altitude condition"
+        }
+    },
+    {
+        "concept_name": "变推力液体火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "variable thrust liquid rocket engine"
+        }
+    },
+    {
+        "concept_name": "叠氮聚合物推进剂",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "glycidyl azide polymer propellant"
+        }
+    },
+    {
+        "concept_name": "可贮存推进剂火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "storable propellant rocket engine"
+        }
+    },
+    {
+        "concept_name": "同轴式喷注器",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "concentric tube injector"
+        }
+    },
+    {
+        "concept_name": "后效冲量",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "英文": "cutoff impulse ;thrust decay impulse",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "cutoff impulse"
+        }
+    },
+    {
+        "concept_name": "喉通面积比",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "throat to port area ratio"
+        }
+    },
+    {
+        "concept_name": "喉部烧蚀率",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "throat ablative rate"
+        }
+    },
+    {
+        "concept_name": "喷注器",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "injector"
+        }
+    },
+    {
+        "concept_name": "喷管[面积]扩张比",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "nozzle area expansion ratio"
+        }
+    },
+    {
+        "concept_name": "喷管[面积]收缩比",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "nozzle area contraction ratio"
+        }
+    },
+    {
+        "concept_name": "喷管冲质比",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "impulse to mass ratio of nozzle"
+        }
+    },
+    {
+        "concept_name": "喷管初始扩张角",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "nozzle initial divergence angle"
+        }
+    },
+    {
+        "concept_name": "喷管半扩张角",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "nozzle divergence half angle"
+        }
+    },
+    {
+        "concept_name": "喷管堵盖打开压强",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "nozzle closure opening pressure"
+        }
+    },
+    {
+        "concept_name": "喷管摆动力矩",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "nozzle swing moment"
+        }
+    },
+    {
+        "concept_name": "喷管摆动速率",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "nozzle swing rate"
+        }
+    },
+    {
+        "concept_name": "喷管摆心",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "nozzle pivot point"
+        }
+    },
+    {
+        "concept_name": "喷管潜入比",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "submergence ratio of nozzle"
+        }
+    },
+    {
+        "concept_name": "固体[推进剂]火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "solid propellant rocket engine"
+        }
+    },
+    {
+        "concept_name": "固体推进剂",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "solid propellant"
+        }
+    },
+    {
+        "concept_name": "固体推进剂主曲线",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "master curve of solid propellant"
+        }
+    },
+    {
+        "concept_name": "地面比冲",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ground specific impulse"
+        }
+    },
+    {
+        "concept_name": "塞式喷管火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "plug nozzle rocket engine"
+        }
+    },
+    {
+        "concept_name": "声腔",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "acoustic cavity"
+        }
+    },
+    {
+        "concept_name": "壳体后裙",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "aft skirt of case"
+        }
+    },
+    {
+        "concept_name": "壳体绝热层",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "case insulation"
+        }
+    },
+    {
+        "concept_name": "多孔材料喷注器",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "hard sifter injector"
+        }
+    },
+    {
+        "concept_name": "多推力室液体火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "multi-chamber liquid rocket engine"
+        }
+    },
+    {
+        "concept_name": "多次起动火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "multi-start rocket engine"
+        }
+    },
+    {
+        "concept_name": "姿态控制火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "简称": " 姿控火箭发动机",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "attitude control rocket engine"
+        }
+    },
+    {
+        "concept_name": "安全发火机构",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "英文": "safe ignition device ;safe and arm device",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "safe ignition device"
+        }
+    },
+    {
+        "concept_name": "密度比冲",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "density specific impulse"
+        }
+    },
+    {
+        "concept_name": "层板式喷注器",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "platelet injector"
+        }
+    },
+    {
+        "concept_name": "常平座",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "gimbal mount assembly"
+        }
+    },
+    {
+        "concept_name": "平均压强",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "average pressure"
+        }
+    },
+    {
+        "concept_name": "平均推力",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "average thrust"
+        }
+    },
+    {
+        "concept_name": "并联火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "multi-rocket engine cluster"
+        }
+    },
+    {
+        "concept_name": "延伸喷管",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "extendible nozzle"
+        }
+    },
+    {
+        "concept_name": "开式循环",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "open cycle"
+        }
+    },
+    {
+        "concept_name": "总冲",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "total impulse"
+        }
+    },
+    {
+        "concept_name": "惰性气体增压系统",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "inert gas pressurization system"
+        }
+    },
+    {
+        "concept_name": "抽气循环",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "combustion tap-off cycle"
+        }
+    },
+    {
+        "concept_name": "挤压式液体火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "pressure-feed liquid rocket engine"
+        }
+    },
+    {
+        "concept_name": "推力室",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "thrust chamber"
+        }
+    },
+    {
+        "concept_name": "推力室比冲",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "thrust chamber specific impulse"
+        }
+    },
+    {
+        "concept_name": "推力室混合比",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "thrust chamber mixture ratio"
+        }
+    },
+    {
+        "concept_name": "推力室面积收缩比",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "thrust chamber area contraction ratio"
+        }
+    },
+    {
+        "concept_name": "推力矢量控制",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "thrust vector control"
+        }
+    },
+    {
+        "concept_name": "推力系数因子",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "correction factor for thrust coefficient"
+        }
+    },
+    {
+        "concept_name": "推力线偏斜",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "thrust line deviation"
+        }
+    },
+    {
+        "concept_name": "推力线横移",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "thrust line eccentricity"
+        }
+    },
+    {
+        "concept_name": "推力终止时间",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "thrust termination time"
+        }
+    },
+    {
+        "concept_name": "推力调节器",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "thrust regulator"
+        }
+    },
+    {
+        "concept_name": "推进剂利用系统",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "英文": "propellant utilization system ;PUS",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "propellant utilization system"
+        }
+    },
+    {
+        "concept_name": "推进剂管理系统",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "propellant management system"
+        }
+    },
+    {
+        "concept_name": "推进剂药柱",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "propellant grain"
+        }
+    },
+    {
+        "concept_name": "摇摆火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "gimbaled rocket engine"
+        }
+    },
+    {
+        "concept_name": "摇摆软管",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "英文": "flexible hose assembly ;gimbal bellows",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "flexible hose assembly"
+        }
+    },
+    {
+        "concept_name": "撞击式喷注器",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "impinger injector"
+        }
+    },
+    {
+        "concept_name": "改性双基推进剂",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "modified double-base propellant"
+        }
+    },
+    {
+        "concept_name": "斜切喷管",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "英文": "oblique cut nozzle ;nozzle with scarfed exit plane",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "oblique cut nozzle"
+        }
+    },
+    {
+        "concept_name": "标准比冲",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "standard specific impulse"
+        }
+    },
+    {
+        "concept_name": "比冲",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "specific impulse"
+        }
+    },
+    {
+        "concept_name": "比冲效率",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "specific impulse efficiency"
+        }
+    },
+    {
+        "concept_name": "毛细管喷注器",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "capillary injector"
+        }
+    },
+    {
+        "concept_name": "气动控制系统",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "pneumatic control system"
+        }
+    },
+    {
+        "concept_name": "气蚀比转速",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "cavitation specific angular speed"
+        }
+    },
+    {
+        "concept_name": "气蚀裕度",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "cavitation allowance"
+        }
+    },
+    {
+        "concept_name": "氧化剂",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "oxidizer"
+        }
+    },
+    {
+        "concept_name": "氧化剂流量",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "oxidizer flow rate"
+        }
+    },
+    {
+        "concept_name": "泵压式供应系统",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "turbopump-feed system"
+        }
+    },
+    {
+        "concept_name": "泵压式液体火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "turbopump-feed liquid rocket engine"
+        }
+    },
+    {
+        "concept_name": "泵失速",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "pump stall"
+        }
+    },
+    {
+        "concept_name": "泵效率",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "pump efficiency"
+        }
+    },
+    {
+        "concept_name": "泵比转速",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "pump specific angular speed"
+        }
+    },
+    {
+        "concept_name": "泵气蚀系数",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "pump cavitation coefficient"
+        }
+    },
+    {
+        "concept_name": "海平面比冲",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "sea level specific impulse"
+        }
+    },
+    {
+        "concept_name": "涡轮压比",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "turbine pressure ratio"
+        }
+    },
+    {
+        "concept_name": "涡轮效率",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "turbine efficiency"
+        }
+    },
+    {
+        "concept_name": "涡轮泵系统循环效率",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "turbopump system cycle efficiency"
+        }
+    },
+    {
+        "concept_name": "液体[推进剂]火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "liquid propellant rocket engine"
+        }
+    },
+    {
+        "concept_name": "液氧液氢火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "又称": " 氢氧火箭发动机",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "liquid oxygen/liquid hydrogen rocket engine"
+        }
+    },
+    {
+        "concept_name": "液氧煤油火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "liquid oxygen/kerosene rocket engine"
+        }
+    },
+    {
+        "concept_name": "混合[推进剂]火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "又称": " 固液火箭发动机",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "hybrid propellant rocket engine"
+        }
+    },
+    {
+        "concept_name": "混合循环",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "hybrid cycle"
+        }
+    },
+    {
+        "concept_name": "混合比",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "mixture ratio"
+        }
+    },
+    {
+        "concept_name": "游动火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "vernier rocket engine"
+        }
+    },
+    {
+        "concept_name": "激光点火",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "laser ignition"
+        }
+    },
+    {
+        "concept_name": "火箭发动机羽流",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "rocket engine plume"
+        }
+    },
+    {
+        "concept_name": "火药点火",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "powder ignition"
+        }
+    },
+    {
+        "concept_name": "点火压力峰",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ignition pressure peak"
+        }
+    },
+    {
+        "concept_name": "点火延迟",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ignition delay"
+        }
+    },
+    {
+        "concept_name": "点火延迟时间",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ignition delay time"
+        }
+    },
+    {
+        "concept_name": "点火系统",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ignition system"
+        }
+    },
+    {
+        "concept_name": "点火装置",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ignition device"
+        }
+    },
+    {
+        "concept_name": "热力抑制压头",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "thermodynamic suppression head"
+        }
+    },
+    {
+        "concept_name": "燃喉面积比",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "burning surface to throat area ratio"
+        }
+    },
+    {
+        "concept_name": "燃气停留时间",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "gas stay time"
+        }
+    },
+    {
+        "concept_name": "燃气发生器",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "gas generator"
+        }
+    },
+    {
+        "concept_name": "燃烧不稳定性",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "combustion instability"
+        }
+    },
+    {
+        "concept_name": "燃烧剂",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "又称": " 燃料",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "fuel"
+        }
+    },
+    {
+        "concept_name": "燃烧面积",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "burning [surface] area"
+        }
+    },
+    {
+        "concept_name": "燃通面积比",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "burning surface to port area ratio"
+        }
+    },
+    {
+        "concept_name": "燃速压强指数",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "burning rate pressure exponent"
+        }
+    },
+    {
+        "concept_name": "环缝式喷注器",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ring slot injector"
+        }
+    },
+    {
+        "concept_name": "理论推力系数",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "theoretical thrust coefficient"
+        }
+    },
+    {
+        "concept_name": "理论比冲",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "theoretical specific impulse"
+        }
+    },
+    {
+        "concept_name": "电推进",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "electric propulsion"
+        }
+    },
+    {
+        "concept_name": "电气系统",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "electrical system"
+        }
+    },
+    {
+        "concept_name": "电点火",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "electric ignition"
+        }
+    },
+    {
+        "concept_name": "电热器",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "electric heater"
+        }
+    },
+    {
+        "concept_name": "直流喷嘴",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "orifice element"
+        }
+    },
+    {
+        "concept_name": "真空比冲",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "vacuum specific impulse"
+        }
+    },
+    {
+        "concept_name": "硝酸酯增塑聚醚推进剂",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "nitrate ester plasticized polyether propellant"
+        }
+    },
+    {
+        "concept_name": "离心式喷注器",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "centrifugal injector"
+        }
+    },
+    {
+        "concept_name": "稳态比冲",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "steady-state specific impulse"
+        }
+    },
+    {
+        "concept_name": "空间火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "space rocket engine"
+        }
+    },
+    {
+        "concept_name": "穿入式喷注器",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "inserted injector"
+        }
+    },
+    {
+        "concept_name": "端面燃烧",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "end burning"
+        }
+    },
+    {
+        "concept_name": "线烧蚀率",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "linear ablative rate"
+        }
+    },
+    {
+        "concept_name": "组件试验",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "英文": "assembly test ;test of assembly",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "assembly test"
+        }
+    },
+    {
+        "concept_name": "绝热壳体",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "insulated case"
+        }
+    },
+    {
+        "concept_name": "聚丁二烯丙烯腈推进剂",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "polybutadiene acrylonitrile propellant"
+        }
+    },
+    {
+        "concept_name": "聚丁二烯丙烯酸共聚物推进剂",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "英文": "polybutadiene acrylic acid copolymer propellant ;PBAA propellant",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "polybutadiene acrylic acid copolymer propellant"
+        }
+    },
+    {
+        "concept_name": "胶体[推进剂]火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "gelled propellant rocket engine"
+        }
+    },
+    {
+        "concept_name": "脉冲比冲",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "pulsed specific impulse"
+        }
+    },
+    {
+        "concept_name": "脱黏",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "debonding"
+        }
+    },
+    {
+        "concept_name": "膏体[推进剂]火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "pasty propellant rocket engine"
+        }
+    },
+    {
+        "concept_name": "膨胀循环",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "expander cycle"
+        }
+    },
+    {
+        "concept_name": "自击式喷嘴",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "like-impinging injector element"
+        }
+    },
+    {
+        "concept_name": "自燃推进剂火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "hypergolic propellant rocket engine"
+        }
+    },
+    {
+        "concept_name": "自生增压系统",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "autogenous pressurization system"
+        }
+    },
+    {
+        "concept_name": "药柱通气面积",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "grain port area"
+        }
+    },
+    {
+        "concept_name": "莲蓬式喷注器",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "showerhead injector"
+        }
+    },
+    {
+        "concept_name": "落压式供应系统",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "blowdown feed system"
+        }
+    },
+    {
+        "concept_name": "蒸发器",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "evaporator"
+        }
+    },
+    {
+        "concept_name": "蓄压器",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "hydraulic capacitor"
+        }
+    },
+    {
+        "concept_name": "补燃火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "又称": " 分级燃烧火箭发动机",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "staged combustion rocket engine"
+        }
+    },
+    {
+        "concept_name": "衬层",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "liner"
+        }
+    },
+    {
+        "concept_name": "诱导轮",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "inducer"
+        }
+    },
+    {
+        "concept_name": "负压强指数推进剂",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "propellant with negative burning rate pressure exponent"
+        }
+    },
+    {
+        "concept_name": "负推力持续时间",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "negative thrust duration"
+        }
+    },
+    {
+        "concept_name": "质量烧蚀率",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "mass ablative rate"
+        }
+    },
+    {
+        "concept_name": "贮囊渗透速率",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "bladder specific penetration mass"
+        }
+    },
+    {
+        "concept_name": "贮箱容积效率",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "propellant tank volumetric efficiency"
+        }
+    },
+    {
+        "concept_name": "贮箱排空效率",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "propellant tank expulsion efficiency"
+        }
+    },
+    {
+        "concept_name": "轨道机动火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "英文": "orbit maneuvering rocket engine ;orbit maneuvering rocket motor",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "orbit maneuvering rocket engine"
+        }
+    },
+    {
+        "concept_name": "轨道转移火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "英文": "orbit transfer rocket engine ;orbit transfer rocket motor",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "orbit transfer rocket engine"
+        }
+    },
+    {
+        "concept_name": "转动喷管",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "rotatable nozzle"
+        }
+    },
+    {
+        "concept_name": "轴向力平衡装置",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "axial thrust balancing devices"
+        }
+    },
+    {
+        "concept_name": "轴流式涡轮",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "axial-flow turbine"
+        }
+    },
+    {
+        "concept_name": "轴流泵",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "axial-flow pump"
+        }
+    },
+    {
+        "concept_name": "近地点火箭发机动",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "perigee kick rocket engine"
+        }
+    },
+    {
+        "concept_name": "进气度",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "gas inlet degree"
+        }
+    },
+    {
+        "concept_name": "远地点火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "apogee kick rocket engine"
+        }
+    },
+    {
+        "concept_name": "逃逸火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "escape rocket motor"
+        }
+    },
+    {
+        "concept_name": "重复使用火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "reusable rocket engine"
+        }
+    },
+    {
+        "concept_name": "长尾喷管",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "tailpipe nozzle"
+        }
+    },
+    {
+        "concept_name": "间歇时间",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "intermittent time"
+        }
+    },
+    {
+        "concept_name": "限燃层",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "restrictor"
+        }
+    },
+    {
+        "concept_name": "非自燃推进剂火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "nonhypergolic propellant rocket engine"
+        }
+    },
+    {
+        "concept_name": "预包装火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "prepackaged rocket engine"
+        }
+    },
+    {
+        "concept_name": "高空火箭发动机",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "altitude rocket engine"
+        }
+    },
+    {
+        "concept_name": "高频燃烧不稳定性",
+        "details": {
+            "学科": "航天科学技术_航天推进",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "high-frequency combustion instability"
+        }
+    }
+]

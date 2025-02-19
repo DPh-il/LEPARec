@@ -1,0 +1,245 @@
+[
+    {
+        "concept_name": "信息技术",
+        "details": {
+            "学科": "电子学_电子学总论",
+            "见载": "《电子学名词》第一版",
+            "英文名": "information technology"
+        }
+    },
+    {
+        "concept_name": "信息科学",
+        "details": {
+            "学科": "电子学_电子学总论",
+            "见载": "《电子学名词》第一版",
+            "英文名": "information science"
+        }
+    },
+    {
+        "concept_name": "光电子学",
+        "details": {
+            "学科": "电子学_电子学总论",
+            "英文": "optoelectronics ;photoelectronics",
+            "见载": "《电子学名词》第一版",
+            "英文名": "optoelectronics"
+        }
+    },
+    {
+        "concept_name": "分子电子学",
+        "details": {
+            "学科": "电子学_电子学总论",
+            "见载": "《电子学名词》第一版",
+            "英文名": "molecular electronics"
+        }
+    },
+    {
+        "concept_name": "功率电子学",
+        "details": {
+            "学科": "电子学_电子学总论",
+            "又称": " 电力电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "power electronics"
+        }
+    },
+    {
+        "concept_name": "医学电子学",
+        "details": {
+            "学科": "电子学_电子学总论",
+            "见载": "《电子学名词》第一版",
+            "英文名": "medical electronics"
+        }
+    },
+    {
+        "concept_name": "固体电子学",
+        "details": {
+            "学科": "电子学_电子学总论",
+            "见载": "《电子学名词》第一版",
+            "英文名": "solid electronics"
+        }
+    },
+    {
+        "concept_name": "工业电子学",
+        "details": {
+            "学科": "电子学_电子学总论",
+            "见载": "《电子学名词》第一版",
+            "英文名": "industrial electronics"
+        }
+    },
+    {
+        "concept_name": "微波电子学",
+        "details": {
+            "学科": "电子学_电子学总论",
+            "见载": "《电子学名词》第一版",
+            "英文名": "microwave electronics"
+        }
+    },
+    {
+        "concept_name": "微电子学",
+        "details": {
+            "学科": "电子学_电子学总论",
+            "见载": "《电子学名词》第一版",
+            "英文名": "microelectronics"
+        }
+    },
+    {
+        "concept_name": "扫时间",
+        "details": {
+            "学科": "电子学_电子学总论",
+            "见载": "《电子学名词》第一版",
+            "英文名": "flyback time"
+        }
+    },
+    {
+        "concept_name": "无线电技术",
+        "details": {
+            "学科": "电子学_电子学总论",
+            "见载": "《电子学名词》第一版",
+            "英文名": "radiotechnics"
+        }
+    },
+    {
+        "concept_name": "无线电电子学",
+        "details": {
+            "学科": "电子学_电子学总论",
+            "见载": "《电子学名词》第一版",
+            "英文名": "radioelectronics"
+        }
+    },
+    {
+        "concept_name": "机械电子学",
+        "details": {
+            "学科": "电子学_电子学总论",
+            "见载": "《电子学名词》第一版",
+            "英文名": "mechatronics"
+        }
+    },
+    {
+        "concept_name": "核电子学",
+        "details": {
+            "学科": "电子学_电子学总论",
+            "见载": "《电子学名词》第一版",
+            "英文名": "nuclear electronics"
+        }
+    },
+    {
+        "concept_name": "物理电子学",
+        "details": {
+            "学科": "电子学_电子学总论",
+            "见载": "《电子学名词》第一版",
+            "英文名": "physical electronics"
+        }
+    },
+    {
+        "concept_name": "生物分子电子学",
+        "details": {
+            "学科": "电子学_电子学总论",
+            "见载": "《电子学名词》第一版",
+            "英文名": "biomolecular electronics"
+        }
+    },
+    {
+        "concept_name": "生物医学电子学",
+        "details": {
+            "学科": "电子学_电子学总论",
+            "见载": "《电子学名词》第一版",
+            "英文名": "biomedical electronics"
+        }
+    },
+    {
+        "concept_name": "生物电子学",
+        "details": {
+            "学科": "电子学_电子学总论",
+            "见载": "《电子学名词》第一版",
+            "英文名": "bioelectronics"
+        }
+    },
+    {
+        "concept_name": "电子光学",
+        "details": {
+            "学科": "电子学_电子学总论",
+            "见载": "《电子学名词》第一版",
+            "英文名": "electron optics"
+        }
+    },
+    {
+        "concept_name": "电子学",
+        "details": {
+            "学科": "电子学_电子学总论",
+            "见载": "《电子学名词》第一版",
+            "英文名": "electronics"
+        }
+    },
+    {
+        "concept_name": "电子工程学",
+        "details": {
+            "学科": "电子学_电子学总论",
+            "见载": "《电子学名词》第一版",
+            "英文名": "electronic engineering"
+        }
+    },
+    {
+        "concept_name": "电子物理学",
+        "details": {
+            "学科": "电子学_电子学总论",
+            "见载": "《电子学名词》第一版",
+            "英文名": "electron physics"
+        }
+    },
+    {
+        "concept_name": "电子计算机",
+        "details": {
+            "学科": "电子学_电子学总论",
+            "又称": " 电脑",
+            "见载": "《电子学名词》第一版",
+            "英文名": "electronic computer"
+        }
+    },
+    {
+        "concept_name": "真空微电子学",
+        "details": {
+            "学科": "电子学_电子学总论",
+            "见载": "《电子学名词》第一版",
+            "英文名": "vacuum microelectronics"
+        }
+    },
+    {
+        "concept_name": "真空电子学",
+        "details": {
+            "学科": "电子学_电子学总论",
+            "见载": "《电子学名词》第一版",
+            "英文名": "vacuum electronics"
+        }
+    },
+    {
+        "concept_name": "空间电子学",
+        "details": {
+            "学科": "电子学_电子学总论",
+            "见载": "《电子学名词》第一版",
+            "英文名": "space electronics"
+        }
+    },
+    {
+        "concept_name": "航空电子学",
+        "details": {
+            "学科": "电子学_电子学总论",
+            "见载": "《电子学名词》第一版",
+            "英文名": "avionics"
+        }
+    },
+    {
+        "concept_name": "超导电子学",
+        "details": {
+            "学科": "电子学_电子学总论",
+            "见载": "《电子学名词》第一版",
+            "英文名": "superconducting electronics"
+        }
+    },
+    {
+        "concept_name": "量子电子学",
+        "details": {
+            "学科": "电子学_电子学总论",
+            "见载": "《电子学名词》第一版",
+            "英文名": "quantum electronics"
+        }
+    }
+]

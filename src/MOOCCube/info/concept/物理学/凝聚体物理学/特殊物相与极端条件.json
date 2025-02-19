@@ -1,0 +1,1942 @@
+[
+    {
+        "concept_name": "ABM态",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Anderson-Brinkman-Morel state"
+        }
+    },
+    {
+        "concept_name": "X射线光电子能谱学",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "X-ray photoelectron spectroscopy"
+        }
+    },
+    {
+        "concept_name": "X射线近吸收边精细结构",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "near edge X-ray absorption fine structure"
+        }
+    },
+    {
+        "concept_name": "[液]氦Ⅰ",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "[liquid] HeⅠ"
+        }
+    },
+    {
+        "concept_name": "[液]氦Ⅱ",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "[liquid] HeⅡ"
+        }
+    },
+    {
+        "concept_name": "[米-]格林艾森物态方程",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "[Mie-]Gru&4&neisen equation of state"
+        }
+    },
+    {
+        "concept_name": "[超导]凝聚能",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "[superconducting] condensation energy"
+        }
+    },
+    {
+        "concept_name": "[超导]能隙",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "[superconducting] energy gap"
+        }
+    },
+    {
+        "concept_name": "上临界[磁]场",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "upper critical [magnetic] field"
+        }
+    },
+    {
+        "concept_name": "下临界[磁]场",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "lower critical [magnetic] field"
+        }
+    },
+    {
+        "concept_name": "两亲分子",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "英文": "amphiphile ;amphiphilic molecule",
+            "见载": "《物理学名词》第二版",
+            "英文名": "amphiphile"
+        }
+    },
+    {
+        "concept_name": "临界行为压强效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "pressure effect of critical behavior"
+        }
+    },
+    {
+        "concept_name": "二维电子气",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "two-dimensional electron gas"
+        }
+    },
+    {
+        "concept_name": "于戈尼奥方程",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Hugoniot equation"
+        }
+    },
+    {
+        "concept_name": "互变型液晶",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "enantiotropic liquid crystal"
+        }
+    },
+    {
+        "concept_name": "人工金刚石",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "artificial diamond"
+        }
+    },
+    {
+        "concept_name": "人构材料",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "artificially structured material"
+        }
+    },
+    {
+        "concept_name": "介电各向异性",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "dielectric anisotropy"
+        }
+    },
+    {
+        "concept_name": "优化",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "optimization"
+        }
+    },
+    {
+        "concept_name": "伦敦方程",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "London equation"
+        }
+    },
+    {
+        "concept_name": "伯奇方程",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Birch equation"
+        }
+    },
+    {
+        "concept_name": "低温吸附",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "cryosorption"
+        }
+    },
+    {
+        "concept_name": "低温工程",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "cryogenic engineering"
+        }
+    },
+    {
+        "concept_name": "低温电子学",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "cryo[elec]tronics"
+        }
+    },
+    {
+        "concept_name": "低温雪崩开关",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "cryosar"
+        }
+    },
+    {
+        "concept_name": "低能电子衍射",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "low-energy electron diffraction"
+        }
+    },
+    {
+        "concept_name": "俄歇中和",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Auger neutralization"
+        }
+    },
+    {
+        "concept_name": "俄歇电子[能]谱学",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Auger electron spectroscopy"
+        }
+    },
+    {
+        "concept_name": "保护气体",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "blanket gas"
+        }
+    },
+    {
+        "concept_name": "修正泰特方程",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "modified Tait equation"
+        }
+    },
+    {
+        "concept_name": "元激发谱",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "elementary excitation spectrum"
+        }
+    },
+    {
+        "concept_name": "光[子]助隧穿",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "photon-assisted tunneling"
+        }
+    },
+    {
+        "concept_name": "公度有无转变",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "commensurate-incommensurate transition"
+        }
+    },
+    {
+        "concept_name": "六面体装置",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "hexahedral apparatus"
+        }
+    },
+    {
+        "concept_name": "共吸附",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "co-adsorption"
+        }
+    },
+    {
+        "concept_name": "减速电势分析器",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "retarding potential analyzer"
+        }
+    },
+    {
+        "concept_name": "分割球装置",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "split-sphere apparatus"
+        }
+    },
+    {
+        "concept_name": "分数量子霍尔效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "fractional quantum Hall effect"
+        }
+    },
+    {
+        "concept_name": "初级压标",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "primary pressure standard"
+        }
+    },
+    {
+        "concept_name": "力热效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "mechanocaloric effect"
+        }
+    },
+    {
+        "concept_name": "半球分析器",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "hemispherical analyzer"
+        }
+    },
+    {
+        "concept_name": "压致磁[性]相变",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "pressure-induced magnetic phase transition"
+        }
+    },
+    {
+        "concept_name": "压致结晶",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "pressure-induced crystallization"
+        }
+    },
+    {
+        "concept_name": "压致超导相变",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "pressure-induced superconducting phase transition"
+        }
+    },
+    {
+        "concept_name": "压致软模相变",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "pressure-induced soft mode phase transition"
+        }
+    },
+    {
+        "concept_name": "原子单层",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "atomic monolayer"
+        }
+    },
+    {
+        "concept_name": "双层",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "double layer"
+        }
+    },
+    {
+        "concept_name": "反转壁",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "inversion wall"
+        }
+    },
+    {
+        "concept_name": "取向涨落",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "orientation fluctuation"
+        }
+    },
+    {
+        "concept_name": "取向致流[效应]",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "backflow [effect]"
+        }
+    },
+    {
+        "concept_name": "可动平衡",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "mobile equilibrium"
+        }
+    },
+    {
+        "concept_name": "可混性",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "mixability"
+        }
+    },
+    {
+        "concept_name": "台阶结构",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ledge structure"
+        }
+    },
+    {
+        "concept_name": "各向异性超流体",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "anisotropic superfluid"
+        }
+    },
+    {
+        "concept_name": "同[向]自旋配对态",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "equal-spin-pairing state"
+        }
+    },
+    {
+        "concept_name": "同位素效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "isotope effect"
+        }
+    },
+    {
+        "concept_name": "向错回线",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "disclination loop"
+        }
+    },
+    {
+        "concept_name": "吸附",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "adsorption"
+        }
+    },
+    {
+        "concept_name": "吸附原子",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "adatom"
+        }
+    },
+    {
+        "concept_name": "吸附座",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "adsorption site"
+        }
+    },
+    {
+        "concept_name": "吸附热",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "heat of adsorption"
+        }
+    },
+    {
+        "concept_name": "呼吸子",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "breather"
+        }
+    },
+    {
+        "concept_name": "喷泉效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "fountain effect"
+        }
+    },
+    {
+        "concept_name": "四面体装置",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "tetrahedral apparatus"
+        }
+    },
+    {
+        "concept_name": "场[致]蒸发",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "field evaporation"
+        }
+    },
+    {
+        "concept_name": "场电子显微镜",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "field electron microscope"
+        }
+    },
+    {
+        "concept_name": "场离子显微镜",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "field ion microscope"
+        }
+    },
+    {
+        "concept_name": "均匀不稳定性",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "homogeneous instability"
+        }
+    },
+    {
+        "concept_name": "垂直[基片]排列",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "homeotropic alignment"
+        }
+    },
+    {
+        "concept_name": "塔姆[表面]能级",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Tamm [surface] energy level"
+        }
+    },
+    {
+        "concept_name": "声[子]助隧穿",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "phonon-assisted tunneling"
+        }
+    },
+    {
+        "concept_name": "声学低温计",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "acoustic thermometer"
+        }
+    },
+    {
+        "concept_name": "多层吸附",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "multilayer adsorption"
+        }
+    },
+    {
+        "concept_name": "多层超薄共格结构",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "英文": "layered ultrathin coherent struc- ture ;LUCS",
+            "见载": "《物理学名词》第二版",
+            "英文名": "layered ultrathin coherent struc- ture"
+        }
+    },
+    {
+        "concept_name": "多层隔热",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "multilayer insulation"
+        }
+    },
+    {
+        "concept_name": "多砧装置",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "multiple-anvil apparatus"
+        }
+    },
+    {
+        "concept_name": "奇偶效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "odd-even effect"
+        }
+    },
+    {
+        "concept_name": "始现电势",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "appearence potential"
+        }
+    },
+    {
+        "concept_name": "始现电势谱学",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "英文": "appearence potential spectroscopy ;APS",
+            "见载": "《物理学名词》第二版",
+            "英文名": "appearence potential spectroscopy"
+        }
+    },
+    {
+        "concept_name": "宾主效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "guest-host effect"
+        }
+    },
+    {
+        "concept_name": "对顶砧",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "opposed anvils"
+        }
+    },
+    {
+        "concept_name": "寻常瑞利波",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ordinary Rayleigh wave"
+        }
+    },
+    {
+        "concept_name": "局域态密度",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "local density of states"
+        }
+    },
+    {
+        "concept_name": "层状A相",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "smectic A phase"
+        }
+    },
+    {
+        "concept_name": "居间态",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "intermediate state"
+        }
+    },
+    {
+        "concept_name": "布里奇曼[压]砧",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Bridgman anvil"
+        }
+    },
+    {
+        "concept_name": "布里奇曼[物态]方程",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Bridgman equation [of state]"
+        }
+    },
+    {
+        "concept_name": "带间电子散射机理",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "interband electron scattering mechanism"
+        }
+    },
+    {
+        "concept_name": "幅子",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "amplituton"
+        }
+    },
+    {
+        "concept_name": "平行[基片]排列",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "planar alignment"
+        }
+    },
+    {
+        "concept_name": "库珀不稳定性",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Cooper instability"
+        }
+    },
+    {
+        "concept_name": "弯电效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "flexoelectric effect"
+        }
+    },
+    {
+        "concept_name": "弹性转矩密度",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "elastic torque density"
+        }
+    },
+    {
+        "concept_name": "彭宁电离谱学",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Penning ionization spectroscopy"
+        }
+    },
+    {
+        "concept_name": "微波感生台阶",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "microwave-induced step"
+        }
+    },
+    {
+        "concept_name": "感生巨磁矩",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "induced giant moment"
+        }
+    },
+    {
+        "concept_name": "戈里科夫方程",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Gor'kov equation"
+        }
+    },
+    {
+        "concept_name": "手征丝状相",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "chiral nematic phase"
+        }
+    },
+    {
+        "concept_name": "扫描电子显微镜",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "scanning electron microscope"
+        }
+    },
+    {
+        "concept_name": "拓扑序",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "topological order"
+        }
+    },
+    {
+        "concept_name": "指向矢",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "director"
+        }
+    },
+    {
+        "concept_name": "插层",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "intercalation"
+        }
+    },
+    {
+        "concept_name": "插层化合物",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "intercalation compound"
+        }
+    },
+    {
+        "concept_name": "斯氏石英",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "stishovite"
+        }
+    },
+    {
+        "concept_name": "旋子",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "roton"
+        }
+    },
+    {
+        "concept_name": "无公度相",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "incommensurate phase"
+        }
+    },
+    {
+        "concept_name": "无支撑面积原理",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "unsupported-area principle"
+        }
+    },
+    {
+        "concept_name": "无支撑面积密封",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "unsupported-area seal"
+        }
+    },
+    {
+        "concept_name": "无理数自旋",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "irrational spin"
+        }
+    },
+    {
+        "concept_name": "昂萨格分子场理论",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Onsager molecular field theory"
+        }
+    },
+    {
+        "concept_name": "曲率弹性理论",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "curvature elasticity theory"
+        }
+    },
+    {
+        "concept_name": "有效声子谱",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "effective phonon spectrum"
+        }
+    },
+    {
+        "concept_name": "朗缪尔吸附",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Langmuir adsorption"
+        }
+    },
+    {
+        "concept_name": "朗道[超流]判据",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Landau criterion [of superfluidity]"
+        }
+    },
+    {
+        "concept_name": "朗道超流理论",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Landau theory of superfluidity"
+        }
+    },
+    {
+        "concept_name": "束助脱附",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "beam-assisted desorption"
+        }
+    },
+    {
+        "concept_name": "构型分析",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "conformational analysis"
+        }
+    },
+    {
+        "concept_name": "柱面分析器",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "cylinder analyzer"
+        }
+    },
+    {
+        "concept_name": "核[绝热]退磁",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "nuclear [adiabatic] demagne- tization"
+        }
+    },
+    {
+        "concept_name": "核取向",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "nuclear orientation"
+        }
+    },
+    {
+        "concept_name": "核沸腾",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "nuclear boiling"
+        }
+    },
+    {
+        "concept_name": "格朗让-喀诺劈",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Grandjean-Cano wedge"
+        }
+    },
+    {
+        "concept_name": "次级离子质谱学",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "英文": "secondary ion mass spectroscopy ;SIMS",
+            "见载": "《物理学名词》第二版",
+            "英文名": "secondary ion mass spectroscopy"
+        }
+    },
+    {
+        "concept_name": "次表面原子",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "subsurface atom"
+        }
+    },
+    {
+        "concept_name": "正常电子隧穿",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "normal electron tunneling"
+        }
+    },
+    {
+        "concept_name": "正电子湮没技术",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "positron-annihilation technique"
+        }
+    },
+    {
+        "concept_name": "氩离子刻蚀",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "argon ion etching"
+        }
+    },
+    {
+        "concept_name": "氩离子溅射净化",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "argon ion sputtering cleaning"
+        }
+    },
+    {
+        "concept_name": "沙特-黑尔弗里希效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Schadt-Helfrich effect"
+        }
+    },
+    {
+        "concept_name": "泡沫材料隔热",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "foam insulation"
+        }
+    },
+    {
+        "concept_name": "波梅兰丘克致冷",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Pomeranchuk refrigeration"
+        }
+    },
+    {
+        "concept_name": "活塞圆筒装置",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "piston-cylinder apparatus"
+        }
+    },
+    {
+        "concept_name": "消失电势谱学",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "disappearence potential spectro- scopy"
+        }
+    },
+    {
+        "concept_name": "涟[波]子",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ripplon"
+        }
+    },
+    {
+        "concept_name": "涡线对",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "vortex pair"
+        }
+    },
+    {
+        "concept_name": "液晶盒",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "liquid crystal cell"
+        }
+    },
+    {
+        "concept_name": "液晶相",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "又称": " 中介相",
+            "见载": "《物理学名词》第二版",
+            "英文名": "liquid crystal phase"
+        }
+    },
+    {
+        "concept_name": "液氢温度",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "liquid hydrogen temperature"
+        }
+    },
+    {
+        "concept_name": "滚流不稳定性",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "roll instability"
+        }
+    },
+    {
+        "concept_name": "炸药透镜装置",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "explosive lens apparatus"
+        }
+    },
+    {
+        "concept_name": "点向错",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "point disclination"
+        }
+    },
+    {
+        "concept_name": "点接触结",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "point contact junction"
+        }
+    },
+    {
+        "concept_name": "热交换器",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "heat exchanger"
+        }
+    },
+    {
+        "concept_name": "热分子压强效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "thermomolecular pressure effect"
+        }
+    },
+    {
+        "concept_name": "热声振荡",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "thermal acoustic oscillation"
+        }
+    },
+    {
+        "concept_name": "热汇",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "英文": "heat sink ;thermal anchoring",
+            "见载": "《物理学名词》第二版",
+            "英文名": "heat sink"
+        }
+    },
+    {
+        "concept_name": "焦锥织构",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "focal conic texture"
+        }
+    },
+    {
+        "concept_name": "爬膜效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "creeping film effect"
+        }
+    },
+    {
+        "concept_name": "电子受激脱附",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electron stimulated desorption"
+        }
+    },
+    {
+        "concept_name": "电子声子互作用",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electron-phonon interaction"
+        }
+    },
+    {
+        "concept_name": "电子定域态",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electronic localized state"
+        }
+    },
+    {
+        "concept_name": "电子微探针",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electron microprobe"
+        }
+    },
+    {
+        "concept_name": "电子相变",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electron phase transition"
+        }
+    },
+    {
+        "concept_name": "电子能耗谱学",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electron energy loss spectroscopy"
+        }
+    },
+    {
+        "concept_name": "电子能谱学",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electron spectroscopy"
+        }
+    },
+    {
+        "concept_name": "电子能量分析器",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electron energy analyzer"
+        }
+    },
+    {
+        "concept_name": "电离谱学",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ionization spectroscopy"
+        }
+    },
+    {
+        "concept_name": "电阻压强计",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "electrical resistance gauge"
+        }
+    },
+    {
+        "concept_name": "界面",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "interface"
+        }
+    },
+    {
+        "concept_name": "界面态",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "interface state"
+        }
+    },
+    {
+        "concept_name": "界面能",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "interfacial energy"
+        }
+    },
+    {
+        "concept_name": "盘形分子液晶",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "discotic liquid crystal"
+        }
+    },
+    {
+        "concept_name": "相变前效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "pretransition effect"
+        }
+    },
+    {
+        "concept_name": "相干效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "coherence effect"
+        }
+    },
+    {
+        "concept_name": "磁致冷",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "magnetic refrigeration"
+        }
+    },
+    {
+        "concept_name": "磁通量子化",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "[magnetic] flux quantization"
+        }
+    },
+    {
+        "concept_name": "离子中和谱学",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ion neutralization spectroscopy"
+        }
+    },
+    {
+        "concept_name": "离子交换吸附",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ion exchange adsorption"
+        }
+    },
+    {
+        "concept_name": "离子微探针",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ion microprobe"
+        }
+    },
+    {
+        "concept_name": "离子散射谱学",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "英文": "ion scattering spectroscopy ;ISS",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ion scattering spectroscopy"
+        }
+    },
+    {
+        "concept_name": "科恩反常",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Kohn anomaly"
+        }
+    },
+    {
+        "concept_name": "窄带噪声",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "narrow band noise"
+        }
+    },
+    {
+        "concept_name": "第三临界[磁]场",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "又称": " 超导鞘临界[磁]场",
+            "见载": "《物理学名词》第二版",
+            "英文名": "third critical [magnetic] field"
+        }
+    },
+    {
+        "concept_name": "第二声",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "second sound"
+        }
+    },
+    {
+        "concept_name": "等熵压缩",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "isentropic compression"
+        }
+    },
+    {
+        "concept_name": "筒镜分析器",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "cylindrical mirror analyzer"
+        }
+    },
+    {
+        "concept_name": "粉末隔热",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "powder insulation"
+        }
+    },
+    {
+        "concept_name": "紫外光电子能谱学",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "英文": "ultraviolet photoelectron spec- troscopy ;UPS",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ultraviolet photoelectron spec- troscopy"
+        }
+    },
+    {
+        "concept_name": "约瑟夫森效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Josephson effect"
+        }
+    },
+    {
+        "concept_name": "绝热压缩",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "adiabatic compression"
+        }
+    },
+    {
+        "concept_name": "绝热退磁",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "adiabatic demagnetization"
+        }
+    },
+    {
+        "concept_name": "绝缘体-金属相变",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "insulator-metal phase transition"
+        }
+    },
+    {
+        "concept_name": "聚合物液晶",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "polymer liquid crystal"
+        }
+    },
+    {
+        "concept_name": "肖克利[表面]能级",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Shockley [surface] energy level"
+        }
+    },
+    {
+        "concept_name": "自旋密度波",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "spin density wave"
+        }
+    },
+    {
+        "concept_name": "自旋涨落交换",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "spin fluctuation exchange"
+        }
+    },
+    {
+        "concept_name": "自由表面近似",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "free surface approximation"
+        }
+    },
+    {
+        "concept_name": "蓝相液晶",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "blue phase liquid crystal"
+        }
+    },
+    {
+        "concept_name": "表面光学",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "surface optics"
+        }
+    },
+    {
+        "concept_name": "表面合金",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "surface alloy"
+        }
+    },
+    {
+        "concept_name": "表面吸附",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "surface adsorption"
+        }
+    },
+    {
+        "concept_name": "表面增强拉曼谱仪",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "surface enhanced Raman spectroscope"
+        }
+    },
+    {
+        "concept_name": "表面悬键能级",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "surface dangling bond energy level"
+        }
+    },
+    {
+        "concept_name": "表面扩展X射线吸收精细结构",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "surface extended X-ray absorption fine structure"
+        }
+    },
+    {
+        "concept_name": "表面桥键能级",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "surface bridge bond energy level"
+        }
+    },
+    {
+        "concept_name": "表面熵",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "surface entropy"
+        }
+    },
+    {
+        "concept_name": "表面电子态",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "surface electronic state"
+        }
+    },
+    {
+        "concept_name": "表面电磁耦合振荡",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "surface electromagnetic coupled oscillation"
+        }
+    },
+    {
+        "concept_name": "表面自由能",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "surface free energy"
+        }
+    },
+    {
+        "concept_name": "西蒙方程",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Simon equation"
+        }
+    },
+    {
+        "concept_name": "覆盖层",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "overlayer"
+        }
+    },
+    {
+        "concept_name": "角分辨光电发射",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "angular resolved photoemission"
+        }
+    },
+    {
+        "concept_name": "质子诱发X射线",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "英文": "proton-induced X-ray ;PIX",
+            "见载": "《物理学名词》第二版",
+            "英文名": "proton-induced X-ray"
+        }
+    },
+    {
+        "concept_name": "费利奇不稳定性",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Felici instability"
+        }
+    },
+    {
+        "concept_name": "费米液体理论",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Fermi-liquid theory"
+        }
+    },
+    {
+        "concept_name": "超低温",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "ultralow temperature"
+        }
+    },
+    {
+        "concept_name": "超导[量子]电子学",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "superconducting [quantum]electronics"
+        }
+    },
+    {
+        "concept_name": "超导量子干涉器件",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "英文": "superconducting quantum interfe- rence device ;SQUID",
+            "见载": "《物理学名词》第二版",
+            "英文名": "superconducting quantum interfe- rence device"
+        }
+    },
+    {
+        "concept_name": "超导量子干涉现象",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "superconducting quantum interfe- rence phenomenon"
+        }
+    },
+    {
+        "concept_name": "超格点",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "superlattice"
+        }
+    },
+    {
+        "concept_name": "超流[动]性",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "superfluidity"
+        }
+    },
+    {
+        "concept_name": "超流体",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "superfluid"
+        }
+    },
+    {
+        "concept_name": "超漏",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "superleak"
+        }
+    },
+    {
+        "concept_name": "超空间群",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "superspace group"
+        }
+    },
+    {
+        "concept_name": "迈斯纳效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Meissner effect"
+        }
+    },
+    {
+        "concept_name": "逃逸深度",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "escape depth"
+        }
+    },
+    {
+        "concept_name": "逆光电效应能谱学",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "英文": "inverse photoelectric spectroscopy ;IPS",
+            "见载": "《物理学名词》第二版",
+            "英文名": "inverse photoelectric spectroscopy"
+        }
+    },
+    {
+        "concept_name": "速失方式",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "fast turn-off mode"
+        }
+    },
+    {
+        "concept_name": "邻近效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "proximity effect"
+        }
+    },
+    {
+        "concept_name": "量子尺寸效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "quantum size effect"
+        }
+    },
+    {
+        "concept_name": "量子流体",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "quantum fluid"
+        }
+    },
+    {
+        "concept_name": "量子霍尔效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "quantum Hall effect"
+        }
+    },
+    {
+        "concept_name": "金兹堡-朗道方程",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Ginzburg-Landau equation"
+        }
+    },
+    {
+        "concept_name": "金刚石[压]砧室",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "diamond anvil cell"
+        }
+    },
+    {
+        "concept_name": "锚泊",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "anchoring"
+        }
+    },
+    {
+        "concept_name": "阴影效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "shadow effect"
+        }
+    },
+    {
+        "concept_name": "阻塞效应",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "blocking effect"
+        }
+    },
+    {
+        "concept_name": "阿布里科索夫理论",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Abrikosov theory"
+        }
+    },
+    {
+        "concept_name": "附着",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "adhesion"
+        }
+    },
+    {
+        "concept_name": "零场能",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "zero-field energy"
+        }
+    },
+    {
+        "concept_name": "零温物态方程",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "zero-temperature equation of state"
+        }
+    },
+    {
+        "concept_name": "零维系统",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "zero-dimensional system"
+        }
+    },
+    {
+        "concept_name": "非弹性能量损耗界面",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "inelastic energy loss interface"
+        }
+    },
+    {
+        "concept_name": "顺磁绝热退磁",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "paramagnetic adiabatic demagne- tization"
+        }
+    },
+    {
+        "concept_name": "飞片增压装置",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "driver plate apparatus"
+        }
+    },
+    {
+        "concept_name": "高压物态方程",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "high pressure equation of state"
+        }
+    },
+    {
+        "concept_name": "高真空隔热",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "high vacuum insulation"
+        }
+    },
+    {
+        "concept_name": "高能电子衍射",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "high-energy electron diffraction"
+        }
+    },
+    {
+        "concept_name": "黑尔弗里希形变",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Helfrich deformation"
+        }
+    },
+    {
+        "concept_name": "默纳汉方程",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "Murnaghan equation"
+        }
+    },
+    {
+        "concept_name": "鼠夹装置",
+        "details": {
+            "学科": "物理学_凝聚体物理学_特殊物相与极端条件",
+            "见载": "《物理学名词》第二版",
+            "英文名": "mousetrap apparatus"
+        }
+    }
+]

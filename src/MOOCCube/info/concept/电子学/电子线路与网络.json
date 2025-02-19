@@ -1,0 +1,1832 @@
+[
+    {
+        "concept_name": "上冲",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "又称": " 过冲",
+            "见载": "《电子学名词》第一版",
+            "英文名": "overshoot"
+        }
+    },
+    {
+        "concept_name": "上变频",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "up-conversion"
+        }
+    },
+    {
+        "concept_name": "上边带",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "upper sideband"
+        }
+    },
+    {
+        "concept_name": "下冲",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "undershoot"
+        }
+    },
+    {
+        "concept_name": "与或门",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "AND-OR gate"
+        }
+    },
+    {
+        "concept_name": "与非门",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "NAND gate"
+        }
+    },
+    {
+        "concept_name": "丙类放大器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "class C amplifier"
+        }
+    },
+    {
+        "concept_name": "中频放大器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "intermediate frequency amplifier"
+        }
+    },
+    {
+        "concept_name": "主从触发器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "master-slave flip-flop"
+        }
+    },
+    {
+        "concept_name": "乙类放大器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "class B amplifier"
+        }
+    },
+    {
+        "concept_name": "二端网络",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "two-terminal network"
+        }
+    },
+    {
+        "concept_name": "互调",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "intermodulation"
+        }
+    },
+    {
+        "concept_name": "交流",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "英文": "alternating current ;AC",
+            "见载": "《电子学名词》第一版",
+            "英文名": "alternating current"
+        }
+    },
+    {
+        "concept_name": "人工神经网络",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "artificial neural net"
+        }
+    },
+    {
+        "concept_name": "他激振荡器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "driven oscillator"
+        }
+    },
+    {
+        "concept_name": "仿真线",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "英文": "simulated line ;artificial line",
+            "见载": "《电子学名词》第一版",
+            "英文名": "simulated line"
+        }
+    },
+    {
+        "concept_name": "传输",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "transmission"
+        }
+    },
+    {
+        "concept_name": "伺服放大器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "servo amplifier"
+        }
+    },
+    {
+        "concept_name": "低噪声放大器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "low noise amplifier"
+        }
+    },
+    {
+        "concept_name": "低频放大器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "low frequency amplifier"
+        }
+    },
+    {
+        "concept_name": "倍频程",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "octave"
+        }
+    },
+    {
+        "concept_name": "全通网络",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "all-pass network"
+        }
+    },
+    {
+        "concept_name": "共模抑制比",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "又称": " 同相抑制比",
+            "见载": "《电子学名词》第一版",
+            "英文名": "common-mode rejection ratio"
+        }
+    },
+    {
+        "concept_name": "再生接收机",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "regenerative receiver"
+        }
+    },
+    {
+        "concept_name": "冲激响应",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "impulse response"
+        }
+    },
+    {
+        "concept_name": "分子振荡器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "molecular oscillator"
+        }
+    },
+    {
+        "concept_name": "削波",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "clipping"
+        }
+    },
+    {
+        "concept_name": "前置放大器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "preamplifier"
+        }
+    },
+    {
+        "concept_name": "功率放大器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "power amplifier"
+        }
+    },
+    {
+        "concept_name": "加速电容",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "speed-up capacitor"
+        }
+    },
+    {
+        "concept_name": "包络",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "envelope"
+        }
+    },
+    {
+        "concept_name": "包络检波",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "envelope detection"
+        }
+    },
+    {
+        "concept_name": "匹配",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "match"
+        }
+    },
+    {
+        "concept_name": "半无限斜线逼近",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "approximation by semi-infinite slopes"
+        }
+    },
+    {
+        "concept_name": "单位冲激函数",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "unit impulse function"
+        }
+    },
+    {
+        "concept_name": "单位阶跃函数",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "unit step function"
+        }
+    },
+    {
+        "concept_name": "单向[性]",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "unilateral"
+        }
+    },
+    {
+        "concept_name": "单稳[触发]电路",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "monostable trigger-action circuit"
+        }
+    },
+    {
+        "concept_name": "占空比",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "又称": " 负载比",
+            "见载": "《电子学名词》第一版",
+            "英文名": "duty ratio"
+        }
+    },
+    {
+        "concept_name": "压控振荡器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "英文": "voltage controlled oscillator ;VCO",
+            "见载": "《电子学名词》第一版",
+            "英文名": "voltage controlled oscillator"
+        }
+    },
+    {
+        "concept_name": "原子频标",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "atomic frequency standard"
+        }
+    },
+    {
+        "concept_name": "参量放大器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "parametric amplifier"
+        }
+    },
+    {
+        "concept_name": "双向[性]",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "bilateral"
+        }
+    },
+    {
+        "concept_name": "双边带调制",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "double-sideband modulation"
+        }
+    },
+    {
+        "concept_name": "反相器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "又称": " 倒相器(invertor)",
+            "见载": "《电子学名词》第一版",
+            "英文名": "inverter"
+        }
+    },
+    {
+        "concept_name": "变压器耦合放大器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "transformer coupling amplifier"
+        }
+    },
+    {
+        "concept_name": "同步带",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "hold-in range"
+        }
+    },
+    {
+        "concept_name": "四端网络",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "four-terminal network"
+        }
+    },
+    {
+        "concept_name": "回差现象",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "backlash phenomena"
+        }
+    },
+    {
+        "concept_name": "均匀线",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "uniform line"
+        }
+    },
+    {
+        "concept_name": "均衡器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "equalizer"
+        }
+    },
+    {
+        "concept_name": "外差振荡器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "heterodyne oscillator"
+        }
+    },
+    {
+        "concept_name": "多谐振荡器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "multivibrator"
+        }
+    },
+    {
+        "concept_name": "失调电压",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "offset voltage"
+        }
+    },
+    {
+        "concept_name": "失谐",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "又称": " 失调",
+            "见载": "《电子学名词》第一版",
+            "英文名": "detuning"
+        }
+    },
+    {
+        "concept_name": "失配",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "mismatch"
+        }
+    },
+    {
+        "concept_name": "失锁",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "losing lock"
+        }
+    },
+    {
+        "concept_name": "容抗",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "capacitive reactance"
+        }
+    },
+    {
+        "concept_name": "宽带放大器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "wide-band amplifier"
+        }
+    },
+    {
+        "concept_name": "寄生振荡",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "parasitic oscillation"
+        }
+    },
+    {
+        "concept_name": "寄生调幅",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "parasitic amplitude modulation"
+        }
+    },
+    {
+        "concept_name": "对数放大器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "logarithmic amplifier"
+        }
+    },
+    {
+        "concept_name": "导抗",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "英文": "immittance ;adpedance",
+            "见载": "《电子学名词》第一版",
+            "英文名": "immittance"
+        }
+    },
+    {
+        "concept_name": "导纳",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "admittance"
+        }
+    },
+    {
+        "concept_name": "射极输出器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "emitter follower"
+        }
+    },
+    {
+        "concept_name": "射频放大器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "radio frequency amplifier"
+        }
+    },
+    {
+        "concept_name": "差分放大器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "differential amplifier"
+        }
+    },
+    {
+        "concept_name": "差接变量器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "differential transformer"
+        }
+    },
+    {
+        "concept_name": "巴特沃思滤波器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Butterworth filter"
+        }
+    },
+    {
+        "concept_name": "幅度检波",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "amplitude detection"
+        }
+    },
+    {
+        "concept_name": "幅移键控",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "英文": "amplitude shift keying ;ASK",
+            "见载": "《电子学名词》第一版",
+            "英文名": "amplitude shift keying"
+        }
+    },
+    {
+        "concept_name": "幅频特性",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "amplitude-frequency characteristic"
+        }
+    },
+    {
+        "concept_name": "干扰哨声",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "interference squealing"
+        }
+    },
+    {
+        "concept_name": "平均功率",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "average power"
+        }
+    },
+    {
+        "concept_name": "平方律检波",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "square-law detection"
+        }
+    },
+    {
+        "concept_name": "平顶降落",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "flattop decline"
+        }
+    },
+    {
+        "concept_name": "开关网络",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "switching network"
+        }
+    },
+    {
+        "concept_name": "开环",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "open loop"
+        }
+    },
+    {
+        "concept_name": "开路线",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "open-circuit line"
+        }
+    },
+    {
+        "concept_name": "张弛振荡器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "relaxation oscillator"
+        }
+    },
+    {
+        "concept_name": "强迫振荡",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "forced oscillation"
+        }
+    },
+    {
+        "concept_name": "影像参数",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "又称": " 镜像参数",
+            "见载": "《电子学名词》第一版",
+            "英文名": "image parameter"
+        }
+    },
+    {
+        "concept_name": "微分电路",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "differential circuit"
+        }
+    },
+    {
+        "concept_name": "恢复时间",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "recovery time"
+        }
+    },
+    {
+        "concept_name": "感抗",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "inductive reactance"
+        }
+    },
+    {
+        "concept_name": "戊类放大器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "class E amplifier"
+        }
+    },
+    {
+        "concept_name": "截止频率",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "cut-off frequency"
+        }
+    },
+    {
+        "concept_name": "扩展器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "expander"
+        }
+    },
+    {
+        "concept_name": "扫描",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "sweep"
+        }
+    },
+    {
+        "concept_name": "扫描发生器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "sweeping generator"
+        }
+    },
+    {
+        "concept_name": "扫频振荡器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "sweep frequency oscillator"
+        }
+    },
+    {
+        "concept_name": "拍频振荡器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "beat frequency oscillator"
+        }
+    },
+    {
+        "concept_name": "指数线",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "exponential line"
+        }
+    },
+    {
+        "concept_name": "振幅",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "amplitude"
+        }
+    },
+    {
+        "concept_name": "振荡",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "oscillation"
+        }
+    },
+    {
+        "concept_name": "推挽功率放大器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "push-pull power amplifier"
+        }
+    },
+    {
+        "concept_name": "插入损耗",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "又称": " 介入损耗",
+            "见载": "《电子学名词》第一版",
+            "英文名": "insertion loss"
+        }
+    },
+    {
+        "concept_name": "放大",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "amplification"
+        }
+    },
+    {
+        "concept_name": "效率",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "efficiency"
+        }
+    },
+    {
+        "concept_name": "数字电路",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "digital circuit"
+        }
+    },
+    {
+        "concept_name": "数模转换器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "又称": " D、A 转器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "digital to analog converter"
+        }
+    },
+    {
+        "concept_name": "整形电路",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "shaping circuit"
+        }
+    },
+    {
+        "concept_name": "时基电路",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "time-base circuit"
+        }
+    },
+    {
+        "concept_name": "时间常数",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "time constant"
+        }
+    },
+    {
+        "concept_name": "晶体振荡器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "crystal oscillator"
+        }
+    },
+    {
+        "concept_name": "晶体滤波器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "crystal filter"
+        }
+    },
+    {
+        "concept_name": "曲折滤波器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "zigzag filter"
+        }
+    },
+    {
+        "concept_name": "最小二乘[方]逼近",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "least square error approximation"
+        }
+    },
+    {
+        "concept_name": "最平幅度逼近",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "maximally flat amplitude approxiation"
+        }
+    },
+    {
+        "concept_name": "最平时延逼近",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "maximally flat delay approximation"
+        }
+    },
+    {
+        "concept_name": "有效值",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "effective value"
+        }
+    },
+    {
+        "concept_name": "有源网络",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "active network"
+        }
+    },
+    {
+        "concept_name": "本机振荡器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "又称": " 本地振荡器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "local oscillator"
+        }
+    },
+    {
+        "concept_name": "梯形波",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "trapezoidal wave"
+        }
+    },
+    {
+        "concept_name": "模数转换器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "又称": " A、D 转换器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "analog to digital converter"
+        }
+    },
+    {
+        "concept_name": "横向滤波器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "transversal filter"
+        }
+    },
+    {
+        "concept_name": "正反馈",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "positive feedback"
+        }
+    },
+    {
+        "concept_name": "残留边带",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "residual sideband"
+        }
+    },
+    {
+        "concept_name": "波参数",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "wave parameter"
+        }
+    },
+    {
+        "concept_name": "波阻抗",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "wave impedance"
+        }
+    },
+    {
+        "concept_name": "混沌",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "chaos"
+        }
+    },
+    {
+        "concept_name": "激励函数",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "excitation function"
+        }
+    },
+    {
+        "concept_name": "特性阻抗",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "characteristic impedance"
+        }
+    },
+    {
+        "concept_name": "状态变量",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "state variable"
+        }
+    },
+    {
+        "concept_name": "理想时域滤波器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "英文": "ideal time domain filter ;ITDF",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ideal time domain filter"
+        }
+    },
+    {
+        "concept_name": "理想频域滤波器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "英文": "ideal frequency domain filter ;IFDF",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ideal frequency domain filter"
+        }
+    },
+    {
+        "concept_name": "甲类放大器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "class A amplifier"
+        }
+    },
+    {
+        "concept_name": "电压放大器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "voltage amplifier"
+        }
+    },
+    {
+        "concept_name": "电平",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "level"
+        }
+    },
+    {
+        "concept_name": "电抗",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "reactance"
+        }
+    },
+    {
+        "concept_name": "电抗网络",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "reactance network"
+        }
+    },
+    {
+        "concept_name": "电流放大器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "current amplifier"
+        }
+    },
+    {
+        "concept_name": "直接耦合放大器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "简称": " 直耦放大器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "direct coupled amplifier"
+        }
+    },
+    {
+        "concept_name": "直流",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "direct current"
+        }
+    },
+    {
+        "concept_name": "直流放大器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "direct current amplifier"
+        }
+    },
+    {
+        "concept_name": "相敏放大器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "phase sensitive amplifier"
+        }
+    },
+    {
+        "concept_name": "相移",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "phase shift"
+        }
+    },
+    {
+        "concept_name": "相频特性",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "phase-frequency characteristic"
+        }
+    },
+    {
+        "concept_name": "瞬态",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "又称": " 暂态",
+            "见载": "《电子学名词》第一版",
+            "英文名": "transient state"
+        }
+    },
+    {
+        "concept_name": "瞬时功率",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "instantaneous power"
+        }
+    },
+    {
+        "concept_name": "石英谐振器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "quartz resonator"
+        }
+    },
+    {
+        "concept_name": "禁[止]门",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "inhibit gate"
+        }
+    },
+    {
+        "concept_name": "积分电路",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "integrating circuit"
+        }
+    },
+    {
+        "concept_name": "移相振荡器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "phase shift oscillator"
+        }
+    },
+    {
+        "concept_name": "窄带放大器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "narrow-band amplifier"
+        }
+    },
+    {
+        "concept_name": "等效电源定理",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "equivalent source theorem"
+        }
+    },
+    {
+        "concept_name": "等效网络",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "equivalent network"
+        }
+    },
+    {
+        "concept_name": "等波纹逼近",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "equal ripple approximation"
+        }
+    },
+    {
+        "concept_name": "米勒积分电路",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Miller integrating circuit"
+        }
+    },
+    {
+        "concept_name": "结点",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "node"
+        }
+    },
+    {
+        "concept_name": "缓冲放大器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "buffer amplifier"
+        }
+    },
+    {
+        "concept_name": "网络综合",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "network synthesis"
+        }
+    },
+    {
+        "concept_name": "群时延",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "group delay"
+        }
+    },
+    {
+        "concept_name": "耦合度",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "degree of coupling"
+        }
+    },
+    {
+        "concept_name": "耿[氏]效应振荡器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Gunn effect oscillator"
+        }
+    },
+    {
+        "concept_name": "脉位调制",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "pulse-position modulation"
+        }
+    },
+    {
+        "concept_name": "脉冲",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "pulse"
+        }
+    },
+    {
+        "concept_name": "脉冲前沿",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "pulse front edge"
+        }
+    },
+    {
+        "concept_name": "脉冲后沿",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "pulse back edge"
+        }
+    },
+    {
+        "concept_name": "脉冲幅度",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "pulse amplitude"
+        }
+    },
+    {
+        "concept_name": "脉冲放大器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "pulse amplifier"
+        }
+    },
+    {
+        "concept_name": "脉冲检波",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "pulse detection"
+        }
+    },
+    {
+        "concept_name": "脉幅调制",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "英文": "pulse-ampli tude modulation ;PAM",
+            "见载": "《电子学名词》第一版",
+            "英文名": "pulse-ampli tude modulation"
+        }
+    },
+    {
+        "concept_name": "脉泽",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "又称": " 微波激射[器]",
+            "见载": "《电子学名词》第一版",
+            "英文名": "maser"
+        }
+    },
+    {
+        "concept_name": "自动增益控制",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "automatic gain control"
+        }
+    },
+    {
+        "concept_name": "自动音量控制",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "英文": "automatic volume control ;AVC",
+            "见载": "《电子学名词》第一版",
+            "英文名": "automatic volume control"
+        }
+    },
+    {
+        "concept_name": "自动频率控制",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "automatic frequency control"
+        }
+    },
+    {
+        "concept_name": "自差接收机",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "autodyne receiver"
+        }
+    },
+    {
+        "concept_name": "自激振荡",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "self-oscillation"
+        }
+    },
+    {
+        "concept_name": "自由振荡",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "free oscillation"
+        }
+    },
+    {
+        "concept_name": "自适应增量调制",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "adaptive delta modulation"
+        }
+    },
+    {
+        "concept_name": "自适应差分脉码调制",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "adaptive differential pulse-code modulation"
+        }
+    },
+    {
+        "concept_name": "衰减",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "attenuation"
+        }
+    },
+    {
+        "concept_name": "衰减器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "attenuator"
+        }
+    },
+    {
+        "concept_name": "衰减常数",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "attenuation constant"
+        }
+    },
+    {
+        "concept_name": "视频放大器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "video amplifier"
+        }
+    },
+    {
+        "concept_name": "调制指数",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "modulation index"
+        }
+    },
+    {
+        "concept_name": "调幅",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "英文": "amplitude modulation ;AM",
+            "见载": "《电子学名词》第一版",
+            "英文名": "amplitude modulation"
+        }
+    },
+    {
+        "concept_name": "调幅发射机",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "英文": "amplitude modulated transmitter ;AM transmitter",
+            "见载": "《电子学名词》第一版",
+            "英文名": "amplitude modulated transmitter"
+        }
+    },
+    {
+        "concept_name": "调幅器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "amplitude modulator"
+        }
+    },
+    {
+        "concept_name": "调角",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "angle modulation"
+        }
+    },
+    {
+        "concept_name": "调谐振荡器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "tuned oscillator"
+        }
+    },
+    {
+        "concept_name": "调谐放大器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "tuned amplifier"
+        }
+    },
+    {
+        "concept_name": "谐振",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "又称": " 共振",
+            "见载": "《电子学名词》第一版",
+            "英文名": "resonance"
+        }
+    },
+    {
+        "concept_name": "谐波分析",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "harmonic analysis"
+        }
+    },
+    {
+        "concept_name": "负反馈",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "negative feedback"
+        }
+    },
+    {
+        "concept_name": "负反馈放大器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "negative feedback amplifier"
+        }
+    },
+    {
+        "concept_name": "负载",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "load"
+        }
+    },
+    {
+        "concept_name": "负阻振荡器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "negative resistance oscillator"
+        }
+    },
+    {
+        "concept_name": "超前",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "lead"
+        }
+    },
+    {
+        "concept_name": "超外差接收机",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "superheterodyne receiver"
+        }
+    },
+    {
+        "concept_name": "跳周",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "cyclic skipping"
+        }
+    },
+    {
+        "concept_name": "输入电阻",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "input resistance"
+        }
+    },
+    {
+        "concept_name": "输入阻抗",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "input impedance"
+        }
+    },
+    {
+        "concept_name": "输出电阻",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "output resistance"
+        }
+    },
+    {
+        "concept_name": "输出阻抗",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "output impedance"
+        }
+    },
+    {
+        "concept_name": "过渡带",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "transition band"
+        }
+    },
+    {
+        "concept_name": "运算放大器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "operational amplifier"
+        }
+    },
+    {
+        "concept_name": "返波振荡器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "backward wave oscillator"
+        }
+    },
+    {
+        "concept_name": "连续波发射机",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "continuous wave transmitter"
+        }
+    },
+    {
+        "concept_name": "逆变器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "英文": "inverter ;invertor",
+            "见载": "《电子学名词》第一版",
+            "英文名": "inverter"
+        }
+    },
+    {
+        "concept_name": "选频放大器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "frequency selective amplifier"
+        }
+    },
+    {
+        "concept_name": "通断键控",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "英文": "on-off keying ;OOK",
+            "见载": "《电子学名词》第一版",
+            "英文名": "on-off keying"
+        }
+    },
+    {
+        "concept_name": "重复阻抗",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "又称": " 累接阻抗",
+            "见载": "《电子学名词》第一版",
+            "英文名": "iterative impedance"
+        }
+    },
+    {
+        "concept_name": "锁相振荡器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "phase-locked oscillator"
+        }
+    },
+    {
+        "concept_name": "锁相环[路]",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "phase-locked loop"
+        }
+    },
+    {
+        "concept_name": "锯齿波形",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "sawtooth waveform"
+        }
+    },
+    {
+        "concept_name": "镜像抑制比",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "image rejection ratio"
+        }
+    },
+    {
+        "concept_name": "镜频干扰",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "image frequency interference"
+        }
+    },
+    {
+        "concept_name": "间歇振荡器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "blocking oscillator"
+        }
+    },
+    {
+        "concept_name": "阴极输出器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "cathode follower"
+        }
+    },
+    {
+        "concept_name": "阻容耦合放大器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "RC coupling amplifier"
+        }
+    },
+    {
+        "concept_name": "阻尼振荡",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "damped oscillation"
+        }
+    },
+    {
+        "concept_name": "阻抗",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "impedance"
+        }
+    },
+    {
+        "concept_name": "限幅",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "英文": "amplitude limiting ;limiting",
+            "见载": "《电子学名词》第一版",
+            "英文名": "amplitude limiting"
+        }
+    },
+    {
+        "concept_name": "限幅器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "英文": "amplitude limiter ;limiter",
+            "见载": "《电子学名词》第一版",
+            "英文名": "amplitude limiter"
+        }
+    },
+    {
+        "concept_name": "限幅放大器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "limiting amplifier"
+        }
+    },
+    {
+        "concept_name": "隔离放大器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "isolated amplifier"
+        }
+    },
+    {
+        "concept_name": "非线性网络",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "nonlinear network"
+        }
+    },
+    {
+        "concept_name": "非门",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "negation gate"
+        }
+    },
+    {
+        "concept_name": "音频振荡器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "audio frequency oscillator"
+        }
+    },
+    {
+        "concept_name": "音频放大器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "audio frequency amplifier"
+        }
+    },
+    {
+        "concept_name": "频率",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "frequency"
+        }
+    },
+    {
+        "concept_name": "频率特性",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "frequency characteristic"
+        }
+    },
+    {
+        "concept_name": "高频放大器",
+        "details": {
+            "学科": "电子学_电子线路与网络",
+            "见载": "《电子学名词》第一版",
+            "英文名": "high frequency amplifier"
+        }
+    }
+]

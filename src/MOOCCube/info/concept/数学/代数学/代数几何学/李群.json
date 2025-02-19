@@ -1,0 +1,442 @@
+[
+    {
+        "concept_name": "交换李群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "commutative Lie group"
+        }
+    },
+    {
+        "concept_name": "半单李群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "semi-simple Lie group"
+        }
+    },
+    {
+        "concept_name": "单参数子群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "one parameter subgroup"
+        }
+    },
+    {
+        "concept_name": "单李群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "simple Lie group"
+        }
+    },
+    {
+        "concept_name": "单连通解析群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "simply connected analytic group"
+        }
+    },
+    {
+        "concept_name": "可解解析群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "solvable analytic group"
+        }
+    },
+    {
+        "concept_name": "商李群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "quotient Lie group"
+        }
+    },
+    {
+        "concept_name": "复一般线性群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "complex general linear group"
+        }
+    },
+    {
+        "concept_name": "复单连通解析李群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "complex simply connected analytic Lie group"
+        }
+    },
+    {
+        "concept_name": "复李群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "complex Lie group"
+        }
+    },
+    {
+        "concept_name": "复表示",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "complex representation"
+        }
+    },
+    {
+        "concept_name": "复解析表示",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "complex analytic representation"
+        }
+    },
+    {
+        "concept_name": "外尔特征[标]公式",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "Weyl character formula"
+        }
+    },
+    {
+        "concept_name": "外尔维数公式",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "Weyl dimension formula"
+        }
+    },
+    {
+        "concept_name": "子李群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "Lie subgroup"
+        }
+    },
+    {
+        "concept_name": "实一般线性群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "real general linear group"
+        }
+    },
+    {
+        "concept_name": "实李群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "real Lie group"
+        }
+    },
+    {
+        "concept_name": "实表示",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "real representation"
+        }
+    },
+    {
+        "concept_name": "局部变换群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "local transformation group"
+        }
+    },
+    {
+        "concept_name": "局部李群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "local Lie group"
+        }
+    },
+    {
+        "concept_name": "局部解析同构",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "locally analytical isomorphic"
+        }
+    },
+    {
+        "concept_name": "左不变",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "left invariant"
+        }
+    },
+    {
+        "concept_name": "左平移",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "left translation"
+        }
+    },
+    {
+        "concept_name": "幂幺表示",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "unipotent representation"
+        }
+    },
+    {
+        "concept_name": "幂零解析群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "nilpotent analytic group"
+        }
+    },
+    {
+        "concept_name": "指数映射",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "exponential mapping"
+        }
+    },
+    {
+        "concept_name": "指数映射的微分",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "differential of exponential mapping"
+        }
+    },
+    {
+        "concept_name": "整体变换群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "global transformation group"
+        }
+    },
+    {
+        "concept_name": "旋量表示",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "spin representation"
+        }
+    },
+    {
+        "concept_name": "无穷小变换群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "infinitesimal transformation group"
+        }
+    },
+    {
+        "concept_name": "李代数的解析群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "analytic group of a Lie algebra"
+        }
+    },
+    {
+        "concept_name": "李双代数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "Lie bialgebra"
+        }
+    },
+    {
+        "concept_name": "李群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "Lie group"
+        }
+    },
+    {
+        "concept_name": "李群同构",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "isomorphism of Lie groups"
+        }
+    },
+    {
+        "concept_name": "李群的包络代数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "enveloping algebra of a Lie group"
+        }
+    },
+    {
+        "concept_name": "李群的李代数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "Lie algebra of a Lie group"
+        }
+    },
+    {
+        "concept_name": "李群的表示",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "representation of a Lie group"
+        }
+    },
+    {
+        "concept_name": "极大环面",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "maximal torus"
+        }
+    },
+    {
+        "concept_name": "泊松李群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "Poisson Lie group"
+        }
+    },
+    {
+        "concept_name": "离散子群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "discrete subgroup"
+        }
+    },
+    {
+        "concept_name": "第一类典范坐标",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "canonical coordinates of the first kind"
+        }
+    },
+    {
+        "concept_name": "第二类典范坐标",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "canonical coordinates of the second kind"
+        }
+    },
+    {
+        "concept_name": "经典杨-巴克斯特方程",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "classical Yang-Baxter equation"
+        }
+    },
+    {
+        "concept_name": "莱维分解",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "Levi decomposition"
+        }
+    },
+    {
+        "concept_name": "莱维子群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "Levi subgroup"
+        }
+    },
+    {
+        "concept_name": "解析同态",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "analytic homomorphism"
+        }
+    },
+    {
+        "concept_name": "解析同态的微分",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "differential of an analytic homo- morphism"
+        }
+    },
+    {
+        "concept_name": "解析同构",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "analytic isomorphism"
+        }
+    },
+    {
+        "concept_name": "解析子群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "analytic subgroup"
+        }
+    },
+    {
+        "concept_name": "解析群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "analytic group"
+        }
+    },
+    {
+        "concept_name": "贝克-坎贝尔-豪斯多夫公式",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "Baker-Cambell-Hausdorff formula"
+        }
+    },
+    {
+        "concept_name": "量子化泛包络代数",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "quantized universal enveloping algebra"
+        }
+    },
+    {
+        "concept_name": "量子杨-巴克斯特方程",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "quantum Yang-Baxter equation"
+        }
+    },
+    {
+        "concept_name": "量子群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "quantum group"
+        }
+    },
+    {
+        "concept_name": "闭子李群",
+        "details": {
+            "学科": "数学_代数学_代数几何学_李群",
+            "见载": "《数学名词》第一版",
+            "英文名": "closed Lie subgroup"
+        }
+    }
+]

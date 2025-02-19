@@ -1,0 +1,3058 @@
+[
+    {
+        "concept_name": "丘疹性荨麻疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "papular urticaria"
+        }
+    },
+    {
+        "concept_name": "中毒性红斑",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "toxic erythema"
+        }
+    },
+    {
+        "concept_name": "中毒性表皮坏死松解症",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "toxic epidermal necrolysis"
+        }
+    },
+    {
+        "concept_name": "丹毒",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "erysipelas"
+        }
+    },
+    {
+        "concept_name": "乳房外佩吉特病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "extramammary Paget disease"
+        }
+    },
+    {
+        "concept_name": "乳房湿疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "breast eczema"
+        }
+    },
+    {
+        "concept_name": "亚急性皮肤红斑狼疮",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "subacute cutaneous lupus erythema-tosus"
+        }
+    },
+    {
+        "concept_name": "亚急性结节性游走性脂膜炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "subacute nodular migratory pannic-ulitis"
+        }
+    },
+    {
+        "concept_name": "交界型大疱性表皮松解[症]",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "又称": " 致死性大疱性表皮松解[症]",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "junctional epidermolysis bullosa"
+        }
+    },
+    {
+        "concept_name": "以色列放线菌",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "Actinomyces israelii"
+        }
+    },
+    {
+        "concept_name": "传染性湿疹样皮炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "infectious eczematoid dermatitis"
+        }
+    },
+    {
+        "concept_name": "传染性红斑",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "erythema infectiosum"
+        }
+    },
+    {
+        "concept_name": "儿童丘疹性肢端皮炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "英文": "papular acrodermatitis of child-hood ;Gianotti-Crosti syndrome",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "papular acrodermatitis of child-hood"
+        }
+    },
+    {
+        "concept_name": "儿童湿疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "childhood eczema"
+        }
+    },
+    {
+        "concept_name": "先天性无痛症",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "congenital absence of pain"
+        }
+    },
+    {
+        "concept_name": "先天性秃发",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "congenital alopecia"
+        }
+    },
+    {
+        "concept_name": "先天性鱼鳞病样综合征伴耳聋及角膜炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "congenital ichthyosiform syndrome with deafness and keratitis"
+        }
+    },
+    {
+        "concept_name": "光变应性药疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "photoallergic drug eruption"
+        }
+    },
+    {
+        "concept_name": "光毒性药疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "phototoxic drug eruption"
+        }
+    },
+    {
+        "concept_name": "光线性唇炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "又称": " 光化性唇炎",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "actinic cheilitis"
+        }
+    },
+    {
+        "concept_name": "光线性扁平苔藓",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "又称": " 光化性扁平苔藓",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "lichen planus actinicus"
+        }
+    },
+    {
+        "concept_name": "光线性类网状细胞增多症",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "又称": " 光化性类网状细胞增多症",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "actinic reticuloid"
+        }
+    },
+    {
+        "concept_name": "光线性肉芽肿",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "又称": " 光化性肉芽肿",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "actinic granuloma"
+        }
+    },
+    {
+        "concept_name": "光线性角化病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "又称": " 光化性角化病",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "actinic keratosis"
+        }
+    },
+    {
+        "concept_name": "全秃",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "定义": "全部头发脱失。",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "alopecia totalis"
+        }
+    },
+    {
+        "concept_name": "关节病性银屑病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "psoriasis arthropathica"
+        }
+    },
+    {
+        "concept_name": "内翻性毛囊角化病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "inverted follicular keratosis"
+        }
+    },
+    {
+        "concept_name": "冻疮样红斑狼疮",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "chilblain lupus erythematosus"
+        }
+    },
+    {
+        "concept_name": "凯拉增生性红斑",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "erythroplasia of Queyrat"
+        }
+    },
+    {
+        "concept_name": "出汗性血管瘤",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "sudoriparous angioma"
+        }
+    },
+    {
+        "concept_name": "分枝杆菌性溃疡",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "mycobacterial ulcer"
+        }
+    },
+    {
+        "concept_name": "刺激性接触性皮炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "irritant contact dermatitis"
+        }
+    },
+    {
+        "concept_name": "刺激性皮炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "irritant dermatitis"
+        }
+    },
+    {
+        "concept_name": "剥脱性皮炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "exfoliative dermatitis"
+        }
+    },
+    {
+        "concept_name": "剥脱性角质松解症",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "exfoliative keratolysis"
+        }
+    },
+    {
+        "concept_name": "匐行性回状红斑",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "erythema gyratum serpens"
+        }
+    },
+    {
+        "concept_name": "匐行性血管瘤",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "angioma serpiginosum"
+        }
+    },
+    {
+        "concept_name": "匐行疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "creeping eruption"
+        }
+    },
+    {
+        "concept_name": "医源性多毛症",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "iatrogenic hirsutism"
+        }
+    },
+    {
+        "concept_name": "单侧性先天性鱼鳞病样红皮症",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "unilateral congenital ichthyosiform erythroderma"
+        }
+    },
+    {
+        "concept_name": "单侧痣",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "nevus unius lateris"
+        }
+    },
+    {
+        "concept_name": "单侧痣样毛细血管扩张",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "unilateral nevoid telangiectasia"
+        }
+    },
+    {
+        "concept_name": "单纯型大疱性表皮松解[症]",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "epidermolysis bullosa simplex"
+        }
+    },
+    {
+        "concept_name": "单纯性回状红斑",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "erythema simplex gyratum"
+        }
+    },
+    {
+        "concept_name": "卡波西水痘样疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "Kaposi varicelliform eruption"
+        }
+    },
+    {
+        "concept_name": "压迫性荨麻疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "pressure urticaria"
+        }
+    },
+    {
+        "concept_name": "原发接种性结核",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "primary inoculation tuberculosis"
+        }
+    },
+    {
+        "concept_name": "发疹性毳毛囊肿",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "eruptive vellus hair cysts"
+        }
+    },
+    {
+        "concept_name": "发疹性汗腺腺瘤",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "eruptive hidroadenoma"
+        }
+    },
+    {
+        "concept_name": "变应性接触性唇炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "allergic contact cheilitis"
+        }
+    },
+    {
+        "concept_name": "变应性接触性皮炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "allergic contact dermatitis"
+        }
+    },
+    {
+        "concept_name": "变应性皮肤血管炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "allergic cutaneous vasculitis"
+        }
+    },
+    {
+        "concept_name": "变应性肉芽肿病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "allergic granulomatosis"
+        }
+    },
+    {
+        "concept_name": "变应性药疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "allergic drug eruption"
+        }
+    },
+    {
+        "concept_name": "变异性红斑角化病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "variable erythrokeratoderma"
+        }
+    },
+    {
+        "concept_name": "叠瓦癣",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "tinea imbricata"
+        }
+    },
+    {
+        "concept_name": "口疮",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "aphtha"
+        }
+    },
+    {
+        "concept_name": "口腔念珠菌病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "oral candidiasis"
+        }
+    },
+    {
+        "concept_name": "口腔白斑",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "oral leukoplakia"
+        }
+    },
+    {
+        "concept_name": "口腔菜花样乳头状瘤病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "oral florid papillomatosis"
+        }
+    },
+    {
+        "concept_name": "口腔黏膜良性角化过度",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "benign hyperkeratosis of oral mucosa"
+        }
+    },
+    {
+        "concept_name": "口角炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "angular cheilitis"
+        }
+    },
+    {
+        "concept_name": "同形反应",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "又称": " 科布内现象(Koebner phenome-non)",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "isomorphic response"
+        }
+    },
+    {
+        "concept_name": "嗜酸[细胞]性海绵样水肿",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "eosinophilic spongiosis"
+        }
+    },
+    {
+        "concept_name": "嗜酸[细胞]性筋膜炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "eosinophilic fasciitis"
+        }
+    },
+    {
+        "concept_name": "嗜酸[细胞]性脓疱性毛囊炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "eosinophilic pustular folliculitis"
+        }
+    },
+    {
+        "concept_name": "嗜酸[细胞]性舌溃疡",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "eosinophilic ulcer of tongue"
+        }
+    },
+    {
+        "concept_name": "回旋形线状鱼鳞病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "ichthyosis linearis circumflexa"
+        }
+    },
+    {
+        "concept_name": "固定性药疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "fixed drug eruption"
+        }
+    },
+    {
+        "concept_name": "坏死性痤疮",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "acne necrotica"
+        }
+    },
+    {
+        "concept_name": "坏死松解性游走性红斑",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "necrolytic migratory erythema"
+        }
+    },
+    {
+        "concept_name": "垢着病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "Aketzuki disease"
+        }
+    },
+    {
+        "concept_name": "基底细胞上皮瘤",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "又称": " 基底细胞癌",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "basal cell epithelioma"
+        }
+    },
+    {
+        "concept_name": "复发性肉芽肿性皮炎伴嗜酸细胞增多",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "recurrent granulomatous dermatitis with eosinophilia"
+        }
+    },
+    {
+        "concept_name": "夏季瘙痒[症]",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "pruritus aestivalis"
+        }
+    },
+    {
+        "concept_name": "多发性汗腺脓肿",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "multiple sweat gland abscesses"
+        }
+    },
+    {
+        "concept_name": "多形[性]红斑",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "erythema multiforme"
+        }
+    },
+    {
+        "concept_name": "多形性日光疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "polymorphic sun light eruption"
+        }
+    },
+    {
+        "concept_name": "大汗腺",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "又称": " 顶泌汗腺",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "apocrine sweat glands"
+        }
+    },
+    {
+        "concept_name": "大汗腺癌",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "apocrine carcinoma"
+        }
+    },
+    {
+        "concept_name": "大疱性荨麻疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "bullous urticaria"
+        }
+    },
+    {
+        "concept_name": "大疱性表皮松解[症]",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "epidermolysis bullosa"
+        }
+    },
+    {
+        "concept_name": "太田痣",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "nevus of Ota"
+        }
+    },
+    {
+        "concept_name": "头部脓肿性穿掘性毛囊周围炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "perifolliculitis capitis abscedens et suffodiens"
+        }
+    },
+    {
+        "concept_name": "奥尔布赖特综合征",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "Albright syndrome"
+        }
+    },
+    {
+        "concept_name": "奥斯皮茨征",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "Auspitz sign"
+        }
+    },
+    {
+        "concept_name": "妊娠瘙痒性荨麻疹性丘疹及斑块",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "pruritic urticarial papules and plaques of pregnancy"
+        }
+    },
+    {
+        "concept_name": "婴儿坏疽性皮炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "dermatitis gangrenosa infantum"
+        }
+    },
+    {
+        "concept_name": "婴儿指部纤维瘤病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "infantile digital fibromatosis"
+        }
+    },
+    {
+        "concept_name": "婴儿湿疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "infantile eczema"
+        }
+    },
+    {
+        "concept_name": "婴儿玫瑰疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "又称": " 幼儿急疹(exanthema subi-tum)",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "roseola infantum"
+        }
+    },
+    {
+        "concept_name": "婴儿腹部远心性脂肪营养不良",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "lipodystrophia centrifugalis abdomi-nalis infantilis"
+        }
+    },
+    {
+        "concept_name": "婴儿臀部肉芽肿",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "granuloma gluteale infantum"
+        }
+    },
+    {
+        "concept_name": "婴儿趾部纤维瘤病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "infantile digital fibromatosis"
+        }
+    },
+    {
+        "concept_name": "寒冷性荨麻疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "cold urticaria"
+        }
+    },
+    {
+        "concept_name": "对称性进行性红斑角化病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "symmetrical progressive erythroker-atoderma"
+        }
+    },
+    {
+        "concept_name": "对耳轮弹性组织结节",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "elastotic nodules of antihelix"
+        }
+    },
+    {
+        "concept_name": "寻常性鱼鳞病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "ichthyosis vulgaris"
+        }
+    },
+    {
+        "concept_name": "小汗腺囊瘤",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "eccrine hidrocystoma"
+        }
+    },
+    {
+        "concept_name": "小汗腺汗孔瘤",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "eccrine poroma"
+        }
+    },
+    {
+        "concept_name": "小汗腺癌",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "eccrine carcinoma"
+        }
+    },
+    {
+        "concept_name": "小汗腺腺瘤",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "eccrine hidroadenoma"
+        }
+    },
+    {
+        "concept_name": "尖端赛多孢子菌",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "Scedosporium apiospermum"
+        }
+    },
+    {
+        "concept_name": "尿毒性瘙痒[症]",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "uremic pruritus"
+        }
+    },
+    {
+        "concept_name": "屈曲部网状着色异常",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "reticular pigmented anomaly of flex-ure"
+        }
+    },
+    {
+        "concept_name": "嵌甲",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "英文": "unguis incarnatus ;onyxis",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "unguis incarnatus"
+        }
+    },
+    {
+        "concept_name": "工业性皮炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "industrial dermatitis"
+        }
+    },
+    {
+        "concept_name": "巨大尖锐湿疣",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "英文": "giant condyloma acuminatum ;Buschke-Lowenstein tumor",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "giant condyloma acuminatum"
+        }
+    },
+    {
+        "concept_name": "巨细胞性动脉炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "giant cell arteritis"
+        }
+    },
+    {
+        "concept_name": "干燥性湿疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "xerotic eczema"
+        }
+    },
+    {
+        "concept_name": "广泛性获得性黑变病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "universal acquired melanosis"
+        }
+    },
+    {
+        "concept_name": "弥漫性躯体性血管角化瘤",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "angiokeratoma corporis diffusum"
+        }
+    },
+    {
+        "concept_name": "弹性纤维",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "elastic fiber"
+        }
+    },
+    {
+        "concept_name": "微生物性湿疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "microbial eczema"
+        }
+    },
+    {
+        "concept_name": "念珠菌性擦烂",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "candidal intertrigo"
+        }
+    },
+    {
+        "concept_name": "急性发热性嗜中性[细胞]皮肤病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "英文": "acute febrile neutrophilic dermatosis ;Sweet syndrome",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "acute febrile neutrophilic dermatosis"
+        }
+    },
+    {
+        "concept_name": "急性播散性扁平苔藓",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "acute disseminated lichen planus"
+        }
+    },
+    {
+        "concept_name": "急性苔藓痘疮样糠疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "pityriasis lichenoides et variolifor-mis acuta"
+        }
+    },
+    {
+        "concept_name": "性联鱼鳞病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "sex-linked ichthyosis"
+        }
+    },
+    {
+        "concept_name": "恶性梅毒",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "lues maligna"
+        }
+    },
+    {
+        "concept_name": "恶性纤维组织细胞瘤",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "malignant fibrohistiocytoma"
+        }
+    },
+    {
+        "concept_name": "恶性脓皮病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "malignant pyoderma"
+        }
+    },
+    {
+        "concept_name": "恶性萎缩性丘疹病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "英文": "malignant atrophic papulosis ;Degos disease",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "malignant atrophic papulosis"
+        }
+    },
+    {
+        "concept_name": "恶性蓝痣",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "malignant blue nevus"
+        }
+    },
+    {
+        "concept_name": "恶性雀斑样痣",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "lentigo maligna"
+        }
+    },
+    {
+        "concept_name": "恶性雀斑样痣黑[色]素瘤",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "lentigo maligna melanoma"
+        }
+    },
+    {
+        "concept_name": "恶性黑[色]素瘤",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "malignant melanoma"
+        }
+    },
+    {
+        "concept_name": "恶性黑棘皮病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "malignant acanthosis nigricans"
+        }
+    },
+    {
+        "concept_name": "慢性光线性皮炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "又称": " 慢性光化性皮炎",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "chronic actinic dermatitis"
+        }
+    },
+    {
+        "concept_name": "慢性游走性红斑",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "erythema chronicum migrans"
+        }
+    },
+    {
+        "concept_name": "慢性潜行性穿掘性溃疡",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "chronic undermining burrowing ulcer"
+        }
+    },
+    {
+        "concept_name": "慢性萎缩性肢端皮炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "acrodermatitis chronica atrophicans"
+        }
+    },
+    {
+        "concept_name": "手湿疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "hand eczema"
+        }
+    },
+    {
+        "concept_name": "手足发绀",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "acrocyanosis"
+        }
+    },
+    {
+        "concept_name": "持久性图状红斑",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "erythema figuratum perstans"
+        }
+    },
+    {
+        "concept_name": "持久性红斑",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "erythema perstans"
+        }
+    },
+    {
+        "concept_name": "持久性色素异常性红斑",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "erythema dyschromicum perstans"
+        }
+    },
+    {
+        "concept_name": "持久性隆起性红斑",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "erythema elevatum diutinum"
+        }
+    },
+    {
+        "concept_name": "掌红斑",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "erythema palmare"
+        }
+    },
+    {
+        "concept_name": "接触变应性光皮炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "contact allergic photodermatitis"
+        }
+    },
+    {
+        "concept_name": "接触性痤疮",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "英文": "contact acne ;acne venenate",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "contact acne"
+        }
+    },
+    {
+        "concept_name": "播散性嗜酸[细胞]性胶原病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "disseminated eosinophilic collagen disease"
+        }
+    },
+    {
+        "concept_name": "播散性浅表光线性汗孔角化病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "又称": " 播散性浅表光化性汗孔角化病",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "disseminated superficial actinic po-rokeratosis"
+        }
+    },
+    {
+        "concept_name": "播散性盘状红斑狼疮",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "disseminated discoid lupus erythe-matosus"
+        }
+    },
+    {
+        "concept_name": "播散性豆状皮肤纤维瘤病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "英文": "dermatofibrosis lenticularis disseminata ;Buschke-Ollendorff syndrome",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "dermatofibrosis lenticularis disseminata"
+        }
+    },
+    {
+        "concept_name": "擦烂",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "intertrigo"
+        }
+    },
+    {
+        "concept_name": "斑块状副银屑病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "parapsoriasis en plaques"
+        }
+    },
+    {
+        "concept_name": "斑状硬斑病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "morphea en plaque"
+        }
+    },
+    {
+        "concept_name": "斑秃",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "alopecia areata"
+        }
+    },
+    {
+        "concept_name": "新生儿暂时性萎缩性红斑",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "erythema atrophicans transient neo-natorum"
+        }
+    },
+    {
+        "concept_name": "新生儿水肿",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "edema neonatorum"
+        }
+    },
+    {
+        "concept_name": "新生儿痤疮",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "neonatal acne"
+        }
+    },
+    {
+        "concept_name": "新生儿红斑",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "neonatal erythema"
+        }
+    },
+    {
+        "concept_name": "新生儿红斑狼疮",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "neonatal lupus erythematosus"
+        }
+    },
+    {
+        "concept_name": "无机碱皮肤损伤",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "inorganic alkaline cutaneous trauma"
+        }
+    },
+    {
+        "concept_name": "无机酸皮肤损伤",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "inorganic acid cutaneous trauma"
+        }
+    },
+    {
+        "concept_name": "无汗性外胚层发育不良",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "anhidrotic ectodermal dysplasia"
+        }
+    },
+    {
+        "concept_name": "无汗症",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "anhidrosis"
+        }
+    },
+    {
+        "concept_name": "无色性色素失调症",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "incontinentia pigmenti achromians"
+        }
+    },
+    {
+        "concept_name": "无色素痣",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "amelanotic nevus"
+        }
+    },
+    {
+        "concept_name": "无黑[色]素性黑[色]素瘤",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "amelanotic melanoma"
+        }
+    },
+    {
+        "concept_name": "日光性弹性组织变性综合征",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "solar elastosis syndrome"
+        }
+    },
+    {
+        "concept_name": "日光性荨麻疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "solar urticaria"
+        }
+    },
+    {
+        "concept_name": "早期梅毒",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "early syphilis"
+        }
+    },
+    {
+        "concept_name": "早秃",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "premature alopecia"
+        }
+    },
+    {
+        "concept_name": "显性营养不良型大疱性表皮松解[症]",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "epidermolysis bullosa dystrophic dominant"
+        }
+    },
+    {
+        "concept_name": "普秃",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "定义": "全身毛发脱失。",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "alopecia universalis"
+        }
+    },
+    {
+        "concept_name": "暂时性棘层松解性皮肤病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "英文": "transient acantholytic dermatosis ;Grover disease",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "transient acantholytic dermatosis"
+        }
+    },
+    {
+        "concept_name": "月经前痤疮",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "premenstrual acne"
+        }
+    },
+    {
+        "concept_name": "木村网状肢端色素沉着",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "reticular acropigmentation of Kita-mura"
+        }
+    },
+    {
+        "concept_name": "未定类麻风",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "indeterminate leprosy"
+        }
+    },
+    {
+        "concept_name": "柯萨奇湿疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "eczema coxsackium"
+        }
+    },
+    {
+        "concept_name": "桑毛虫皮炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "euproctis similis dermatitis"
+        }
+    },
+    {
+        "concept_name": "梅毒性脱发",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "alopecia syphilitica"
+        }
+    },
+    {
+        "concept_name": "棘层松解",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "acantholysis"
+        }
+    },
+    {
+        "concept_name": "棘层松解细胞",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "英文": "acantholytic cell ;Tzanck cell",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "acantholytic cell"
+        }
+    },
+    {
+        "concept_name": "棘层肥厚",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "acanthosis"
+        }
+    },
+    {
+        "concept_name": "棘状外瓶霉",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "Exophiala spinifera"
+        }
+    },
+    {
+        "concept_name": "棘皮瘤",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "acanthoma"
+        }
+    },
+    {
+        "concept_name": "毛囊和毛囊旁角化过度病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "hyperkeratosis follicularis et parafollicularis"
+        }
+    },
+    {
+        "concept_name": "毛细血管扩张性象皮病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "elephantiasis telangiectodes"
+        }
+    },
+    {
+        "concept_name": "水肿",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "edema"
+        }
+    },
+    {
+        "concept_name": "沥青皮炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "asphalt dermatitis"
+        }
+    },
+    {
+        "concept_name": "泛发性发疹性组织细胞瘤",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "generalized eruptive histiocytoma"
+        }
+    },
+    {
+        "concept_name": "泛发性特发性毛细血管扩张",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "generalized essential telangiectasia"
+        }
+    },
+    {
+        "concept_name": "波氏阿利什利霉病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "曾称": " 波氏霉样真菌病",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "allescheriasis boydii"
+        }
+    },
+    {
+        "concept_name": "波氏阿利什霉",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "曾称": " 波氏霉样真菌",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "Allescheria boydii"
+        }
+    },
+    {
+        "concept_name": "浅表性基底细胞上皮瘤",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "superficial basal cell epithelioma"
+        }
+    },
+    {
+        "concept_name": "海水浴皮疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "seabather’s eruption"
+        }
+    },
+    {
+        "concept_name": "淋球菌性尿道炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "gonococcal urethritis"
+        }
+    },
+    {
+        "concept_name": "淤积性溃疡",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "stasis ulcer"
+        }
+    },
+    {
+        "concept_name": "深在性红斑狼疮",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "lupus erythematosus profundus"
+        }
+    },
+    {
+        "concept_name": "渗出性盘状苔藓样皮炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "exudative discoid and lichenoid dermatitis"
+        }
+    },
+    {
+        "concept_name": "湿疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "eczema"
+        }
+    },
+    {
+        "concept_name": "湿疹样癌",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "eczematoid carcinoma"
+        }
+    },
+    {
+        "concept_name": "溃疡性扁平苔藓",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "ulcerative lichen planus"
+        }
+    },
+    {
+        "concept_name": "溃疡性皮肤结核",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "tuberculosis cutis ulcerosa"
+        }
+    },
+    {
+        "concept_name": "炎性线状疣状表皮痣",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "inflammatory linear verrucous epi-dermal nevus"
+        }
+    },
+    {
+        "concept_name": "烟曲霉",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "Aspergillus fumigatus"
+        }
+    },
+    {
+        "concept_name": "热带溃疡",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "tropical ulcer"
+        }
+    },
+    {
+        "concept_name": "热性荨麻疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "heat urticaria"
+        }
+    },
+    {
+        "concept_name": "热激红斑",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "英文": "erythema caloricum ;erythema ab igne",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "erythema caloricum"
+        }
+    },
+    {
+        "concept_name": "牛痘性湿疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "eczema vaccinatum"
+        }
+    },
+    {
+        "concept_name": "特发性滴状色素减少症",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "idiopathic guttate hypomelanosis"
+        }
+    },
+    {
+        "concept_name": "特应性皮炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "又称": " 遗传过敏性皮炎",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "atopic dermatitis"
+        }
+    },
+    {
+        "concept_name": "猩红热样红斑",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "scarlatiniform erythema"
+        }
+    },
+    {
+        "concept_name": "环状扁平苔藓",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "annular lichen planus"
+        }
+    },
+    {
+        "concept_name": "环状梅毒疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "annular syphilid"
+        }
+    },
+    {
+        "concept_name": "环状肉芽肿",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "granuloma annulare"
+        }
+    },
+    {
+        "concept_name": "环状银屑病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "psoriasis annulata"
+        }
+    },
+    {
+        "concept_name": "甄氏外瓶霉",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "Exophiala jeanselmei"
+        }
+    },
+    {
+        "concept_name": "甲-髌-肘综合征",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "nail-patella-elbow syndrome"
+        }
+    },
+    {
+        "concept_name": "甲下外生骨疣",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "subungual exostosis"
+        }
+    },
+    {
+        "concept_name": "甲分裂",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "定义": "远端(游离缘)甲板的多层分裂。",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "onychoschizia"
+        }
+    },
+    {
+        "concept_name": "甲剥离",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "定义": "甲板与甲床分离。",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "onycholysis"
+        }
+    },
+    {
+        "concept_name": "甲弯曲",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "英文": "onychogryphosis ;curved nail",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "onychogryphosis"
+        }
+    },
+    {
+        "concept_name": "甲折断",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "onychoclasis"
+        }
+    },
+    {
+        "concept_name": "甲癣",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "英文": "tinea unguium ;onychomycosis",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "tinea unguium"
+        }
+    },
+    {
+        "concept_name": "甲肥厚",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "英文": "onychauxis ;pachyonychia",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "onychauxis"
+        }
+    },
+    {
+        "concept_name": "甲胬肉",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "pterygium unguis"
+        }
+    },
+    {
+        "concept_name": "甲萎缩",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "onychoatrophy"
+        }
+    },
+    {
+        "concept_name": "疣状肢端角化病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "acrokeratosis verruciformis"
+        }
+    },
+    {
+        "concept_name": "疣状表皮发育不良",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "epidermodysplasia verruciformis"
+        }
+    },
+    {
+        "concept_name": "疱疹性湿疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "eczema herpeticum"
+        }
+    },
+    {
+        "concept_name": "疱疹样脓疱病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "impetigo herpetiformis"
+        }
+    },
+    {
+        "concept_name": "痤疮",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "acne"
+        }
+    },
+    {
+        "concept_name": "瘢痕性基底细胞上皮瘤",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "cicatricial basal cell epithelioma"
+        }
+    },
+    {
+        "concept_name": "白念珠菌",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "Candida albicans"
+        }
+    },
+    {
+        "concept_name": "白癣",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "tinea alba"
+        }
+    },
+    {
+        "concept_name": "白色糠疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "pityriasis alba"
+        }
+    },
+    {
+        "concept_name": "皮内痣",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "intradermal nevus"
+        }
+    },
+    {
+        "concept_name": "皮炎外瓶霉",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "Exophiala dermatitides"
+        }
+    },
+    {
+        "concept_name": "皮肤淀粉样变性",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "amyloidosis cutis"
+        }
+    },
+    {
+        "concept_name": "皮肤淋巴细胞浸润症",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "lymphocytic infiltration of skin"
+        }
+    },
+    {
+        "concept_name": "皮肤脑脊[髓]膜血管瘤病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "cutaneous meningospinal angioma-tosis"
+        }
+    },
+    {
+        "concept_name": "皮肤阿米巴病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "amebiasis cutis"
+        }
+    },
+    {
+        "concept_name": "皮肤附属器",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "cutaneous appendages"
+        }
+    },
+    {
+        "concept_name": "皮肤骨瘤",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "osteoma cutis"
+        }
+    },
+    {
+        "concept_name": "皮脂缺乏[症]",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "asteatosis"
+        }
+    },
+    {
+        "concept_name": "皮脂腺上皮瘤",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "sebaceous epithelioma"
+        }
+    },
+    {
+        "concept_name": "盘状红斑狼疮",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "discoid lupus erythematosus"
+        }
+    },
+    {
+        "concept_name": "眉部瘢痕性红斑",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "ulerythema ophryogenes"
+        }
+    },
+    {
+        "concept_name": "眼皮肤白化病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "oculocutaneous albinism"
+        }
+    },
+    {
+        "concept_name": "眼睑分裂痣",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "divided nevus of eyelid"
+        }
+    },
+    {
+        "concept_name": "眼齿指发育不良",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "oculodentodigital dysplasia"
+        }
+    },
+    {
+        "concept_name": "石棉状糠疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "pityriasis amiantacea"
+        }
+    },
+    {
+        "concept_name": "砷皮炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "arsenical dermatitis"
+        }
+    },
+    {
+        "concept_name": "砷角化病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "arsenical keratosis"
+        }
+    },
+    {
+        "concept_name": "硬化萎缩性苔藓",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "lichen sclerosus et atrophicus"
+        }
+    },
+    {
+        "concept_name": "硬斑病样基底细胞上皮瘤",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "morphea-like basal cell epithelioma"
+        }
+    },
+    {
+        "concept_name": "硬红斑",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "erythema induratum"
+        }
+    },
+    {
+        "concept_name": "碘疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "iododerma"
+        }
+    },
+    {
+        "concept_name": "离心性环状红斑",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "erythema annulare centrifugum"
+        }
+    },
+    {
+        "concept_name": "箍趾病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "又称": " 自发性断趾病、阿洪病",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "ainhum"
+        }
+    },
+    {
+        "concept_name": "米贝利血管角化瘤",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "angiokeratoma of Mibelli"
+        }
+    },
+    {
+        "concept_name": "类丹毒",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "erysipeloid"
+        }
+    },
+    {
+        "concept_name": "粗球孢子菌",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "Coccidioides immitis"
+        }
+    },
+    {
+        "concept_name": "粟粒坏死性痤疮",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "acne necrotica miliaris"
+        }
+    },
+    {
+        "concept_name": "糜烂",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "erosion"
+        }
+    },
+    {
+        "concept_name": "糜烂性龟头炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "balanitis erosiva"
+        }
+    },
+    {
+        "concept_name": "系统性红斑狼疮",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "systemic lupus erythematosus"
+        }
+    },
+    {
+        "concept_name": "絮状麦皮癣菌",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "Epidermophyton floccosum"
+        }
+    },
+    {
+        "concept_name": "红斑",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "erythema"
+        }
+    },
+    {
+        "concept_name": "红斑型天疱疮",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "英文": "pemphigus erythematosus ;Senear-Usher syndrome",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "pemphigus erythematosus"
+        }
+    },
+    {
+        "concept_name": "红斑性肢痛病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "erythromelalgia"
+        }
+    },
+    {
+        "concept_name": "红斑狼疮",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "lupus erythematosus"
+        }
+    },
+    {
+        "concept_name": "红癣",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "erythrasma"
+        }
+    },
+    {
+        "concept_name": "红皮病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "erythroderma"
+        }
+    },
+    {
+        "concept_name": "红皮病性肥大细胞增多症",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "erythrodermic mastocytosis"
+        }
+    },
+    {
+        "concept_name": "红皮病性银屑病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "又称": " 银屑病性剥脱性皮炎",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "erythroderma psoriaticum"
+        }
+    },
+    {
+        "concept_name": "红绀病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "erythrocyanosis"
+        }
+    },
+    {
+        "concept_name": "红细胞生成性原卟啉病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "erythropoietic protoporphyria"
+        }
+    },
+    {
+        "concept_name": "线状IgA皮肤病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "linear IgA dermatosis"
+        }
+    },
+    {
+        "concept_name": "结节性弹性样组织变性",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "nodular elastoidosis"
+        }
+    },
+    {
+        "concept_name": "结节性弹性组织变性",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "nodular elastosis"
+        }
+    },
+    {
+        "concept_name": "结节性恶性黑[色]素瘤",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "nodular malignant melanoma"
+        }
+    },
+    {
+        "concept_name": "结节性红斑",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "erythema nodosum"
+        }
+    },
+    {
+        "concept_name": "结节溃疡性梅毒疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "nodulo-ulcerative syphilid"
+        }
+    },
+    {
+        "concept_name": "维生素A缺乏症",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "hypovitaminosis A"
+        }
+    },
+    {
+        "concept_name": "维生素A过多症",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "hypervitaminosis A"
+        }
+    },
+    {
+        "concept_name": "维生素C缺乏症",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "英文": "vitamin C deficiency ;hypovitamin-osis C",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "vitamin C deficiency"
+        }
+    },
+    {
+        "concept_name": "网状红斑性黏蛋白沉积症",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "reticular erythematous mucinosis"
+        }
+    },
+    {
+        "concept_name": "网状红瘢性毛囊炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "folliculitis ulerythematosa reticulata"
+        }
+    },
+    {
+        "concept_name": "羊痘",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "orf"
+        }
+    },
+    {
+        "concept_name": "老年性萎缩",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "senile atrophy"
+        }
+    },
+    {
+        "concept_name": "耳癣",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "英文": "otomycosis ;tinea auricularis",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "otomycosis"
+        }
+    },
+    {
+        "concept_name": "职业性痤疮",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "occupational acne"
+        }
+    },
+    {
+        "concept_name": "职业性皮炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "occupational dermatitis"
+        }
+    },
+    {
+        "concept_name": "聚合性痤疮",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "acne conglobata"
+        }
+    },
+    {
+        "concept_name": "肠病性肢端皮炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "acrodermatitis enteropathica"
+        }
+    },
+    {
+        "concept_name": "肢端硬化病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "又称": " 肢端硬皮病(acroscleroderma)",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "acrosclerosis"
+        }
+    },
+    {
+        "concept_name": "肢端角化弹性组织变性",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "acrokeratoelastosis"
+        }
+    },
+    {
+        "concept_name": "肢端雀斑样痣黑[色]素瘤",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "acral-lentiginous melanoma"
+        }
+    },
+    {
+        "concept_name": "肾上腺性男性化综合征",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "adrenal virilizing syndrome"
+        }
+    },
+    {
+        "concept_name": "胆碱能性荨麻疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "cholinergic urticaria"
+        }
+    },
+    {
+        "concept_name": "脂溢性脱发",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "alopecia seborrheica"
+        }
+    },
+    {
+        "concept_name": "脂膜",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "panniculus adiposus"
+        }
+    },
+    {
+        "concept_name": "脆甲症",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "onychorrhexis"
+        }
+    },
+    {
+        "concept_name": "脓疱病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "impetigo"
+        }
+    },
+    {
+        "concept_name": "脱发",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "又称": " 秃发",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "alopecia"
+        }
+    },
+    {
+        "concept_name": "脱屑性红皮病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "erythroderma desquamativum"
+        }
+    },
+    {
+        "concept_name": "脱甲病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "onychomadesis"
+        }
+    },
+    {
+        "concept_name": "腔口[皮肤]结核",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "英文": "orificial tuberculosis ;tuberculosis cutis orificialis",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "orificial tuberculosis"
+        }
+    },
+    {
+        "concept_name": "腱膜纤维瘤",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "aponeurotic fibroma"
+        }
+    },
+    {
+        "concept_name": "腹股沟肉芽肿",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "granuloma inguinale"
+        }
+    },
+    {
+        "concept_name": "臁疮",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "ecthyma"
+        }
+    },
+    {
+        "concept_name": "自身免疫性孕酮皮炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "autoimmune progesterone dermatitis"
+        }
+    },
+    {
+        "concept_name": "自身敏感性皮炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "autosensitization dermatitis"
+        }
+    },
+    {
+        "concept_name": "良性黑棘皮病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "benign acanthosis nigricans"
+        }
+    },
+    {
+        "concept_name": "色素失禁",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "incontinence of pigment"
+        }
+    },
+    {
+        "concept_name": "色素性口周红斑",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "又称": " 口周皮肤红变斑",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "erythrose peribuccale pigmentaire"
+        }
+    },
+    {
+        "concept_name": "荨麻疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "urticaria"
+        }
+    },
+    {
+        "concept_name": "荨麻疹性血管炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "urticarial vasculitis"
+        }
+    },
+    {
+        "concept_name": "药物性假性淋巴瘤",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "drug-induced pseudolymphoma"
+        }
+    },
+    {
+        "concept_name": "药疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "又称": " 药物性皮炎",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "drug eruption"
+        }
+    },
+    {
+        "concept_name": "获得性免疫缺陷综合征",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "英文": "acquired immune deficiency syndrome ;AIDS",
+            "简称": " 艾滋病",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "acquired immune deficiency syndrome"
+        }
+    },
+    {
+        "concept_name": "获得性大疱性表皮松解[症]",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "epidermolysis bullosa acquisita"
+        }
+    },
+    {
+        "concept_name": "获得性淋巴管瘤",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "acquired lymphangioma"
+        }
+    },
+    {
+        "concept_name": "获得性纤维角化瘤",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "acquired fibrokeratoma"
+        }
+    },
+    {
+        "concept_name": "获得性迟发性皮肤卟啉病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "acquired porphyria cutanea tarda"
+        }
+    },
+    {
+        "concept_name": "获得性鱼鳞病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "acquired ichthyosis"
+        }
+    },
+    {
+        "concept_name": "萎缩性扁平苔藓",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "lichen planus atrophicus"
+        }
+    },
+    {
+        "concept_name": "萎缩性毛发角化病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "keratosis pilaris atrophicans"
+        }
+    },
+    {
+        "concept_name": "萎缩性硬斑病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "morphea atrophica"
+        }
+    },
+    {
+        "concept_name": "营养缺乏性湿疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "nutritional deficiency eczema"
+        }
+    },
+    {
+        "concept_name": "蛋白胨性荨麻疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "peptone urticaria"
+        }
+    },
+    {
+        "concept_name": "螨恐怖症",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "acarophobia"
+        }
+    },
+    {
+        "concept_name": "螨皮炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "acarodermatitis"
+        }
+    },
+    {
+        "concept_name": "血清病性荨麻疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "serum sickness urticaria"
+        }
+    },
+    {
+        "concept_name": "血管平滑肌瘤",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "英文": "angioleiomyoma ;angiomyoma",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "angioleiomyoma"
+        }
+    },
+    {
+        "concept_name": "血管性水肿",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "angioedema"
+        }
+    },
+    {
+        "concept_name": "血管淋巴样增生伴嗜酸细胞增多",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "angiolymphoid hyperplasia with eosinophilia"
+        }
+    },
+    {
+        "concept_name": "血管脂肪瘤",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "angiolipoma"
+        }
+    },
+    {
+        "concept_name": "血管萎缩性皮肤异色病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "poikiloderma vasculare atrophicans"
+        }
+    },
+    {
+        "concept_name": "血管骨肥大综合征",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "英文": "angio-osteohypertrophy syndrome ;Klippel-Trenaunay-Weber syn-drome",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "angio-osteohypertrophy syndrome"
+        }
+    },
+    {
+        "concept_name": "表皮",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "epidermis"
+        }
+    },
+    {
+        "concept_name": "表皮内上皮瘤",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "intra-epidermal epithelioma"
+        }
+    },
+    {
+        "concept_name": "表皮剥脱",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "exfoliation"
+        }
+    },
+    {
+        "concept_name": "表皮包涵囊肿",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "epidermal inclusion cyst"
+        }
+    },
+    {
+        "concept_name": "表皮囊肿",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "epidermoid cyst"
+        }
+    },
+    {
+        "concept_name": "表皮松解[症]",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "epidermolysis"
+        }
+    },
+    {
+        "concept_name": "表皮松解性角化过度型鱼鳞病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "epidermolytic hyperkeratotic ichthy-osis"
+        }
+    },
+    {
+        "concept_name": "表皮痣",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "epidermal nevus"
+        }
+    },
+    {
+        "concept_name": "表皮痣综合征",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "epidermal nevus syndrome"
+        }
+    },
+    {
+        "concept_name": "表皮黑[色]素单位",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "epidermal melanin unit"
+        }
+    },
+    {
+        "concept_name": "褐黄病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "ochronosis"
+        }
+    },
+    {
+        "concept_name": "谷痒症",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "grain itch"
+        }
+    },
+    {
+        "concept_name": "贫血痣",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "nevus anemicus"
+        }
+    },
+    {
+        "concept_name": "进行性特发性皮肤萎缩",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "progressive idiopathic atrophoderma"
+        }
+    },
+    {
+        "concept_name": "透明细胞棘皮瘤",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "clear cell acanthoma"
+        }
+    },
+    {
+        "concept_name": "遗传性出血性毛细血管扩张",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "英文": "hereditary hemorrhagic telangiecta-sia ;Osler disease",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "hereditary hemorrhagic telangiecta-sia"
+        }
+    },
+    {
+        "concept_name": "遗传性血管性水肿",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "hereditary angioedema"
+        }
+    },
+    {
+        "concept_name": "酒红斑",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "wine erythema"
+        }
+    },
+    {
+        "concept_name": "重叠结缔组织病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "overlapping connective tissue dis-ease"
+        }
+    },
+    {
+        "concept_name": "金黄色苔藓",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "lichen aureus"
+        }
+    },
+    {
+        "concept_name": "钝头扁平苔藓",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "lichen planus obtusus"
+        }
+    },
+    {
+        "concept_name": "钩虫皮炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "ancylostomatic dermatitis"
+        }
+    },
+    {
+        "concept_name": "钱币状湿疹",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "nummular eczema"
+        }
+    },
+    {
+        "concept_name": "闭塞性干燥性龟头炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "balanitis xerotica obliterans"
+        }
+    },
+    {
+        "concept_name": "隐性营养不良型大疱性表皮松解[症]",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "epidermolysis bullosa dystrophic re-cessive"
+        }
+    },
+    {
+        "concept_name": "雀斑",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "ephelides"
+        }
+    },
+    {
+        "concept_name": "雄激素依赖综合征",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "androgen-dependent syndrome"
+        }
+    },
+    {
+        "concept_name": "非典型分枝杆菌病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "atypical mycobacteriosis"
+        }
+    },
+    {
+        "concept_name": "非典型纤维黄[色]瘤",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "atypical fibroxanthoma"
+        }
+    },
+    {
+        "concept_name": "非淋球菌性尿道炎",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "non-gonococcal urethritis"
+        }
+    },
+    {
+        "concept_name": "面部毛囊红斑黑变病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "erythromelanosis follicularis faciei"
+        }
+    },
+    {
+        "concept_name": "面颈部毛囊性红斑黑变病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "erythromelanosis follicularis of face and neck"
+        }
+    },
+    {
+        "concept_name": "风湿性环状红斑",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "erythema annulare rheumaticum"
+        }
+    },
+    {
+        "concept_name": "骨嗜酸细胞肉芽肿",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "Mignon eosinophilic granuloma"
+        }
+    },
+    {
+        "concept_name": "骨梅毒",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "osseous syphilis"
+        }
+    },
+    {
+        "concept_name": "高血压缺血性溃疡",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "hypertensive ischemic ulcer"
+        }
+    },
+    {
+        "concept_name": "麸胶敏感性肠病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "gluten-sensitive enteropathy"
+        }
+    },
+    {
+        "concept_name": "麻疹样红斑",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "erythema morbilliforme"
+        }
+    },
+    {
+        "concept_name": "黏蛋白性脱发",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "alopecia mucinosa"
+        }
+    },
+    {
+        "concept_name": "黑棘皮病",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "acanthosis nigricans"
+        }
+    },
+    {
+        "concept_name": "黑色萎缩",
+        "details": {
+            "学科": "医学_皮肤病学",
+            "英文": "black atrophy ;atrophie noire",
+            "见载": "《医学名词 第七分册》第一版",
+            "英文名": "black atrophy"
+        }
+    }
+]

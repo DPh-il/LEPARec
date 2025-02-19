@@ -1,0 +1,1550 @@
+[
+    {
+        "concept_name": "临界湿度",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "critical humidity"
+        }
+    },
+    {
+        "concept_name": "二氧化碳补偿点",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "compensation point of carbon dioxide"
+        }
+    },
+    {
+        "concept_name": "二氧化碳饱和点",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "saturation point of carbon dioxide"
+        }
+    },
+    {
+        "concept_name": "云量",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "cloud amount"
+        }
+    },
+    {
+        "concept_name": "亚热带雨林气候",
+        "details": {
+            "学科": "农学_农业气象学",
+            "又称": " 副热带雨林气候",
+            "见载": "《农学名词》第一版",
+            "英文名": "subtropic rain forest climate"
+        }
+    },
+    {
+        "concept_name": "人工气候室",
+        "details": {
+            "学科": "农学_农业气象学",
+            "英文": "phytotron ;artificial climatic chamber",
+            "见载": "《农学名词》第一版",
+            "英文名": "phytotron"
+        }
+    },
+    {
+        "concept_name": "人工降雨",
+        "details": {
+            "学科": "农学_农业气象学",
+            "英文": "artificial rain ;rainmaking",
+            "见载": "《农学名词》第一版",
+            "英文名": "artificial rain"
+        }
+    },
+    {
+        "concept_name": "低温冷害",
+        "details": {
+            "学科": "农学_农业气象学",
+            "英文": "chilling injury ;cold damage",
+            "见载": "《农学名词》第一版",
+            "英文名": "chilling injury"
+        }
+    },
+    {
+        "concept_name": "作物气候生态型",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "crop climatic ecotype"
+        }
+    },
+    {
+        "concept_name": "作物气候适应性",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "crop climatic adaptation"
+        }
+    },
+    {
+        "concept_name": "作物气象",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "crop meteorology"
+        }
+    },
+    {
+        "concept_name": "倒春寒",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "cold in the late spring"
+        }
+    },
+    {
+        "concept_name": "光合有效辐射",
+        "details": {
+            "学科": "农学_农业气象学",
+            "又称": " 有效生理辐射",
+            "见载": "《农学名词》第一版",
+            "英文名": "photosynthetic active radiation"
+        }
+    },
+    {
+        "concept_name": "光温生产潜力",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "light and temperature potential productivity"
+        }
+    },
+    {
+        "concept_name": "光照强度",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "intensity of illumination"
+        }
+    },
+    {
+        "concept_name": "光能利用率",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "efficiency for solar energy utilization"
+        }
+    },
+    {
+        "concept_name": "光补偿点",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "light compensation point"
+        }
+    },
+    {
+        "concept_name": "光饱和点",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "light saturation point"
+        }
+    },
+    {
+        "concept_name": "农业地形气候学",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "agrotopoclimatology"
+        }
+    },
+    {
+        "concept_name": "农业小气候",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "agromicroclimate"
+        }
+    },
+    {
+        "concept_name": "农业气候",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "agroclimate"
+        }
+    },
+    {
+        "concept_name": "农业气候分析",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "agroclimatic analysis"
+        }
+    },
+    {
+        "concept_name": "农业气候区",
+        "details": {
+            "学科": "农学_农业气象学",
+            "英文": "agroclimatic region ;agroclimatic zone",
+            "见载": "《农学名词》第一版",
+            "英文名": "agroclimatic region"
+        }
+    },
+    {
+        "concept_name": "农业气候区划",
+        "details": {
+            "学科": "农学_农业气象学",
+            "英文": "agroclimatic regionalization ;agroclimatic demarcation ;agroclimatic division",
+            "见载": "《农学名词》第一版",
+            "英文名": "agroclimatic regionalization"
+        }
+    },
+    {
+        "concept_name": "农业气候图集",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "agroclimatic atlas"
+        }
+    },
+    {
+        "concept_name": "农业气候学",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "agricultural climatology"
+        }
+    },
+    {
+        "concept_name": "农业气候志",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "agroclimatography"
+        }
+    },
+    {
+        "concept_name": "农业气候指标",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "agroclimatic index"
+        }
+    },
+    {
+        "concept_name": "农业气候相似原理",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "principle of agroclimatic analogy"
+        }
+    },
+    {
+        "concept_name": "农业气候评价",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "agroclimatic evaluation"
+        }
+    },
+    {
+        "concept_name": "农业气候调查",
+        "details": {
+            "学科": "农学_农业气象学",
+            "英文": "agroclimatic investigation ;agroclimatic survey",
+            "又称": " 农业气候考察",
+            "见载": "《农学名词》第一版",
+            "英文名": "agroclimatic investigation"
+        }
+    },
+    {
+        "concept_name": "农业气候资源",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "agroclimatic resources"
+        }
+    },
+    {
+        "concept_name": "农业气象产量预报",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "agrometeorological yield forecast"
+        }
+    },
+    {
+        "concept_name": "农业气象年报",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "agrometeorological yearbook"
+        }
+    },
+    {
+        "concept_name": "农业气象情报",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "agrometeorological information"
+        }
+    },
+    {
+        "concept_name": "农业气象指标",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "agrometeorological index"
+        }
+    },
+    {
+        "concept_name": "农业气象旬报",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "ten-day agrometeorological bulletin"
+        }
+    },
+    {
+        "concept_name": "农业气象月报",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "monthly agrometeorological bulletin"
+        }
+    },
+    {
+        "concept_name": "农业气象模式",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "agrometeorological model"
+        }
+    },
+    {
+        "concept_name": "农业气象模拟",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "agrometeorological simulation"
+        }
+    },
+    {
+        "concept_name": "农业气象站",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "agrometeorological station"
+        }
+    },
+    {
+        "concept_name": "农业气象观测",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "agrometeorological observation"
+        }
+    },
+    {
+        "concept_name": "农业气象预报",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "agrometeorological forecast"
+        }
+    },
+    {
+        "concept_name": "农田小气候",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "field microclimate"
+        }
+    },
+    {
+        "concept_name": "冬湿寒冷气候",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "cold climate with moisture winter"
+        }
+    },
+    {
+        "concept_name": "冻拔",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "frost heaving"
+        }
+    },
+    {
+        "concept_name": "冻死",
+        "details": {
+            "学科": "农学_农业气象学",
+            "又称": " 霜冻致死",
+            "见载": "《农学名词》第一版",
+            "英文名": "frost-killing"
+        }
+    },
+    {
+        "concept_name": "冻死率",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "cold mortality"
+        }
+    },
+    {
+        "concept_name": "冻涝害",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "flood-freezing injury"
+        }
+    },
+    {
+        "concept_name": "冻结深度",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "depth of freezing"
+        }
+    },
+    {
+        "concept_name": "冻结温度",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "freezing temperature"
+        }
+    },
+    {
+        "concept_name": "冻融交替",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "alternate freezing and thawing"
+        }
+    },
+    {
+        "concept_name": "冻雨",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "freezing rain"
+        }
+    },
+    {
+        "concept_name": "半干旱气候",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "semi-arid climate"
+        }
+    },
+    {
+        "concept_name": "华氏温标",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "Fahrenheit thermometric scale"
+        }
+    },
+    {
+        "concept_name": "台风",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "typhoon"
+        }
+    },
+    {
+        "concept_name": "土壤湿度",
+        "details": {
+            "学科": "农学_农业气象学",
+            "又称": " 墒情",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil moisture"
+        }
+    },
+    {
+        "concept_name": "土壤蒸发计",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil evaporimeter"
+        }
+    },
+    {
+        "concept_name": "土壤风蚀",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil wind erosion"
+        }
+    },
+    {
+        "concept_name": "地形雨",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "orgoraphic[al] rain"
+        }
+    },
+    {
+        "concept_name": "地温",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "earth temperature"
+        }
+    },
+    {
+        "concept_name": "地温梯度",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "geothermal gradient"
+        }
+    },
+    {
+        "concept_name": "地面气温",
+        "details": {
+            "学科": "农学_农业气象学",
+            "英文": "surface air temperature ;ground temperature",
+            "见载": "《农学名词》第一版",
+            "英文名": "surface air temperature"
+        }
+    },
+    {
+        "concept_name": "地面蒸发",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "evaporation from land surface"
+        }
+    },
+    {
+        "concept_name": "地面逆温",
+        "details": {
+            "学科": "农学_农业气象学",
+            "英文": "surface inversion ;ground inversion",
+            "见载": "《农学名词》第一版",
+            "英文名": "surface inversion"
+        }
+    },
+    {
+        "concept_name": "处暑",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "End of Heat"
+        }
+    },
+    {
+        "concept_name": "夜间逆温",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "nocturnal inversion"
+        }
+    },
+    {
+        "concept_name": "大气",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "atmosphere"
+        }
+    },
+    {
+        "concept_name": "大气污染",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "atmosphere pollution"
+        }
+    },
+    {
+        "concept_name": "大气环流",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "atmospheric circulation"
+        }
+    },
+    {
+        "concept_name": "大雨",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "heavy rain"
+        }
+    },
+    {
+        "concept_name": "太阳紫外辐射",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "solar ultraviolet radiation"
+        }
+    },
+    {
+        "concept_name": "太阳红外辐射",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "solar infrared radiation"
+        }
+    },
+    {
+        "concept_name": "太阳辐射",
+        "details": {
+            "学科": "农学_农业气象学",
+            "又称": " 日射",
+            "见载": "《农学名词》第一版",
+            "英文名": "solar radiation"
+        }
+    },
+    {
+        "concept_name": "寒带",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "frigid zone"
+        }
+    },
+    {
+        "concept_name": "寒流",
+        "details": {
+            "学科": "农学_农业气象学",
+            "英文": "cold air current ;cold air advection",
+            "见载": "《农学名词》第一版",
+            "英文名": "cold air current"
+        }
+    },
+    {
+        "concept_name": "寒温带",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "cool temperate zone"
+        }
+    },
+    {
+        "concept_name": "寒露风",
+        "details": {
+            "学科": "农学_农业气象学",
+            "英文": "Cold Dew wind ;low temperature damage in autumn",
+            "见载": "《农学名词》第一版",
+            "英文名": "Cold Dew wind"
+        }
+    },
+    {
+        "concept_name": "小气候",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "microclimate"
+        }
+    },
+    {
+        "concept_name": "山谷风",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "mountain-valley breeze"
+        }
+    },
+    {
+        "concept_name": "干旱气候",
+        "details": {
+            "学科": "农学_农业气象学",
+            "又称": " 干燥气候",
+            "见载": "《农学名词》第一版",
+            "英文名": "arid climate"
+        }
+    },
+    {
+        "concept_name": "干热风",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "dry-hot wind"
+        }
+    },
+    {
+        "concept_name": "平流辐射霜冻",
+        "details": {
+            "学科": "农学_农业气象学",
+            "又称": " 混合霜冻",
+            "见载": "《农学名词》第一版",
+            "英文名": "advection radiation frost"
+        }
+    },
+    {
+        "concept_name": "平流霜冻",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "advection frost"
+        }
+    },
+    {
+        "concept_name": "年变化",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "annual variation"
+        }
+    },
+    {
+        "concept_name": "年较差",
+        "details": {
+            "学科": "农学_农业气象学",
+            "英文": "amplitude of annual variation ;annual range",
+            "见载": "《农学名词》第一版",
+            "英文名": "amplitude of annual variation"
+        }
+    },
+    {
+        "concept_name": "年降水量",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "annual precipitation"
+        }
+    },
+    {
+        "concept_name": "度日",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "degree-day"
+        }
+    },
+    {
+        "concept_name": "延迟型冷害",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "cool-summer damage due to delayed growth"
+        }
+    },
+    {
+        "concept_name": "惊蛰",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "Awakening from Hibernation"
+        }
+    },
+    {
+        "concept_name": "成霜洼地",
+        "details": {
+            "学科": "农学_农业气象学",
+            "简称": " 霜洼",
+            "见载": "《农学名词》第一版",
+            "英文名": "frost hollow"
+        }
+    },
+    {
+        "concept_name": "摄氏温标",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "Celsius thermometric scale"
+        }
+    },
+    {
+        "concept_name": "无效降水量",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "uneffective precipitation"
+        }
+    },
+    {
+        "concept_name": "无霜日",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "day without frost"
+        }
+    },
+    {
+        "concept_name": "无霜期",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "frost-free season"
+        }
+    },
+    {
+        "concept_name": "日变化",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "diurnal variation"
+        }
+    },
+    {
+        "concept_name": "日照时数",
+        "details": {
+            "学科": "农学_农业气象学",
+            "又称": " 日照时间",
+            "见载": "《农学名词》第一版",
+            "英文名": "sunshine duration"
+        }
+    },
+    {
+        "concept_name": "日较差",
+        "details": {
+            "学科": "农学_农业气象学",
+            "英文": "amplitude of diurnal variation ;daily range",
+            "又称": " 日振幅",
+            "见载": "《农学名词》第一版",
+            "英文名": "amplitude of diurnal variation"
+        }
+    },
+    {
+        "concept_name": "早霜",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "early frost"
+        }
+    },
+    {
+        "concept_name": "春分",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "Vernal Equinox"
+        }
+    },
+    {
+        "concept_name": "显热通量",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "sensible heat flux"
+        }
+    },
+    {
+        "concept_name": "晚霜",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "late frost"
+        }
+    },
+    {
+        "concept_name": "暖冬害",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "injury by warm winter"
+        }
+    },
+    {
+        "concept_name": "最适温度",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "optimal temperature"
+        }
+    },
+    {
+        "concept_name": "月平均温度",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "monthly mean temperature"
+        }
+    },
+    {
+        "concept_name": "有效温度",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "effective temperature"
+        }
+    },
+    {
+        "concept_name": "有效积温",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "effective accumulated temperature"
+        }
+    },
+    {
+        "concept_name": "有效辐射",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "effective radiation"
+        }
+    },
+    {
+        "concept_name": "有效降水量",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "effective precipitation"
+        }
+    },
+    {
+        "concept_name": "有效雨量",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "effective rainfall"
+        }
+    },
+    {
+        "concept_name": "极地气候",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "polar climate"
+        }
+    },
+    {
+        "concept_name": "梅雨",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "Meiyu"
+        }
+    },
+    {
+        "concept_name": "气候变化",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "climatic variation"
+        }
+    },
+    {
+        "concept_name": "气候变率",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "climatic variability"
+        }
+    },
+    {
+        "concept_name": "气候图",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "climatic chart"
+        }
+    },
+    {
+        "concept_name": "气候型",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "climatic type"
+        }
+    },
+    {
+        "concept_name": "气候异常",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "climatic anomaly"
+        }
+    },
+    {
+        "concept_name": "气候生产潜力",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "climatic potential productivity"
+        }
+    },
+    {
+        "concept_name": "气候要素",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "climatic element"
+        }
+    },
+    {
+        "concept_name": "气候适应",
+        "details": {
+            "学科": "农学_农业气象学",
+            "英文": "climatic adaptation ;acclimatization",
+            "又称": " 气候驯化",
+            "见载": "《农学名词》第一版",
+            "英文名": "climatic adaptation"
+        }
+    },
+    {
+        "concept_name": "气溶胶",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "aerosol"
+        }
+    },
+    {
+        "concept_name": "活动温度",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "active temperature"
+        }
+    },
+    {
+        "concept_name": "活动积温",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "active accumulated temperature"
+        }
+    },
+    {
+        "concept_name": "海洋[性]气候",
+        "details": {
+            "学科": "农学_农业气象学",
+            "英文": "marine climate ;ocean climate",
+            "见载": "《农学名词》第一版",
+            "英文名": "marine climate"
+        }
+    },
+    {
+        "concept_name": "消光系数",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "extinction coefficient"
+        }
+    },
+    {
+        "concept_name": "温周期",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "thermoperiod"
+        }
+    },
+    {
+        "concept_name": "温室效应",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "greenhouse effect"
+        }
+    },
+    {
+        "concept_name": "温带",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "temperate zone"
+        }
+    },
+    {
+        "concept_name": "温带多雨气候",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "temperate rainy climate"
+        }
+    },
+    {
+        "concept_name": "温带气候",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "temperate climate"
+        }
+    },
+    {
+        "concept_name": "湿害",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "wet damage"
+        }
+    },
+    {
+        "concept_name": "湿润指数",
+        "details": {
+            "学科": "农学_农业气象学",
+            "英文": "moist index ;moisture index",
+            "见载": "《农学名词》第一版",
+            "英文名": "moist index"
+        }
+    },
+    {
+        "concept_name": "湿润系数",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "coefficient of humidity"
+        }
+    },
+    {
+        "concept_name": "潜在蒸发",
+        "details": {
+            "学科": "农学_农业气象学",
+            "又称": " 蒸发潜力",
+            "见载": "《农学名词》第一版",
+            "英文名": "potential evaporation"
+        }
+    },
+    {
+        "concept_name": "潜在蒸散",
+        "details": {
+            "学科": "农学_农业气象学",
+            "又称": " 蒸散势 ；可能蒸散",
+            "见载": "《农学名词》第一版",
+            "英文名": "potential evapotranspiration"
+        }
+    },
+    {
+        "concept_name": "潜热通量",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "latent heat flux"
+        }
+    },
+    {
+        "concept_name": "热带",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "tropics"
+        }
+    },
+    {
+        "concept_name": "热带季风气候",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "tropical monsoon climate"
+        }
+    },
+    {
+        "concept_name": "热带稀树草原气候",
+        "details": {
+            "学科": "农学_农业气象学",
+            "又称": " 萨瓦纳气候",
+            "见载": "《农学名词》第一版",
+            "英文名": "savanna climate"
+        }
+    },
+    {
+        "concept_name": "热带风暴",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "tropical storm"
+        }
+    },
+    {
+        "concept_name": "热量平衡",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "heat balance"
+        }
+    },
+    {
+        "concept_name": "物候历",
+        "details": {
+            "学科": "农学_农业气象学",
+            "又称": " 自然历",
+            "见载": "《农学名词》第一版",
+            "英文名": "phenological calendar"
+        }
+    },
+    {
+        "concept_name": "物候图",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "phenogram"
+        }
+    },
+    {
+        "concept_name": "物候观测",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "phenological observation"
+        }
+    },
+    {
+        "concept_name": "白露",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "White Dew"
+        }
+    },
+    {
+        "concept_name": "相对湿度",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "relative humidity"
+        }
+    },
+    {
+        "concept_name": "秋分",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "Autumnal Equinox"
+        }
+    },
+    {
+        "concept_name": "积温",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "accumulated temperature"
+        }
+    },
+    {
+        "concept_name": "立夏",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "Beginning of Summer"
+        }
+    },
+    {
+        "concept_name": "立秋",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "Beginning of Autumn"
+        }
+    },
+    {
+        "concept_name": "等温线",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "isotherm"
+        }
+    },
+    {
+        "concept_name": "等物候线",
+        "details": {
+            "学科": "农学_农业气象学",
+            "英文": "isophane ;isophenological line",
+            "见载": "《农学名词》第一版",
+            "英文名": "isophane"
+        }
+    },
+    {
+        "concept_name": "等蒸发量线",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "isothyme"
+        }
+    },
+    {
+        "concept_name": "等解冻线",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "isotac"
+        }
+    },
+    {
+        "concept_name": "等雨量线",
+        "details": {
+            "学科": "农学_农业气象学",
+            "英文": "equipluves ;isohyet ;isopluvial",
+            "见载": "《农学名词》第一版",
+            "英文名": "equipluves"
+        }
+    },
+    {
+        "concept_name": "等雪[量]线",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "isochion"
+        }
+    },
+    {
+        "concept_name": "绝对湿度",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "absolute humidity"
+        }
+    },
+    {
+        "concept_name": "致死温度",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "killing temperature"
+        }
+    },
+    {
+        "concept_name": "芒种",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "Grain in Ear"
+        }
+    },
+    {
+        "concept_name": "草原气候",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "grassland climate"
+        }
+    },
+    {
+        "concept_name": "蒸发抑制剂",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "evaporation suppressor"
+        }
+    },
+    {
+        "concept_name": "蒸发指数",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "evaporation index"
+        }
+    },
+    {
+        "concept_name": "蒸散",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "evapotranspiration"
+        }
+    },
+    {
+        "concept_name": "蒸腾效率",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "transpiration efficiency"
+        }
+    },
+    {
+        "concept_name": "负积温",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "negative accumulated temperature"
+        }
+    },
+    {
+        "concept_name": "赤道气候",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "equatorial climate"
+        }
+    },
+    {
+        "concept_name": "逆温",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "temperature inversion"
+        }
+    },
+    {
+        "concept_name": "逆温层",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "temperature inversion layer"
+        }
+    },
+    {
+        "concept_name": "逆辐射",
+        "details": {
+            "学科": "农学_农业气象学",
+            "又称": " 反射辐射",
+            "见载": "《农学名词》第一版",
+            "英文名": "back radiation"
+        }
+    },
+    {
+        "concept_name": "阳历",
+        "details": {
+            "学科": "农学_农业气象学",
+            "又称": " 公历",
+            "见载": "《农学名词》第一版",
+            "英文名": "solar calendar"
+        }
+    },
+    {
+        "concept_name": "阴历",
+        "details": {
+            "学科": "农学_农业气象学",
+            "俗称": " 农历",
+            "见载": "《农学名词》第一版",
+            "英文名": "lunar calendar"
+        }
+    },
+    {
+        "concept_name": "降水",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "precipitation"
+        }
+    },
+    {
+        "concept_name": "降水强度",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "precipitation intensity"
+        }
+    },
+    {
+        "concept_name": "降水效率",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "precipitation efficiency"
+        }
+    },
+    {
+        "concept_name": "降水蒸发比",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "precipitation evaporation ratio"
+        }
+    },
+    {
+        "concept_name": "降雨持续时间",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "rainfall duration"
+        }
+    },
+    {
+        "concept_name": "障碍型冷害",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "cool-summer damage due to impotency"
+        }
+    },
+    {
+        "concept_name": "雨季",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "rainy season"
+        }
+    },
+    {
+        "concept_name": "雨水",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "Rain Water"
+        }
+    },
+    {
+        "concept_name": "雨蚀[作用]",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "rainfall erosion"
+        }
+    },
+    {
+        "concept_name": "雨量",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "rainfall [amount]"
+        }
+    },
+    {
+        "concept_name": "雨量分布",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "rainfall distribution"
+        }
+    },
+    {
+        "concept_name": "雹害",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "hail damage"
+        }
+    },
+    {
+        "concept_name": "霜穴",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "frost hole"
+        }
+    },
+    {
+        "concept_name": "风倒",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "blow-down"
+        }
+    },
+    {
+        "concept_name": "风害",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "wind damage"
+        }
+    },
+    {
+        "concept_name": "风折",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "wind fall"
+        }
+    },
+    {
+        "concept_name": "高原气候",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "plateau climate"
+        }
+    },
+    {
+        "concept_name": "黑体辐射",
+        "details": {
+            "学科": "农学_农业气象学",
+            "见载": "《农学名词》第一版",
+            "英文名": "black body radiation"
+        }
+    }
+]

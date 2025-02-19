@@ -1,0 +1,1236 @@
+[
+    {
+        "concept_name": "PN结探测器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "PN junction detector"
+        }
+    },
+    {
+        "concept_name": "α射线探测器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "α-ray detector"
+        }
+    },
+    {
+        "concept_name": "α谱仪",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "alpha spectrometer"
+        }
+    },
+    {
+        "concept_name": "β射线探测器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "β-ray detector"
+        }
+    },
+    {
+        "concept_name": "γ射线探测器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "γ-ray detector"
+        }
+    },
+    {
+        "concept_name": "γ射线谱仪",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "gamma-ray spectrometer"
+        }
+    },
+    {
+        "concept_name": "三氟化硼计数器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "boron trifluoride counter"
+        }
+    },
+    {
+        "concept_name": "上阈",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "upper-level threshold"
+        }
+    },
+    {
+        "concept_name": "下阈",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "lower-level threshold"
+        }
+    },
+    {
+        "concept_name": "中子探测器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "neutron detector"
+        }
+    },
+    {
+        "concept_name": "中子监测器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "neutron monitor"
+        }
+    },
+    {
+        "concept_name": "云雾室",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "cloud chamber"
+        }
+    },
+    {
+        "concept_name": "井型闪烁计数器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "well-type scintillation counter"
+        }
+    },
+    {
+        "concept_name": "位置灵敏探测器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "position sensitive detector"
+        }
+    },
+    {
+        "concept_name": "光致发光探测器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "photoluminescence detector"
+        }
+    },
+    {
+        "concept_name": "全耗尽半导体探测器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "totally depleted semiconductor detector"
+        }
+    },
+    {
+        "concept_name": "全身γ谱分析器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "whole-body gamma spectrum analyser"
+        }
+    },
+    {
+        "concept_name": "全身辐射计",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "whole-body radiation meter"
+        }
+    },
+    {
+        "concept_name": "内标准化",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "internal standardization"
+        }
+    },
+    {
+        "concept_name": "内气体探测器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "internal gas detector"
+        }
+    },
+    {
+        "concept_name": "净面积",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "net area"
+        }
+    },
+    {
+        "concept_name": "分辨时间",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "resolving time"
+        }
+    },
+    {
+        "concept_name": "切连科夫探测器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Cerenkov detector"
+        }
+    },
+    {
+        "concept_name": "剂量率计",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "dose ratemeter"
+        }
+    },
+    {
+        "concept_name": "剥谱",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "spectrum stripping"
+        }
+    },
+    {
+        "concept_name": "动态功能检查仪",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "dynamic function survey meter"
+        }
+    },
+    {
+        "concept_name": "化合物半导体探测器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "compound semiconductor detector"
+        }
+    },
+    {
+        "concept_name": "医用回旋加速器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "medical cyclotron"
+        }
+    },
+    {
+        "concept_name": "医用电子直线加速器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "medical electron linear accelerator"
+        }
+    },
+    {
+        "concept_name": "半导体探测器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "semiconductor detector"
+        }
+    },
+    {
+        "concept_name": "单臂谱仪",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "single-arm spectrometer"
+        }
+    },
+    {
+        "concept_name": "单道分析器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "single-channel analyser"
+        }
+    },
+    {
+        "concept_name": "卤素计数器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "halogen counter"
+        }
+    },
+    {
+        "concept_name": "双臂谱仪",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "double-arm spectrometer"
+        }
+    },
+    {
+        "concept_name": "反冲质子计数器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "recoil proton counter"
+        }
+    },
+    {
+        "concept_name": "反堆积",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "pile-up rejection"
+        }
+    },
+    {
+        "concept_name": "反应堆周期仪",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "period meter for reactor"
+        }
+    },
+    {
+        "concept_name": "反应性仪",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "reactivity meter"
+        }
+    },
+    {
+        "concept_name": "反康普顿γ谱仪",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "anti-Compton gamma ray spectrometer"
+        }
+    },
+    {
+        "concept_name": "变换增益",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "conversion gain"
+        }
+    },
+    {
+        "concept_name": "可逆定标器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "reversible scaler"
+        }
+    },
+    {
+        "concept_name": "固体径迹探测器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "solid track detector"
+        }
+    },
+    {
+        "concept_name": "坪",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "plateau"
+        }
+    },
+    {
+        "concept_name": "坪斜",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "plateau slope"
+        }
+    },
+    {
+        "concept_name": "基线恢复",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "baseline restorer"
+        }
+    },
+    {
+        "concept_name": "基线漂移",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "baseline shift"
+        }
+    },
+    {
+        "concept_name": "堆积效应",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "pile-up effect"
+        }
+    },
+    {
+        "concept_name": "壁效应",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "wall effect"
+        }
+    },
+    {
+        "concept_name": "外标准",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "external standard"
+        }
+    },
+    {
+        "concept_name": "多丝正比室",
+        "details": {
+            "学科": "电子学_核电子学",
+            "又称": " 沙尔帕克室",
+            "见载": "《电子学名词》第一版",
+            "英文名": "multiwire proportional chamber"
+        }
+    },
+    {
+        "concept_name": "多帧照相机",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "multiformator"
+        }
+    },
+    {
+        "concept_name": "多步雪崩室",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "multi-step avalanche chamber"
+        }
+    },
+    {
+        "concept_name": "多道分析器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "multichannel analyser"
+        }
+    },
+    {
+        "concept_name": "宇宙射线探测器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "cosmic ray detector"
+        }
+    },
+    {
+        "concept_name": "定时滤波放大器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "timing filter amplifier"
+        }
+    },
+    {
+        "concept_name": "定时鉴别器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "timing discriminator"
+        }
+    },
+    {
+        "concept_name": "定标器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "scaler"
+        }
+    },
+    {
+        "concept_name": "对数率表",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "logarithmic ratemeter"
+        }
+    },
+    {
+        "concept_name": "寻峰",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "peak searching"
+        }
+    },
+    {
+        "concept_name": "射线准直器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ray collimator"
+        }
+    },
+    {
+        "concept_name": "峰值检测",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "peak detection"
+        }
+    },
+    {
+        "concept_name": "带电粒子探测器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "charged particle detector"
+        }
+    },
+    {
+        "concept_name": "幅度-时间变换器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "amplitude-time converter"
+        }
+    },
+    {
+        "concept_name": "幅度分析器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "amplitude analyser"
+        }
+    },
+    {
+        "concept_name": "幅度鉴别器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "amplitude discriminator"
+        }
+    },
+    {
+        "concept_name": "平衡点",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "balance point"
+        }
+    },
+    {
+        "concept_name": "径迹探测器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "track detector"
+        }
+    },
+    {
+        "concept_name": "微通道板探测器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "micro-channel plate detector"
+        }
+    },
+    {
+        "concept_name": "恒比鉴别器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "constant-fraction discriminator"
+        }
+    },
+    {
+        "concept_name": "成形时间常数",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "shaping time constant"
+        }
+    },
+    {
+        "concept_name": "放射免疫仪器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "radioimmunoassay instrument"
+        }
+    },
+    {
+        "concept_name": "放射性活度测量仪",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "radioactivity meter"
+        }
+    },
+    {
+        "concept_name": "放射自显影",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "autoradiography"
+        }
+    },
+    {
+        "concept_name": "时间-幅度变换器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "time-amplitude converter"
+        }
+    },
+    {
+        "concept_name": "时间分析器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "time analyser"
+        }
+    },
+    {
+        "concept_name": "时间扩展室",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "time expansion chamber"
+        }
+    },
+    {
+        "concept_name": "时间投影室",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "time projection chamber"
+        }
+    },
+    {
+        "concept_name": "时间抖动",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "time jitter"
+        }
+    },
+    {
+        "concept_name": "有机计数器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "organic counter"
+        }
+    },
+    {
+        "concept_name": "有限正比区",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "region of limited proportionality"
+        }
+    },
+    {
+        "concept_name": "核乳胶",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "nuclear emulsion"
+        }
+    },
+    {
+        "concept_name": "核听诊器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "nuclear stethoscope"
+        }
+    },
+    {
+        "concept_name": "核磁共振",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "nulcear magnetic resonance"
+        }
+    },
+    {
+        "concept_name": "核磁共振探测器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "nuclear magnetic resonance detector"
+        }
+    },
+    {
+        "concept_name": "核素扫描机",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "nuclide linear scanner"
+        }
+    },
+    {
+        "concept_name": "正比计数器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "proportional counter"
+        }
+    },
+    {
+        "concept_name": "正电子谱仪",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "positron spectroscope"
+        }
+    },
+    {
+        "concept_name": "气体放电辐射计数管",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "gas discharging radiation counter tube"
+        }
+    },
+    {
+        "concept_name": "气泡室",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "bubble chamber"
+        }
+    },
+    {
+        "concept_name": "气流探测器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "gas flow detector"
+        }
+    },
+    {
+        "concept_name": "氦-3计数器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "helium-3 counter"
+        }
+    },
+    {
+        "concept_name": "活时间",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "live time"
+        }
+    },
+    {
+        "concept_name": "流光室",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "streamer chamber"
+        }
+    },
+    {
+        "concept_name": "淬灭",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "quench"
+        }
+    },
+    {
+        "concept_name": "淬灭效应",
+        "details": {
+            "学科": "电子学_核电子学",
+            "又称": " 猝灭效应",
+            "见载": "《电子学名词》第一版",
+            "英文名": "quenching effect"
+        }
+    },
+    {
+        "concept_name": "淬灭校正",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "quench correction"
+        }
+    },
+    {
+        "concept_name": "游动时间",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "walk time"
+        }
+    },
+    {
+        "concept_name": "滑移脉冲产生器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "sliding pulser"
+        }
+    },
+    {
+        "concept_name": "漂移室",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "drift chamber"
+        }
+    },
+    {
+        "concept_name": "火花室",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "spark chamber"
+        }
+    },
+    {
+        "concept_name": "火花探测器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "spark detector"
+        }
+    },
+    {
+        "concept_name": "热致发光剂量计",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "thermoluminescent dosemeter"
+        }
+    },
+    {
+        "concept_name": "热致发光探测器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "thermoluminescence detector"
+        }
+    },
+    {
+        "concept_name": "照射量率计",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "exposure ratemeter"
+        }
+    },
+    {
+        "concept_name": "照射量计",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "exposure meter"
+        }
+    },
+    {
+        "concept_name": "环境剂量计",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "environmental dosemeter"
+        }
+    },
+    {
+        "concept_name": "电晕计数器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "corona counter"
+        }
+    },
+    {
+        "concept_name": "电离室",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ionization chamber"
+        }
+    },
+    {
+        "concept_name": "电荷灵敏前置放大器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "charge sensitive preamplifier"
+        }
+    },
+    {
+        "concept_name": "盖革-米勒区",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Geiger-Müller region"
+        }
+    },
+    {
+        "concept_name": "硅[锂]探测器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Si [Li] detector"
+        }
+    },
+    {
+        "concept_name": "稳谱器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "spectrum stabilizer"
+        }
+    },
+    {
+        "concept_name": "穿越辐射探测器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "transition radiation detector"
+        }
+    },
+    {
+        "concept_name": "窗放大器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "window amplifier"
+        }
+    },
+    {
+        "concept_name": "端效应",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "end effect"
+        }
+    },
+    {
+        "concept_name": "第一闪烁体",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "primary scintillator"
+        }
+    },
+    {
+        "concept_name": "簇射计数器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "shower counter"
+        }
+    },
+    {
+        "concept_name": "线性率表",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "linear ratemeter"
+        }
+    },
+    {
+        "concept_name": "胶片剂量计",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "film dosemeter"
+        }
+    },
+    {
+        "concept_name": "能量刻度",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "energy calibration"
+        }
+    },
+    {
+        "concept_name": "脉冲形状鉴别器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "pulse shape discriminator"
+        }
+    },
+    {
+        "concept_name": "自淬灭计数器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "self-quenched counter"
+        }
+    },
+    {
+        "concept_name": "自给能中子探测器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "self-powered neutron detector"
+        }
+    },
+    {
+        "concept_name": "补偿电离室",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ionization chamber with compensation"
+        }
+    },
+    {
+        "concept_name": "表面污染剂量仪",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "surface contamination meter"
+        }
+    },
+    {
+        "concept_name": "计数器描迹仪",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "counter hodoscope"
+        }
+    },
+    {
+        "concept_name": "计数器望远镜",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "counter telescope"
+        }
+    },
+    {
+        "concept_name": "计数率表",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "counting ratemeter"
+        }
+    },
+    {
+        "concept_name": "谱仪放大器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "spectroscope amplifier"
+        }
+    },
+    {
+        "concept_name": "谱指数",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "spectrum index"
+        }
+    },
+    {
+        "concept_name": "超导探测器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "superconductor detector"
+        }
+    },
+    {
+        "concept_name": "辐射含量计",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "radiation content meter"
+        }
+    },
+    {
+        "concept_name": "辐射报警装置",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "radiation warning assembly"
+        }
+    },
+    {
+        "concept_name": "辐射指示器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "radiation indicator"
+        }
+    },
+    {
+        "concept_name": "辐射探测器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "radiation detector"
+        }
+    },
+    {
+        "concept_name": "辐射测井装置",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "radiation logging assembly"
+        }
+    },
+    {
+        "concept_name": "辐射测量仪",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "radiation meter"
+        }
+    },
+    {
+        "concept_name": "近高斯脉冲成形",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "near-Gaussian pulse shaping"
+        }
+    },
+    {
+        "concept_name": "道宽",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "channel width"
+        }
+    },
+    {
+        "concept_name": "锗[锂]探测器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Ge [Li] detector"
+        }
+    },
+    {
+        "concept_name": "门控积分器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "gated integrator"
+        }
+    },
+    {
+        "concept_name": "闪烁体",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "scintillator"
+        }
+    },
+    {
+        "concept_name": "闪烁体溶液",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "scintillator solution"
+        }
+    },
+    {
+        "concept_name": "闪烁探测器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "scintillation detector"
+        }
+    },
+    {
+        "concept_name": "闪烁正比探测器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "scintillation proportional detector"
+        }
+    },
+    {
+        "concept_name": "闪烁谱仪",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "scintillation spectrometer"
+        }
+    },
+    {
+        "concept_name": "阈探测器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "threshold detector"
+        }
+    },
+    {
+        "concept_name": "随机脉冲产生器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "random pulser"
+        }
+    },
+    {
+        "concept_name": "零探测概率",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "zero detection probability"
+        }
+    },
+    {
+        "concept_name": "零道阈",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "zero channel threshold"
+        }
+    },
+    {
+        "concept_name": "面垒探测器",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "surface barrier detector"
+        }
+    },
+    {
+        "concept_name": "飞行时间中子谱仪",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "time-of-flight neutron spectrometer"
+        }
+    },
+    {
+        "concept_name": "高纯锗谱仪",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "high purity germanium spectrometer"
+        }
+    },
+    {
+        "concept_name": "高能粒子谱仪",
+        "details": {
+            "学科": "电子学_核电子学",
+            "见载": "《电子学名词》第一版",
+            "英文名": "high energy particle spectrometer"
+        }
+    }
+]

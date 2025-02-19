@@ -1,0 +1,1736 @@
+[
+    {
+        "concept_name": "主动性违拗",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "active negativism"
+        }
+    },
+    {
+        "concept_name": "二联性精神病",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "folie a&2& deux"
+        }
+    },
+    {
+        "concept_name": "人格解体",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "depersonalization"
+        }
+    },
+    {
+        "concept_name": "人格障碍",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "personality disorder"
+        }
+    },
+    {
+        "concept_name": "似曾相识",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "de&1&ja&2& vu"
+        }
+    },
+    {
+        "concept_name": "住院病人多相精神病量表",
+        "details": {
+            "学科": "医学_精神病学",
+            "英文": "inpatient multidimensional psychiatric scale ;IMPS",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "inpatient multidimensional psychiatric scale"
+        }
+    },
+    {
+        "concept_name": "住院病人护士观察量表",
+        "details": {
+            "学科": "医学_精神病学",
+            "英文": "nurse observation scale for inpatient evaluation ;NOSIE",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "nurse observation scale for inpatient evaluation"
+        }
+    },
+    {
+        "concept_name": "体象障碍",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "body-image disturbance"
+        }
+    },
+    {
+        "concept_name": "假性痴呆",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "pseudodementia"
+        }
+    },
+    {
+        "concept_name": "偏执型人格障碍",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "paranoid personality disorder"
+        }
+    },
+    {
+        "concept_name": "兽奸",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "bestiality"
+        }
+    },
+    {
+        "concept_name": "内向性思维",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "autistic thinking"
+        }
+    },
+    {
+        "concept_name": "内感性幻觉",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "enteroceptive hallucination"
+        }
+    },
+    {
+        "concept_name": "冲动型人格障碍",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "impulsive personality disorder"
+        }
+    },
+    {
+        "concept_name": "冲动行为",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "impulsive behavior"
+        }
+    },
+    {
+        "concept_name": "分裂样人格障碍",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "schizoid personality disorder"
+        }
+    },
+    {
+        "concept_name": "刑事责任能力",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "criminal responsibility"
+        }
+    },
+    {
+        "concept_name": "刻板动作",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "stereotyped act"
+        }
+    },
+    {
+        "concept_name": "刻板言语",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "stereotypy of speech"
+        }
+    },
+    {
+        "concept_name": "功能性幻觉",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "functional hallucination"
+        }
+    },
+    {
+        "concept_name": "医源性精神障碍",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "iatrogenic mental disorder"
+        }
+    },
+    {
+        "concept_name": "单相抑郁[症]",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "unipolar depression"
+        }
+    },
+    {
+        "concept_name": "单纯型精神分裂症",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "simple schizophrenia"
+        }
+    },
+    {
+        "concept_name": "单纯恐怖症",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "simple phobia"
+        }
+    },
+    {
+        "concept_name": "厌恶疗法",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "aversive therapy"
+        }
+    },
+    {
+        "concept_name": "原发性妄想",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "primary delusion"
+        }
+    },
+    {
+        "concept_name": "双相情感障碍",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "bipolar affective disorder"
+        }
+    },
+    {
+        "concept_name": "反应性意识错乱",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "reactive confusion"
+        }
+    },
+    {
+        "concept_name": "反应性抑郁[症]",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "reactive depression"
+        }
+    },
+    {
+        "concept_name": "反应性木僵",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "reactive stupor"
+        }
+    },
+    {
+        "concept_name": "反应性精神障碍",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "reactive disorder"
+        }
+    },
+    {
+        "concept_name": "反社会型人格障碍",
+        "details": {
+            "学科": "医学_精神病学",
+            "又称": " 悖德性人格障碍",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "antisocial personality disorder"
+        }
+    },
+    {
+        "concept_name": "发明妄想",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "delusion of invention"
+        }
+    },
+    {
+        "concept_name": "发热疗法",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "fever therapy"
+        }
+    },
+    {
+        "concept_name": "受虐癖",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "masochism"
+        }
+    },
+    {
+        "concept_name": "司法精神病学鉴定",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "forensic psychiatrics expertise"
+        }
+    },
+    {
+        "concept_name": "器质性脑病综合征",
+        "details": {
+            "学科": "医学_精神病学",
+            "英文": "organic brain syndrome ;OBS",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "organic brain syndrome"
+        }
+    },
+    {
+        "concept_name": "多发性脑梗死性痴呆",
+        "details": {
+            "学科": "医学_精神病学",
+            "英文": "multi-infarct dementia ;MID",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "multi-infarct dementia"
+        }
+    },
+    {
+        "concept_name": "多轴诊断系统",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "multiaxial system"
+        }
+    },
+    {
+        "concept_name": "失眠[症]",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "insomnia"
+        }
+    },
+    {
+        "concept_name": "夸大妄想",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "delusion of grandeur"
+        }
+    },
+    {
+        "concept_name": "妄想",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "delusion"
+        }
+    },
+    {
+        "concept_name": "妄想性知觉",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "delusional perception"
+        }
+    },
+    {
+        "concept_name": "婴儿孤独症",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "infantile autism"
+        }
+    },
+    {
+        "concept_name": "婴儿痴呆",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "infantile dementia"
+        }
+    },
+    {
+        "concept_name": "嫉妒妄想",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "delusion of jealousy"
+        }
+    },
+    {
+        "concept_name": "定向力",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "orientation"
+        }
+    },
+    {
+        "concept_name": "工娱疗法",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "occupation recreational therapy"
+        }
+    },
+    {
+        "concept_name": "幻听",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "auditory hallucination"
+        }
+    },
+    {
+        "concept_name": "幻嗅",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "olfactory hallucination"
+        }
+    },
+    {
+        "concept_name": "广场恐怖症",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "agoraphobia"
+        }
+    },
+    {
+        "concept_name": "广泛性焦虑症",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "generalized anxiety"
+        }
+    },
+    {
+        "concept_name": "应激",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "stress"
+        }
+    },
+    {
+        "concept_name": "应激源",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "stressor"
+        }
+    },
+    {
+        "concept_name": "异食癖",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "pica"
+        }
+    },
+    {
+        "concept_name": "强迫动作",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "compulsive act"
+        }
+    },
+    {
+        "concept_name": "强迫型人格障碍",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "obsessive-compulsive personality disorder"
+        }
+    },
+    {
+        "concept_name": "强迫性回忆",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "obsessive reminiscence"
+        }
+    },
+    {
+        "concept_name": "强迫性对立观念",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "obsessive contradictory idea"
+        }
+    },
+    {
+        "concept_name": "强迫性怀疑",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "obsessive doubts"
+        }
+    },
+    {
+        "concept_name": "强迫性恐怖",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "obsessive phobias"
+        }
+    },
+    {
+        "concept_name": "强迫性核对",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "compulsive checking"
+        }
+    },
+    {
+        "concept_name": "强迫性神经症",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "obsessive-compulsive neurosis"
+        }
+    },
+    {
+        "concept_name": "强迫性穷思竭虑",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "obsessive rumination"
+        }
+    },
+    {
+        "concept_name": "强迫状态",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "obsessive state"
+        }
+    },
+    {
+        "concept_name": "强迫观念",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "obsessive idea"
+        }
+    },
+    {
+        "concept_name": "影响妄想",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "delusion of influence"
+        }
+    },
+    {
+        "concept_name": "心理生理性障碍",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "psychophysiological disorder"
+        }
+    },
+    {
+        "concept_name": "心理社会因素",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "psychosocial factor"
+        }
+    },
+    {
+        "concept_name": "心身健康调查表",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "psychosomatic inventory"
+        }
+    },
+    {
+        "concept_name": "快速循环型情感障碍",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "rapid cycling affective disorder"
+        }
+    },
+    {
+        "concept_name": "思维不连贯",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "incoherence of thought"
+        }
+    },
+    {
+        "concept_name": "思维化声",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "audible thought"
+        }
+    },
+    {
+        "concept_name": "思维插入",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "thought insertion"
+        }
+    },
+    {
+        "concept_name": "思维松散",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "looseness of thinking"
+        }
+    },
+    {
+        "concept_name": "思维破裂",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "splitting of thought"
+        }
+    },
+    {
+        "concept_name": "急性抑郁[症]",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "acute depression"
+        }
+    },
+    {
+        "concept_name": "急性躁狂",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "acute mania"
+        }
+    },
+    {
+        "concept_name": "性变态",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "paraphilia"
+        }
+    },
+    {
+        "concept_name": "总体评定量表",
+        "details": {
+            "学科": "医学_精神病学",
+            "英文": "global assessment scale ;GAS",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "global assessment scale"
+        }
+    },
+    {
+        "concept_name": "恋物癖",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "fetishism"
+        }
+    },
+    {
+        "concept_name": "恐怖症",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "phobia"
+        }
+    },
+    {
+        "concept_name": "情感不协调",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "incongruity of affect"
+        }
+    },
+    {
+        "concept_name": "情感倒错",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "parathymia"
+        }
+    },
+    {
+        "concept_name": "情感淡漠",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "apathy"
+        }
+    },
+    {
+        "concept_name": "情感爆发",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "raptus"
+        }
+    },
+    {
+        "concept_name": "情感脆弱",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "emotional fragility"
+        }
+    },
+    {
+        "concept_name": "情感迟钝",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "emotional blunting"
+        }
+    },
+    {
+        "concept_name": "情感障碍",
+        "details": {
+            "学科": "医学_精神病学",
+            "又称": " 心境障碍(mood disorder)",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "affective disorder"
+        }
+    },
+    {
+        "concept_name": "情感高涨",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "elation"
+        }
+    },
+    {
+        "concept_name": "情绪不稳",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "emotional lability"
+        }
+    },
+    {
+        "concept_name": "惊恐发作",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "panic attack"
+        }
+    },
+    {
+        "concept_name": "意向倒错",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "parabulia"
+        }
+    },
+    {
+        "concept_name": "意联",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "punning"
+        }
+    },
+    {
+        "concept_name": "意识混浊",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "clouding of consciousness"
+        }
+    },
+    {
+        "concept_name": "感应性精神病",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "induced psychosis"
+        }
+    },
+    {
+        "concept_name": "慢性抑郁[症]",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "chronic depression"
+        }
+    },
+    {
+        "concept_name": "戒瘾",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "abstinence"
+        }
+    },
+    {
+        "concept_name": "抑郁性木僵[症]",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "depressive stupor"
+        }
+    },
+    {
+        "concept_name": "抗抑郁药",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "antidepressants"
+        }
+    },
+    {
+        "concept_name": "抗焦虑药",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "antianxiety drugs"
+        }
+    },
+    {
+        "concept_name": "抗精神病药",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "antipsychotics"
+        }
+    },
+    {
+        "concept_name": "抗躁狂药",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "antimanic drugs"
+        }
+    },
+    {
+        "concept_name": "持续言语",
+        "details": {
+            "学科": "医学_精神病学",
+            "又称": " 持续动作",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "perseveration"
+        }
+    },
+    {
+        "concept_name": "摩擦癖",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "frotteurism"
+        }
+    },
+    {
+        "concept_name": "施虐癖",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "sadism"
+        }
+    },
+    {
+        "concept_name": "无抽搐性电休克治疗",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "nonconvulsive ECT"
+        }
+    },
+    {
+        "concept_name": "无行为能力",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "incapability"
+        }
+    },
+    {
+        "concept_name": "无责任能力",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "irresponsibility"
+        }
+    },
+    {
+        "concept_name": "易激惹",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "irritability"
+        }
+    },
+    {
+        "concept_name": "普遍性适应综合征",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "general adaptation syndrome"
+        }
+    },
+    {
+        "concept_name": "暗示疗法",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "suggestive treatment"
+        }
+    },
+    {
+        "concept_name": "朦胧状态",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "twilight state"
+        }
+    },
+    {
+        "concept_name": "梦样状态",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "oneiroid state"
+        }
+    },
+    {
+        "concept_name": "模仿动作",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "echopraxia"
+        }
+    },
+    {
+        "concept_name": "模仿言语",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "echolalia"
+        }
+    },
+    {
+        "concept_name": "欣快",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "euphoria"
+        }
+    },
+    {
+        "concept_name": "民事行为能力",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "civil capability"
+        }
+    },
+    {
+        "concept_name": "气质",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "temperament"
+        }
+    },
+    {
+        "concept_name": "汉密尔顿焦虑量表",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Hamilton anxiety scale"
+        }
+    },
+    {
+        "concept_name": "激越性抑郁[症]",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "agitated depression"
+        }
+    },
+    {
+        "concept_name": "焦虑性抑郁[症]",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "anxious depression"
+        }
+    },
+    {
+        "concept_name": "焦虑性神经症",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "anxiety neurosis"
+        }
+    },
+    {
+        "concept_name": "物理影响妄想",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "delusion of physical influence"
+        }
+    },
+    {
+        "concept_name": "牵连观念",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "idea of reference"
+        }
+    },
+    {
+        "concept_name": "甘瑟综合征",
+        "details": {
+            "学科": "医学_精神病学",
+            "曾称": " 甘塞综合征",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Ganser syndrome"
+        }
+    },
+    {
+        "concept_name": "生活事件量表",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "life event scale"
+        }
+    },
+    {
+        "concept_name": "生物精神病学",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "biological psychiatry"
+        }
+    },
+    {
+        "concept_name": "电休克治疗",
+        "details": {
+            "学科": "医学_精神病学",
+            "又称": " 电抽搐治疗 ；ECT）",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "electric shock therapy"
+        }
+    },
+    {
+        "concept_name": "疑病性神经症",
+        "details": {
+            "学科": "医学_精神病学",
+            "又称": " 疑病症",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "hypochondrical neurosis"
+        }
+    },
+    {
+        "concept_name": "疾病严重程度量表",
+        "details": {
+            "学科": "医学_精神病学",
+            "英文": "severity of illness scale ;SI",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "severity of illness scale"
+        }
+    },
+    {
+        "concept_name": "病理性激情",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "pathological affect"
+        }
+    },
+    {
+        "concept_name": "病理性醉酒",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "pathological drunkenness"
+        }
+    },
+    {
+        "concept_name": "痴愚",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "imbecility"
+        }
+    },
+    {
+        "concept_name": "癔症性瘫痪",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "hysterical paralysis"
+        }
+    },
+    {
+        "concept_name": "癔症性遗忘",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "hysterical amnesia"
+        }
+    },
+    {
+        "concept_name": "白痴",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "idiocy"
+        }
+    },
+    {
+        "concept_name": "监禁反应",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "imprisonment reaction"
+        }
+    },
+    {
+        "concept_name": "监禁性精神病",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "prison psychosis"
+        }
+    },
+    {
+        "concept_name": "睡眠剥夺",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "sleep deprivation"
+        }
+    },
+    {
+        "concept_name": "睡行症",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "sleep walking"
+        }
+    },
+    {
+        "concept_name": "矛盾意向",
+        "details": {
+            "学科": "医学_精神病学",
+            "又称": " 矛盾情感",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "ambivalence"
+        }
+    },
+    {
+        "concept_name": "研究用诊断标准",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "research diagnostic criterion"
+        }
+    },
+    {
+        "concept_name": "社区精神卫生",
+        "details": {
+            "学科": "医学_精神病学",
+            "又称": " 社区心理卫生",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "community mental health"
+        }
+    },
+    {
+        "concept_name": "社区精神病学",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "community psychiatry"
+        }
+    },
+    {
+        "concept_name": "神游症",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "fugue"
+        }
+    },
+    {
+        "concept_name": "神经性厌食",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "anorexia nervosa"
+        }
+    },
+    {
+        "concept_name": "神经质",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "nervousness"
+        }
+    },
+    {
+        "concept_name": "神经阻滞剂恶性综合征",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "neuroleptic malignant syndrome"
+        }
+    },
+    {
+        "concept_name": "秽语症",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "coprolalia"
+        }
+    },
+    {
+        "concept_name": "窥阴癖",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "voyeurism"
+        }
+    },
+    {
+        "concept_name": "简明精神病评定量表",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "brief psychiatric rating scale"
+        }
+    },
+    {
+        "concept_name": "精神分裂症",
+        "details": {
+            "学科": "医学_精神病学",
+            "曾称": " 早发性痴呆",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "schizophrenia"
+        }
+    },
+    {
+        "concept_name": "精神分裂症样精神病",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "schizophreniform psychosis"
+        }
+    },
+    {
+        "concept_name": "精神动力学",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "psychodynamics"
+        }
+    },
+    {
+        "concept_name": "精神卫生",
+        "details": {
+            "学科": "医学_精神病学",
+            "又称": " 心理卫生",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "mental health"
+        }
+    },
+    {
+        "concept_name": "精神检查",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "interview"
+        }
+    },
+    {
+        "concept_name": "精神现状检查",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "present state examination"
+        }
+    },
+    {
+        "concept_name": "精神病理学",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "psychopathology"
+        }
+    },
+    {
+        "concept_name": "精神药物",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "psychotropic drug"
+        }
+    },
+    {
+        "concept_name": "精神药理学",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "psychopharmacology"
+        }
+    },
+    {
+        "concept_name": "精神运动性兴奋",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "psychomotor excitement"
+        }
+    },
+    {
+        "concept_name": "精神运动性抑制",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "psychomotor inhibition"
+        }
+    },
+    {
+        "concept_name": "紧张性兴奋",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "catatonic excitement"
+        }
+    },
+    {
+        "concept_name": "继发性妄想",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "secondary delusion"
+        }
+    },
+    {
+        "concept_name": "老年前期精神病",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "presenile psychosis"
+        }
+    },
+    {
+        "concept_name": "老年精神病学",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "psychogeriatrics"
+        }
+    },
+    {
+        "concept_name": "胰岛素休克治疗",
+        "details": {
+            "学科": "医学_精神病学",
+            "英文": "insulin shock therapy ;IST",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "insulin shock therapy"
+        }
+    },
+    {
+        "concept_name": "脑血管性痴呆",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "cerebral vascular dementia"
+        }
+    },
+    {
+        "concept_name": "自杀未遂",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "suicidal attempt"
+        }
+    },
+    {
+        "concept_name": "自知力",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "insight"
+        }
+    },
+    {
+        "concept_name": "药物滥用",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "drug abuse"
+        }
+    },
+    {
+        "concept_name": "虚无妄想",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "nihilistic delusion"
+        }
+    },
+    {
+        "concept_name": "表演型人格障碍",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "histrionic personality disorder"
+        }
+    },
+    {
+        "concept_name": "衰退",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "deterioration"
+        }
+    },
+    {
+        "concept_name": "被动体验",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "passive experience"
+        }
+    },
+    {
+        "concept_name": "被动服从",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "passive obedience"
+        }
+    },
+    {
+        "concept_name": "被害妄想",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "delusion of persecution"
+        }
+    },
+    {
+        "concept_name": "被影响体验",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "experience of being influenced"
+        }
+    },
+    {
+        "concept_name": "被控制感",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "feeling of being controlled"
+        }
+    },
+    {
+        "concept_name": "被窃妄想",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "delusion of being stolen"
+        }
+    },
+    {
+        "concept_name": "言语重复",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "palilalia"
+        }
+    },
+    {
+        "concept_name": "评定量表",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "rating scale"
+        }
+    },
+    {
+        "concept_name": "识旧如新",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "jamais vu"
+        }
+    },
+    {
+        "concept_name": "语词新作",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "neologism"
+        }
+    },
+    {
+        "concept_name": "语词杂拌",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "word salad"
+        }
+    },
+    {
+        "concept_name": "读心症",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "mind-reading"
+        }
+    },
+    {
+        "concept_name": "谵妄",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "delirium"
+        }
+    },
+    {
+        "concept_name": "超价观念",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "over valued idea"
+        }
+    },
+    {
+        "concept_name": "躁狂抑郁症",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "manic-depressive illness"
+        }
+    },
+    {
+        "concept_name": "躯体依赖",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "physical dependence"
+        }
+    },
+    {
+        "concept_name": "适应不良性行为",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "maladaptive behavior"
+        }
+    },
+    {
+        "concept_name": "适应性障碍",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "adjustment disorder"
+        }
+    },
+    {
+        "concept_name": "逻辑倒错性思维",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "paralogic thinking"
+        }
+    },
+    {
+        "concept_name": "酒精中毒",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "alcoholism"
+        }
+    },
+    {
+        "concept_name": "酒精滥用",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "alcohol abuse"
+        }
+    },
+    {
+        "concept_name": "释义性妄想",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "delusion of interpretation"
+        }
+    },
+    {
+        "concept_name": "钟情妄想",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "delusion of being loved"
+        }
+    },
+    {
+        "concept_name": "错觉",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "illusion"
+        }
+    },
+    {
+        "concept_name": "锥体外系副作用评定量表",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "rating scale for extrapyramidal side-effects"
+        }
+    },
+    {
+        "concept_name": "阿尔茨海默病",
+        "details": {
+            "学科": "医学_精神病学",
+            "曾称": " 老年前期痴呆",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Alzheimer disease"
+        }
+    },
+    {
+        "concept_name": "限定责任能力",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "delimited responsibility"
+        }
+    },
+    {
+        "concept_name": "随境转移",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "distractibility"
+        }
+    },
+    {
+        "concept_name": "隐匿性抑郁[症]",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "masked depression"
+        }
+    },
+    {
+        "concept_name": "震颤性谵妄",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "delirium tremens"
+        }
+    },
+    {
+        "concept_name": "露阴癖",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "exhibitionism"
+        }
+    },
+    {
+        "concept_name": "静坐不能",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "akathisia"
+        }
+    },
+    {
+        "concept_name": "韦氏儿童智力量表",
+        "details": {
+            "学科": "医学_精神病学",
+            "英文": "Wechsler intelligence scale for children ;WISC",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Wechsler intelligence scale for children"
+        }
+    },
+    {
+        "concept_name": "韦氏成人智力量表",
+        "details": {
+            "学科": "医学_精神病学",
+            "英文": "Wechsler adult intelligence scale ;WAIS",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Wechsler adult intelligence scale"
+        }
+    },
+    {
+        "concept_name": "音联",
+        "details": {
+            "学科": "医学_精神病学",
+            "英文": "clang association ;rhyme association",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "clang association"
+        }
+    },
+    {
+        "concept_name": "骤进暴露疗法",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "flooding therapy"
+        }
+    },
+    {
+        "concept_name": "鸡奸",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "pederasty"
+        }
+    },
+    {
+        "concept_name": "麻痹性痴呆",
+        "details": {
+            "学科": "医学_精神病学",
+            "英文": "general paresis of insane ;GPI",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "general paresis of insane"
+        }
+    },
+    {
+        "concept_name": "麻醉分析",
+        "details": {
+            "学科": "医学_精神病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "narcotic analysis"
+        }
+    }
+]

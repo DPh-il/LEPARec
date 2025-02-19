@@ -1,0 +1,614 @@
+[
+    {
+        "concept_name": "R模范畴",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "category of R-modules"
+        }
+    },
+    {
+        "concept_name": "严格归纳极限",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "strict inductive limit"
+        }
+    },
+    {
+        "concept_name": "二元函子",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "bifunctor"
+        }
+    },
+    {
+        "concept_name": "伴随函子",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "adjoint functors"
+        }
+    },
+    {
+        "concept_name": "共变函子",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "covariant functor"
+        }
+    },
+    {
+        "concept_name": "内射对象",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "injective object"
+        }
+    },
+    {
+        "concept_name": "函子",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "functor"
+        }
+    },
+    {
+        "concept_name": "函子的复合",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "composite of functors"
+        }
+    },
+    {
+        "concept_name": "函子的泛元",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "universal element of a functor"
+        }
+    },
+    {
+        "concept_name": "函子范畴",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "category of functors"
+        }
+    },
+    {
+        "concept_name": "加性函子",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "additive functor"
+        }
+    },
+    {
+        "concept_name": "加性范畴",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "additive category"
+        }
+    },
+    {
+        "concept_name": "包含函子",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "inclusion functor"
+        }
+    },
+    {
+        "concept_name": "单位函子",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "identity functor"
+        }
+    },
+    {
+        "concept_name": "单位态射",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "identity morphism"
+        }
+    },
+    {
+        "concept_name": "单态射",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "monomorphism"
+        }
+    },
+    {
+        "concept_name": "反变Hom函子",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "contravariant Hom functor"
+        }
+    },
+    {
+        "concept_name": "反变函子",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "contravariant functor"
+        }
+    },
+    {
+        "concept_name": "可表示函子",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "representable functor"
+        }
+    },
+    {
+        "concept_name": "可逆态射",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "invertible morphism"
+        }
+    },
+    {
+        "concept_name": "右伴随",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "right adjoint"
+        }
+    },
+    {
+        "concept_name": "商对象",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "quotient object"
+        }
+    },
+    {
+        "concept_name": "商范畴",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "quotient category"
+        }
+    },
+    {
+        "concept_name": "始对象",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "initial object"
+        }
+    },
+    {
+        "concept_name": "子对象",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "subobject"
+        }
+    },
+    {
+        "concept_name": "子范畴",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "subcategory"
+        }
+    },
+    {
+        "concept_name": "对偶函子",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "dual functor"
+        }
+    },
+    {
+        "concept_name": "对偶范畴",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "英文": "dual category ;cocategory ;oppo- site category",
+            "见载": "《数学名词》第一版",
+            "英文名": "dual category"
+        }
+    },
+    {
+        "concept_name": "对象",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "object"
+        }
+    },
+    {
+        "concept_name": "对象的余积",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "coproduct of objects"
+        }
+    },
+    {
+        "concept_name": "对象的积",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "product of objects"
+        }
+    },
+    {
+        "concept_name": "小范畴",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "small category"
+        }
+    },
+    {
+        "concept_name": "左伴随",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "left adjoint"
+        }
+    },
+    {
+        "concept_name": "常数函子",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "constant functor"
+        }
+    },
+    {
+        "concept_name": "底函子",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "英文": "underlying functor ;forgetful functor",
+            "见载": "《数学名词》第一版",
+            "英文名": "underlying functor"
+        }
+    },
+    {
+        "concept_name": "张量函子",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "tensor functor"
+        }
+    },
+    {
+        "concept_name": "归纳极限",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "又称": " 正[向]极限(direct limit)",
+            "见载": "《数学名词》第一版",
+            "英文名": "inductive limit"
+        }
+    },
+    {
+        "concept_name": "忠实函子",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "faithful functor"
+        }
+    },
+    {
+        "concept_name": "态射",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "morphism"
+        }
+    },
+    {
+        "concept_name": "态射的余像",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "coimage of a morphism"
+        }
+    },
+    {
+        "concept_name": "态射的余核",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "cokernel of a morphism"
+        }
+    },
+    {
+        "concept_name": "态射的像",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "image of a morphism"
+        }
+    },
+    {
+        "concept_name": "态射的核",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "kernel of a morphism"
+        }
+    },
+    {
+        "concept_name": "投射对象",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "projective object"
+        }
+    },
+    {
+        "concept_name": "投射极限",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "又称": " 反极限",
+            "见载": "《数学名词》第一版",
+            "英文名": "projective limit"
+        }
+    },
+    {
+        "concept_name": "拉回",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "pull back"
+        }
+    },
+    {
+        "concept_name": "拓扑空间范畴",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "category of topological spaces"
+        }
+    },
+    {
+        "concept_name": "推出",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "push out"
+        }
+    },
+    {
+        "concept_name": "正合函子",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "exact functor"
+        }
+    },
+    {
+        "concept_name": "泛对象",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "universal object"
+        }
+    },
+    {
+        "concept_name": "泛性质",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "universal property"
+        }
+    },
+    {
+        "concept_name": "泛映射",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "universal mapping"
+        }
+    },
+    {
+        "concept_name": "满函子",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "full functor"
+        }
+    },
+    {
+        "concept_name": "满子范畴",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "full subcategory"
+        }
+    },
+    {
+        "concept_name": "满嵌入",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "full imbedding"
+        }
+    },
+    {
+        "concept_name": "满态射",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "epimorphism"
+        }
+    },
+    {
+        "concept_name": "环范畴",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "category of rings"
+        }
+    },
+    {
+        "concept_name": "积范畴",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "product category"
+        }
+    },
+    {
+        "concept_name": "笛卡尔图",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "Cartesian diagram"
+        }
+    },
+    {
+        "concept_name": "终对象",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "terminal object"
+        }
+    },
+    {
+        "concept_name": "群范畴",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "category of groups"
+        }
+    },
+    {
+        "concept_name": "自然变换",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "natural transformation"
+        }
+    },
+    {
+        "concept_name": "自然等价",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "natural equivalence"
+        }
+    },
+    {
+        "concept_name": "自由函子",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "free functor"
+        }
+    },
+    {
+        "concept_name": "自由对象",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "free object"
+        }
+    },
+    {
+        "concept_name": "范畴",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "category"
+        }
+    },
+    {
+        "concept_name": "范畴的同构",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "isomorphism of categories"
+        }
+    },
+    {
+        "concept_name": "范畴的等价",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "equivalence of categories"
+        }
+    },
+    {
+        "concept_name": "范畴论",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "category theory"
+        }
+    },
+    {
+        "concept_name": "表示函子",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "representation functor"
+        }
+    },
+    {
+        "concept_name": "转置伴随等价",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "adjugant equivalence"
+        }
+    },
+    {
+        "concept_name": "阿贝尔群范畴",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "category of Abelian groups"
+        }
+    },
+    {
+        "concept_name": "阿贝尔范畴",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "Abelian category"
+        }
+    },
+    {
+        "concept_name": "集范畴",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "category of sets"
+        }
+    },
+    {
+        "concept_name": "零对象",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "zero object"
+        }
+    },
+    {
+        "concept_name": "零态射",
+        "details": {
+            "学科": "数学_代数学_代数几何学_范畴论",
+            "见载": "《数学名词》第一版",
+            "英文名": "zero morphism"
+        }
+    }
+]

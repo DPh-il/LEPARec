@@ -1,0 +1,1469 @@
+[
+    {
+        "concept_name": "B类标准不确定度",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "type B standard uncertainty"
+        }
+    },
+    {
+        "concept_name": "TEMPEST性能测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "TEMPEST performance measurement"
+        }
+    },
+    {
+        "concept_name": "[不确定度的]A类评定",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "type A evaluation [of uncertainty]"
+        }
+    },
+    {
+        "concept_name": "[不确定度的]B类评定",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "type B evaluation [of uncertainty]"
+        }
+    },
+    {
+        "concept_name": "[标准物质的]定值",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "certification [of a reference material]"
+        }
+    },
+    {
+        "concept_name": "[测量]不确定度",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "uncertainty [of measurement]"
+        }
+    },
+    {
+        "concept_name": "[测量]估计值",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "estimate [of measurement]"
+        }
+    },
+    {
+        "concept_name": "[测量]单位",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "unit [of measurement]"
+        }
+    },
+    {
+        "concept_name": "[测量]单位制",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "system of units [of measurement]"
+        }
+    },
+    {
+        "concept_name": "[测量]单位符号",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "symbol of a unit [of measurement]"
+        }
+    },
+    {
+        "concept_name": "[测量]标准",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "[measurement] standard"
+        }
+    },
+    {
+        "concept_name": "[测量]误差",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "error [of measurement]"
+        }
+    },
+    {
+        "concept_name": "[测量器具的]示值",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "indication [of a measuring instrument]"
+        }
+    },
+    {
+        "concept_name": "[测量的]算术平均值",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "arithmetic average [of measurement]"
+        }
+    },
+    {
+        "concept_name": "[测量结果的]复现性",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "reproducibility [of results of measurement]"
+        }
+    },
+    {
+        "concept_name": "[测量结果的]重复性",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "repeatability [of results of measurement]"
+        }
+    },
+    {
+        "concept_name": "[示值]误差",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "error [of indication]"
+        }
+    },
+    {
+        "concept_name": "[被测量的]变换值",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "transformed value [of a measurand]"
+        }
+    },
+    {
+        "concept_name": "[量]值",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "value [of a quantity]"
+        }
+    },
+    {
+        "concept_name": "[量的]数值",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "numerical value [of a quantity]"
+        }
+    },
+    {
+        "concept_name": "[量的]真值",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "true value [of a quantity]"
+        }
+    },
+    {
+        "concept_name": "[量的]约定真值",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "conventional true value [of a quantity]"
+        }
+    },
+    {
+        "concept_name": "一贯[测量]单位制",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "coherent system of unit [of measurement]"
+        }
+    },
+    {
+        "concept_name": "一贯导出测量单位",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "简称": " 一贯单位",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "coherent derived unit of measurement"
+        }
+    },
+    {
+        "concept_name": "主标准",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "primary standard"
+        }
+    },
+    {
+        "concept_name": "仪器常数",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "instrument constant"
+        }
+    },
+    {
+        "concept_name": "传导发射安全系数测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "conduction emission safety factor measurement"
+        }
+    },
+    {
+        "concept_name": "传导发射测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "conduction emission measurement"
+        }
+    },
+    {
+        "concept_name": "传递标准",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "transfer standard"
+        }
+    },
+    {
+        "concept_name": "例行试验",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "routine test"
+        }
+    },
+    {
+        "concept_name": "修正值",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "correction"
+        }
+    },
+    {
+        "concept_name": "倍数[测量]单位",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "multiple unit [of measurement]"
+        }
+    },
+    {
+        "concept_name": "偏差",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "deviation"
+        }
+    },
+    {
+        "concept_name": "偏移",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "bias"
+        }
+    },
+    {
+        "concept_name": "光学测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "optical measurement"
+        }
+    },
+    {
+        "concept_name": "军用标准物质",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "military reference material"
+        }
+    },
+    {
+        "concept_name": "准确度",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "accuracy"
+        }
+    },
+    {
+        "concept_name": "准确度等级",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "accuracy class"
+        }
+    },
+    {
+        "concept_name": "分数[测量]单位",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "submultiple unit [of measurement]"
+        }
+    },
+    {
+        "concept_name": "制外[测量]单位",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "off-system unit [of measurement]"
+        }
+    },
+    {
+        "concept_name": "副标准",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "secondary standard"
+        }
+    },
+    {
+        "concept_name": "力学测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "mechanical measurement"
+        }
+    },
+    {
+        "concept_name": "加权算术平均值",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "weighted arithmetic average"
+        }
+    },
+    {
+        "concept_name": "加权算术平均值的实验标准偏差",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "experimental standard deviation of weighted arithmetic average"
+        }
+    },
+    {
+        "concept_name": "化学测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "chemical measurement"
+        }
+    },
+    {
+        "concept_name": "半自动测试设备",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "semi-automatic test equipment"
+        }
+    },
+    {
+        "concept_name": "发射前测试",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "prelaunch testing"
+        }
+    },
+    {
+        "concept_name": "发送器",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "transmitter"
+        }
+    },
+    {
+        "concept_name": "可测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "measurable quantity"
+        }
+    },
+    {
+        "concept_name": "合成标准不确定度",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "combined standard uncertainty"
+        }
+    },
+    {
+        "concept_name": "吸波材料电磁特性测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "EM characteristics measurement of wave-absorption materials"
+        }
+    },
+    {
+        "concept_name": "响应特性",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "response characteristic"
+        }
+    },
+    {
+        "concept_name": "固有误差",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "intrinsic error"
+        }
+    },
+    {
+        "concept_name": "国家[测量]标准",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "national [measurement] standard"
+        }
+    },
+    {
+        "concept_name": "国际[测量]标准",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "international [measuring] standard"
+        }
+    },
+    {
+        "concept_name": "国际单位制",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "英文": "International System of Units ;SI",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "International System of Units"
+        }
+    },
+    {
+        "concept_name": "在线测试",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "on-line test"
+        }
+    },
+    {
+        "concept_name": "在线测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "on-line measurement"
+        }
+    },
+    {
+        "concept_name": "场强测量仪",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "field strength meter"
+        }
+    },
+    {
+        "concept_name": "基值误差",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "datum error"
+        }
+    },
+    {
+        "concept_name": "基本[测量]单位",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "base unit [of measurement]"
+        }
+    },
+    {
+        "concept_name": "基本测量方法",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "fundamental method of measurement"
+        }
+    },
+    {
+        "concept_name": "声学测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "acoustic measurement"
+        }
+    },
+    {
+        "concept_name": "天线电缆耦合测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "antenna cable coupling measurement"
+        }
+    },
+    {
+        "concept_name": "定级证书",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "grading certificate"
+        }
+    },
+    {
+        "concept_name": "实时测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "real-time measurement"
+        }
+    },
+    {
+        "concept_name": "实验标准偏差",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "experimental standard deviation"
+        }
+    },
+    {
+        "concept_name": "导出[测量]单位",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "derived unit [of measurement]"
+        }
+    },
+    {
+        "concept_name": "导出量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "derived quantity"
+        }
+    },
+    {
+        "concept_name": "导弹电控测试装置",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "missile electrical harness tester"
+        }
+    },
+    {
+        "concept_name": "屏蔽室屏蔽效能测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "shielding efficacy measurement of shielding room"
+        }
+    },
+    {
+        "concept_name": "已修正结果",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "corrected result"
+        }
+    },
+    {
+        "concept_name": "影响量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "influence quantity"
+        }
+    },
+    {
+        "concept_name": "性能测试",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "performance testing"
+        }
+    },
+    {
+        "concept_name": "扩展不确定度",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "expanded uncertainty"
+        }
+    },
+    {
+        "concept_name": "接地和搭接电阻测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "grounding and lapping resistance measurement"
+        }
+    },
+    {
+        "concept_name": "放射性测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "radioactive measurement"
+        }
+    },
+    {
+        "concept_name": "数字式测量仪器",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "digital measuring instrument"
+        }
+    },
+    {
+        "concept_name": "无线电测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "radio measurement"
+        }
+    },
+    {
+        "concept_name": "显示式[测量]仪器",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "displaying [measuring] instrument"
+        }
+    },
+    {
+        "concept_name": "最大允许误差",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "maximum permissible error"
+        }
+    },
+    {
+        "concept_name": "有证标准物质",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "certified reference material"
+        }
+    },
+    {
+        "concept_name": "未修正结果",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "uncorrected result"
+        }
+    },
+    {
+        "concept_name": "标准不确定度",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "standard uncertainty"
+        }
+    },
+    {
+        "concept_name": "标准场强法",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "standard field strength method"
+        }
+    },
+    {
+        "concept_name": "标准天线法",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "standard antenna method"
+        }
+    },
+    {
+        "concept_name": "标准物质标准值",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "certified value of reference material"
+        }
+    },
+    {
+        "concept_name": "标称值",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "nominal value"
+        }
+    },
+    {
+        "concept_name": "校准实验室",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "calibration laboratory"
+        }
+    },
+    {
+        "concept_name": "校准证书",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "calibration certificate"
+        }
+    },
+    {
+        "concept_name": "核电磁脉冲敏感度测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "nuclear EM pulse sensitivity measurement"
+        }
+    },
+    {
+        "concept_name": "检定",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "verification"
+        }
+    },
+    {
+        "concept_name": "检定系统[表]",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "verification scheme"
+        }
+    },
+    {
+        "concept_name": "检定结果[不合格]通知书",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "rejection notice of verification"
+        }
+    },
+    {
+        "concept_name": "检定证书",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "verification certificate"
+        }
+    },
+    {
+        "concept_name": "检验证书",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "certificate of inspection"
+        }
+    },
+    {
+        "concept_name": "模拟式测量仪器",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "analogue measuring instrument"
+        }
+    },
+    {
+        "concept_name": "比较式[测量]仪器",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "comparison [measuring] instrument"
+        }
+    },
+    {
+        "concept_name": "比较测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "comparison measurement"
+        }
+    },
+    {
+        "concept_name": "法定测量单位",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "legal unit of measurement"
+        }
+    },
+    {
+        "concept_name": "测试中心",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "test center"
+        }
+    },
+    {
+        "concept_name": "测试仪",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "tester"
+        }
+    },
+    {
+        "concept_name": "测试报告",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "test report"
+        }
+    },
+    {
+        "concept_name": "测试数据",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "test data"
+        }
+    },
+    {
+        "concept_name": "测试方式",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "test mode"
+        }
+    },
+    {
+        "concept_name": "测试环境",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "test environment"
+        }
+    },
+    {
+        "concept_name": "测试范围",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "test area"
+        }
+    },
+    {
+        "concept_name": "测试记录",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "test record"
+        }
+    },
+    {
+        "concept_name": "测试设备",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "test equipment"
+        }
+    },
+    {
+        "concept_name": "测试软件",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "test software"
+        }
+    },
+    {
+        "concept_name": "测试顺序",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "test sequence"
+        }
+    },
+    {
+        "concept_name": "测量仪器",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "measuring instrument"
+        }
+    },
+    {
+        "concept_name": "测量准确度",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "accuracy of measurement"
+        }
+    },
+    {
+        "concept_name": "测量对象",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "measuring object"
+        }
+    },
+    {
+        "concept_name": "测量方法",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "method of measurement"
+        }
+    },
+    {
+        "concept_name": "测量样本",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "measurement sample"
+        }
+    },
+    {
+        "concept_name": "测量程序",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "measurement procedure"
+        }
+    },
+    {
+        "concept_name": "测量系统",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "measuring system"
+        }
+    },
+    {
+        "concept_name": "测量结果",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "result of a measurement"
+        }
+    },
+    {
+        "concept_name": "测量设备",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "measuring equipment"
+        }
+    },
+    {
+        "concept_name": "测量设备特性",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "characteristics of measuring equipment"
+        }
+    },
+    {
+        "concept_name": "测量过程",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "measurement process"
+        }
+    },
+    {
+        "concept_name": "测量链",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "measuring chain"
+        }
+    },
+    {
+        "concept_name": "灵敏度",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "sensitivity"
+        }
+    },
+    {
+        "concept_name": "热测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "thermal measurement"
+        }
+    },
+    {
+        "concept_name": "现场测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "on-site measurement"
+        }
+    },
+    {
+        "concept_name": "电子[学]测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "electronic measurement"
+        }
+    },
+    {
+        "concept_name": "电磁兼容[性]测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "electromagnetic compatibility measurement"
+        }
+    },
+    {
+        "concept_name": "电磁干扰测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "英文": "electromagnetic interference measurement ;EMI measurement",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "electromagnetic interference measurement"
+        }
+    },
+    {
+        "concept_name": "电磁干扰诊断技术",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "EMI diagnosing technology"
+        }
+    },
+    {
+        "concept_name": "电磁引爆引燃安全系数测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "EM detonation and firing safety factor measurement"
+        }
+    },
+    {
+        "concept_name": "电磁敏感度测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "electromagnetic sensitivity measurement"
+        }
+    },
+    {
+        "concept_name": "电磁测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "electromagnetic measurement"
+        }
+    },
+    {
+        "concept_name": "电离层辐射测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "ionospheric radiation measurement"
+        }
+    },
+    {
+        "concept_name": "相对误差",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "relative error"
+        }
+    },
+    {
+        "concept_name": "瞬态测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "instantaneous measurement"
+        }
+    },
+    {
+        "concept_name": "磁导率",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "[magnetic] permeability"
+        }
+    },
+    {
+        "concept_name": "磁导率测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "permeability measurement"
+        }
+    },
+    {
+        "concept_name": "磨损试验",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "wear test"
+        }
+    },
+    {
+        "concept_name": "离线测试",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "off-line test"
+        }
+    },
+    {
+        "concept_name": "积分式[测量]仪器",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "integrating [measuring] instrument"
+        }
+    },
+    {
+        "concept_name": "等精度测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "equal precision measurement"
+        }
+    },
+    {
+        "concept_name": "粗[大误]差",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "gross error"
+        }
+    },
+    {
+        "concept_name": "系统测试",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "system test"
+        }
+    },
+    {
+        "concept_name": "系统电磁兼容性试验",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "EMC test of systems"
+        }
+    },
+    {
+        "concept_name": "系统误差",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "systematic error"
+        }
+    },
+    {
+        "concept_name": "累计式[测量]仪器",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "totalizing [measuring] instrument"
+        }
+    },
+    {
+        "concept_name": "约定参照标尺",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "conventional reference scale"
+        }
+    },
+    {
+        "concept_name": "组合测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "measurement in a closed series"
+        }
+    },
+    {
+        "concept_name": "绝对测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "absolute measurement"
+        }
+    },
+    {
+        "concept_name": "能力测试",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "proficiency testing"
+        }
+    },
+    {
+        "concept_name": "自动测试模块",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "automatic test module"
+        }
+    },
+    {
+        "concept_name": "自动测试设备",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "automatic test equipment"
+        }
+    },
+    {
+        "concept_name": "计算机辅助测试",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "computer aided testing"
+        }
+    },
+    {
+        "concept_name": "计量[学]",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "metrology"
+        }
+    },
+    {
+        "concept_name": "计量保证",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "metrological assurance"
+        }
+    },
+    {
+        "concept_name": "计量保证体系",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "metrological assurance system"
+        }
+    },
+    {
+        "concept_name": "计量检定规程",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "regulation of metrological verification"
+        }
+    },
+    {
+        "concept_name": "计量监督",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "metrological supervision"
+        }
+    },
+    {
+        "concept_name": "计量确认",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "metrological confirmation"
+        }
+    },
+    {
+        "concept_name": "记录式[测量]仪器",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "recording [measuring] instrument"
+        }
+    },
+    {
+        "concept_name": "试验",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "test"
+        }
+    },
+    {
+        "concept_name": "调准",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "alignment"
+        }
+    },
+    {
+        "concept_name": "调整",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "adjustment"
+        }
+    },
+    {
+        "concept_name": "辐射发射安全系数测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "radiation emission safety factor measurement"
+        }
+    },
+    {
+        "concept_name": "辐射发射测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "radiation emission measurement"
+        }
+    },
+    {
+        "concept_name": "重复性",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "repeatability"
+        }
+    },
+    {
+        "concept_name": "量值传递",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "dissemination of the value of q quantity"
+        }
+    },
+    {
+        "concept_name": "量制",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "system of quantities"
+        }
+    },
+    {
+        "concept_name": "量程",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "span"
+        }
+    },
+    {
+        "concept_name": "量纲",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "dimension of a quantity"
+        }
+    },
+    {
+        "concept_name": "量纲为1的量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "quantity of dimension one"
+        }
+    },
+    {
+        "concept_name": "间接测量法",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "indirect method of measurement"
+        }
+    },
+    {
+        "concept_name": "随机误差",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "random error"
+        }
+    },
+    {
+        "concept_name": "零位测试",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "zero testing"
+        }
+    },
+    {
+        "concept_name": "零位测量方法",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "null method of measurement"
+        }
+    },
+    {
+        "concept_name": "零值误差",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "zero error"
+        }
+    },
+    {
+        "concept_name": "零漂",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "zero drift"
+        }
+    },
+    {
+        "concept_name": "静电放电干扰测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "electrostatic discharge interference measurement"
+        }
+    },
+    {
+        "concept_name": "静电放电敏感度测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "electrostatic discharge sensitivity measurement"
+        }
+    },
+    {
+        "concept_name": "非等精度测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "unequal precision measurement"
+        }
+    },
+    {
+        "concept_name": "频谱特性测量",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "spectral characteristic measurement"
+        }
+    },
+    {
+        "concept_name": "额定工作条件",
+        "details": {
+            "学科": "航天科学技术_航天计量与测试",
+            "见载": "《航天科学技术名词》第一版",
+            "英文名": "rated operating conditions"
+        }
+    }
+]

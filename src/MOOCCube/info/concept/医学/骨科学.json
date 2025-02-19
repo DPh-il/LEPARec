@@ -1,0 +1,1483 @@
+[
+    {
+        "concept_name": "上髁炎",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "epicondylitis"
+        }
+    },
+    {
+        "concept_name": "下肢不等长",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "leg length discrepancy"
+        }
+    },
+    {
+        "concept_name": "人字形石膏",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "spica cast"
+        }
+    },
+    {
+        "concept_name": "仰趾内翻足",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "talipes calcaneovarus"
+        }
+    },
+    {
+        "concept_name": "低位髌骨",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "patella baja"
+        }
+    },
+    {
+        "concept_name": "假体",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "prosthesis"
+        }
+    },
+    {
+        "concept_name": "假关节",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "pseudarthrosis"
+        }
+    },
+    {
+        "concept_name": "假肢",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "artificial limb"
+        }
+    },
+    {
+        "concept_name": "健腿牵引[术]",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Hoke well-leg traction"
+        }
+    },
+    {
+        "concept_name": "充气夹板",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "inflatable splint"
+        }
+    },
+    {
+        "concept_name": "全身脆性骨硬化",
+        "details": {
+            "学科": "医学_骨科学",
+            "英文": "osteopoikilosis ;osteopathia con- densans disseminata",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "osteopoikilosis"
+        }
+    },
+    {
+        "concept_name": "关节内陷",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "arthrokatadysis"
+        }
+    },
+    {
+        "concept_name": "关节周围炎",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "periarthritis"
+        }
+    },
+    {
+        "concept_name": "关节囊切开术",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "capsulotomy"
+        }
+    },
+    {
+        "concept_name": "关节囊缝合术",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "capsulorrhaphy"
+        }
+    },
+    {
+        "concept_name": "关节强直",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ankylosis"
+        }
+    },
+    {
+        "concept_name": "关节成形术",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "arthroplasty"
+        }
+    },
+    {
+        "concept_name": "关节挛缩",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "arthrogryposis"
+        }
+    },
+    {
+        "concept_name": "关节松弛",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "arthrochalasis"
+        }
+    },
+    {
+        "concept_name": "关节病",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "arthrosis"
+        }
+    },
+    {
+        "concept_name": "关节融合术",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "arthrodesis"
+        }
+    },
+    {
+        "concept_name": "关节软骨钙沉着症",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "chondro-calcinosis articularis"
+        }
+    },
+    {
+        "concept_name": "关节造影[术]",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "arthrography"
+        }
+    },
+    {
+        "concept_name": "关节镜检查",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "arthroscopy"
+        }
+    },
+    {
+        "concept_name": "关节面骨折",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "articular surface fracture"
+        }
+    },
+    {
+        "concept_name": "内固定",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "internal fixation"
+        }
+    },
+    {
+        "concept_name": "内生软骨瘤病",
+        "details": {
+            "学科": "医学_骨科学",
+            "英文": "enchondromatosis ;Ollier disease",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "enchondromatosis"
+        }
+    },
+    {
+        "concept_name": "切开复位[术]",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "open reduction"
+        }
+    },
+    {
+        "concept_name": "创伤后骨萎缩",
+        "details": {
+            "学科": "医学_骨科学",
+            "英文": "Sudeck atrophy ;post-traumatic atrophy of bone",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Sudeck atrophy"
+        }
+    },
+    {
+        "concept_name": "剥脱性骨软骨炎",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "osteochondritis dissecans"
+        }
+    },
+    {
+        "concept_name": "加压钢板固定[术]",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "compression plating"
+        }
+    },
+    {
+        "concept_name": "加盖术",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "shelf operation"
+        }
+    },
+    {
+        "concept_name": "动脉瘤性骨囊肿",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "aneurysmal bone cyst"
+        }
+    },
+    {
+        "concept_name": "助行器",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "walker"
+        }
+    },
+    {
+        "concept_name": "卢克手术",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Luque technique"
+        }
+    },
+    {
+        "concept_name": "周围神经卡压症",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "peripheral entrapment neuro- pathies"
+        }
+    },
+    {
+        "concept_name": "哈氏棒手术",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Harrington rod operation"
+        }
+    },
+    {
+        "concept_name": "囊性纤维性骨炎",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "osteitis fibrosa cystica"
+        }
+    },
+    {
+        "concept_name": "坐骨神经牵拉试验",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "sciatic stretch test"
+        }
+    },
+    {
+        "concept_name": "复发性风湿病",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "palindromic rheumatism"
+        }
+    },
+    {
+        "concept_name": "外固定",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "external fixation"
+        }
+    },
+    {
+        "concept_name": "外固定器",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "external fixator"
+        }
+    },
+    {
+        "concept_name": "外翻足",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "pes valgus"
+        }
+    },
+    {
+        "concept_name": "多关节炎",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "polyarthritis"
+        }
+    },
+    {
+        "concept_name": "多指畸形",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "polydactylia"
+        }
+    },
+    {
+        "concept_name": "多肌炎",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "polymyositis"
+        }
+    },
+    {
+        "concept_name": "多趾畸形",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "polydactylia"
+        }
+    },
+    {
+        "concept_name": "奥伯试验",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Ober test"
+        }
+    },
+    {
+        "concept_name": "对掌成形术",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "opponensplasty"
+        }
+    },
+    {
+        "concept_name": "尚茨截骨术",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Schanz osteotomy"
+        }
+    },
+    {
+        "concept_name": "尤因肉瘤",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Ewing sarcoma"
+        }
+    },
+    {
+        "concept_name": "嵌入骨折",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "impaction fracture"
+        }
+    },
+    {
+        "concept_name": "巨趾畸形",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "macrodactylia"
+        }
+    },
+    {
+        "concept_name": "布朗架",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Brown frame"
+        }
+    },
+    {
+        "concept_name": "干骺续连症",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "metaphyseal aclasia"
+        }
+    },
+    {
+        "concept_name": "并指畸形",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "syndactylia"
+        }
+    },
+    {
+        "concept_name": "并趾畸形",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "syndactylia"
+        }
+    },
+    {
+        "concept_name": "延迟愈合",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "delayed union"
+        }
+    },
+    {
+        "concept_name": "截肢术",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "amputation"
+        }
+    },
+    {
+        "concept_name": "截骨术",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "osteotomy"
+        }
+    },
+    {
+        "concept_name": "托马斯夹板",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Thomas splint"
+        }
+    },
+    {
+        "concept_name": "抽屉试验",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "drawer test"
+        }
+    },
+    {
+        "concept_name": "指炎",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "dactylitis"
+        }
+    },
+    {
+        "concept_name": "掌腱膜挛缩",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Dupuytren contracture"
+        }
+    },
+    {
+        "concept_name": "接骨板",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "blade plate"
+        }
+    },
+    {
+        "concept_name": "摆动负重相",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "swing phase"
+        }
+    },
+    {
+        "concept_name": "支具",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "brace"
+        }
+    },
+    {
+        "concept_name": "月骨周围脱位",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "perilunar dislocation"
+        }
+    },
+    {
+        "concept_name": "柯莱斯骨折",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Colles fracture"
+        }
+    },
+    {
+        "concept_name": "桡骨茎突狭窄性腱鞘炎",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "de Quervain disease"
+        }
+    },
+    {
+        "concept_name": "椎动脉型颈椎病",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "vertebral artery type of cervical spondylosis"
+        }
+    },
+    {
+        "concept_name": "椎管狭窄",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "spinal stenosis"
+        }
+    },
+    {
+        "concept_name": "横纹肌瘤",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "rhabdomyoma"
+        }
+    },
+    {
+        "concept_name": "沃尔夫定律",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Wolff law"
+        }
+    },
+    {
+        "concept_name": "洛伦茨截骨术",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Lorenz osteotomy"
+        }
+    },
+    {
+        "concept_name": "滑囊炎",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "bursitis"
+        }
+    },
+    {
+        "concept_name": "滑膜瘤",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "synovioma"
+        }
+    },
+    {
+        "concept_name": "爆裂骨折",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "bursting fracture"
+        }
+    },
+    {
+        "concept_name": "爱德生试验",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Adson test"
+        }
+    },
+    {
+        "concept_name": "牵引[术]",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "traction"
+        }
+    },
+    {
+        "concept_name": "畸形愈合",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "malunion"
+        }
+    },
+    {
+        "concept_name": "疲劳骨折",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "fatigue fracture"
+        }
+    },
+    {
+        "concept_name": "破骨细胞瘤",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "osteoclastoma"
+        }
+    },
+    {
+        "concept_name": "硬化性骨髓炎",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "sclerosing osteomyelitis"
+        }
+    },
+    {
+        "concept_name": "神经根型颈椎病",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "cervical spondylotic radiculopathy"
+        }
+    },
+    {
+        "concept_name": "神经病性关节炎",
+        "details": {
+            "学科": "医学_骨科学",
+            "英文": "neuropathic arthritis ;neurogenic arthrosis",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "neuropathic arthritis"
+        }
+    },
+    {
+        "concept_name": "离床活动",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ambulation"
+        }
+    },
+    {
+        "concept_name": "科克尔骨折",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Kocher fracture"
+        }
+    },
+    {
+        "concept_name": "科隆纳手术",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Colonna operation"
+        }
+    },
+    {
+        "concept_name": "筋膜切除术",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "fasciectomy"
+        }
+    },
+    {
+        "concept_name": "类风湿[性]关节炎",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "rheumatoid arthritis"
+        }
+    },
+    {
+        "concept_name": "纤维性骨炎",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "osteitis fibrosa"
+        }
+    },
+    {
+        "concept_name": "缺血性挛缩",
+        "details": {
+            "学科": "医学_骨科学",
+            "又称": " 福克曼挛缩(Volkmann contracture)",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ischemic contracture"
+        }
+    },
+    {
+        "concept_name": "网球肘",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "tennis elbow"
+        }
+    },
+    {
+        "concept_name": "肋骨横突切除术",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "costotransversectomy"
+        }
+    },
+    {
+        "concept_name": "肌[肉]发育不良",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "amyoplasia"
+        }
+    },
+    {
+        "concept_name": "肌腱成形术",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "tenoplasty"
+        }
+    },
+    {
+        "concept_name": "肌腱松解术",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "tenolysis"
+        }
+    },
+    {
+        "concept_name": "股骨头骨骺骨软骨病",
+        "details": {
+            "学科": "医学_骨科学",
+            "英文": "Legg-Calve&1&-Perthes disease ;osteo- chondrosis of capitular epiphysis of femur",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Legg-Calve&1&-Perthes disease"
+        }
+    },
+    {
+        "concept_name": "肢端骨质溶解",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "acro-osteolysis"
+        }
+    },
+    {
+        "concept_name": "肩峰成形术",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "acromioplasty"
+        }
+    },
+    {
+        "concept_name": "肱骨小头骨折",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "capitellum fracture"
+        }
+    },
+    {
+        "concept_name": "胫骨内翻",
+        "details": {
+            "学科": "医学_骨科学",
+            "又称": " 布朗病",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "tibia vara"
+        }
+    },
+    {
+        "concept_name": "胫骨粗隆骨软骨病",
+        "details": {
+            "学科": "医学_骨科学",
+            "英文": "Osgood-Schlatter disease ;apophysitis tibialis adolescentium ;osteochondritis of tibial tubercle",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Osgood-Schlatter disease"
+        }
+    },
+    {
+        "concept_name": "胰岛素样生长因子",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "insulin-like growth factor"
+        }
+    },
+    {
+        "concept_name": "脊柱后凸",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "kyphosis"
+        }
+    },
+    {
+        "concept_name": "脊柱后凸侧弯",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "kyphoscoliosis"
+        }
+    },
+    {
+        "concept_name": "脊椎前移",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "spondylolisthesis"
+        }
+    },
+    {
+        "concept_name": "脊椎滑脱",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "spondylolysis"
+        }
+    },
+    {
+        "concept_name": "脊椎炎",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "spondylitis"
+        }
+    },
+    {
+        "concept_name": "脊椎骨骺发育不良",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "spondylo-epiphyseal dysplasia"
+        }
+    },
+    {
+        "concept_name": "脊神经根切断术",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "rhizotomy"
+        }
+    },
+    {
+        "concept_name": "脊髓型颈椎病",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "cervical spondylotic myelopathy"
+        }
+    },
+    {
+        "concept_name": "脱位",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "dislocation"
+        }
+    },
+    {
+        "concept_name": "脱钙骨基质",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "decalcified bone matrix"
+        }
+    },
+    {
+        "concept_name": "腰椎间盘突出[症]",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "prolapse of lumbar intervertebral disc"
+        }
+    },
+    {
+        "concept_name": "膝内翻",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "genu varum"
+        }
+    },
+    {
+        "concept_name": "膝反屈",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "genu recurvatum"
+        }
+    },
+    {
+        "concept_name": "膝外翻",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "genu valgum"
+        }
+    },
+    {
+        "concept_name": "舒尔曼病",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Scheuermann disease"
+        }
+    },
+    {
+        "concept_name": "色素沉着绒毛结节性滑膜炎",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "pigmented villonodular synovitis"
+        }
+    },
+    {
+        "concept_name": "蒂内尔征",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Tinel sign"
+        }
+    },
+    {
+        "concept_name": "行军骨折",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "march fracture"
+        }
+    },
+    {
+        "concept_name": "赛姆截肢术",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Syme amputation"
+        }
+    },
+    {
+        "concept_name": "趾关节融合",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "synphalangism"
+        }
+    },
+    {
+        "concept_name": "趾炎",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "dactylitis"
+        }
+    },
+    {
+        "concept_name": "跖内收内翻畸形",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "metatarsus adductovarus"
+        }
+    },
+    {
+        "concept_name": "距骨切除术",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "astragalectomy"
+        }
+    },
+    {
+        "concept_name": "距骨周围脱位",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "peritalar dislocation"
+        }
+    },
+    {
+        "concept_name": "跟距骨桥",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "talocalcaneal bridge"
+        }
+    },
+    {
+        "concept_name": "转化生长因子",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "transforming growth factor"
+        }
+    },
+    {
+        "concept_name": "转移因子",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "transfer factor"
+        }
+    },
+    {
+        "concept_name": "软骨母细胞瘤",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "chondroblastoma"
+        }
+    },
+    {
+        "concept_name": "软骨溶解",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "chondrolysis"
+        }
+    },
+    {
+        "concept_name": "软骨黏液样纤维瘤",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "chondromyxoid fibroma"
+        }
+    },
+    {
+        "concept_name": "钙化性软骨营养不良",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "chondrodystrophia calcificans"
+        }
+    },
+    {
+        "concept_name": "闭式引流灌洗",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "closed suction-irrigation"
+        }
+    },
+    {
+        "concept_name": "隐性脊柱裂",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "spina bifida occulta"
+        }
+    },
+    {
+        "concept_name": "静止负重相",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "stance phase"
+        }
+    },
+    {
+        "concept_name": "非骨化性纤维瘤",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "non-ossifying fibroma"
+        }
+    },
+    {
+        "concept_name": "韧带联合",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "syndesmosis"
+        }
+    },
+    {
+        "concept_name": "颅骨锁骨发育不良",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "cleidocranial dysostosis"
+        }
+    },
+    {
+        "concept_name": "颅骨骨盆牵引器",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "halo-pelvic distraction apparatus"
+        }
+    },
+    {
+        "concept_name": "马尔盖涅骨盆骨折",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Malgaigne fracture of pelvis"
+        }
+    },
+    {
+        "concept_name": "骨关节炎",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "osteoarthritis"
+        }
+    },
+    {
+        "concept_name": "骨关节病",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "osteoarthrosis"
+        }
+    },
+    {
+        "concept_name": "骨化性纤维瘤",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ossifying fibroma"
+        }
+    },
+    {
+        "concept_name": "骨坏死",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "osteonecrosis"
+        }
+    },
+    {
+        "concept_name": "骨基质明胶",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "bone matrix gelatin"
+        }
+    },
+    {
+        "concept_name": "骨恶性纤维组织细胞瘤",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "malignant fibrous histiocytoma of bone"
+        }
+    },
+    {
+        "concept_name": "骨成形术",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "osteoplasty"
+        }
+    },
+    {
+        "concept_name": "骨扫描",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "bone scan"
+        }
+    },
+    {
+        "concept_name": "骨旁骨肉瘤",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "parosteal osteosarcoma"
+        }
+    },
+    {
+        "concept_name": "骨样骨瘤",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "osteoid osteoma"
+        }
+    },
+    {
+        "concept_name": "骨生长因子",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "skeletal growth factor"
+        }
+    },
+    {
+        "concept_name": "骨瘤",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "osteoma"
+        }
+    },
+    {
+        "concept_name": "骨盆内移截骨术",
+        "details": {
+            "学科": "医学_骨科学",
+            "又称": " 基阿利手术",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Chiari procedure"
+        }
+    },
+    {
+        "concept_name": "骨科学",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "orthopaedics and tranmatology"
+        }
+    },
+    {
+        "concept_name": "骨脆症",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "fragilitas ossium"
+        }
+    },
+    {
+        "concept_name": "骨营养不良性关节病",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "osteodystrophic arthropathy"
+        }
+    },
+    {
+        "concept_name": "骨衍生生长因子",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "bone-derived growth factor"
+        }
+    },
+    {
+        "concept_name": "骨质减少",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "osteopenia"
+        }
+    },
+    {
+        "concept_name": "骨质溶解",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "osteolysis"
+        }
+    },
+    {
+        "concept_name": "骨软骨炎",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "osteochondritis"
+        }
+    },
+    {
+        "concept_name": "骨软骨病",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "osteochondrosis"
+        }
+    },
+    {
+        "concept_name": "骨软骨瘤病",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "osteochondromatosis"
+        }
+    },
+    {
+        "concept_name": "骨软骨营养不良",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "chondro-osteodystrophy"
+        }
+    },
+    {
+        "concept_name": "骨软骨骨折",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "osteochondral fracture"
+        }
+    },
+    {
+        "concept_name": "骨连接",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "synostosis"
+        }
+    },
+    {
+        "concept_name": "骨骺滑脱",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "epiphyseolisthesis"
+        }
+    },
+    {
+        "concept_name": "骨骺过早融合",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "epiphysiodesis"
+        }
+    },
+    {
+        "concept_name": "骨髓炎",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "osteomyelitis"
+        }
+    },
+    {
+        "concept_name": "骺骨干固定术",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "epiphysiodesis"
+        }
+    },
+    {
+        "concept_name": "髁间Y形骨折",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "intercondylar Y fracture"
+        }
+    },
+    {
+        "concept_name": "髁间Ｔ形骨折",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "intercondylar T fracture"
+        }
+    },
+    {
+        "concept_name": "髂骨致密性骨炎",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "osteitis condensans ilium"
+        }
+    },
+    {
+        "concept_name": "髋关节炎",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "coxitis"
+        }
+    },
+    {
+        "concept_name": "髋臼成形术",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "acetabuloplasty"
+        }
+    },
+    {
+        "concept_name": "髓内钉",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "intramedullary pin"
+        }
+    },
+    {
+        "concept_name": "髓核溶解术",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "neucleolysis"
+        }
+    },
+    {
+        "concept_name": "高位髌骨",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "patella alta"
+        }
+    },
+    {
+        "concept_name": "高弓足",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "pes cavus"
+        }
+    },
+    {
+        "concept_name": "麦氏征",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "McMurray sign"
+        }
+    },
+    {
+        "concept_name": "黄色瘤病",
+        "details": {
+            "学科": "医学_骨科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "xanthomatosis"
+        }
+    }
+]

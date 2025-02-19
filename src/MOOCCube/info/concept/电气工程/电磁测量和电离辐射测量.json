@@ -1,0 +1,1168 @@
+[
+    {
+        "concept_name": "乏时计",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "var-hour meter"
+        }
+    },
+    {
+        "concept_name": "互补测量",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "complementary measurement"
+        }
+    },
+    {
+        "concept_name": "伏安表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "volt-ampere meter"
+        }
+    },
+    {
+        "concept_name": "传输系统",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "transmission system"
+        }
+    },
+    {
+        "concept_name": "兆欧表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "megohmmeter"
+        }
+    },
+    {
+        "concept_name": "准确度",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "accuracy"
+        }
+    },
+    {
+        "concept_name": "准确度等级",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "accuracy class"
+        }
+    },
+    {
+        "concept_name": "分辨率",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "resolution"
+        }
+    },
+    {
+        "concept_name": "剂量率计",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "dose ratemeter"
+        }
+    },
+    {
+        "concept_name": "剂量计",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "dosemeter"
+        }
+    },
+    {
+        "concept_name": "功率因数表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "power-factor meter"
+        }
+    },
+    {
+        "concept_name": "功率表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "又称": " 瓦特表",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "wattmeter"
+        }
+    },
+    {
+        "concept_name": "半导体探测器",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "semiconductor detector"
+        }
+    },
+    {
+        "concept_name": "单功能[测量]仪表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "single-function [measuring] instrument"
+        }
+    },
+    {
+        "concept_name": "单通道记录仪",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "single-channel recorder"
+        }
+    },
+    {
+        "concept_name": "单量程[测量]仪表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "single-range [measuring] instrument"
+        }
+    },
+    {
+        "concept_name": "周期偏差",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "periodic deviation"
+        }
+    },
+    {
+        "concept_name": "固有误差",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "intrinsic error"
+        }
+    },
+    {
+        "concept_name": "基准值",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "fiducial value"
+        }
+    },
+    {
+        "concept_name": "基准误差",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "fiducial error"
+        }
+    },
+    {
+        "concept_name": "基本量程",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "basic range"
+        }
+    },
+    {
+        "concept_name": "多功能[测量]仪表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "multi-function [measuring] instrument"
+        }
+    },
+    {
+        "concept_name": "多标度[测量]仪表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "multi-scale [measuring] instrument"
+        }
+    },
+    {
+        "concept_name": "多通道记录仪",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "multiple-channel recorder"
+        }
+    },
+    {
+        "concept_name": "多量程[测量]仪表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "multi-range [measuring] instrument"
+        }
+    },
+    {
+        "concept_name": "安时计",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "ampere-hour meter"
+        }
+    },
+    {
+        "concept_name": "定值量器",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "material measure"
+        }
+    },
+    {
+        "concept_name": "峰值电压表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "peak voltmeter"
+        }
+    },
+    {
+        "concept_name": "差频测量",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "beat measurement"
+        }
+    },
+    {
+        "concept_name": "平均误差",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "mean error"
+        }
+    },
+    {
+        "concept_name": "库仑表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "coulometer"
+        }
+    },
+    {
+        "concept_name": "开尔文电桥",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "Kelvin bridge"
+        }
+    },
+    {
+        "concept_name": "录波器",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "oscillograph"
+        }
+    },
+    {
+        "concept_name": "影响系数",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "influence coefficient"
+        }
+    },
+    {
+        "concept_name": "微伏表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "microvoltmeter"
+        }
+    },
+    {
+        "concept_name": "微安表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "microammeter"
+        }
+    },
+    {
+        "concept_name": "微差[测量]仪表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "differential [measuring] instru- ment"
+        }
+    },
+    {
+        "concept_name": "微差测量",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "differential measurement"
+        }
+    },
+    {
+        "concept_name": "总和[测量]仪表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "summation [measuring] instru- ment"
+        }
+    },
+    {
+        "concept_name": "惠斯通电桥",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "Wheatstone bridge"
+        }
+    },
+    {
+        "concept_name": "指示[测量]仪表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "indicating [measuring] instrument"
+        }
+    },
+    {
+        "concept_name": "指示值",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "indicated value"
+        }
+    },
+    {
+        "concept_name": "指零测量",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "null measurement"
+        }
+    },
+    {
+        "concept_name": "数字[测量]仪表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "digital [measuring] instrument"
+        }
+    },
+    {
+        "concept_name": "数字测量系统",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "digital measuring system"
+        }
+    },
+    {
+        "concept_name": "数字电压表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "digital voltmeter"
+        }
+    },
+    {
+        "concept_name": "数字电流表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "digital ammeter"
+        }
+    },
+    {
+        "concept_name": "数字电阻表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "digital ohmmeter"
+        }
+    },
+    {
+        "concept_name": "数字记录仪",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "digital recorder"
+        }
+    },
+    {
+        "concept_name": "无功功率表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "又称": " 乏表",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "varmeter"
+        }
+    },
+    {
+        "concept_name": "智能测量仪表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "intelligent measuring instrument"
+        }
+    },
+    {
+        "concept_name": "替代测量",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "substitution measurement"
+        }
+    },
+    {
+        "concept_name": "最大需量计",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "maximum demand meter"
+        }
+    },
+    {
+        "concept_name": "有效量程",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "effective range"
+        }
+    },
+    {
+        "concept_name": "极限误差",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "limiting error"
+        }
+    },
+    {
+        "concept_name": "标准偏差",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "standard deviation"
+        }
+    },
+    {
+        "concept_name": "标准电容",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "standard capacitor"
+        }
+    },
+    {
+        "concept_name": "标准电感",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "standard inductor"
+        }
+    },
+    {
+        "concept_name": "标准电池",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "standard cell"
+        }
+    },
+    {
+        "concept_name": "标准电阻",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "standard resistor"
+        }
+    },
+    {
+        "concept_name": "校准",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "calibration"
+        }
+    },
+    {
+        "concept_name": "校正因数",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "correction factor"
+        }
+    },
+    {
+        "concept_name": "检流计",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "galvanometer"
+        }
+    },
+    {
+        "concept_name": "检测仪表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "detecting instrument"
+        }
+    },
+    {
+        "concept_name": "模拟[测量]仪表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "analogue [measuring] instrument"
+        }
+    },
+    {
+        "concept_name": "比较值",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "comparison value"
+        }
+    },
+    {
+        "concept_name": "比较测量",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "comparison measurement"
+        }
+    },
+    {
+        "concept_name": "毫伏表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "milivoltmeter"
+        }
+    },
+    {
+        "concept_name": "毫安表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "miliammeter"
+        }
+    },
+    {
+        "concept_name": "活度测量仪",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "activity meter"
+        }
+    },
+    {
+        "concept_name": "测量[用火花]间隙",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "measuring spark gap"
+        }
+    },
+    {
+        "concept_name": "测量仪表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "measuring instrument"
+        }
+    },
+    {
+        "concept_name": "测量电桥",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "measuring bridge"
+        }
+    },
+    {
+        "concept_name": "测量系统",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "measuring system"
+        }
+    },
+    {
+        "concept_name": "测量设备",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "measuring equipment"
+        }
+    },
+    {
+        "concept_name": "漂移",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "drift"
+        }
+    },
+    {
+        "concept_name": "灵敏度",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "sensitivity"
+        }
+    },
+    {
+        "concept_name": "照射量率计",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "exposure ratemeter"
+        }
+    },
+    {
+        "concept_name": "照射量计",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "exposure meter"
+        }
+    },
+    {
+        "concept_name": "爱泼斯坦测量装置",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "Epstein measuring system"
+        }
+    },
+    {
+        "concept_name": "瓦时计",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "watt-hour meter"
+        }
+    },
+    {
+        "concept_name": "电[气]测量仪表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electrical measuring instrument"
+        }
+    },
+    {
+        "concept_name": "电位差计",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "potentiometer"
+        }
+    },
+    {
+        "concept_name": "电压表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "又称": " 伏特表",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "voltmeter"
+        }
+    },
+    {
+        "concept_name": "电子测量仪表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electronic measuring instrument"
+        }
+    },
+    {
+        "concept_name": "电容表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "capacitance meter"
+        }
+    },
+    {
+        "concept_name": "电度表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "kilowatt-hour meter"
+        }
+    },
+    {
+        "concept_name": "电感表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "inductance meter"
+        }
+    },
+    {
+        "concept_name": "电流表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "又称": " 安培表",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "ammeter"
+        }
+    },
+    {
+        "concept_name": "电测[量]",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electric [quantity] measurement"
+        }
+    },
+    {
+        "concept_name": "电离辐射测量",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "ionizing radiation measurement"
+        }
+    },
+    {
+        "concept_name": "电阻表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "又称": " 欧姆表",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "ohmmeter"
+        }
+    },
+    {
+        "concept_name": "百分数误差",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "percentage error"
+        }
+    },
+    {
+        "concept_name": "盖革-米勒计数器",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "Geiger-Müller counter"
+        }
+    },
+    {
+        "concept_name": "直接作用式仪表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "direct acting instrument"
+        }
+    },
+    {
+        "concept_name": "直接测量",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "direct measurement"
+        }
+    },
+    {
+        "concept_name": "相位表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "phase meter"
+        }
+    },
+    {
+        "concept_name": "相对误差",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "relative error"
+        }
+    },
+    {
+        "concept_name": "真值",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "true value"
+        }
+    },
+    {
+        "concept_name": "瞬态数字记录仪",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "transient digital recorder"
+        }
+    },
+    {
+        "concept_name": "矫顽力计",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "coercivity meter"
+        }
+    },
+    {
+        "concept_name": "磁位计",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "magnetic potentiometer"
+        }
+    },
+    {
+        "concept_name": "磁变化仪",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "magnetic variometer"
+        }
+    },
+    {
+        "concept_name": "磁导计",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "permeameter"
+        }
+    },
+    {
+        "concept_name": "磁强计",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "magnetometer"
+        }
+    },
+    {
+        "concept_name": "磁测[量]",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "magnetic [quantity] measurement"
+        }
+    },
+    {
+        "concept_name": "磁测仪表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "magnetic measuring instrument"
+        }
+    },
+    {
+        "concept_name": "磁滞回线仪",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "hysteresisograph"
+        }
+    },
+    {
+        "concept_name": "磁特性自动测量装置",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "automatic system for measuring magnetic characteristics"
+        }
+    },
+    {
+        "concept_name": "磁致伸缩测试仪",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "magnetostriction testing meter"
+        }
+    },
+    {
+        "concept_name": "磁通表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "flux meter"
+        }
+    },
+    {
+        "concept_name": "示波器",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "oscilloscope"
+        }
+    },
+    {
+        "concept_name": "积算[测量]仪表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "integrating [measuring] instru- ment"
+        }
+    },
+    {
+        "concept_name": "稳定性误差",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "stability error"
+        }
+    },
+    {
+        "concept_name": "粒子注量率计",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "particle fluence ratemeter"
+        }
+    },
+    {
+        "concept_name": "精[密]度",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "precision"
+        }
+    },
+    {
+        "concept_name": "约定真值",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "conventional true value"
+        }
+    },
+    {
+        "concept_name": "绝对误差",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "absolute error"
+        }
+    },
+    {
+        "concept_name": "绝缘电阻表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "insulation resistance meter"
+        }
+    },
+    {
+        "concept_name": "计数管",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "counter tube"
+        }
+    },
+    {
+        "concept_name": "计算机自动测量和控制",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "CAMAC"
+        }
+    },
+    {
+        "concept_name": "记录[测量]仪表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "recording [measuring] instrument"
+        }
+    },
+    {
+        "concept_name": "调整",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "adjustment"
+        }
+    },
+    {
+        "concept_name": "谐振测量",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "resonance measurement"
+        }
+    },
+    {
+        "concept_name": "质谱仪",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "mass spectrometer"
+        }
+    },
+    {
+        "concept_name": "质谱摄谱仪",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "mass spectrograph"
+        }
+    },
+    {
+        "concept_name": "辐射[能]谱仪",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "radiation spectrometer"
+        }
+    },
+    {
+        "concept_name": "辐射指示器",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "radiation indicator"
+        }
+    },
+    {
+        "concept_name": "辐射探测器",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "radiation detector"
+        }
+    },
+    {
+        "concept_name": "辐射测量仪",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "英文": "radiation meter ;radiation measur- ing assembly",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "radiation meter"
+        }
+    },
+    {
+        "concept_name": "辐射监测仪",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "radiation monitor"
+        }
+    },
+    {
+        "concept_name": "辐射通量计",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "radiant flux meter"
+        }
+    },
+    {
+        "concept_name": "重调",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "readjustment"
+        }
+    },
+    {
+        "concept_name": "量程",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "span"
+        }
+    },
+    {
+        "concept_name": "铁磁录波器",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "ferromagnetic oscillograph"
+        }
+    },
+    {
+        "concept_name": "闪烁探测器",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "scintillation detector"
+        }
+    },
+    {
+        "concept_name": "闪烁计数器",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "scintillation counter"
+        }
+    },
+    {
+        "concept_name": "间接作用式仪表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "indirect acting instrument"
+        }
+    },
+    {
+        "concept_name": "间接测量",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "indirect measurement"
+        }
+    },
+    {
+        "concept_name": "随机偏差",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "random deviation"
+        }
+    },
+    {
+        "concept_name": "静电电压表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electrostatic voltmeter"
+        }
+    },
+    {
+        "concept_name": "静电计",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electrometer"
+        }
+    },
+    {
+        "concept_name": "预调",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "preliminary adjustment"
+        }
+    },
+    {
+        "concept_name": "频率表",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "frequency meter"
+        }
+    },
+    {
+        "concept_name": "ＸＹ记录仪",
+        "details": {
+            "学科": "电气工程_电磁测量和电离辐射测量",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "XY recorder"
+        }
+    }
+]

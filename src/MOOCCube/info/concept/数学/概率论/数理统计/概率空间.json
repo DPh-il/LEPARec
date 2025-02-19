@@ -1,0 +1,403 @@
+[
+    {
+        "concept_name": "λ系",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "λ-system"
+        }
+    },
+    {
+        "concept_name": "π系",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "π-system"
+        }
+    },
+    {
+        "concept_name": "不可能事件",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "impossible event"
+        }
+    },
+    {
+        "concept_name": "不相容事件",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "mutually exclusive events"
+        }
+    },
+    {
+        "concept_name": "两两独立[的]",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "pairwise independent"
+        }
+    },
+    {
+        "concept_name": "事件",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "event"
+        }
+    },
+    {
+        "concept_name": "事件σ域",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "又称": " 事件σ代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "σ-field of events"
+        }
+    },
+    {
+        "concept_name": "事件域",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "又称": " 事件代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "field of events"
+        }
+    },
+    {
+        "concept_name": "事件指示函数",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "indicator function of an event"
+        }
+    },
+    {
+        "concept_name": "事件的交",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "intersection of events"
+        }
+    },
+    {
+        "concept_name": "事件的对称差",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "symmetric difference of events"
+        }
+    },
+    {
+        "concept_name": "事件的差",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "difference of events"
+        }
+    },
+    {
+        "concept_name": "事件的并",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "union of events"
+        }
+    },
+    {
+        "concept_name": "事件的蕴含",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "implication of events"
+        }
+    },
+    {
+        "concept_name": "事件的补",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "complement of an event"
+        }
+    },
+    {
+        "concept_name": "伯努利试验",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "Bernoulli trials"
+        }
+    },
+    {
+        "concept_name": "先验概率",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "prior probability"
+        }
+    },
+    {
+        "concept_name": "全概率公式",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "total probability formula"
+        }
+    },
+    {
+        "concept_name": "几乎必然",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "almost sure"
+        }
+    },
+    {
+        "concept_name": "几何概率",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "geometric probability"
+        }
+    },
+    {
+        "concept_name": "单调类",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "monotone class"
+        }
+    },
+    {
+        "concept_name": "原子[事件]",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "atom [event]"
+        }
+    },
+    {
+        "concept_name": "古典概率",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "classical probability"
+        }
+    },
+    {
+        "concept_name": "可交换[的]",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "exchangeable"
+        }
+    },
+    {
+        "concept_name": "可略[的]",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "negligible"
+        }
+    },
+    {
+        "concept_name": "后验概率",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "posterior probability"
+        }
+    },
+    {
+        "concept_name": "基本事件",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "elementary event"
+        }
+    },
+    {
+        "concept_name": "基本事件空间",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "space of elementary events"
+        }
+    },
+    {
+        "concept_name": "完全概率空间",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "complete probability space"
+        }
+    },
+    {
+        "concept_name": "对立事件",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "complementary events"
+        }
+    },
+    {
+        "concept_name": "必然事件",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "certain event"
+        }
+    },
+    {
+        "concept_name": "普遍可测[的]",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "universally measurable"
+        }
+    },
+    {
+        "concept_name": "条件概率",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "conditional probability"
+        }
+    },
+    {
+        "concept_name": "样本点",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "sample point"
+        }
+    },
+    {
+        "concept_name": "样本空间",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "sample space"
+        }
+    },
+    {
+        "concept_name": "概率",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "probability",
+            "prerequisite": [
+                "K_概率分布_数学"
+            ]
+        }
+    },
+    {
+        "concept_name": "概率测度",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "probability measure",
+            "prerequisite": [
+                "K_概率分布_数学",
+                "K_概率分布_数学"
+            ]
+        }
+    },
+    {
+        "concept_name": "概率空间",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "probability space"
+        }
+    },
+    {
+        "concept_name": "概率论",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "probability theory"
+        }
+    },
+    {
+        "concept_name": "独立[的]",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "independent"
+        }
+    },
+    {
+        "concept_name": "独立试验",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "independent trials"
+        }
+    },
+    {
+        "concept_name": "相依[的]",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "dependent"
+        }
+    },
+    {
+        "concept_name": "组合概率",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "combinatorial probability"
+        }
+    },
+    {
+        "concept_name": "贝叶斯公式",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "Bayes formula"
+        }
+    },
+    {
+        "concept_name": "量子概率",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "quantum probability"
+        }
+    },
+    {
+        "concept_name": "随机[的]",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "random"
+        }
+    },
+    {
+        "concept_name": "随机现象",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "random phenomenon"
+        }
+    },
+    {
+        "concept_name": "随机试验",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "random trial"
+        }
+    },
+    {
+        "concept_name": "零[概率]事件",
+        "details": {
+            "学科": "数学_概率论_数理统计_概率空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "null event"
+        }
+    }
+]

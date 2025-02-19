@@ -1,0 +1,1470 @@
+[
+    {
+        "concept_name": "K拟共形映射",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "K-quasi-conformal mapping"
+        }
+    },
+    {
+        "concept_name": "[分]支点",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "branching point"
+        }
+    },
+    {
+        "concept_name": "[增长]级",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "growth order"
+        }
+    },
+    {
+        "concept_name": "[整函数的]亏格",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "genus [of entire function]"
+        }
+    },
+    {
+        "concept_name": "[整函数的]型",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "type [of entire function]"
+        }
+    },
+    {
+        "concept_name": "万有泰希米勒空间",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "universal Teichmu&4&ller space"
+        }
+    },
+    {
+        "concept_name": "万有覆盖面",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "universal covering surface"
+        }
+    },
+    {
+        "concept_name": "三圆定理",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "three circles theorem"
+        }
+    },
+    {
+        "concept_name": "中心指标",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "central index"
+        }
+    },
+    {
+        "concept_name": "主部",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "principal part"
+        }
+    },
+    {
+        "concept_name": "乘积展开式",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "product expansion"
+        }
+    },
+    {
+        "concept_name": "亏值",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "deficient value"
+        }
+    },
+    {
+        "concept_name": "亏量",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "deficiency"
+        }
+    },
+    {
+        "concept_name": "从属性",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "subordination"
+        }
+    },
+    {
+        "concept_name": "代数体函数",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "algebroidal function"
+        }
+    },
+    {
+        "concept_name": "代数奇点",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "algebraic singularity"
+        }
+    },
+    {
+        "concept_name": "伯格曼空间",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Bergman space"
+        }
+    },
+    {
+        "concept_name": "伸缩商",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "dilatation quotient"
+        }
+    },
+    {
+        "concept_name": "位似变换",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "homothetic transformation"
+        }
+    },
+    {
+        "concept_name": "例外值",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "exceptional value"
+        }
+    },
+    {
+        "concept_name": "克莱因群",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Kleinian group"
+        }
+    },
+    {
+        "concept_name": "全纯凸域",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "holomorphically convex domain"
+        }
+    },
+    {
+        "concept_name": "全纯函数",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "holomorphic function"
+        }
+    },
+    {
+        "concept_name": "全纯包",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "envelope of holomorphy"
+        }
+    },
+    {
+        "concept_name": "全纯域",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "又称": " 正则域",
+            "见载": "《数学名词》第一版",
+            "英文名": "domain of holomorphy"
+        }
+    },
+    {
+        "concept_name": "全纯映射",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "holomorphic mapping"
+        }
+    },
+    {
+        "concept_name": "共形不变量",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "conformal invariant"
+        }
+    },
+    {
+        "concept_name": "共形映射",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "曾称": " 保形映射 ；共形映照",
+            "见载": "《数学名词》第一版",
+            "英文名": "conformal mapping"
+        }
+    },
+    {
+        "concept_name": "典型域",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "classical domain"
+        }
+    },
+    {
+        "concept_name": "典范乘积",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "canonical product"
+        }
+    },
+    {
+        "concept_name": "凸区域",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "convex domain"
+        }
+    },
+    {
+        "concept_name": "函数构造论",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "constructive theory of functions"
+        }
+    },
+    {
+        "concept_name": "函数逼近论",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "approximation theory of functions"
+        }
+    },
+    {
+        "concept_name": "分支",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "branch",
+            "prerequisite": [
+                "K_树表示_数学"
+            ]
+        }
+    },
+    {
+        "concept_name": "切比雪夫多项式",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Chebyshev polynomial"
+        }
+    },
+    {
+        "concept_name": "区域",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "domain"
+        }
+    },
+    {
+        "concept_name": "半平面",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "half plane"
+        }
+    },
+    {
+        "concept_name": "单位圆[盘]",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "unit disk"
+        }
+    },
+    {
+        "concept_name": "单值函数",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "英文": "single valued function ;uniform function",
+            "见载": "《数学名词》第一版",
+            "英文名": "single valued function"
+        }
+    },
+    {
+        "concept_name": "单值分支",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "one-valued branch"
+        }
+    },
+    {
+        "concept_name": "单值化",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "uniformization"
+        }
+    },
+    {
+        "concept_name": "单值化定理",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "uniformization theorem"
+        }
+    },
+    {
+        "concept_name": "单叶函数",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "univalent function"
+        }
+    },
+    {
+        "concept_name": "单演",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "monogenic"
+        }
+    },
+    {
+        "concept_name": "单演函数",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "monogenic function"
+        }
+    },
+    {
+        "concept_name": "单连通[区]域",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "simply connected domain"
+        }
+    },
+    {
+        "concept_name": "单连通黎曼[曲]面",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "simply connected Riemann surface"
+        }
+    },
+    {
+        "concept_name": "双曲型黎曼[曲]面",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "hyperbolic Riemann surface"
+        }
+    },
+    {
+        "concept_name": "可去奇点",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "removable singularity"
+        }
+    },
+    {
+        "concept_name": "吸性不动点",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "attractive fix-point"
+        }
+    },
+    {
+        "concept_name": "基本[区]域",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "fundamental region"
+        }
+    },
+    {
+        "concept_name": "增长性",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "growth"
+        }
+    },
+    {
+        "concept_name": "复分析",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "complex analysis"
+        }
+    },
+    {
+        "concept_name": "复变数",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "complex variable"
+        }
+    },
+    {
+        "concept_name": "复数的三角形式",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "trigonometrical form of complex number"
+        }
+    },
+    {
+        "concept_name": "复积分",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "complex integral"
+        }
+    },
+    {
+        "concept_name": "复解析动力系统",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "又称": " 复解析动力学",
+            "见载": "《数学名词》第一版",
+            "英文名": "complex analytic dynamics"
+        }
+    },
+    {
+        "concept_name": "多元解析函数",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "analytic function of several variables"
+        }
+    },
+    {
+        "concept_name": "多叶函数",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "multivalent function"
+        }
+    },
+    {
+        "concept_name": "多圆盘",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "polydisc"
+        }
+    },
+    {
+        "concept_name": "多复变函数",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "function of several complex variables"
+        }
+    },
+    {
+        "concept_name": "多重幂级数",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "multiple power series"
+        }
+    },
+    {
+        "concept_name": "多重调和函数",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "pluriharmonic function"
+        }
+    },
+    {
+        "concept_name": "奇点",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "singular point"
+        }
+    },
+    {
+        "concept_name": "奈旺林纳理论",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Nevanlinna theory"
+        }
+    },
+    {
+        "concept_name": "孤立奇点",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "英文": "isolated singular point ;isolated singularity",
+            "见载": "《数学名词》第一版",
+            "英文名": "isolated singular point"
+        }
+    },
+    {
+        "concept_name": "完全解析函数",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "complete analytic function"
+        }
+    },
+    {
+        "concept_name": "完全赖因哈特域",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "complete Reinhardt domain"
+        }
+    },
+    {
+        "concept_name": "完全重值",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "completely multiple value"
+        }
+    },
+    {
+        "concept_name": "实轴",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "real axis",
+            "prerequisite": [
+                "K_闭区间_数学",
+                "K_遍历过程_数学",
+                "K_级数求和_数学"
+            ]
+        }
+    },
+    {
+        "concept_name": "实部",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "real part"
+        }
+    },
+    {
+        "concept_name": "对称原理",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "symmetry principle"
+        }
+    },
+    {
+        "concept_name": "对称点",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "symmetric point"
+        }
+    },
+    {
+        "concept_name": "小林[昭七]度量",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Kobayashi metric"
+        }
+    },
+    {
+        "concept_name": "布拉施克乘积",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Blaschke product"
+        }
+    },
+    {
+        "concept_name": "布洛赫函数",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Bloch function"
+        }
+    },
+    {
+        "concept_name": "广义多圆盘",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "generalized polydisc"
+        }
+    },
+    {
+        "concept_name": "广义解析函数",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "generalized analytic function"
+        }
+    },
+    {
+        "concept_name": "库赞第一问题",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "first problem of Cousin"
+        }
+    },
+    {
+        "concept_name": "库赞第二问题",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "second problem of Cousin"
+        }
+    },
+    {
+        "concept_name": "庞加莱度量",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Poincare&1& metric"
+        }
+    },
+    {
+        "concept_name": "庞加莱级数",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Poincare&1& series"
+        }
+    },
+    {
+        "concept_name": "扩充复平面",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "extended complex plane"
+        }
+    },
+    {
+        "concept_name": "抛物型黎曼[曲]面",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "parabolic Riemann surface"
+        }
+    },
+    {
+        "concept_name": "拟共形反射",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "quasi-conformal reflection"
+        }
+    },
+    {
+        "concept_name": "拟共形映射",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "曾称": " 拟共形映照",
+            "见载": "《数学名词》第一版",
+            "英文名": "quasi-conformal mapping"
+        }
+    },
+    {
+        "concept_name": "拟圆周",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "quasi-circle"
+        }
+    },
+    {
+        "concept_name": "拟对称函数",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "quasi-symmetric function"
+        }
+    },
+    {
+        "concept_name": "指数增长性",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "exponential growth"
+        }
+    },
+    {
+        "concept_name": "插值逼近",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "approximation by interpolation"
+        }
+    },
+    {
+        "concept_name": "收敛半平面",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "half plane of convergence"
+        }
+    },
+    {
+        "concept_name": "收敛圆",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "circle of convergence"
+        }
+    },
+    {
+        "concept_name": "收敛横坐标",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "abscissa of convergence"
+        }
+    },
+    {
+        "concept_name": "收敛轴",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "axis of convergence"
+        }
+    },
+    {
+        "concept_name": "整函数",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "英文": "entire function ;integral function",
+            "见载": "《数学名词》第一版",
+            "英文名": "entire function"
+        }
+    },
+    {
+        "concept_name": "施坦流形",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Stein manifold"
+        }
+    },
+    {
+        "concept_name": "施瓦茨-克里斯托费尔公式",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Schwarz-Christoffel formula"
+        }
+    },
+    {
+        "concept_name": "施瓦茨导数",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Schwarz derivative"
+        }
+    },
+    {
+        "concept_name": "无穷乘积",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "infinite product"
+        }
+    },
+    {
+        "concept_name": "最大模",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "maximum modulus"
+        }
+    },
+    {
+        "concept_name": "最大模定理",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "maximum modulus theorem"
+        }
+    },
+    {
+        "concept_name": "最大项",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "maximum term"
+        }
+    },
+    {
+        "concept_name": "有理函数",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "rational function"
+        }
+    },
+    {
+        "concept_name": "有穷级",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "finite order"
+        }
+    },
+    {
+        "concept_name": "本质奇点",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "essential singular point"
+        }
+    },
+    {
+        "concept_name": "极值点",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "extreme point"
+        }
+    },
+    {
+        "concept_name": "极值长度",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "extremal length"
+        }
+    },
+    {
+        "concept_name": "极点的阶",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "又称": " 极点的重数(multiplicity of pole)",
+            "见载": "《数学名词》第一版",
+            "英文名": "order of pole"
+        }
+    },
+    {
+        "concept_name": "柯西-黎曼方程",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Cauchy-Riemann equations"
+        }
+    },
+    {
+        "concept_name": "柯西型积分",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Cauchy type integral"
+        }
+    },
+    {
+        "concept_name": "柯西积分公式",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Cauchy integral formula"
+        }
+    },
+    {
+        "concept_name": "核函数",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "kernel function"
+        }
+    },
+    {
+        "concept_name": "椭圆型黎曼[曲]面",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "elliptic Riemann surface"
+        }
+    },
+    {
+        "concept_name": "正则[性]横坐标",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "abscissa of regularity"
+        }
+    },
+    {
+        "concept_name": "正规函数",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "normal function"
+        }
+    },
+    {
+        "concept_name": "法图集",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Fatou set"
+        }
+    },
+    {
+        "concept_name": "洛朗级数",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Laurent series"
+        }
+    },
+    {
+        "concept_name": "洛纳方程",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Loewner equation"
+        }
+    },
+    {
+        "concept_name": "渐近值",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "asymptotic value"
+        }
+    },
+    {
+        "concept_name": "渐近路径",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "asymptotic path"
+        }
+    },
+    {
+        "concept_name": "游荡[区]域",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "wandering domain"
+        }
+    },
+    {
+        "concept_name": "狄利克雷级数",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Dirichlet series"
+        }
+    },
+    {
+        "concept_name": "球极平面投影",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "stereographic projection"
+        }
+    },
+    {
+        "concept_name": "留数",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "曾称": " 残数",
+            "见载": "《数学名词》第一版",
+            "英文名": "residue"
+        }
+    },
+    {
+        "concept_name": "相伴收敛半径",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "associated radius of convergence"
+        }
+    },
+    {
+        "concept_name": "确定集",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "determining set"
+        }
+    },
+    {
+        "concept_name": "积分路径",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "path of integration"
+        }
+    },
+    {
+        "concept_name": "素端",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "prime ends"
+        }
+    },
+    {
+        "concept_name": "紧黎曼[曲]面",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "又称": " 闭黎曼[曲]面",
+            "见载": "《数学名词》第一版",
+            "英文名": "compact Riemann surface"
+        }
+    },
+    {
+        "concept_name": "绝对收敛横坐标",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "abscissa of absolute convergence"
+        }
+    },
+    {
+        "concept_name": "缺项级数",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "lacunary series"
+        }
+    },
+    {
+        "concept_name": "聚值集",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "cluster set"
+        }
+    },
+    {
+        "concept_name": "自守函数",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "automorphic function"
+        }
+    },
+    {
+        "concept_name": "自守形式",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "automorphic form"
+        }
+    },
+    {
+        "concept_name": "芒德布罗集",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Mandelbrot set"
+        }
+    },
+    {
+        "concept_name": "芽层",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "sheaf of germs"
+        }
+    },
+    {
+        "concept_name": "若尔当弧",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Jordan arc"
+        }
+    },
+    {
+        "concept_name": "茹利亚方向",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Julia direction"
+        }
+    },
+    {
+        "concept_name": "茹利亚集",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Julia set"
+        }
+    },
+    {
+        "concept_name": "虚轴",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "imaginary axis"
+        }
+    },
+    {
+        "concept_name": "虚部",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "imaginary part"
+        }
+    },
+    {
+        "concept_name": "覆盖面",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "covering surface"
+        }
+    },
+    {
+        "concept_name": "解析函数",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "analytic function"
+        }
+    },
+    {
+        "concept_name": "解析函数元素",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "element of analytic function"
+        }
+    },
+    {
+        "concept_name": "解析函数的芽",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "germ of analytic function"
+        }
+    },
+    {
+        "concept_name": "解析函数的芽层",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "sheaf of germs of analytic function"
+        }
+    },
+    {
+        "concept_name": "解析同胚",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "analytic homeomorphism"
+        }
+    },
+    {
+        "concept_name": "解析多面体",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "analytic polyhedron"
+        }
+    },
+    {
+        "concept_name": "解析完全域",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "analytically complete domain"
+        }
+    },
+    {
+        "concept_name": "解析延拓",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "analytic prolongation"
+        }
+    },
+    {
+        "concept_name": "解析性",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "analyticity"
+        }
+    },
+    {
+        "concept_name": "解析映射",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "analytic mapping"
+        }
+    },
+    {
+        "concept_name": "解析空间",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "analytic space"
+        }
+    },
+    {
+        "concept_name": "解析簇",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "analytic variety"
+        }
+    },
+    {
+        "concept_name": "解析自同构算子",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "analytic automorphism operator"
+        }
+    },
+    {
+        "concept_name": "调和算子",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "harmonic operator"
+        }
+    },
+    {
+        "concept_name": "贝尔斯空间",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Bers space"
+        }
+    },
+    {
+        "concept_name": "赖因哈特域",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Reinhardt domain"
+        }
+    },
+    {
+        "concept_name": "超椭圆积分",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "hyperelliptic integral"
+        }
+    },
+    {
+        "concept_name": "超球",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "hypersphere"
+        }
+    },
+    {
+        "concept_name": "超越整函数",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "transcendental entire function"
+        }
+    },
+    {
+        "concept_name": "超限直径",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "transfinite diameter"
+        }
+    },
+    {
+        "concept_name": "辐角",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "argument"
+        }
+    },
+    {
+        "concept_name": "辐角原理",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "argument principle"
+        }
+    },
+    {
+        "concept_name": "边界对应",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "boundary correspondence"
+        }
+    },
+    {
+        "concept_name": "边界表现",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "boundary behavior"
+        }
+    },
+    {
+        "concept_name": "过度收敛",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "overconvergence"
+        }
+    },
+    {
+        "concept_name": "连续[性]模",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "modulus of continuity"
+        }
+    },
+    {
+        "concept_name": "逼近阶",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "degree of approximation"
+        }
+    },
+    {
+        "concept_name": "部分乘积",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "partial product"
+        }
+    },
+    {
+        "concept_name": "闭曲线",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "closed curve"
+        }
+    },
+    {
+        "concept_name": "阿贝尔微分",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Abelian differential"
+        }
+    },
+    {
+        "concept_name": "阿贝尔积分",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Abelian integral"
+        }
+    },
+    {
+        "concept_name": "零点的阶",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "又称": " 零点的重数(multiplicity of zero)",
+            "见载": "《数学名词》第一版",
+            "英文名": "order of zero"
+        }
+    },
+    {
+        "concept_name": "零级",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "zero order"
+        }
+    },
+    {
+        "concept_name": "非切向极限",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "non-tangential limit"
+        }
+    },
+    {
+        "concept_name": "韦伊域",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Weil domain"
+        }
+    },
+    {
+        "concept_name": "饱和类",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "saturation class"
+        }
+    },
+    {
+        "concept_name": "黎曼[曲]面",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Riemann surface"
+        }
+    },
+    {
+        "concept_name": "黎曼ζ函数",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "见载": "《数学名词》第一版",
+            "英文名": "Riemann zeta-function"
+        }
+    },
+    {
+        "concept_name": "黎曼空间",
+        "details": {
+            "学科": "数学_分析学_复分析",
+            "又称": " 模空间",
+            "见载": "《数学名词》第一版",
+            "英文名": "Riemann space"
+        }
+    }
+]

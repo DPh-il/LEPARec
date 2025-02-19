@@ -1,0 +1,1101 @@
+[
+    {
+        "concept_name": "允许日摄入量",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "英文": "acceptable daily intake ;ADI",
+            "见载": "《农学名词》第一版",
+            "英文名": "acceptable daily intake"
+        }
+    },
+    {
+        "concept_name": "允许浓度",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "admissible concentration"
+        }
+    },
+    {
+        "concept_name": "公害",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "public nuisance"
+        }
+    },
+    {
+        "concept_name": "农业废弃物处理",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "agricultural waste treatment"
+        }
+    },
+    {
+        "concept_name": "农业环境保护",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "agriculture environmental protection"
+        }
+    },
+    {
+        "concept_name": "农业环境监测",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "agriculture environmental monitoring"
+        }
+    },
+    {
+        "concept_name": "农业生态工程",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "agroecological engineering"
+        }
+    },
+    {
+        "concept_name": "农业生态技术",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "agricultural ecotechnique"
+        }
+    },
+    {
+        "concept_name": "农业生态系统",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "agricultural ecosystem"
+        }
+    },
+    {
+        "concept_name": "农村环境",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "rural environment"
+        }
+    },
+    {
+        "concept_name": "农田防护林",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "field safeguarding forest"
+        }
+    },
+    {
+        "concept_name": "农药残留",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "pesticide residue"
+        }
+    },
+    {
+        "concept_name": "农药污染",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "pesticide pollution"
+        }
+    },
+    {
+        "concept_name": "化学需氧量",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "英文": "chemical oxygen demand ;COD",
+            "见载": "《农学名词》第一版",
+            "英文名": "chemical oxygen demand"
+        }
+    },
+    {
+        "concept_name": "半数耐受极限",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "median tolerance limit"
+        }
+    },
+    {
+        "concept_name": "协同效应",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "synergistic effect"
+        }
+    },
+    {
+        "concept_name": "原生污染物",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "又称": " 一次污染物",
+            "见载": "《农学名词》第一版",
+            "英文名": "primary pollutant"
+        }
+    },
+    {
+        "concept_name": "可再生资源",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "renewable resources"
+        }
+    },
+    {
+        "concept_name": "固体废物",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "solid waste"
+        }
+    },
+    {
+        "concept_name": "土地处理系统",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "land treatment system"
+        }
+    },
+    {
+        "concept_name": "土壤侵蚀",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil erosion"
+        }
+    },
+    {
+        "concept_name": "土壤元素背景值",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "background value of soil elements"
+        }
+    },
+    {
+        "concept_name": "土壤净化",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil decontamination"
+        }
+    },
+    {
+        "concept_name": "土壤处置",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil disposal"
+        }
+    },
+    {
+        "concept_name": "土壤处置系统",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil disposal system"
+        }
+    },
+    {
+        "concept_name": "土壤污染",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil contamination"
+        }
+    },
+    {
+        "concept_name": "土壤环境",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil environment"
+        }
+    },
+    {
+        "concept_name": "土壤生态学",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil ecology"
+        }
+    },
+    {
+        "concept_name": "土壤质量评价",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil quality assessment"
+        }
+    },
+    {
+        "concept_name": "土壤退化",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "soil degradation"
+        }
+    },
+    {
+        "concept_name": "垃圾处置",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "disposal of refuse"
+        }
+    },
+    {
+        "concept_name": "基塘系统",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "field-pond system"
+        }
+    },
+    {
+        "concept_name": "大气监测",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "air monitoring"
+        }
+    },
+    {
+        "concept_name": "大气质量",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "air quality"
+        }
+    },
+    {
+        "concept_name": "容许极限",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "allowable limit"
+        }
+    },
+    {
+        "concept_name": "干沉降",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "dry precipitation"
+        }
+    },
+    {
+        "concept_name": "废水处理",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "wastewater treatment"
+        }
+    },
+    {
+        "concept_name": "废物再循环",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "waste recycling"
+        }
+    },
+    {
+        "concept_name": "急性暴露",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "又称": " 急性接触",
+            "见载": "《农学名词》第一版",
+            "英文名": "acute exposure"
+        }
+    },
+    {
+        "concept_name": "急性毒性",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "acute toxicity"
+        }
+    },
+    {
+        "concept_name": "总有机碳",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "英文": "total organic carbon ;TOC",
+            "见载": "《农学名词》第一版",
+            "英文名": "total organic carbon"
+        }
+    },
+    {
+        "concept_name": "总需氧量",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "英文": "total oxygen demend ;TOD",
+            "见载": "《农学名词》第一版",
+            "英文名": "total oxygen demend"
+        }
+    },
+    {
+        "concept_name": "悬浮固体",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "suspended solid"
+        }
+    },
+    {
+        "concept_name": "慢速渗滤系统",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "slow rate system"
+        }
+    },
+    {
+        "concept_name": "拮抗效应",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "antagonistic effect"
+        }
+    },
+    {
+        "concept_name": "指示生物",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "indicator organism"
+        }
+    },
+    {
+        "concept_name": "敏感作物",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "sensitive crop"
+        }
+    },
+    {
+        "concept_name": "无机废水",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "inorganic waste water"
+        }
+    },
+    {
+        "concept_name": "曝气池",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "aeration basin"
+        }
+    },
+    {
+        "concept_name": "最低致死量",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "minimum lethal dose"
+        }
+    },
+    {
+        "concept_name": "最高允许浓度",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "maximum permissible concentration"
+        }
+    },
+    {
+        "concept_name": "最高耐受剂量",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "maximum tolerated dose"
+        }
+    },
+    {
+        "concept_name": "有机废水",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "organic waste water"
+        }
+    },
+    {
+        "concept_name": "森林保护",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "forest conservation"
+        }
+    },
+    {
+        "concept_name": "植物群落",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "phytocoenosium"
+        }
+    },
+    {
+        "concept_name": "植被",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "vegetation"
+        }
+    },
+    {
+        "concept_name": "次生污染物",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "又称": " 二次污染物",
+            "见载": "《农学名词》第一版",
+            "英文名": "secondary pollutant"
+        }
+    },
+    {
+        "concept_name": "残留物",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "residue"
+        }
+    },
+    {
+        "concept_name": "氧化塘",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "lagoon"
+        }
+    },
+    {
+        "concept_name": "水底沉积物",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "benthal deposit"
+        }
+    },
+    {
+        "concept_name": "水污染",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "water pollution"
+        }
+    },
+    {
+        "concept_name": "水污染控制",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "water pollution control"
+        }
+    },
+    {
+        "concept_name": "水污染源",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "water pollution source"
+        }
+    },
+    {
+        "concept_name": "水污染监测",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "water pollution monitoring"
+        }
+    },
+    {
+        "concept_name": "水生生态系统",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "aquatic ecosystem"
+        }
+    },
+    {
+        "concept_name": "水质分析",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "water quality analysis"
+        }
+    },
+    {
+        "concept_name": "水质评价",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "water quality assessment"
+        }
+    },
+    {
+        "concept_name": "污染",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "pollution"
+        }
+    },
+    {
+        "concept_name": "污染水平",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "pollution level"
+        }
+    },
+    {
+        "concept_name": "污染源",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "pollution source"
+        }
+    },
+    {
+        "concept_name": "污染物",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "pollutant"
+        }
+    },
+    {
+        "concept_name": "污染监测",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "pollution monitoring"
+        }
+    },
+    {
+        "concept_name": "污染预测",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "pollution prediction"
+        }
+    },
+    {
+        "concept_name": "污水改良与再用",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "sewage reclamation and reuse"
+        }
+    },
+    {
+        "concept_name": "污水灌溉",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "英文": "sewage irrigation ;wastewater irrigation",
+            "见载": "《农学名词》第一版",
+            "英文名": "sewage irrigation"
+        }
+    },
+    {
+        "concept_name": "污水灌溉系统",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "irrigation system of sewage"
+        }
+    },
+    {
+        "concept_name": "污泥",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "sludge"
+        }
+    },
+    {
+        "concept_name": "沉积物",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "sediments"
+        }
+    },
+    {
+        "concept_name": "沙漠化",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "desertization"
+        }
+    },
+    {
+        "concept_name": "活性污泥",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "activated sludge"
+        }
+    },
+    {
+        "concept_name": "浮游植物",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "phytoplankton"
+        }
+    },
+    {
+        "concept_name": "浮游生物",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "plankton"
+        }
+    },
+    {
+        "concept_name": "湿沉降",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "wet precipitation"
+        }
+    },
+    {
+        "concept_name": "溶解氧",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "英文": "dissolved oxygen ;DO",
+            "见载": "《农学名词》第一版",
+            "英文名": "dissolved oxygen"
+        }
+    },
+    {
+        "concept_name": "灌溉水质标准",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "water quality standard for irrigation"
+        }
+    },
+    {
+        "concept_name": "环境准则",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "environmental guidline"
+        }
+    },
+    {
+        "concept_name": "环境危害",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "environmental hazard"
+        }
+    },
+    {
+        "concept_name": "环境参数",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "environmental parameter"
+        }
+    },
+    {
+        "concept_name": "环境容量",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "environmental capacity"
+        }
+    },
+    {
+        "concept_name": "环境恶化",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "environmental deterioration"
+        }
+    },
+    {
+        "concept_name": "环境指数",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "environmental index"
+        }
+    },
+    {
+        "concept_name": "环境标准",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "environmental standard"
+        }
+    },
+    {
+        "concept_name": "环境模拟",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "environmental simulation"
+        }
+    },
+    {
+        "concept_name": "环境毒性",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "environmental toxicity"
+        }
+    },
+    {
+        "concept_name": "环境评价",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "environmental appraisal"
+        }
+    },
+    {
+        "concept_name": "环境资源",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "environmental resources"
+        }
+    },
+    {
+        "concept_name": "环境预测",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "environmental forecasting"
+        }
+    },
+    {
+        "concept_name": "生境",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "habitat"
+        }
+    },
+    {
+        "concept_name": "生态农业模式",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "ecological agricultural model"
+        }
+    },
+    {
+        "concept_name": "生态危机",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "ecological crisis"
+        }
+    },
+    {
+        "concept_name": "生态圈",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "ecosphere"
+        }
+    },
+    {
+        "concept_name": "生态失调",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "ecological disturbance"
+        }
+    },
+    {
+        "concept_name": "生态平衡",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "ecological balance"
+        }
+    },
+    {
+        "concept_name": "生活污水",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "sanitary sewage"
+        }
+    },
+    {
+        "concept_name": "生物摄取",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "biological uptake"
+        }
+    },
+    {
+        "concept_name": "生物浓缩",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "biological concentration"
+        }
+    },
+    {
+        "concept_name": "生物监测",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "biological monitoring"
+        }
+    },
+    {
+        "concept_name": "生物群落",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "英文": "biocoenosis ;biocommunity",
+            "见载": "《农学名词》第一版",
+            "英文名": "biocoenosis"
+        }
+    },
+    {
+        "concept_name": "生物转化",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "biological transformation"
+        }
+    },
+    {
+        "concept_name": "生物降解",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "biological degradation"
+        }
+    },
+    {
+        "concept_name": "生物需氧量",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "英文": "biological oxygen demand ;BOD",
+            "见载": "《农学名词》第一版",
+            "英文名": "biological oxygen demand"
+        }
+    },
+    {
+        "concept_name": "积累",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "accumulation"
+        }
+    },
+    {
+        "concept_name": "稀释系数",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "dilution coefficient"
+        }
+    },
+    {
+        "concept_name": "空气污染",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "aerial pollution"
+        }
+    },
+    {
+        "concept_name": "综合利用",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "comprehensive utilization"
+        }
+    },
+    {
+        "concept_name": "绿化",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "afforestation"
+        }
+    },
+    {
+        "concept_name": "耐性作物",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "tolerable crop"
+        }
+    },
+    {
+        "concept_name": "能流物流分析",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "analysis on substances and energy flow"
+        }
+    },
+    {
+        "concept_name": "自净作用",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "self-purification"
+        }
+    },
+    {
+        "concept_name": "自然保护区",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "natural reserve"
+        }
+    },
+    {
+        "concept_name": "致畸性",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "teratogenesis"
+        }
+    },
+    {
+        "concept_name": "致癌效应",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "carcinogenic effect"
+        }
+    },
+    {
+        "concept_name": "致癌源",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "carcinogen"
+        }
+    },
+    {
+        "concept_name": "荒漠化",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "desertification"
+        }
+    },
+    {
+        "concept_name": "质量标准",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "quality standard"
+        }
+    },
+    {
+        "concept_name": "质量评价",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "quality evaluation"
+        }
+    },
+    {
+        "concept_name": "赤潮",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "red tide"
+        }
+    },
+    {
+        "concept_name": "酸雨",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "acid rain"
+        }
+    },
+    {
+        "concept_name": "阈[值]",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "threshold"
+        }
+    },
+    {
+        "concept_name": "防护林",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "shelter forest"
+        }
+    },
+    {
+        "concept_name": "防护林带",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "shelter belt"
+        }
+    },
+    {
+        "concept_name": "防治规划",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "control program"
+        }
+    },
+    {
+        "concept_name": "陆地生态系统",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "terrestrial ecosystem"
+        }
+    },
+    {
+        "concept_name": "需氧生物处理",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "aerobic biological treatment"
+        }
+    },
+    {
+        "concept_name": "非点源",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "nonpoint source"
+        }
+    },
+    {
+        "concept_name": "非生物环境",
+        "details": {
+            "学科": "农学_农业环境保护",
+            "见载": "《农学名词》第一版",
+            "英文名": "abiotic environment"
+        }
+    }
+]

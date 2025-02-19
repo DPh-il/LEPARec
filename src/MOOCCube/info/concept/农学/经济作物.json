@@ -1,0 +1,563 @@
+[
+    {
+        "concept_name": "[落]花生",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "peanut"
+        }
+    },
+    {
+        "concept_name": "丛生型花生",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "bunch type peanut"
+        }
+    },
+    {
+        "concept_name": "乌拉草",
+        "details": {
+            "学科": "农学_经济作物",
+            "英文": "ura sedge ;Carex meyeriana Kunth.",
+            "见载": "《农学名词》第一版",
+            "英文名": "ura sedge"
+        }
+    },
+    {
+        "concept_name": "乌桕",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "tallow tree"
+        }
+    },
+    {
+        "concept_name": "亚洲棉",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "Asian cotton"
+        }
+    },
+    {
+        "concept_name": "亚麻",
+        "details": {
+            "学科": "农学_经济作物",
+            "英文": "flax ;Linum usitatissimum L.",
+            "见载": "《农学名词》第一版",
+            "英文名": "flax"
+        }
+    },
+    {
+        "concept_name": "低酚棉",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "low gossypol cotton"
+        }
+    },
+    {
+        "concept_name": "冬油菜",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "winter rape"
+        }
+    },
+    {
+        "concept_name": "剑麻",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "sisal hemp"
+        }
+    },
+    {
+        "concept_name": "匍匐型花生",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "spreading type peanut"
+        }
+    },
+    {
+        "concept_name": "可可",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "cocoa"
+        }
+    },
+    {
+        "concept_name": "向日葵",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "sunflower"
+        }
+    },
+    {
+        "concept_name": "咖啡",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "coffee"
+        }
+    },
+    {
+        "concept_name": "夏大豆",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "summer soybean"
+        }
+    },
+    {
+        "concept_name": "多年生海岛棉",
+        "details": {
+            "学科": "农学_经济作物",
+            "又称": " 离核木棉 ；联核木棉",
+            "见载": "《农学名词》第一版",
+            "英文名": "perennial sea-island cotton"
+        }
+    },
+    {
+        "concept_name": "多粒型花生",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "Valencia type peanut"
+        }
+    },
+    {
+        "concept_name": "大豆",
+        "details": {
+            "学科": "农学_经济作物",
+            "又称": " 黄豆",
+            "见载": "《农学名词》第一版",
+            "英文名": "soybean"
+        }
+    },
+    {
+        "concept_name": "大麻",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "hemp"
+        }
+    },
+    {
+        "concept_name": "宿根蔗",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "stubble cane"
+        }
+    },
+    {
+        "concept_name": "席草",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "mat grass"
+        }
+    },
+    {
+        "concept_name": "文冠果",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "yellow horn"
+        }
+    },
+    {
+        "concept_name": "春大豆",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "spring soybean"
+        }
+    },
+    {
+        "concept_name": "春油菜",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "spring rape"
+        }
+    },
+    {
+        "concept_name": "普通型花生",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "Virginia type peanut"
+        }
+    },
+    {
+        "concept_name": "杜仲",
+        "details": {
+            "学科": "农学_经济作物",
+            "英文": "eucommia ;Eucommia ulmoides Oliv.",
+            "见载": "《农学名词》第一版",
+            "英文名": "eucommia"
+        }
+    },
+    {
+        "concept_name": "桄榔",
+        "details": {
+            "学科": "农学_经济作物",
+            "又称": " 糖棕",
+            "见载": "《农学名词》第一版",
+            "英文名": "sugar palm"
+        }
+    },
+    {
+        "concept_name": "桑",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "mulberry"
+        }
+    },
+    {
+        "concept_name": "棉[花]",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "cotton"
+        }
+    },
+    {
+        "concept_name": "椰子",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "coconut"
+        }
+    },
+    {
+        "concept_name": "油桐",
+        "details": {
+            "学科": "农学_经济作物",
+            "英文": "tung oil tree ;Vernicia fordii (Hemsl.) Airy-Shaw",
+            "见载": "《农学名词》第一版",
+            "英文名": "tung oil tree"
+        }
+    },
+    {
+        "concept_name": "油棕",
+        "details": {
+            "学科": "农学_经济作物",
+            "英文": "oil palm ;Elaeis quineensis Jacq.",
+            "见载": "《农学名词》第一版",
+            "英文名": "oil palm"
+        }
+    },
+    {
+        "concept_name": "油橄榄",
+        "details": {
+            "学科": "农学_经济作物",
+            "英文": "[common] olive ;Olea europaea L.",
+            "见载": "《农学名词》第一版",
+            "英文名": "[common] olive"
+        }
+    },
+    {
+        "concept_name": "油渣果",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "largefruit hodgsonia"
+        }
+    },
+    {
+        "concept_name": "油茶",
+        "details": {
+            "学科": "农学_经济作物",
+            "英文": "oil tea ;Camellia oleifera Abel.",
+            "见载": "《农学名词》第一版",
+            "英文名": "oil tea"
+        }
+    },
+    {
+        "concept_name": "油菜",
+        "details": {
+            "学科": "农学_经济作物",
+            "又称": " 芸薹",
+            "见载": "《农学名词》第一版",
+            "英文名": "rape"
+        }
+    },
+    {
+        "concept_name": "海岛棉",
+        "details": {
+            "学科": "农学_经济作物",
+            "英文": "sea-island cotton ;Gossypium barbadense L.",
+            "见载": "《农学名词》第一版",
+            "英文名": "sea-island cotton"
+        }
+    },
+    {
+        "concept_name": "灯心草",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "common rush"
+        }
+    },
+    {
+        "concept_name": "烟草",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "tobacco"
+        }
+    },
+    {
+        "concept_name": "甘蓝型油菜",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "cabbage type rape"
+        }
+    },
+    {
+        "concept_name": "甘蔗",
+        "details": {
+            "学科": "农学_经济作物",
+            "英文": "sugar cane ;Saccharum officinarum L.",
+            "见载": "《农学名词》第一版",
+            "英文名": "sugar cane"
+        }
+    },
+    {
+        "concept_name": "甜[叶]菊",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "stevia"
+        }
+    },
+    {
+        "concept_name": "甜菜",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "[common] beet"
+        }
+    },
+    {
+        "concept_name": "白菜型油菜",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "turnip type rape"
+        }
+    },
+    {
+        "concept_name": "直立型花生",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "erect type peanut"
+        }
+    },
+    {
+        "concept_name": "竹蔗",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "Chinese sugar cane"
+        }
+    },
+    {
+        "concept_name": "糖用甜菜",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "sugar beet"
+        }
+    },
+    {
+        "concept_name": "红花",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "safflower"
+        }
+    },
+    {
+        "concept_name": "红麻",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "kenaf"
+        }
+    },
+    {
+        "concept_name": "罂粟",
+        "details": {
+            "学科": "农学_经济作物",
+            "英文": "opium poppy ;Papaver somniferum L.",
+            "见载": "《农学名词》第一版",
+            "英文名": "opium poppy"
+        }
+    },
+    {
+        "concept_name": "罗布麻",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "dogbane"
+        }
+    },
+    {
+        "concept_name": "芝麻",
+        "details": {
+            "学科": "农学_经济作物",
+            "英文": "sesame ;Sesamum indicum L.",
+            "见载": "《农学名词》第一版",
+            "英文名": "sesame"
+        }
+    },
+    {
+        "concept_name": "芥菜型油菜",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "mustard type rape"
+        }
+    },
+    {
+        "concept_name": "芦苇",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "reed"
+        }
+    },
+    {
+        "concept_name": "苎麻",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "ramie"
+        }
+    },
+    {
+        "concept_name": "苘麻",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "Chinese jute"
+        }
+    },
+    {
+        "concept_name": "茶",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "tea"
+        }
+    },
+    {
+        "concept_name": "草棉",
+        "details": {
+            "学科": "农学_经济作物",
+            "又称": " 非洲棉",
+            "见载": "《农学名词》第一版",
+            "英文名": "levant cotton"
+        }
+    },
+    {
+        "concept_name": "菜用甜菜",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "garden beet"
+        }
+    },
+    {
+        "concept_name": "蓖麻",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "castor bean"
+        }
+    },
+    {
+        "concept_name": "薄荷",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "[pepper] mint"
+        }
+    },
+    {
+        "concept_name": "野生大豆",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "wild soybean"
+        }
+    },
+    {
+        "concept_name": "银胶菊",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "guayule"
+        }
+    },
+    {
+        "concept_name": "陆地棉",
+        "details": {
+            "学科": "农学_经济作物",
+            "英文": "upland cotton ;Gossypium hirsutum L.",
+            "见载": "《农学名词》第一版",
+            "英文名": "upland cotton"
+        }
+    },
+    {
+        "concept_name": "饲用甜菜",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "fodder beet"
+        }
+    },
+    {
+        "concept_name": "香茅",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "citronella grass"
+        }
+    },
+    {
+        "concept_name": "黄花烟草",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "Aztec tobacco"
+        }
+    },
+    {
+        "concept_name": "黄麻",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "roundpod jute"
+        }
+    },
+    {
+        "concept_name": "龙舌兰",
+        "details": {
+            "学科": "农学_经济作物",
+            "见载": "《农学名词》第一版",
+            "英文名": "agave"
+        }
+    }
+]

@@ -1,0 +1,1245 @@
+[
+    {
+        "concept_name": "交轴电压",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "quadrature-axis voltage"
+        }
+    },
+    {
+        "concept_name": "交轴输出阻抗",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "quadrature-axis output impedance"
+        }
+    },
+    {
+        "concept_name": "伺服电[动]机",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "servomotor"
+        }
+    },
+    {
+        "concept_name": "位",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "position"
+        }
+    },
+    {
+        "concept_name": "元件面",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "component side"
+        }
+    },
+    {
+        "concept_name": "光开关",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "optical switch"
+        }
+    },
+    {
+        "concept_name": "光注入器",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "optical injector"
+        }
+    },
+    {
+        "concept_name": "光滤波器",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "optical filter"
+        }
+    },
+    {
+        "concept_name": "光纤",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "optical fiber"
+        }
+    },
+    {
+        "concept_name": "光纤包层",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "fiber cladding"
+        }
+    },
+    {
+        "concept_name": "光纤固定接头",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "optical fiber splice"
+        }
+    },
+    {
+        "concept_name": "光纤色散",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "optical fiber dispersion"
+        }
+    },
+    {
+        "concept_name": "光纤连接器",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "optical fiber connector"
+        }
+    },
+    {
+        "concept_name": "光缆",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "optical fiber cable"
+        }
+    },
+    {
+        "concept_name": "光缆连接器",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "optical cable connector"
+        }
+    },
+    {
+        "concept_name": "光耦合器",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "optical coupler"
+        }
+    },
+    {
+        "concept_name": "光衰减器",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "optical attenuator"
+        }
+    },
+    {
+        "concept_name": "光隔离器",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "optical isolator"
+        }
+    },
+    {
+        "concept_name": "分层",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "delamination"
+        }
+    },
+    {
+        "concept_name": "分支光缆",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "branched optical cable"
+        }
+    },
+    {
+        "concept_name": "分支点",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "breakout"
+        }
+    },
+    {
+        "concept_name": "分离力",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "separating force"
+        }
+    },
+    {
+        "concept_name": "分离连接器",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "snatch-disconnect connector"
+        }
+    },
+    {
+        "concept_name": "励磁电压",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "exciting voltage"
+        }
+    },
+    {
+        "concept_name": "包层模消除器",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "cladding mode stripper"
+        }
+    },
+    {
+        "concept_name": "协调位置",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "aligned position"
+        }
+    },
+    {
+        "concept_name": "单模光纤",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "monomode fiber"
+        }
+    },
+    {
+        "concept_name": "印制元件",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "printed component"
+        }
+    },
+    {
+        "concept_name": "印制板组装件",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "printed board assembly"
+        }
+    },
+    {
+        "concept_name": "印制板连接器",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "printed board connector"
+        }
+    },
+    {
+        "concept_name": "厚膜[集成]电路",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "thick film [integrated] circuit"
+        }
+    },
+    {
+        "concept_name": "厚膜浆料",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "thick film ink"
+        }
+    },
+    {
+        "concept_name": "厚膜混合集成电路",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "thick film hybrid integrated circuit"
+        }
+    },
+    {
+        "concept_name": "双面板",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "double sided board"
+        }
+    },
+    {
+        "concept_name": "反转时间",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "reversing time"
+        }
+    },
+    {
+        "concept_name": "变压比",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "transformation ratio"
+        }
+    },
+    {
+        "concept_name": "同心导线",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "concentric conductor"
+        }
+    },
+    {
+        "concept_name": "同轴继电器",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "coaxial relay"
+        }
+    },
+    {
+        "concept_name": "啮合力",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "engaging force"
+        }
+    },
+    {
+        "concept_name": "固定连接器",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "fixed connector"
+        }
+    },
+    {
+        "concept_name": "堵转励磁功率",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "locked-rotor exciting power"
+        }
+    },
+    {
+        "concept_name": "堵转励磁电流",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "locked-rotor exciting current"
+        }
+    },
+    {
+        "concept_name": "堵转特性",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "locked-rotor characteristic"
+        }
+    },
+    {
+        "concept_name": "堵转转矩",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "locked-rotor torque"
+        }
+    },
+    {
+        "concept_name": "复位力",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "reset force"
+        }
+    },
+    {
+        "concept_name": "多层印制板",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "multilayer printed board"
+        }
+    },
+    {
+        "concept_name": "多模光纤",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "multimode fiber"
+        }
+    },
+    {
+        "concept_name": "失步",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "[falling] out of synchronism"
+        }
+    },
+    {
+        "concept_name": "定位孔",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "location hole"
+        }
+    },
+    {
+        "concept_name": "定位槽",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "location notch"
+        }
+    },
+    {
+        "concept_name": "实心导线",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "solid conductor"
+        }
+    },
+    {
+        "concept_name": "导电图形",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "conductive pattern"
+        }
+    },
+    {
+        "concept_name": "导电箔",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "conductive foil"
+        }
+    },
+    {
+        "concept_name": "导线",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "conductor"
+        }
+    },
+    {
+        "concept_name": "峰值堵转控制功率",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "peak control power at locked-rotor"
+        }
+    },
+    {
+        "concept_name": "峰值堵转电流",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "peak current at locked-rotor"
+        }
+    },
+    {
+        "concept_name": "带状电缆",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "又称": " 扁平电缆",
+            "见载": "《电子学名词》第一版",
+            "英文名": "flat cable"
+        }
+    },
+    {
+        "concept_name": "幅值控制",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "amplitude control"
+        }
+    },
+    {
+        "concept_name": "开关",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "switch"
+        }
+    },
+    {
+        "concept_name": "弓度",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "bow"
+        }
+    },
+    {
+        "concept_name": "微动开关",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "sensitive switch"
+        }
+    },
+    {
+        "concept_name": "微电机",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "electrical micro-machine"
+        }
+    },
+    {
+        "concept_name": "惯性阻尼伺服电[动]机",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "inertial damping servomotor"
+        }
+    },
+    {
+        "concept_name": "感应同步器",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "inductosyn"
+        }
+    },
+    {
+        "concept_name": "感应移相器",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "induction phase shifter"
+        }
+    },
+    {
+        "concept_name": "成列直插封装开关",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "in-line package switch"
+        }
+    },
+    {
+        "concept_name": "扭曲",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "twist"
+        }
+    },
+    {
+        "concept_name": "拉脱强度",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "pull-off strength"
+        }
+    },
+    {
+        "concept_name": "拔出力",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "withdrawal force"
+        }
+    },
+    {
+        "concept_name": "按钮",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "button"
+        }
+    },
+    {
+        "concept_name": "接触件",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "contact"
+        }
+    },
+    {
+        "concept_name": "接触电阻",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "contact resistance"
+        }
+    },
+    {
+        "concept_name": "控制式自整角机",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "control synchro"
+        }
+    },
+    {
+        "concept_name": "掷",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "throw"
+        }
+    },
+    {
+        "concept_name": "插入力",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "insertion force"
+        }
+    },
+    {
+        "concept_name": "插塞",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "plug"
+        }
+    },
+    {
+        "concept_name": "插座",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "socket"
+        }
+    },
+    {
+        "concept_name": "搅模器",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "mode scrambler"
+        }
+    },
+    {
+        "concept_name": "整步转矩",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "synchronizing torque"
+        }
+    },
+    {
+        "concept_name": "断",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "off"
+        }
+    },
+    {
+        "concept_name": "无极性接触件",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "hermaphroditic contact"
+        }
+    },
+    {
+        "concept_name": "时间继电器",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "time relay"
+        }
+    },
+    {
+        "concept_name": "有效纤芯",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "effective core"
+        }
+    },
+    {
+        "concept_name": "有限力矩电[动]机",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "limited torque motor"
+        }
+    },
+    {
+        "concept_name": "板边插头",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "edge board contacts"
+        }
+    },
+    {
+        "concept_name": "极",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "又称": " 刀",
+            "见载": "《电子学名词》第一版",
+            "英文名": "pole"
+        }
+    },
+    {
+        "concept_name": "极化继电器",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "polarized relay"
+        }
+    },
+    {
+        "concept_name": "柔韧印制板",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "flexible printed board"
+        }
+    },
+    {
+        "concept_name": "模[式]耦合",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "mode coupling"
+        }
+    },
+    {
+        "concept_name": "步进角",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "step angle"
+        }
+    },
+    {
+        "concept_name": "步进频率",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "step frequency"
+        }
+    },
+    {
+        "concept_name": "比例式旋转变压器",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "proportional revolver"
+        }
+    },
+    {
+        "concept_name": "波分复用器",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "wavelength division multiplexer"
+        }
+    },
+    {
+        "concept_name": "测速发电机",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "tachogenerator"
+        }
+    },
+    {
+        "concept_name": "浮动安装连接器",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "float mounting connector"
+        }
+    },
+    {
+        "concept_name": "混合继电器",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "hybrid relay"
+        }
+    },
+    {
+        "concept_name": "混合集成电路",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "hybrid integrated circuit"
+        }
+    },
+    {
+        "concept_name": "渐变光纤",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "graded index fiber"
+        }
+    },
+    {
+        "concept_name": "热继电器",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "thermal relay"
+        }
+    },
+    {
+        "concept_name": "焊接面",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "solder side"
+        }
+    },
+    {
+        "concept_name": "电啮合长度",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "electrical engagement length"
+        }
+    },
+    {
+        "concept_name": "电枢控制",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "armature control"
+        }
+    },
+    {
+        "concept_name": "电磁继电器",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "electromagnetic relay"
+        }
+    },
+    {
+        "concept_name": "直流继电器",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "direct current relay"
+        }
+    },
+    {
+        "concept_name": "相位基准电压",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "phase reference voltage"
+        }
+    },
+    {
+        "concept_name": "真空继电器",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "vacuum relay"
+        }
+    },
+    {
+        "concept_name": "矩角位移特性",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "torque-angular displacement characteristic"
+        }
+    },
+    {
+        "concept_name": "磁电式继电器",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "magneto-electric relay"
+        }
+    },
+    {
+        "concept_name": "空心导线",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "hollow conductor"
+        }
+    },
+    {
+        "concept_name": "突变光纤",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "step index fiber"
+        }
+    },
+    {
+        "concept_name": "箔线",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "tinsel conductor"
+        }
+    },
+    {
+        "concept_name": "纤芯",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "fiber core"
+        }
+    },
+    {
+        "concept_name": "组装密度",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "packaging density"
+        }
+    },
+    {
+        "concept_name": "组装技术",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "packaging technology"
+        }
+    },
+    {
+        "concept_name": "绕接接触件",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "wrap contact"
+        }
+    },
+    {
+        "concept_name": "继电器",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "relay"
+        }
+    },
+    {
+        "concept_name": "网格栅",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "grid"
+        }
+    },
+    {
+        "concept_name": "自制动时间",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "self breaking time"
+        }
+    },
+    {
+        "concept_name": "自动脱落连接器",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "umbilical connector"
+        }
+    },
+    {
+        "concept_name": "自整角发送机",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "synchro transmitter"
+        }
+    },
+    {
+        "concept_name": "自整角接收机",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "synchro receiver"
+        }
+    },
+    {
+        "concept_name": "自由端连接器",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "free connector"
+        }
+    },
+    {
+        "concept_name": "舌簧继电器",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "reed relay"
+        }
+    },
+    {
+        "concept_name": "薄膜[集成]电路",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "thin film [integrated] circuit"
+        }
+    },
+    {
+        "concept_name": "薄膜混合集成电路",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "thin film hybrid integrated circuit"
+        }
+    },
+    {
+        "concept_name": "表面安装技术",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "surface mounting technology"
+        }
+    },
+    {
+        "concept_name": "裸导线",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "plain conductor"
+        }
+    },
+    {
+        "concept_name": "覆箔板",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "metal-clad plate"
+        }
+    },
+    {
+        "concept_name": "角位移",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "又称": " 失调角",
+            "见载": "《电子学名词》第一版",
+            "英文名": "angular displacement"
+        }
+    },
+    {
+        "concept_name": "触点",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "contact"
+        }
+    },
+    {
+        "concept_name": "触点熔接",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "contact weld"
+        }
+    },
+    {
+        "concept_name": "触点负载",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "contact load"
+        }
+    },
+    {
+        "concept_name": "触点黏结",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "contact adhesion"
+        }
+    },
+    {
+        "concept_name": "起动惯频特性",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "starting inertial-frequency characteristic"
+        }
+    },
+    {
+        "concept_name": "起动矩频特性",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "starting torque-frequency characteristic"
+        }
+    },
+    {
+        "concept_name": "转换时间",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "transit time"
+        }
+    },
+    {
+        "concept_name": "转接连接器",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "adaptor connector"
+        }
+    },
+    {
+        "concept_name": "软导线",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "flexible conductor"
+        }
+    },
+    {
+        "concept_name": "边缘插座连接器",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "edge-socket connector"
+        }
+    },
+    {
+        "concept_name": "运行矩频特性",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "running torque-frequency characteristic"
+        }
+    },
+    {
+        "concept_name": "连接力矩",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "coupling torque"
+        }
+    },
+    {
+        "concept_name": "连接盘",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "land"
+        }
+    },
+    {
+        "concept_name": "连续堵转电流",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "continuous current at locked-rotor"
+        }
+    },
+    {
+        "concept_name": "通孔",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "via hole"
+        }
+    },
+    {
+        "concept_name": "通导孔",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "access hole"
+        }
+    },
+    {
+        "concept_name": "释放力",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "release force"
+        }
+    },
+    {
+        "concept_name": "金属化孔",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "plated-through hole"
+        }
+    },
+    {
+        "concept_name": "钮子开关",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "toggle switch"
+        }
+    },
+    {
+        "concept_name": "键盘开关",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "keyboard switch"
+        }
+    },
+    {
+        "concept_name": "防斜插连接器",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "scoop-proof connector"
+        }
+    },
+    {
+        "concept_name": "阳接触件",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "male contact"
+        }
+    },
+    {
+        "concept_name": "阴接触件",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "female contact"
+        }
+    },
+    {
+        "concept_name": "零位误差",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "electrical error of null position"
+        }
+    },
+    {
+        "concept_name": "静摩擦力矩",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "static friction torque"
+        }
+    },
+    {
+        "concept_name": "驱动力",
+        "details": {
+            "学科": "电子学_机电元及其他电子元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "actuating force"
+        }
+    }
+]

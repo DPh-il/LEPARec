@@ -1,0 +1,394 @@
+[
+    {
+        "concept_name": "Q性质",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "Q-properties"
+        }
+    },
+    {
+        "concept_name": "不确定原理",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "uncertainty principle"
+        }
+    },
+    {
+        "concept_name": "互补性",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "complementarity"
+        }
+    },
+    {
+        "concept_name": "以太",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "ether"
+        }
+    },
+    {
+        "concept_name": "决定论规律",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "deterministic law"
+        }
+    },
+    {
+        "concept_name": "动力学规律",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "dynamic law"
+        }
+    },
+    {
+        "concept_name": "双生子佯谬",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "twin paradox"
+        }
+    },
+    {
+        "concept_name": "同时性",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "simultaneity"
+        }
+    },
+    {
+        "concept_name": "哥本哈根学派",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "Copenhagen School"
+        }
+    },
+    {
+        "concept_name": "四种相互作用的统一",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "unification of four interactions"
+        }
+    },
+    {
+        "concept_name": "多世界理论",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "many-world theory"
+        }
+    },
+    {
+        "concept_name": "奇性",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "singularity"
+        }
+    },
+    {
+        "concept_name": "守恒律",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "conservation law"
+        }
+    },
+    {
+        "concept_name": "对应原理",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "correspondence principle"
+        }
+    },
+    {
+        "concept_name": "延迟选择实验",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "delay-selection experiment"
+        }
+    },
+    {
+        "concept_name": "时空的相对性",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "relativity of space and time"
+        }
+    },
+    {
+        "concept_name": "永动机",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "perpetual motion machine"
+        }
+    },
+    {
+        "concept_name": "波包并缩",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "wave packet reduction"
+        }
+    },
+    {
+        "concept_name": "波粒二象性",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "wave particle duality"
+        }
+    },
+    {
+        "concept_name": "测量问题",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "measurement problem"
+        }
+    },
+    {
+        "concept_name": "热寂",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "heat death"
+        }
+    },
+    {
+        "concept_name": "热的运动说",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "mechanical theory of heat"
+        }
+    },
+    {
+        "concept_name": "热质说",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "caloric theory"
+        }
+    },
+    {
+        "concept_name": "熵",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "entropy"
+        }
+    },
+    {
+        "concept_name": "爱因斯坦-玻尔争论",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "Einstein-Bohr debate"
+        }
+    },
+    {
+        "concept_name": "物理学危机",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "crisis in physics"
+        }
+    },
+    {
+        "concept_name": "物理学哲学",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "philosophy of physics"
+        }
+    },
+    {
+        "concept_name": "物理学基础",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "foundation of physics"
+        }
+    },
+    {
+        "concept_name": "物理学理论的完备性",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "completeness of physical theory"
+        }
+    },
+    {
+        "concept_name": "物理学理论的客观性",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "objectivity of physical theory"
+        }
+    },
+    {
+        "concept_name": "物理学革命",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "physical revolution"
+        }
+    },
+    {
+        "concept_name": "物理实体",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "physical entity"
+        }
+    },
+    {
+        "concept_name": "物理的可理解性",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "physical intelligibility"
+        }
+    },
+    {
+        "concept_name": "物质的二象性",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "duality nature of matter"
+        }
+    },
+    {
+        "concept_name": "第一推动",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "first impulse"
+        }
+    },
+    {
+        "concept_name": "绝对时空概念",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "concept of absolute space and time"
+        }
+    },
+    {
+        "concept_name": "统一场论",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "unified field theory"
+        }
+    },
+    {
+        "concept_name": "统计规律",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "statistical law"
+        }
+    },
+    {
+        "concept_name": "薛定谔猫",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "Schroedinger's cat"
+        }
+    },
+    {
+        "concept_name": "贝尔不等式",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "Bell's inequality"
+        }
+    },
+    {
+        "concept_name": "超距作用",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "action at a distance"
+        }
+    },
+    {
+        "concept_name": "近可积系统的KAM定理",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "KAM theorem for nearly integrable system"
+        }
+    },
+    {
+        "concept_name": "远距离关联",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "correlation at a distance"
+        }
+    },
+    {
+        "concept_name": "量子力学的哥本哈根解释",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "Copenhagen interpretation of quantum mechanics"
+        }
+    },
+    {
+        "concept_name": "量子力学的哲学诠释",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "philosophical interpretation of quantum mechanics"
+        }
+    },
+    {
+        "concept_name": "量子力学的实在论诠释",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "realist interpretation of quantum mechanics"
+        }
+    },
+    {
+        "concept_name": "隐序",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "implicate order"
+        }
+    },
+    {
+        "concept_name": "非决定论",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "indeterminism"
+        }
+    },
+    {
+        "concept_name": "非线性动力学",
+        "details": {
+            "学科": "自然辩证法_科学哲学_物理学哲学",
+            "见载": "《自然辩证法名词》第一版",
+            "英文名": "nonlinear dynamics"
+        }
+    }
+]

@@ -1,0 +1,1482 @@
+[
+    {
+        "concept_name": "上下文有关文法",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "context constraint grammar"
+        }
+    },
+    {
+        "concept_name": "主观信息",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "subjective information"
+        }
+    },
+    {
+        "concept_name": "互信息",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "mutual information"
+        }
+    },
+    {
+        "concept_name": "互熵",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "cross-entropy"
+        }
+    },
+    {
+        "concept_name": "交替码",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "alternate code"
+        }
+    },
+    {
+        "concept_name": "交织码",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "英文": "interlaced code ;interleaved code",
+            "见载": "《电子学名词》第一版",
+            "英文名": "interlaced code"
+        }
+    },
+    {
+        "concept_name": "交错定理",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "alternation theorem"
+        }
+    },
+    {
+        "concept_name": "产生式规则",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "production rule"
+        }
+    },
+    {
+        "concept_name": "代数码",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "algebraic code"
+        }
+    },
+    {
+        "concept_name": "伪随机序列",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "pseudo-random sequence"
+        }
+    },
+    {
+        "concept_name": "伯格算法",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Burg's algorithm"
+        }
+    },
+    {
+        "concept_name": "估计",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "estimation"
+        }
+    },
+    {
+        "concept_name": "伴随信源",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "adjoint source"
+        }
+    },
+    {
+        "concept_name": "保密量",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "amount of secrecy"
+        }
+    },
+    {
+        "concept_name": "信[息]源",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "information source"
+        }
+    },
+    {
+        "concept_name": "信宿",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "information sink"
+        }
+    },
+    {
+        "concept_name": "信息",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "information"
+        }
+    },
+    {
+        "concept_name": "信息处理",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "information processing"
+        }
+    },
+    {
+        "concept_name": "信息守恒",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "conservation of information"
+        }
+    },
+    {
+        "concept_name": "信息容量",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "information capacity"
+        }
+    },
+    {
+        "concept_name": "信息提取",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "information extraction"
+        }
+    },
+    {
+        "concept_name": "信息论",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "information theory"
+        }
+    },
+    {
+        "concept_name": "信息量",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "amount of information"
+        }
+    },
+    {
+        "concept_name": "信源编码",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "source coding"
+        }
+    },
+    {
+        "concept_name": "信道容量",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "channel capacity"
+        }
+    },
+    {
+        "concept_name": "倒序",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "bit-reversed order"
+        }
+    },
+    {
+        "concept_name": "冗余信息",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "redundant information"
+        }
+    },
+    {
+        "concept_name": "冲激不变法",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "impulse invariance"
+        }
+    },
+    {
+        "concept_name": "决策函数",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "decision function"
+        }
+    },
+    {
+        "concept_name": "几何码",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "geometric code"
+        }
+    },
+    {
+        "concept_name": "分组密码",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "block cipher"
+        }
+    },
+    {
+        "concept_name": "分组码",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "block code"
+        }
+    },
+    {
+        "concept_name": "删信码",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "expurgated code"
+        }
+    },
+    {
+        "concept_name": "删除信道",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "erasure channel"
+        }
+    },
+    {
+        "concept_name": "前导",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "predecessor"
+        }
+    },
+    {
+        "concept_name": "功率谱估计",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "power spectrum estimation"
+        }
+    },
+    {
+        "concept_name": "加密",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "enciphering"
+        }
+    },
+    {
+        "concept_name": "加密钥",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "encrypting key"
+        }
+    },
+    {
+        "concept_name": "区域描绘",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "region description"
+        }
+    },
+    {
+        "concept_name": "单位取样序列",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "unit-sample sequence"
+        }
+    },
+    {
+        "concept_name": "单边序列",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "one-sided sequence"
+        }
+    },
+    {
+        "concept_name": "卡尔曼滤波器",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Kalman filter"
+        }
+    },
+    {
+        "concept_name": "卷积",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "曾称": " 褶积",
+            "见载": "《电子学名词》第一版",
+            "英文名": "convolution"
+        }
+    },
+    {
+        "concept_name": "卷积码",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "convolution code"
+        }
+    },
+    {
+        "concept_name": "参量估计",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "parameter estimation"
+        }
+    },
+    {
+        "concept_name": "可达信息率",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "achievable rate"
+        }
+    },
+    {
+        "concept_name": "可达区域",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "achievable region"
+        }
+    },
+    {
+        "concept_name": "同址计算",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "in-place computation"
+        }
+    },
+    {
+        "concept_name": "吞吐量",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "又称": " 流量",
+            "见载": "《电子学名词》第一版",
+            "英文名": "throughput"
+        }
+    },
+    {
+        "concept_name": "周期图",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "periodogram"
+        }
+    },
+    {
+        "concept_name": "周期序列",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "periodic sequence"
+        }
+    },
+    {
+        "concept_name": "图像分割",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "image segmentation"
+        }
+    },
+    {
+        "concept_name": "图像压缩",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "image compression"
+        }
+    },
+    {
+        "concept_name": "图像变换",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "image transform"
+        }
+    },
+    {
+        "concept_name": "图像增强",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "image enhancement"
+        }
+    },
+    {
+        "concept_name": "图像处理",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "image processing"
+        }
+    },
+    {
+        "concept_name": "图像平均",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "image averaging"
+        }
+    },
+    {
+        "concept_name": "图像平滑",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "image smoothing"
+        }
+    },
+    {
+        "concept_name": "图像形成",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "image formation"
+        }
+    },
+    {
+        "concept_name": "图像恢复",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "image restoration"
+        }
+    },
+    {
+        "concept_name": "图像旋转",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "image rotation"
+        }
+    },
+    {
+        "concept_name": "图像编码",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "image encoding"
+        }
+    },
+    {
+        "concept_name": "图像退化",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "image degradation"
+        }
+    },
+    {
+        "concept_name": "图像重建",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "image reconstruction"
+        }
+    },
+    {
+        "concept_name": "图像锐化",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "image sharpening"
+        }
+    },
+    {
+        "concept_name": "图文法",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "graph grammar"
+        }
+    },
+    {
+        "concept_name": "坚韧性",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "又称": " 鲁棒性",
+            "见载": "《电子学名词》第一版",
+            "英文名": "robustness"
+        }
+    },
+    {
+        "concept_name": "增信码",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "augmented code"
+        }
+    },
+    {
+        "concept_name": "多接入信道",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "multiple access channel"
+        }
+    },
+    {
+        "concept_name": "多用户信息论",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "multiple-user information theory"
+        }
+    },
+    {
+        "concept_name": "多重图",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "multigraph"
+        }
+    },
+    {
+        "concept_name": "定性信息",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "qualitative information"
+        }
+    },
+    {
+        "concept_name": "实时信号处理",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "real time signal processing"
+        }
+    },
+    {
+        "concept_name": "密文",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "cryptogram"
+        }
+    },
+    {
+        "concept_name": "密码分析",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "cryptanalysis"
+        }
+    },
+    {
+        "concept_name": "密钥分级结构",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "key hierarchy"
+        }
+    },
+    {
+        "concept_name": "对称信源",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "symmetric source"
+        }
+    },
+    {
+        "concept_name": "对称信道",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "symmetric channel"
+        }
+    },
+    {
+        "concept_name": "差错",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "error"
+        }
+    },
+    {
+        "concept_name": "差错传播",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "error propagation"
+        }
+    },
+    {
+        "concept_name": "平稳信道",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "stationary channel"
+        }
+    },
+    {
+        "concept_name": "序贯检测器",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "sequential detector"
+        }
+    },
+    {
+        "concept_name": "序贯译码",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "sequential decoding"
+        }
+    },
+    {
+        "concept_name": "扩展码",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "extended code"
+        }
+    },
+    {
+        "concept_name": "抽象码",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "abstract code"
+        }
+    },
+    {
+        "concept_name": "数据处理",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "data processing"
+        }
+    },
+    {
+        "concept_name": "文法推断",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "grammatical inference"
+        }
+    },
+    {
+        "concept_name": "无噪信道",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "noiseless channel"
+        }
+    },
+    {
+        "concept_name": "无噪编码定理",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "noiseless coding theorem"
+        }
+    },
+    {
+        "concept_name": "无差错信道",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "error free channel"
+        }
+    },
+    {
+        "concept_name": "无逗点码",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "comma-free code"
+        }
+    },
+    {
+        "concept_name": "无限冲激响应",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "英文": "infinite impulse response ;IIR",
+            "见载": "《电子学名词》第一版",
+            "英文名": "infinite impulse response"
+        }
+    },
+    {
+        "concept_name": "景物",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "scene"
+        }
+    },
+    {
+        "concept_name": "最佳接收机",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "optimum receiver"
+        }
+    },
+    {
+        "concept_name": "最佳滤波器",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "optimum filter"
+        }
+    },
+    {
+        "concept_name": "最大熵估计",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "maximum entropy estimation"
+        }
+    },
+    {
+        "concept_name": "最大相位系统",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "maximum phase system"
+        }
+    },
+    {
+        "concept_name": "最小熵估计",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "minimum entropy estimation"
+        }
+    },
+    {
+        "concept_name": "最小熵译码",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "minimum-entropy decoding"
+        }
+    },
+    {
+        "concept_name": "有限冲激响应",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "英文": "finite impulse response ;FIR",
+            "见载": "《电子学名词》第一版",
+            "英文名": "finite impulse response"
+        }
+    },
+    {
+        "concept_name": "机器智能",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "machine intelligence"
+        }
+    },
+    {
+        "concept_name": "条件熵",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "conditional entropy"
+        }
+    },
+    {
+        "concept_name": "树文法",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "tree grammar"
+        }
+    },
+    {
+        "concept_name": "树表示",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "tree representation"
+        }
+    },
+    {
+        "concept_name": "树语言",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "tree language"
+        }
+    },
+    {
+        "concept_name": "格码",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "trellis code"
+        }
+    },
+    {
+        "concept_name": "检错码",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "error detection code"
+        }
+    },
+    {
+        "concept_name": "模式匹配",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "pattern matching"
+        }
+    },
+    {
+        "concept_name": "模式基元",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "pattern primitives"
+        }
+    },
+    {
+        "concept_name": "模拟信号",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "analog signal"
+        }
+    },
+    {
+        "concept_name": "模糊信息",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "fuzzy information"
+        }
+    },
+    {
+        "concept_name": "模糊度",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ambiguity"
+        }
+    },
+    {
+        "concept_name": "正交变换",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "orthogonal transform"
+        }
+    },
+    {
+        "concept_name": "正常文法",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "regular grammar"
+        }
+    },
+    {
+        "concept_name": "汉明权[重]",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Hamming weight"
+        }
+    },
+    {
+        "concept_name": "汉明距离",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Hamming distance"
+        }
+    },
+    {
+        "concept_name": "流密码",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "stream cipher"
+        }
+    },
+    {
+        "concept_name": "混叠",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "aliasing"
+        }
+    },
+    {
+        "concept_name": "熵",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "entropy"
+        }
+    },
+    {
+        "concept_name": "熵功率",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "entropy power"
+        }
+    },
+    {
+        "concept_name": "特征提取",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "又称": " 特征抽取",
+            "见载": "《电子学名词》第一版",
+            "英文名": "feature extraction"
+        }
+    },
+    {
+        "concept_name": "疑义度",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "equivocation"
+        }
+    },
+    {
+        "concept_name": "疑符",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "erasure"
+        }
+    },
+    {
+        "concept_name": "相位谱估计",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "phase spectrum estimation"
+        }
+    },
+    {
+        "concept_name": "相关接收机",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "correlation receiver"
+        }
+    },
+    {
+        "concept_name": "矩形窗",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "rectangular window"
+        }
+    },
+    {
+        "concept_name": "码",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "code"
+        }
+    },
+    {
+        "concept_name": "码生成器",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "code generator"
+        }
+    },
+    {
+        "concept_name": "离散余弦变换",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "discrete cosine transform"
+        }
+    },
+    {
+        "concept_name": "离散哈特莱变换",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "discrete Hartley transform"
+        }
+    },
+    {
+        "concept_name": "离散时域信号",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "discrete-time signal"
+        }
+    },
+    {
+        "concept_name": "秘密密钥",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "privacy key"
+        }
+    },
+    {
+        "concept_name": "移不变系统",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "shift invariant system"
+        }
+    },
+    {
+        "concept_name": "空串",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "empty string"
+        }
+    },
+    {
+        "concept_name": "突发长度",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "burst length"
+        }
+    },
+    {
+        "concept_name": "窃听",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "eavesdropping"
+        }
+    },
+    {
+        "concept_name": "符号",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "symbol"
+        }
+    },
+    {
+        "concept_name": "算术码",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "arithmetic code"
+        }
+    },
+    {
+        "concept_name": "紧充码",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "closely-packed code"
+        }
+    },
+    {
+        "concept_name": "纠突发错误码",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "burst [error] correcting code"
+        }
+    },
+    {
+        "concept_name": "纠错码",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "error correcting code"
+        }
+    },
+    {
+        "concept_name": "纠错编码",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "error correction coding"
+        }
+    },
+    {
+        "concept_name": "级联码",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "cascaded code"
+        }
+    },
+    {
+        "concept_name": "纹理分析",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "texture analysis"
+        }
+    },
+    {
+        "concept_name": "终结符",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "terminal character"
+        }
+    },
+    {
+        "concept_name": "统计判决",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "statistical decision"
+        }
+    },
+    {
+        "concept_name": "维纳滤波器",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Weiner filter"
+        }
+    },
+    {
+        "concept_name": "编码",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "encoding"
+        }
+    },
+    {
+        "concept_name": "网文法",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "web grammar"
+        }
+    },
+    {
+        "concept_name": "自信息",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "self information"
+        }
+    },
+    {
+        "concept_name": "自动机",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "automaton"
+        }
+    },
+    {
+        "concept_name": "自动检测器",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "automatic detector"
+        }
+    },
+    {
+        "concept_name": "自动检错重发",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "automatic error request"
+        }
+    },
+    {
+        "concept_name": "自适应检测器",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "adaptive detector"
+        }
+    },
+    {
+        "concept_name": "蝶式运算",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "butterfly operation"
+        }
+    },
+    {
+        "concept_name": "证实",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "authentication"
+        }
+    },
+    {
+        "concept_name": "译码器",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "又称": " 解码器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "decoder"
+        }
+    },
+    {
+        "concept_name": "试验信道",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "test channel"
+        }
+    },
+    {
+        "concept_name": "误句概率",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "sentence error probability"
+        }
+    },
+    {
+        "concept_name": "误字概率",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "word error probability"
+        }
+    },
+    {
+        "concept_name": "误比特率",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "bit error rate"
+        }
+    },
+    {
+        "concept_name": "误码率",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "error rate"
+        }
+    },
+    {
+        "concept_name": "误符",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "erratum"
+        }
+    },
+    {
+        "concept_name": "谱估计",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "spectrum estimation"
+        }
+    },
+    {
+        "concept_name": "超码",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "supercode"
+        }
+    },
+    {
+        "concept_name": "辨识",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "identification"
+        }
+    },
+    {
+        "concept_name": "边图",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "edge graph"
+        }
+    },
+    {
+        "concept_name": "连环码",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "recurrent code"
+        }
+    },
+    {
+        "concept_name": "逆信道",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "inverse channel"
+        }
+    },
+    {
+        "concept_name": "逆滤波器",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "inverse filter"
+        }
+    },
+    {
+        "concept_name": "递归文法",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "recursive grammar"
+        }
+    },
+    {
+        "concept_name": "遍历信源",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ergodic source"
+        }
+    },
+    {
+        "concept_name": "重量枚举器",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "weight enumerator"
+        }
+    },
+    {
+        "concept_name": "链接码",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "concatenated code"
+        }
+    },
+    {
+        "concept_name": "链码",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "chain code"
+        }
+    },
+    {
+        "concept_name": "错误型",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "error pattern"
+        }
+    },
+    {
+        "concept_name": "错误定位子",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "error-locator"
+        }
+    },
+    {
+        "concept_name": "阈译码",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "threshold decoding"
+        }
+    },
+    {
+        "concept_name": "陪集首",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "coset leader"
+        }
+    },
+    {
+        "concept_name": "零记忆信源",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "zero-memory source"
+        }
+    },
+    {
+        "concept_name": "零记忆信道",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "zero-memory channel"
+        }
+    },
+    {
+        "concept_name": "非最小相位系统",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "non-minimum phase system"
+        }
+    },
+    {
+        "concept_name": "非相干检测",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "incoherent detection"
+        }
+    },
+    {
+        "concept_name": "香农熵",
+        "details": {
+            "学科": "电子学_信息论与信号处理技术",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Shannon entropy"
+        }
+    }
+]

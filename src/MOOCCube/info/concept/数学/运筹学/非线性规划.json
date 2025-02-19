@@ -1,0 +1,616 @@
+[
+    {
+        "concept_name": "一阶必要条件",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "first-order necessary condition"
+        }
+    },
+    {
+        "concept_name": "中心法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "centers method"
+        }
+    },
+    {
+        "concept_name": "二次逼近法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "quadratic approximation method"
+        }
+    },
+    {
+        "concept_name": "二阶充分条件",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "second-order sufficient condition"
+        }
+    },
+    {
+        "concept_name": "互补几何规划",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "complementary geometric program- ming"
+        }
+    },
+    {
+        "concept_name": "优选法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "optimum seeking method"
+        }
+    },
+    {
+        "concept_name": "信赖域",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "trust region"
+        }
+    },
+    {
+        "concept_name": "修正梯度投影法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "modified gradient projection method"
+        }
+    },
+    {
+        "concept_name": "共轭方向法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "conjugate direction method"
+        }
+    },
+    {
+        "concept_name": "内部惩罚法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "interior penalty method"
+        }
+    },
+    {
+        "concept_name": "几何规划",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "geometric programming"
+        }
+    },
+    {
+        "concept_name": "分批试验法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "block search"
+        }
+    },
+    {
+        "concept_name": "单侧搜索",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "one-sided search"
+        }
+    },
+    {
+        "concept_name": "单峰函数",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "unimodal function"
+        }
+    },
+    {
+        "concept_name": "单峰性",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "unimodality"
+        }
+    },
+    {
+        "concept_name": "单纯形调优法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "simplex evolutionary method"
+        }
+    },
+    {
+        "concept_name": "双侧搜索",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "two-sided search"
+        }
+    },
+    {
+        "concept_name": "变度量法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "variable metric method"
+        }
+    },
+    {
+        "concept_name": "可行下降方向",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "feasible descent direction"
+        }
+    },
+    {
+        "concept_name": "可行方向法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "feasible direction method"
+        }
+    },
+    {
+        "concept_name": "坐标轮换法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "univariate search technique"
+        }
+    },
+    {
+        "concept_name": "增广乘子法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "augmented multiplier method"
+        }
+    },
+    {
+        "concept_name": "增广目标函数",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "augmented objective function"
+        }
+    },
+    {
+        "concept_name": "复合形法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "complex method"
+        }
+    },
+    {
+        "concept_name": "外部惩罚法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "exterior penalty method"
+        }
+    },
+    {
+        "concept_name": "对分搜索",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "dichotomous search"
+        }
+    },
+    {
+        "concept_name": "平行切线法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "parallel tangent method"
+        }
+    },
+    {
+        "concept_name": "广义几何规划",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "generalized geometric program- ming"
+        }
+    },
+    {
+        "concept_name": "广义拉格朗日乘子",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "generalized Lagrange multiplier"
+        }
+    },
+    {
+        "concept_name": "广义约化梯度法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "曾称": " 广义既约梯度法",
+            "见载": "《数学名词》第一版",
+            "英文名": "generalized reduced gradient method"
+        }
+    },
+    {
+        "concept_name": "序贯无约束极小化方法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "英文": "sequential unconstrained minimi- zation technique ;SUMT",
+            "见载": "《数学名词》第一版",
+            "英文名": "sequential unconstrained minimi- zation technique"
+        }
+    },
+    {
+        "concept_name": "库恩-塔克条件",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "Kuhn-Tucker conditions"
+        }
+    },
+    {
+        "concept_name": "库恩-塔克点",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "Kuhn-Tucker point"
+        }
+    },
+    {
+        "concept_name": "弗兰克-沃尔夫法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "Frank-Wolfe method"
+        }
+    },
+    {
+        "concept_name": "弗里茨·约翰条件",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "Fritz·John conditions"
+        }
+    },
+    {
+        "concept_name": "弧线搜索法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "arc search method"
+        }
+    },
+    {
+        "concept_name": "弯谷函数",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "curved valley function"
+        }
+    },
+    {
+        "concept_name": "拉格朗日乘子法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "Lagrange method of multipliers"
+        }
+    },
+    {
+        "concept_name": "拉格朗日鞍点",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "Lagrange saddle point"
+        }
+    },
+    {
+        "concept_name": "拟牛顿法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "quasi-Newton method"
+        }
+    },
+    {
+        "concept_name": "搜索方向",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "direction of search"
+        }
+    },
+    {
+        "concept_name": "斐波那契搜索",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "Fibonacci search"
+        }
+    },
+    {
+        "concept_name": "斐波那契法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "Fibonacci method"
+        }
+    },
+    {
+        "concept_name": "旋转方向法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "rotating direction method"
+        }
+    },
+    {
+        "concept_name": "无参数惩罚法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "parameter-free penalty method"
+        }
+    },
+    {
+        "concept_name": "无约束最优化方法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "unconstrained optimization method"
+        }
+    },
+    {
+        "concept_name": "曲线搜索法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "curvilinear search method"
+        }
+    },
+    {
+        "concept_name": "最优策略",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "optimal strategy"
+        }
+    },
+    {
+        "concept_name": "最速下降法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "method of steepest descent"
+        }
+    },
+    {
+        "concept_name": "梯度投影法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "gradient projection method"
+        }
+    },
+    {
+        "concept_name": "模式搜索法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "pattern search method"
+        }
+    },
+    {
+        "concept_name": "模式移动",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "pattern move"
+        }
+    },
+    {
+        "concept_name": "正项几何规划",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "posynomial geometric program- ming"
+        }
+    },
+    {
+        "concept_name": "正项式",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "posynomial"
+        }
+    },
+    {
+        "concept_name": "混合惩罚法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "mixed penalty method"
+        }
+    },
+    {
+        "concept_name": "爬山法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "climbing method"
+        }
+    },
+    {
+        "concept_name": "直接搜索法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "direct search method"
+        }
+    },
+    {
+        "concept_name": "精确惩罚法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "exact penalty method"
+        }
+    },
+    {
+        "concept_name": "精确罚函数",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "exact penalty function"
+        }
+    },
+    {
+        "concept_name": "约化梯度法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "曾称": " 既约梯度法",
+            "见载": "《数学名词》第一版",
+            "英文名": "reduced gradient method"
+        }
+    },
+    {
+        "concept_name": "约束变度量法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "constrained variable metric method"
+        }
+    },
+    {
+        "concept_name": "约束最优化方法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "constrained optimization method"
+        }
+    },
+    {
+        "concept_name": "线性搜索",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "又称": " 一维搜索",
+            "见载": "《数学名词》第一版",
+            "英文名": "linear search"
+        }
+    },
+    {
+        "concept_name": "线性逼近法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "linear approximation method"
+        }
+    },
+    {
+        "concept_name": "罗森布罗克函数",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "Rosenbrock function"
+        }
+    },
+    {
+        "concept_name": "罗森法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "Rosen method"
+        }
+    },
+    {
+        "concept_name": "罚函数",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "又称": " 补偿函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "penalty function"
+        }
+    },
+    {
+        "concept_name": "罚函数法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "penalty function method"
+        }
+    },
+    {
+        "concept_name": "罚参数",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "penalty parameter"
+        }
+    },
+    {
+        "concept_name": "记忆梯度法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "memory gradient method"
+        }
+    },
+    {
+        "concept_name": "超记忆梯度法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "supermemory gradient method"
+        }
+    },
+    {
+        "concept_name": "障碍函数",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "曾称": " 围墙函数 ；碰壁函数",
+            "见载": "《数学名词》第一版",
+            "英文名": "barrier function"
+        }
+    },
+    {
+        "concept_name": "非线性规划",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "non-linear programming"
+        }
+    },
+    {
+        "concept_name": "鲍威尔法",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "Powell method"
+        }
+    },
+    {
+        "concept_name": "黄金分割搜索",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "golden section search"
+        }
+    },
+    {
+        "concept_name": "黑塞矩阵",
+        "details": {
+            "学科": "数学_运筹学_非线性规划",
+            "见载": "《数学名词》第一版",
+            "英文名": "Hessian matrix"
+        }
+    }
+]

@@ -1,0 +1,1457 @@
+[
+    {
+        "concept_name": "apud瘤",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "apudoma"
+        }
+    },
+    {
+        "concept_name": "上皮样细胞",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "epithelioid cell"
+        }
+    },
+    {
+        "concept_name": "不典型增生",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "atypical hyperplasia"
+        }
+    },
+    {
+        "concept_name": "不典型性",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "atypism"
+        }
+    },
+    {
+        "concept_name": "不发育",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "aplasia"
+        }
+    },
+    {
+        "concept_name": "主动脉炎",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "aortitis"
+        }
+    },
+    {
+        "concept_name": "乳腺腺病",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "adenosis of breast"
+        }
+    },
+    {
+        "concept_name": "亚急性炎",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "subacute inflammation"
+        }
+    },
+    {
+        "concept_name": "亚急性甲状腺炎",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "subacute thyroiditis"
+        }
+    },
+    {
+        "concept_name": "人体病理学",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "human pathology"
+        }
+    },
+    {
+        "concept_name": "传染",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "infection"
+        }
+    },
+    {
+        "concept_name": "佝偻病",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "rickets"
+        }
+    },
+    {
+        "concept_name": "侵袭性生长",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "invasive growth"
+        }
+    },
+    {
+        "concept_name": "假膜性炎",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "pseudomembranous inflammation"
+        }
+    },
+    {
+        "concept_name": "免疫母细胞",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "immunoblast"
+        }
+    },
+    {
+        "concept_name": "免疫病理学",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "immunopathology"
+        }
+    },
+    {
+        "concept_name": "全身性水肿",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "anasarca"
+        }
+    },
+    {
+        "concept_name": "内分泌性萎缩",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "endocrine atrophy"
+        }
+    },
+    {
+        "concept_name": "内生性生长",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "endophytic growth"
+        }
+    },
+    {
+        "concept_name": "内膜纤维化",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "intimal fibrosis"
+        }
+    },
+    {
+        "concept_name": "凝固性坏死",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "coagulation necrosis"
+        }
+    },
+    {
+        "concept_name": "出血性梗死",
+        "details": {
+            "学科": "医学_病理学",
+            "又称": " 红色梗死(red infarct)",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "hemorrhagic infarct"
+        }
+    },
+    {
+        "concept_name": "分化",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "differentiation"
+        }
+    },
+    {
+        "concept_name": "分裂象",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "mitotic figure"
+        }
+    },
+    {
+        "concept_name": "动脉炎",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "arteritis"
+        }
+    },
+    {
+        "concept_name": "动脉瘤",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "aneurysm"
+        }
+    },
+    {
+        "concept_name": "包裹",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "encapsulation"
+        }
+    },
+    {
+        "concept_name": "化学病理学",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "chemical pathology"
+        }
+    },
+    {
+        "concept_name": "化生",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "metaplasia"
+        }
+    },
+    {
+        "concept_name": "化脓性炎",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "purulent inflammation"
+        }
+    },
+    {
+        "concept_name": "卡他性炎",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "catarrhal inflammation"
+        }
+    },
+    {
+        "concept_name": "压迫性萎缩",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "pressure atrophy"
+        }
+    },
+    {
+        "concept_name": "含铁血黄素",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "hemosiderin"
+        }
+    },
+    {
+        "concept_name": "嗜酸性坏死",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "acidophilic necrosis"
+        }
+    },
+    {
+        "concept_name": "嗜酸性脓肿",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "eosinophilic abscess"
+        }
+    },
+    {
+        "concept_name": "囊性增生病",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "cystic hyperplasia"
+        }
+    },
+    {
+        "concept_name": "囊腺癌",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "cystadenocarcinoma"
+        }
+    },
+    {
+        "concept_name": "地理病理学",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "geographic pathology"
+        }
+    },
+    {
+        "concept_name": "外生性生长",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "exophytic growth"
+        }
+    },
+    {
+        "concept_name": "外科病理学",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "surgical pathology"
+        }
+    },
+    {
+        "concept_name": "多形性",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "pleomorphism"
+        }
+    },
+    {
+        "concept_name": "天花",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "small pox"
+        }
+    },
+    {
+        "concept_name": "失用性萎缩",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "disuse atrophy"
+        }
+    },
+    {
+        "concept_name": "子宫内膜异位症",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "endometriosis"
+        }
+    },
+    {
+        "concept_name": "实验病理学",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "experimental pathology"
+        }
+    },
+    {
+        "concept_name": "寄生虫栓塞",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "parasitic embolism"
+        }
+    },
+    {
+        "concept_name": "寄生虫栓子",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "parasitic embolus"
+        }
+    },
+    {
+        "concept_name": "小动脉硬化",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "arteriolosclerosis"
+        }
+    },
+    {
+        "concept_name": "尖锐湿疣",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "condyloma acuminatum"
+        }
+    },
+    {
+        "concept_name": "尸冷",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "algor mortis"
+        }
+    },
+    {
+        "concept_name": "局限性肠炎",
+        "details": {
+            "学科": "医学_病理学",
+            "又称": " 节段性肠炎 ；segmental enteri-tis）",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "regional enteritis"
+        }
+    },
+    {
+        "concept_name": "干酪样坏死",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "caseous necrosis"
+        }
+    },
+    {
+        "concept_name": "干酪样肺炎",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "caseous pneumonia"
+        }
+    },
+    {
+        "concept_name": "平滑肌瘤",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "leiomyoma"
+        }
+    },
+    {
+        "concept_name": "平滑肌肉瘤",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "leiomyosarcoma"
+        }
+    },
+    {
+        "concept_name": "循环障碍",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "disturbance of circulation"
+        }
+    },
+    {
+        "concept_name": "心包炎",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "pericarditis"
+        }
+    },
+    {
+        "concept_name": "急性弥漫增生性肾小球肾炎",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "acute diffuse proliferative glomerulonephritis"
+        }
+    },
+    {
+        "concept_name": "急性炎",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "acute inflammation"
+        }
+    },
+    {
+        "concept_name": "恶性",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "malignancy"
+        }
+    },
+    {
+        "concept_name": "恶性变",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "malignant change"
+        }
+    },
+    {
+        "concept_name": "恶性瘤",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "malignant tumor"
+        }
+    },
+    {
+        "concept_name": "恶性组织细胞增生症",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "malignant histiocytosis"
+        }
+    },
+    {
+        "concept_name": "感染",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "infection"
+        }
+    },
+    {
+        "concept_name": "慢性溃疡性结肠炎",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "chronic ulcerative colitis"
+        }
+    },
+    {
+        "concept_name": "慢性炎",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "chronic inflammation"
+        }
+    },
+    {
+        "concept_name": "慢性硬化性肾小球肾炎",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "chronic sclerosing glomeruloneph- ritis"
+        }
+    },
+    {
+        "concept_name": "支原体感染",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "mycoplasma infection"
+        }
+    },
+    {
+        "concept_name": "支气管扩张症",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "bronchiectasis"
+        }
+    },
+    {
+        "concept_name": "支气管炎",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "bronchitis"
+        }
+    },
+    {
+        "concept_name": "新月体性肾小球肾炎",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "crescentic glomerulonephritis"
+        }
+    },
+    {
+        "concept_name": "无菌性梗死",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "aseptic infarct"
+        }
+    },
+    {
+        "concept_name": "早期浸润癌",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "early invasive carcinoma"
+        }
+    },
+    {
+        "concept_name": "未分化癌",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "undifferentiated carcinoma"
+        }
+    },
+    {
+        "concept_name": "机化",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "organization"
+        }
+    },
+    {
+        "concept_name": "栓子",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "embolus"
+        }
+    },
+    {
+        "concept_name": "核溶解",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "karyolysis"
+        }
+    },
+    {
+        "concept_name": "桥本甲状腺炎",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "Hashimoto thyroiditis"
+        }
+    },
+    {
+        "concept_name": "梗死",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "infarct"
+        }
+    },
+    {
+        "concept_name": "梗死形成",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "infarction"
+        }
+    },
+    {
+        "concept_name": "横纹肌肉瘤",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "rhabdomyosarcoma"
+        }
+    },
+    {
+        "concept_name": "死后血凝块",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "postmortem clot"
+        }
+    },
+    {
+        "concept_name": "死骨片",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "sequestrum"
+        }
+    },
+    {
+        "concept_name": "活动性肝炎",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "active hepatitis"
+        }
+    },
+    {
+        "concept_name": "浆液性炎",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "serous inflammation"
+        }
+    },
+    {
+        "concept_name": "浸润",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "infiltration"
+        }
+    },
+    {
+        "concept_name": "淀粉样变性",
+        "details": {
+            "学科": "医学_病理学",
+            "英文": "amyloid degeneration ;amyloidosis",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "amyloid degeneration"
+        }
+    },
+    {
+        "concept_name": "淀粉样小体",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "corpora amylacea"
+        }
+    },
+    {
+        "concept_name": "淋巴水肿",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "lymphedema"
+        }
+    },
+    {
+        "concept_name": "淋巴管瘤",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "lymphangioma"
+        }
+    },
+    {
+        "concept_name": "游出",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "emigration"
+        }
+    },
+    {
+        "concept_name": "溶解性坏死",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "lytic necrosis"
+        }
+    },
+    {
+        "concept_name": "滑膜肉瘤",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "synovial sarcoma"
+        }
+    },
+    {
+        "concept_name": "炎性假瘤",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "inflammatory pseudotumor"
+        }
+    },
+    {
+        "concept_name": "炎症",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "inflammation"
+        }
+    },
+    {
+        "concept_name": "炭末沉着[病]",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "anthracosis"
+        }
+    },
+    {
+        "concept_name": "环境病理学",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "environmental pathology"
+        }
+    },
+    {
+        "concept_name": "瓜尔涅里包涵体",
+        "details": {
+            "学科": "医学_病理学",
+            "曾称": " 瓜尼瑞包涵体",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "Guarnieri inclusion body"
+        }
+    },
+    {
+        "concept_name": "甲状腺功能亢进",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "hyperthyroidism"
+        }
+    },
+    {
+        "concept_name": "病因学",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "etiology"
+        }
+    },
+    {
+        "concept_name": "病理学总论",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "general pathology"
+        }
+    },
+    {
+        "concept_name": "病理形态学",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "pathomorphology"
+        }
+    },
+    {
+        "concept_name": "病理性有丝分裂",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "pathologic mitosis"
+        }
+    },
+    {
+        "concept_name": "病理生物学",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "pathobiology"
+        }
+    },
+    {
+        "concept_name": "病理解剖学",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "pathological anatomy"
+        }
+    },
+    {
+        "concept_name": "瘀点",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "petechia"
+        }
+    },
+    {
+        "concept_name": "瘤巨细胞",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "tumor giant cell"
+        }
+    },
+    {
+        "concept_name": "癌前病变",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "precancerous lesion"
+        }
+    },
+    {
+        "concept_name": "石棉小体",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "asbestoic body"
+        }
+    },
+    {
+        "concept_name": "石棉沉着病",
+        "details": {
+            "学科": "医学_病理学",
+            "又称": " 石棉肺",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "asbestosis"
+        }
+    },
+    {
+        "concept_name": "硅沉着病",
+        "details": {
+            "学科": "医学_病理学",
+            "又称": " 矽肺",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "silicosis"
+        }
+    },
+    {
+        "concept_name": "硅结节",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "siliconic nodule"
+        }
+    },
+    {
+        "concept_name": "神经内分泌癌",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "neuroendocrine carcinoma"
+        }
+    },
+    {
+        "concept_name": "神经细胞缺血性变化",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "neuronal ischemic change"
+        }
+    },
+    {
+        "concept_name": "神经营养性萎缩",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "neurotrophic atrophy"
+        }
+    },
+    {
+        "concept_name": "积血",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "hematocele"
+        }
+    },
+    {
+        "concept_name": "粥样斑",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "atheroma"
+        }
+    },
+    {
+        "concept_name": "粥样斑块",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "atheromatous plaque"
+        }
+    },
+    {
+        "concept_name": "纤维瘤",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "fibroma"
+        }
+    },
+    {
+        "concept_name": "纤维瘤病",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "fibromatosis"
+        }
+    },
+    {
+        "concept_name": "纤维蛋白性炎",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "fibrinous inflammation"
+        }
+    },
+    {
+        "concept_name": "纤维蛋白样坏死",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "fibrinoid necrosis"
+        }
+    },
+    {
+        "concept_name": "组织病理学",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "histopathology"
+        }
+    },
+    {
+        "concept_name": "细胞损伤",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "cell injury"
+        }
+    },
+    {
+        "concept_name": "细胞栓塞",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "cell embolism"
+        }
+    },
+    {
+        "concept_name": "细胞栓子",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "cell embolus"
+        }
+    },
+    {
+        "concept_name": "细菌栓塞",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "bacterial embolism"
+        }
+    },
+    {
+        "concept_name": "细菌栓子",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "bacterial embolus"
+        }
+    },
+    {
+        "concept_name": "结节",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "tubercle"
+        }
+    },
+    {
+        "concept_name": "缺血",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "ischemia"
+        }
+    },
+    {
+        "concept_name": "罗-阿窦",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "Rokitansky-Aschoff sinus"
+        }
+    },
+    {
+        "concept_name": "肉芽肿",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "granuloma"
+        }
+    },
+    {
+        "concept_name": "肉芽肿性炎",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "granulomatous inflammation"
+        }
+    },
+    {
+        "concept_name": "肝硬化",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "cirrhosis of liver"
+        }
+    },
+    {
+        "concept_name": "肥厚性胃炎",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "hypertrophic gastritis"
+        }
+    },
+    {
+        "concept_name": "肺气肿",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "emphysema"
+        }
+    },
+    {
+        "concept_name": "肺泡炎",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "alveolitis"
+        }
+    },
+    {
+        "concept_name": "肺间质纤维化",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "pulmonary interstitial fibrosis"
+        }
+    },
+    {
+        "concept_name": "肾盂肾炎",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "pyelonephritis"
+        }
+    },
+    {
+        "concept_name": "胞吐作用",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "exocytosis"
+        }
+    },
+    {
+        "concept_name": "胞吞作用",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "endocytosis"
+        }
+    },
+    {
+        "concept_name": "胰腺炎",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "pancreatitis"
+        }
+    },
+    {
+        "concept_name": "胶样甲状腺肿",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "colloid goiter"
+        }
+    },
+    {
+        "concept_name": "脂肪栓塞",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "fat embolism"
+        }
+    },
+    {
+        "concept_name": "脂肪浸润",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "fatty infiltration"
+        }
+    },
+    {
+        "concept_name": "脂肪瘤",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "lipoma"
+        }
+    },
+    {
+        "concept_name": "脑水肿",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "cerebral edema"
+        }
+    },
+    {
+        "concept_name": "脓毒性梗死",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "septic infarct"
+        }
+    },
+    {
+        "concept_name": "腺棘皮瘤",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "adenoacanthoma"
+        }
+    },
+    {
+        "concept_name": "腺瘤",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "adenoma"
+        }
+    },
+    {
+        "concept_name": "腺癌",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "adenocarcinoma"
+        }
+    },
+    {
+        "concept_name": "膜性增生性肾小球肾炎",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "membranoproliferative glomerulo- nephritis"
+        }
+    },
+    {
+        "concept_name": "膜性肾小球肾炎",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "membranous glomerulonephritis"
+        }
+    },
+    {
+        "concept_name": "膨胀性生长",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "expansive growth"
+        }
+    },
+    {
+        "concept_name": "自溶",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "autolysis"
+        }
+    },
+    {
+        "concept_name": "营养不良性萎缩",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "malnutrition atrophy"
+        }
+    },
+    {
+        "concept_name": "营养不良性钙化",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "dystrophic calcification"
+        }
+    },
+    {
+        "concept_name": "血栓闭塞性血管炎",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "thromboangiitis obliterans"
+        }
+    },
+    {
+        "concept_name": "血管瘤",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "hemangioma"
+        }
+    },
+    {
+        "concept_name": "血肿",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "hematoma"
+        }
+    },
+    {
+        "concept_name": "表皮样囊肿",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "epidermoid cyst"
+        }
+    },
+    {
+        "concept_name": "褐色硬变",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "brown induration"
+        }
+    },
+    {
+        "concept_name": "褐色萎缩",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "brown atrophy"
+        }
+    },
+    {
+        "concept_name": "贫血性梗死",
+        "details": {
+            "学科": "医学_病理学",
+            "又称": " 白色梗死(white infarct)",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "anemic infarct"
+        }
+    },
+    {
+        "concept_name": "超微结构病理学",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "ultrastructural pathology"
+        }
+    },
+    {
+        "concept_name": "软化",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "softening"
+        }
+    },
+    {
+        "concept_name": "轻微病变性肾小球肾炎",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "minimal change glomerulonephritis"
+        }
+    },
+    {
+        "concept_name": "迁延性肝炎",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "persistent hepatitis"
+        }
+    },
+    {
+        "concept_name": "铅色素",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "lead pigment"
+        }
+    },
+    {
+        "concept_name": "闭塞性动脉硬化",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "arteriosclerosis obliterans"
+        }
+    },
+    {
+        "concept_name": "间变",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "anaplasia"
+        }
+    },
+    {
+        "concept_name": "间质",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "stroma"
+        }
+    },
+    {
+        "concept_name": "阑尾炎",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "appendicitis"
+        }
+    },
+    {
+        "concept_name": "阿尼齐科夫细胞",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "Anitschkow cell"
+        }
+    },
+    {
+        "concept_name": "阿绍夫小体",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "Aschoff body"
+        }
+    },
+    {
+        "concept_name": "马洛里小体",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "Mallory body"
+        }
+    },
+    {
+        "concept_name": "骨肉瘤",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "osteosarcoma"
+        }
+    },
+    {
+        "concept_name": "骨软化[症]",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "osteomalacia"
+        }
+    },
+    {
+        "concept_name": "高血糖素瘤",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "glucagonoma"
+        }
+    },
+    {
+        "concept_name": "黏液囊肿",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "mucocele"
+        }
+    },
+    {
+        "concept_name": "龈瘤",
+        "details": {
+            "学科": "医学_病理学",
+            "见载": "《医学名词 第三分册》第一版",
+            "英文名": "epulis"
+        }
+    }
+]

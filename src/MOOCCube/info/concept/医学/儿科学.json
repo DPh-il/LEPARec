@@ -1,0 +1,1104 @@
+[
+    {
+        "concept_name": "α1-抗胰蛋白酶缺乏[症]",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "α1-antitrypsin deficiency"
+        }
+    },
+    {
+        "concept_name": "三肢瘫",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "triplegia"
+        }
+    },
+    {
+        "concept_name": "上呼吸道感染",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "upper respiratory tract infection"
+        }
+    },
+    {
+        "concept_name": "中毒型痢疾",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "toxic dysentery"
+        }
+    },
+    {
+        "concept_name": "乳糜泻",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "celiac disease"
+        }
+    },
+    {
+        "concept_name": "产伤",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "birth trauma"
+        }
+    },
+    {
+        "concept_name": "人工喂养",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "artificial feeding"
+        }
+    },
+    {
+        "concept_name": "体重",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "body weight"
+        }
+    },
+    {
+        "concept_name": "儿科学",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "pediatrics"
+        }
+    },
+    {
+        "concept_name": "儿童",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "child"
+        }
+    },
+    {
+        "concept_name": "儿童保健",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "child care"
+        }
+    },
+    {
+        "concept_name": "先天性喉喘鸣",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "congenital laryngeal stridor"
+        }
+    },
+    {
+        "concept_name": "先天性完全性心脏传导阻滞",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "congenital complete heart block"
+        }
+    },
+    {
+        "concept_name": "先天性梅毒",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "congenital syphilis"
+        }
+    },
+    {
+        "concept_name": "先天性风疹综合征",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "congenital rubella syndrome"
+        }
+    },
+    {
+        "concept_name": "先锋头",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "caput succedaneum"
+        }
+    },
+    {
+        "concept_name": "光疗",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "phototherapy"
+        }
+    },
+    {
+        "concept_name": "前囟",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "anterior fontanel"
+        }
+    },
+    {
+        "concept_name": "双重偏瘫",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "double hemiplegia"
+        }
+    },
+    {
+        "concept_name": "发育儿科学",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "developmental pediatrics"
+        }
+    },
+    {
+        "concept_name": "叶酸缺乏病",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "folic acid deficiency"
+        }
+    },
+    {
+        "concept_name": "吞咽反射",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "swallowing reflex"
+        }
+    },
+    {
+        "concept_name": "吸吮反射",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "sucking reflex"
+        }
+    },
+    {
+        "concept_name": "吸收不良综合征",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "malabsorption syndrome"
+        }
+    },
+    {
+        "concept_name": "哺乳",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "lactation"
+        }
+    },
+    {
+        "concept_name": "唐氏综合征",
+        "details": {
+            "学科": "医学_儿科学",
+            "又称": " 21 三体综合征",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Down syndrome"
+        }
+    },
+    {
+        "concept_name": "围生期死亡率",
+        "details": {
+            "学科": "医学_儿科学",
+            "又称": " 围产期死亡率",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "perinatal mortality"
+        }
+    },
+    {
+        "concept_name": "夜惊",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "night terrors"
+        }
+    },
+    {
+        "concept_name": "大于胎龄儿",
+        "details": {
+            "学科": "医学_儿科学",
+            "英文": "large for gestational age infant ;LGA",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "large for gestational age infant"
+        }
+    },
+    {
+        "concept_name": "头围",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "head circumference"
+        }
+    },
+    {
+        "concept_name": "头颅透光试验",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "transillumination of skull"
+        }
+    },
+    {
+        "concept_name": "夸希奥科",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Kwashiorkor"
+        }
+    },
+    {
+        "concept_name": "婴儿",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "infant"
+        }
+    },
+    {
+        "concept_name": "婴儿固缩细胞增多症",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "infantile pyknocytosis"
+        }
+    },
+    {
+        "concept_name": "婴儿松弛综合征",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "floppy infant syndrome"
+        }
+    },
+    {
+        "concept_name": "婴儿死亡率",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "infant mortality"
+        }
+    },
+    {
+        "concept_name": "婴儿猝死综合征",
+        "details": {
+            "学科": "医学_儿科学",
+            "英文": "sudden infant death syndrome ;SIDS",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "sudden infant death syndrome"
+        }
+    },
+    {
+        "concept_name": "婴儿痉挛",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "infantile spasm"
+        }
+    },
+    {
+        "concept_name": "婴儿腹泻",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "infantile diarrhea"
+        }
+    },
+    {
+        "concept_name": "宫内感染",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "intrauterine infection"
+        }
+    },
+    {
+        "concept_name": "尿布皮炎",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "diaper dermatitis"
+        }
+    },
+    {
+        "concept_name": "屏气发作",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "breath holding spell"
+        }
+    },
+    {
+        "concept_name": "川崎病",
+        "details": {
+            "学科": "医学_儿科学",
+            "又称": " 黏膜皮肤淋巴结综合征 ；MCLS）",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Kawasaki disease"
+        }
+    },
+    {
+        "concept_name": "心脏异位",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "ectopia cordis"
+        }
+    },
+    {
+        "concept_name": "急性化脓性扁桃腺炎",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "acute suppurative tonsillitis"
+        }
+    },
+    {
+        "concept_name": "慢性脑膜炎球菌败血症",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "chronic meningococcemia"
+        }
+    },
+    {
+        "concept_name": "手足口病",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "hand-foot-mouth disease"
+        }
+    },
+    {
+        "concept_name": "抓握反射",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "grasping reflex"
+        }
+    },
+    {
+        "concept_name": "拥抱反射",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "embrace reflex"
+        }
+    },
+    {
+        "concept_name": "持续性胎儿循环",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "persistent fetal circulation"
+        }
+    },
+    {
+        "concept_name": "换血",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "exchange transfusion"
+        }
+    },
+    {
+        "concept_name": "支气管肺发育不良",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "broncho-pulmonary dysplasia"
+        }
+    },
+    {
+        "concept_name": "断乳",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "ablactation"
+        }
+    },
+    {
+        "concept_name": "新生儿",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "neonate"
+        }
+    },
+    {
+        "concept_name": "新生儿乳房增大",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "enlargement of breast in newborn"
+        }
+    },
+    {
+        "concept_name": "新生儿低血糖",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "hypoglycemia of newborn"
+        }
+    },
+    {
+        "concept_name": "新生儿低血钙",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "hypocalcemia of newborn"
+        }
+    },
+    {
+        "concept_name": "新生儿假月经",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "pseudomenstruation of newborn"
+        }
+    },
+    {
+        "concept_name": "新生儿出血病",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "hemorrhagic disease of newborn"
+        }
+    },
+    {
+        "concept_name": "新生儿剥脱性皮炎",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "exfoliative dermatitis of newborn"
+        }
+    },
+    {
+        "concept_name": "新生儿吸入综合征",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "aspiration syndrome of newborn"
+        }
+    },
+    {
+        "concept_name": "新生儿呼吸暂停",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "apnea of newborn"
+        }
+    },
+    {
+        "concept_name": "新生儿咽血综合征",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "swallowed blood syndrome of newborn"
+        }
+    },
+    {
+        "concept_name": "新生儿惊撅",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "convulsion of newborn"
+        }
+    },
+    {
+        "concept_name": "新生儿湿肺",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "wet lung of newborn"
+        }
+    },
+    {
+        "concept_name": "新生儿溶血病",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "hemolytic disease of newborn"
+        }
+    },
+    {
+        "concept_name": "新生儿破伤风",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tetanus neonatorum"
+        }
+    },
+    {
+        "concept_name": "新生儿硬肿病",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "scleredema neonatorum"
+        }
+    },
+    {
+        "concept_name": "新生儿红细胞增多症",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "polycythemia of newborn"
+        }
+    },
+    {
+        "concept_name": "新生儿肝炎综合征",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "neonatal hepatitis syndrome"
+        }
+    },
+    {
+        "concept_name": "新生儿肺出血",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "pulmonary hemorrhage of newborn"
+        }
+    },
+    {
+        "concept_name": "新生儿肺透明膜病",
+        "details": {
+            "学科": "医学_儿科学",
+            "又称": " 新生儿呼吸窘迫综合征",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "hyaline membrane disease of newborn"
+        }
+    },
+    {
+        "concept_name": "新生儿行为评分",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "neonatal behavioral assessment scale"
+        }
+    },
+    {
+        "concept_name": "新生儿败血症",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "septicemia of newborn"
+        }
+    },
+    {
+        "concept_name": "新生儿颅内出血",
+        "details": {
+            "学科": "医学_儿科学",
+            "英文": "intracranial hemorrhage of newborn ;ICH",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "intracranial hemorrhage of newborn"
+        }
+    },
+    {
+        "concept_name": "早产儿贫血",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "anemia of prematurity"
+        }
+    },
+    {
+        "concept_name": "晶体后纤维增生症",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "retrolental fibroplasia"
+        }
+    },
+    {
+        "concept_name": "暴发型脑膜炎球菌脑膜脑炎",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "fulminating meningococcal meningoencephalitis"
+        }
+    },
+    {
+        "concept_name": "未成熟儿",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "premature infant"
+        }
+    },
+    {
+        "concept_name": "母乳性黄疸",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "breast milk jaundice"
+        }
+    },
+    {
+        "concept_name": "氧中毒",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "oxygen intoxication"
+        }
+    },
+    {
+        "concept_name": "注意缺陷障碍[伴多动]",
+        "details": {
+            "学科": "医学_儿科学",
+            "又称": " 儿童多动症(hyperkinetic syndrome of childhood) ；脑功能轻微失调(minimal brain dysfunction)",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "attention deficit hyperactivity disorder"
+        }
+    },
+    {
+        "concept_name": "溶血性尿毒症综合征",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "hemolytic uremic syndrome"
+        }
+    },
+    {
+        "concept_name": "热性惊厥",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "febrile convulsion"
+        }
+    },
+    {
+        "concept_name": "生理性贫血",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "physiologic anemia"
+        }
+    },
+    {
+        "concept_name": "生理性黄疸",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "physiologic jaundice"
+        }
+    },
+    {
+        "concept_name": "硬脑膜下出血",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "subdural hemorrhage"
+        }
+    },
+    {
+        "concept_name": "硬脑膜下积液",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "subdural effusion"
+        }
+    },
+    {
+        "concept_name": "硬脑膜下穿刺",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "subdural puncture"
+        }
+    },
+    {
+        "concept_name": "神经皮肤综合征",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "neurocutaneous syndrome"
+        }
+    },
+    {
+        "concept_name": "积水性无脑畸形",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "hydranencephaly"
+        }
+    },
+    {
+        "concept_name": "维生素A缺乏病",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "vitamin A deficiency"
+        }
+    },
+    {
+        "concept_name": "维生素B12缺乏病",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "vitamin B12 deficiency"
+        }
+    },
+    {
+        "concept_name": "维生素B12选择性吸收障碍综合征",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Imerslund-Grasbeck syndrome"
+        }
+    },
+    {
+        "concept_name": "维生素B1缺乏病",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "vitamin B1 deficiency"
+        }
+    },
+    {
+        "concept_name": "维生素B2缺乏病",
+        "details": {
+            "学科": "医学_儿科学",
+            "又称": " 核黄素缺乏病",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "vitamin B2 deficiency"
+        }
+    },
+    {
+        "concept_name": "维生素B6缺乏病",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "vitamin B6 deficiency"
+        }
+    },
+    {
+        "concept_name": "维生素C缺乏病",
+        "details": {
+            "学科": "医学_儿科学",
+            "又称": " 坏血病",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "vitamin C deficiency"
+        }
+    },
+    {
+        "concept_name": "维生素D缺乏病",
+        "details": {
+            "学科": "医学_儿科学",
+            "又称": " 维生素D缺乏性佝偻病",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "vitamin D deficiency"
+        }
+    },
+    {
+        "concept_name": "维生素K缺乏病",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "vitamin K deficiency"
+        }
+    },
+    {
+        "concept_name": "缺氧缺血性脑病",
+        "details": {
+            "学科": "医学_儿科学",
+            "英文": "hypoxic ischemic encephalopathy ;HIE",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "hypoxic ischemic encephalopathy"
+        }
+    },
+    {
+        "concept_name": "羊水吸入综合征",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "amnionic fluid aspiration syndrome"
+        }
+    },
+    {
+        "concept_name": "胆汁黏稠综合征",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "biliary hyperviscosity syndrome"
+        }
+    },
+    {
+        "concept_name": "胆红素脑病",
+        "details": {
+            "学科": "医学_儿科学",
+            "又称": " 核黄疸",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "bilirubin encephalopathy"
+        }
+    },
+    {
+        "concept_name": "胎儿-母体[经胎盘]输血",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "feto-maternal [transplacental] transfusion"
+        }
+    },
+    {
+        "concept_name": "胎儿-胎儿输血",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "fetofetal transfusion"
+        }
+    },
+    {
+        "concept_name": "胎儿-胎盘失血",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "fetal-placental hemorrhage"
+        }
+    },
+    {
+        "concept_name": "胎粪吸入综合征",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "meconium aspiration syndrome"
+        }
+    },
+    {
+        "concept_name": "胎龄评估",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "assessment of gestational age"
+        }
+    },
+    {
+        "concept_name": "胸围",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "chest circumference"
+        }
+    },
+    {
+        "concept_name": "胸腺发育不全",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "thymic dysplasia"
+        }
+    },
+    {
+        "concept_name": "胸腺肥大",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "hypertrophy of thymus"
+        }
+    },
+    {
+        "concept_name": "胸锁乳突肌血肿",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "sternocleidomastoid hematoma"
+        }
+    },
+    {
+        "concept_name": "脂肪泻",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "steatorrhea"
+        }
+    },
+    {
+        "concept_name": "脐插管",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "umbilical catheterization"
+        }
+    },
+    {
+        "concept_name": "脱水热",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "dehydration fever"
+        }
+    },
+    {
+        "concept_name": "腹围",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "abdomen circumference"
+        }
+    },
+    {
+        "concept_name": "膈神经麻痹",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "diaphragmatic paralysis"
+        }
+    },
+    {
+        "concept_name": "臂丛麻痹",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "brachial plexus paralysis"
+        }
+    },
+    {
+        "concept_name": "营养不良",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "malnutrition"
+        }
+    },
+    {
+        "concept_name": "营养不良性水肿",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "nutritional edema"
+        }
+    },
+    {
+        "concept_name": "营养性混合性贫血",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "nutritional anemia"
+        }
+    },
+    {
+        "concept_name": "营养性贫血",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "nutritional anemia"
+        }
+    },
+    {
+        "concept_name": "觅食反射",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "rooting reflex"
+        }
+    },
+    {
+        "concept_name": "身长",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "body length"
+        }
+    },
+    {
+        "concept_name": "身高",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "body height"
+        }
+    },
+    {
+        "concept_name": "过期产儿",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "post-term infant"
+        }
+    },
+    {
+        "concept_name": "适于胎龄儿",
+        "details": {
+            "学科": "医学_儿科学",
+            "英文": "appropriate for gestational age infant ;AGA",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "appropriate for gestational age infant"
+        }
+    },
+    {
+        "concept_name": "遗传性胎儿血红蛋白持续存在症",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "hereditary persistence of fetal hemoglobin"
+        }
+    },
+    {
+        "concept_name": "遗传性葡萄糖醛酰基转移酶缺乏症",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "hereditary deficiency of glucuronyl transferase"
+        }
+    },
+    {
+        "concept_name": "重度消瘦型营养不良",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "marasmus"
+        }
+    },
+    {
+        "concept_name": "雅克什贫血",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "von Jaksch anemia"
+        }
+    },
+    {
+        "concept_name": "颅骨软化",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "craniotabes"
+        }
+    },
+    {
+        "concept_name": "骨髓外造血",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "extramedullary hemopoiesis"
+        }
+    },
+    {
+        "concept_name": "高危儿",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "high risk infant"
+        }
+    },
+    {
+        "concept_name": "鹅口疮",
+        "details": {
+            "学科": "医学_儿科学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "thrush"
+        }
+    }
+]

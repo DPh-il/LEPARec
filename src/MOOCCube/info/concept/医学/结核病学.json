@@ -1,0 +1,1254 @@
+[
+    {
+        "concept_name": "中国肺结核病分类法",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Chinese classification of pulmonary tuberculosis"
+        }
+    },
+    {
+        "concept_name": "主动病例发现",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "active case-finding"
+        }
+    },
+    {
+        "concept_name": "乳房结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculosis of breast"
+        }
+    },
+    {
+        "concept_name": "亚急性血行播散型肺结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "subacute hematogenous pulmonary tuberculosis"
+        }
+    },
+    {
+        "concept_name": "人工气胸[术]",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "artificial pneumothorax"
+        }
+    },
+    {
+        "concept_name": "人工气腹[术]",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "artificial pneumoperitoneum"
+        }
+    },
+    {
+        "concept_name": "偶发分枝杆菌",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Mycobacterium fortuitum"
+        }
+    },
+    {
+        "concept_name": "偶发龟分枝杆菌复合菌组",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Mycobacterium-fortuitum-chelonei complex"
+        }
+    },
+    {
+        "concept_name": "内源性感染再燃",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "endogenous reinfection"
+        }
+    },
+    {
+        "concept_name": "分枝菌酸",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "mycolic acids"
+        }
+    },
+    {
+        "concept_name": "划痕试验",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "scratch test"
+        }
+    },
+    {
+        "concept_name": "初始强化治疗阶段",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "initial intensive phase of treatment"
+        }
+    },
+    {
+        "concept_name": "初治",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "initial treatment"
+        }
+    },
+    {
+        "concept_name": "初治方案",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "initial treatment regimen"
+        }
+    },
+    {
+        "concept_name": "前列腺结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculosis of prostate"
+        }
+    },
+    {
+        "concept_name": "加氏计数法",
+        "details": {
+            "学科": "医学_结核病学",
+            "曾称": " 盖氏计数法",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Gaffky scale"
+        }
+    },
+    {
+        "concept_name": "包裹性脓胸",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "encapsulated empyema"
+        }
+    },
+    {
+        "concept_name": "化学预防",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "chemoprophylaxis"
+        }
+    },
+    {
+        "concept_name": "医务人员延误",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "health worker's delay"
+        }
+    },
+    {
+        "concept_name": "卵巢结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "ovarian tuberculosis"
+        }
+    },
+    {
+        "concept_name": "厚涂片法",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "method of thick smear"
+        }
+    },
+    {
+        "concept_name": "原发型肺结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "primary pulmonary tuberculosis"
+        }
+    },
+    {
+        "concept_name": "原发性耐药",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "primary drug-resistance"
+        }
+    },
+    {
+        "concept_name": "原发病灶",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "primary lesion"
+        }
+    },
+    {
+        "concept_name": "原发耐药率",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "primary drug-resistance rate"
+        }
+    },
+    {
+        "concept_name": "受检率",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "examination rate"
+        }
+    },
+    {
+        "concept_name": "后备方案",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "reserved regimen"
+        }
+    },
+    {
+        "concept_name": "呼吸系统结核病",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculosis of respiratory system"
+        }
+    },
+    {
+        "concept_name": "咽结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculosis of pharynx"
+        }
+    },
+    {
+        "concept_name": "土分枝杆菌复合菌组",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Mycobacterium terra complex"
+        }
+    },
+    {
+        "concept_name": "复合结核菌组",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Mycobacterium tuberculosis complex"
+        }
+    },
+    {
+        "concept_name": "复强反应",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "booster reaction"
+        }
+    },
+    {
+        "concept_name": "复治",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "retreatment"
+        }
+    },
+    {
+        "concept_name": "复治方案",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "retreatment regimen"
+        }
+    },
+    {
+        "concept_name": "外源性重感染",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "exogenous superinfection"
+        }
+    },
+    {
+        "concept_name": "天然耐药",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "natural drug-resistance"
+        }
+    },
+    {
+        "concept_name": "女性生殖器结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "female genital tuberculosis"
+        }
+    },
+    {
+        "concept_name": "子宫内膜结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "endometrial tuberculosis"
+        }
+    },
+    {
+        "concept_name": "宫内感染结核病",
+        "details": {
+            "学科": "医学_结核病学",
+            "曾称": " 先天性结核病(congenital tuber-culosis)",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "intrauterine infective tuberculosis"
+        }
+    },
+    {
+        "concept_name": "希氏多孔针刺结核菌素试验",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Heaf multiple puncture tuberculin test"
+        }
+    },
+    {
+        "concept_name": "总延误",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "total delay"
+        }
+    },
+    {
+        "concept_name": "慢性传染源",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "chronic sources of infection"
+        }
+    },
+    {
+        "concept_name": "慢性排菌者",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "chronic excretor"
+        }
+    },
+    {
+        "concept_name": "慢性血行播散型肺结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "chronic hematogenous pulmonary tuberculosis"
+        }
+    },
+    {
+        "concept_name": "成人原发结核感染",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "adult primary tuberculous infection"
+        }
+    },
+    {
+        "concept_name": "抗酸染色法",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "acid-fast staining method"
+        }
+    },
+    {
+        "concept_name": "支气管内膜结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "endobronchial tuberculosis"
+        }
+    },
+    {
+        "concept_name": "无反应性结核病",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "non-reactive tuberculosis"
+        }
+    },
+    {
+        "concept_name": "旧结核菌素",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "old tuberculin"
+        }
+    },
+    {
+        "concept_name": "标准化疗方案",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "standard chemotherapy regimen"
+        }
+    },
+    {
+        "concept_name": "治疗完成率",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "completion rate of treatment"
+        }
+    },
+    {
+        "concept_name": "泌尿生殖系统结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculosis of genitourinary system"
+        }
+    },
+    {
+        "concept_name": "泪腺结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculosis of lacrimal gland"
+        }
+    },
+    {
+        "concept_name": "活动性肺结核检出率",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "detection rate of active pulmonary tuberculosis"
+        }
+    },
+    {
+        "concept_name": "浸润型肺结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "infiltrative pulmonary tuberculosis"
+        }
+    },
+    {
+        "concept_name": "消化系统结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculosis of digestive system"
+        }
+    },
+    {
+        "concept_name": "液体卡介苗",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "fresh liquid BCG vaccine"
+        }
+    },
+    {
+        "concept_name": "滑膜活检",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "synovial biopsy"
+        }
+    },
+    {
+        "concept_name": "男性生殖器结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "male genital tuberculosis"
+        }
+    },
+    {
+        "concept_name": "疱性角膜结膜炎",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "phlyctenular keratoconjunctivitis"
+        }
+    },
+    {
+        "concept_name": "病人管理率",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "case-management rate"
+        }
+    },
+    {
+        "concept_name": "痰涂片阳性肺结核患病率",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "prevalence rate of smear-positive pulmonary tuberculosis"
+        }
+    },
+    {
+        "concept_name": "痰菌检查率",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "sputum examination rate"
+        }
+    },
+    {
+        "concept_name": "痰菌阴转率",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "sputum negative conversion rate"
+        }
+    },
+    {
+        "concept_name": "瘰疬分枝杆菌",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Mycobacterium scrofulaceum"
+        }
+    },
+    {
+        "concept_name": "直接涂片法",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "method of direct smear"
+        }
+    },
+    {
+        "concept_name": "眼眶结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "orbital tuberculosis"
+        }
+    },
+    {
+        "concept_name": "眼结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculosis of eye"
+        }
+    },
+    {
+        "concept_name": "睾丸结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculosis of testis"
+        }
+    },
+    {
+        "concept_name": "短程化学疗法",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "short-course chemotherapy"
+        }
+    },
+    {
+        "concept_name": "硬结性红斑",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "erythema induratum"
+        }
+    },
+    {
+        "concept_name": "管理传染源率",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "case-management rate of sources of infection"
+        }
+    },
+    {
+        "concept_name": "粟粒性结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "miliary tuberculosis"
+        }
+    },
+    {
+        "concept_name": "精囊结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculosis of seminal vesicle"
+        }
+    },
+    {
+        "concept_name": "索状因子",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "cord factor"
+        }
+    },
+    {
+        "concept_name": "细菌学失败率",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "bacteriological failure rate"
+        }
+    },
+    {
+        "concept_name": "结核性中耳炎",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculous otitis media"
+        }
+    },
+    {
+        "concept_name": "结核性关节炎",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculous arthritis"
+        }
+    },
+    {
+        "concept_name": "结核性多浆膜炎",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculous polyserositis"
+        }
+    },
+    {
+        "concept_name": "结核性心包炎",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculous pericarditis"
+        }
+    },
+    {
+        "concept_name": "结核性指炎",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculous dactylitis"
+        }
+    },
+    {
+        "concept_name": "结核性支气管扩张",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculous bronchiectasis"
+        }
+    },
+    {
+        "concept_name": "结核性支气管狭窄",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculous bronchostenosis"
+        }
+    },
+    {
+        "concept_name": "结核性泪囊炎",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculous dacryocystitis"
+        }
+    },
+    {
+        "concept_name": "结核性滑膜炎",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculous synovitis"
+        }
+    },
+    {
+        "concept_name": "结核性眼内炎",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculous endophthalmitis"
+        }
+    },
+    {
+        "concept_name": "结核性空洞开放性愈合",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "open healing of tuberculous cavity"
+        }
+    },
+    {
+        "concept_name": "结核性结节性红斑",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculous erythema nodosum"
+        }
+    },
+    {
+        "concept_name": "结核性肛门周围脓肿",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculous perianal abscess"
+        }
+    },
+    {
+        "concept_name": "结核性肾盂炎",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculous pyelitis"
+        }
+    },
+    {
+        "concept_name": "结核性肾盂肾炎",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculous pyelonephritis"
+        }
+    },
+    {
+        "concept_name": "结核性胸腔积液",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculous pleural effusion"
+        }
+    },
+    {
+        "concept_name": "结核性胸膜炎",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculous pleuritis"
+        }
+    },
+    {
+        "concept_name": "结核性脊椎炎",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculous spondylitis"
+        }
+    },
+    {
+        "concept_name": "结核性脑膜炎",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculous meningitis"
+        }
+    },
+    {
+        "concept_name": "结核性腹膜炎",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculous peritonitis"
+        }
+    },
+    {
+        "concept_name": "结核性骨炎",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculous osteitis"
+        }
+    },
+    {
+        "concept_name": "结核性骨髓炎",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculous osteomyelitis"
+        }
+    },
+    {
+        "concept_name": "结核性骶髂关节炎",
+        "details": {
+            "学科": "医学_结核病学",
+            "英文": "tuberculous sacro-iliitis ;tuberculosis of sacro-iliac joint",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculous sacro-iliitis"
+        }
+    },
+    {
+        "concept_name": "结核性髋关节炎",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculous coxitis"
+        }
+    },
+    {
+        "concept_name": "结核球",
+        "details": {
+            "学科": "医学_结核病学",
+            "又称": " 结核瘤",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculoma"
+        }
+    },
+    {
+        "concept_name": "结核病化学药物治疗",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "chemotherapy of tuberculosis"
+        }
+    },
+    {
+        "concept_name": "结核病发病率",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "incidence of tuberculosis"
+        }
+    },
+    {
+        "concept_name": "结核病年感染率",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculosis annual infection rate"
+        }
+    },
+    {
+        "concept_name": "结核病感染率",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculosis infection rate"
+        }
+    },
+    {
+        "concept_name": "结核病新登记率",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculosis new case registration rate"
+        }
+    },
+    {
+        "concept_name": "结核病流行病学抽样调查",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculosis epidemiological random sampling survey"
+        }
+    },
+    {
+        "concept_name": "结核病登记率",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculosis case registration rate"
+        }
+    },
+    {
+        "concept_name": "结核菌素单位",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculin unit"
+        }
+    },
+    {
+        "concept_name": "结核菌素皮内试验",
+        "details": {
+            "学科": "医学_结核病学",
+            "英文": "Mantoux test ;intradermal terbuculin test",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Mantoux test"
+        }
+    },
+    {
+        "concept_name": "结核菌素纯蛋白衍生物",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "purified protein derivative of tuberculin"
+        }
+    },
+    {
+        "concept_name": "结核过敏现象",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculous allergic phenomenon"
+        }
+    },
+    {
+        "concept_name": "结肠结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculosis of colon"
+        }
+    },
+    {
+        "concept_name": "结膜结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculosis of conjunctiva"
+        }
+    },
+    {
+        "concept_name": "继发性肺结核病",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "secondary pulmonary tuberculosis"
+        }
+    },
+    {
+        "concept_name": "继续治疗阶段",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "continuation phase of treatment"
+        }
+    },
+    {
+        "concept_name": "耳结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculosis of ear"
+        }
+    },
+    {
+        "concept_name": "肘关节结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculosis of elbow joint"
+        }
+    },
+    {
+        "concept_name": "肠结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculosis of intestine"
+        }
+    },
+    {
+        "concept_name": "肩关节结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculosis of shoulder joint"
+        }
+    },
+    {
+        "concept_name": "肺结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "pulmonary tuberculosis"
+        }
+    },
+    {
+        "concept_name": "肺门淋巴结结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "hilar lymphonode tuberculosis"
+        }
+    },
+    {
+        "concept_name": "肾结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculosis of kidney"
+        }
+    },
+    {
+        "concept_name": "胞内分枝杆菌",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Mycobacterium intracellulare"
+        }
+    },
+    {
+        "concept_name": "胞内分枝杆菌纯蛋白衍生物",
+        "details": {
+            "学科": "医学_结核病学",
+            "英文": "PPD of Mycobacterium intracellulare ;PPD-B",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "PPD of Mycobacterium intracellulare"
+        }
+    },
+    {
+        "concept_name": "胞内分枝杆菌肺病",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "pulmonary disease due to Mycobacterium intracellularis"
+        }
+    },
+    {
+        "concept_name": "胸膜增厚",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "pleural thickening"
+        }
+    },
+    {
+        "concept_name": "胸膜粘连",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "pleural adhesions"
+        }
+    },
+    {
+        "concept_name": "腹部结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "abdominal tuberculosis"
+        }
+    },
+    {
+        "concept_name": "膀胱结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculosis of bladder"
+        }
+    },
+    {
+        "concept_name": "舌结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculosis of tongue"
+        }
+    },
+    {
+        "concept_name": "获得性耐药",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "acquired drug-resistance"
+        }
+    },
+    {
+        "concept_name": "西蒙病灶",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Simon foci"
+        }
+    },
+    {
+        "concept_name": "起始耐药",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "initial drug-resistance"
+        }
+    },
+    {
+        "concept_name": "输卵管结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculosis of fallopian tube"
+        }
+    },
+    {
+        "concept_name": "进展",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "progression"
+        }
+    },
+    {
+        "concept_name": "迷路结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculosis of labyrinth"
+        }
+    },
+    {
+        "concept_name": "郭霍现象",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Koch phenomenon"
+        }
+    },
+    {
+        "concept_name": "金胺-罗丹明荧光染色",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "auramine-rhodamine fluorescent staining"
+        }
+    },
+    {
+        "concept_name": "间歇疗法",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "intermittent treatment"
+        }
+    },
+    {
+        "concept_name": "阴囊壁结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculosis of scrotal wall"
+        }
+    },
+    {
+        "concept_name": "阴茎结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculosis of penis"
+        }
+    },
+    {
+        "concept_name": "阿斯曼病灶",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Assmann foci"
+        }
+    },
+    {
+        "concept_name": "阿蒂斯现象",
+        "details": {
+            "学科": "医学_结核病学",
+            "曾称": " 阿图斯现象",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Arthus phenomenon"
+        }
+    },
+    {
+        "concept_name": "集体胸部检查",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "mass chest examination"
+        }
+    },
+    {
+        "concept_name": "静止",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "quiescence"
+        }
+    },
+    {
+        "concept_name": "非结核性分枝杆菌病",
+        "details": {
+            "学科": "医学_结核病学",
+            "曾称": " 非典型分枝杆菌病",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "non-tuberculous mycobacteriosis"
+        }
+    },
+    {
+        "concept_name": "食管结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculosis of esophagus"
+        }
+    },
+    {
+        "concept_name": "骨与关节结核",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "tuberculosis of bone and joint"
+        }
+    },
+    {
+        "concept_name": "鲁尼恩非结核性分枝杆菌分类法",
+        "details": {
+            "学科": "医学_结核病学",
+            "曾称": " 鲁尼恩非典型分枝杆菌分类法",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Runyon classification of non-tuberculous Mycobacterium"
+        }
+    },
+    {
+        "concept_name": "鸟-胞内-瘰疬分枝杆菌复合菌组",
+        "details": {
+            "学科": "医学_结核病学",
+            "英文": "Mycobacterium avium-intracellulare-scrofulaceum complex ;complex MAIS",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Mycobacterium avium-intracellulare-scrofulaceum complex"
+        }
+    },
+    {
+        "concept_name": "鸟-胞内分枝杆菌复合菌组",
+        "details": {
+            "学科": "医学_结核病学",
+            "英文": "Mycobacterium avium-intracellulare complex ;complex MAI",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Mycobacterium avium-intracellulare complex"
+        }
+    },
+    {
+        "concept_name": "鸟分枝杆菌",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Mycobacterium avium"
+        }
+    },
+    {
+        "concept_name": "鸟分枝杆菌纯蛋白衍生物",
+        "details": {
+            "学科": "医学_结核病学",
+            "英文": "PPD of Mycobacterium avium ;PPD-A",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "PPD of Mycobacterium avium"
+        }
+    },
+    {
+        "concept_name": "龟分枝杆菌",
+        "details": {
+            "学科": "医学_结核病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Mycobacterium chelonei"
+        }
+    }
+]

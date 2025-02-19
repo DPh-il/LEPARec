@@ -1,0 +1,646 @@
+[
+    {
+        "concept_name": "串联间隙避雷器",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "arrester with series gaps"
+        }
+    },
+    {
+        "concept_name": "产气率",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "factor of created gas"
+        }
+    },
+    {
+        "concept_name": "侧向放电",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "sideflash"
+        }
+    },
+    {
+        "concept_name": "保护比",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "protective ratio"
+        }
+    },
+    {
+        "concept_name": "保护特性",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "protective characteristics"
+        }
+    },
+    {
+        "concept_name": "保护范围",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "protective range"
+        }
+    },
+    {
+        "concept_name": "保护裕度",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "protective margin"
+        }
+    },
+    {
+        "concept_name": "允通火花放电",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "let-through sparkover"
+        }
+    },
+    {
+        "concept_name": "冲击因数",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "impulse factor"
+        }
+    },
+    {
+        "concept_name": "冲击惯性",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "impulse inertia"
+        }
+    },
+    {
+        "concept_name": "冲击放电伏秒特性曲线",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "impulse sparkover voltage-time curve"
+        }
+    },
+    {
+        "concept_name": "冲击放电电压",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "impulse sparkover voltage"
+        }
+    },
+    {
+        "concept_name": "冲击方波",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "rectangular impulse"
+        }
+    },
+    {
+        "concept_name": "冲击机械强度",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "impulse mechanical strength"
+        }
+    },
+    {
+        "concept_name": "冲击比",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "impulse ratio"
+        }
+    },
+    {
+        "concept_name": "冲击通流能力",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "impulse discharge capacity"
+        }
+    },
+    {
+        "concept_name": "击穿预放电时间",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "time to sparkover"
+        }
+    },
+    {
+        "concept_name": "切断比",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "interruptive ratio"
+        }
+    },
+    {
+        "concept_name": "剩余压力",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "residual pressure"
+        }
+    },
+    {
+        "concept_name": "动作计数器",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "又称": " 放电计数器(discharge counter)",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "operation counter"
+        }
+    },
+    {
+        "concept_name": "动作负载试验",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "operating duty test"
+        }
+    },
+    {
+        "concept_name": "压力释放装置",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "pressure-relief device"
+        }
+    },
+    {
+        "concept_name": "后备间隙装置",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "backup air gap device"
+        }
+    },
+    {
+        "concept_name": "均压环",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "grading ring"
+        }
+    },
+    {
+        "concept_name": "均压电阻",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "grading resistor"
+        }
+    },
+    {
+        "concept_name": "工频放电电压",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "power-frequency sparkover voltage"
+        }
+    },
+    {
+        "concept_name": "并联放电间隙",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "parallel spark gap"
+        }
+    },
+    {
+        "concept_name": "并联间隙避雷器",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "arrester with shunt gaps"
+        }
+    },
+    {
+        "concept_name": "持续运行电压",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "continuous operating voltage"
+        }
+    },
+    {
+        "concept_name": "排气元件",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "expulsion element"
+        }
+    },
+    {
+        "concept_name": "排气式避雷器",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "expulsion type arrester"
+        }
+    },
+    {
+        "concept_name": "操作冲击放电电压",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "switching impulse sparkover vol- tage"
+        }
+    },
+    {
+        "concept_name": "操作冲击电流",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "switching impulse current"
+        }
+    },
+    {
+        "concept_name": "放电指示器",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "discharge indicator"
+        }
+    },
+    {
+        "concept_name": "放电电压-时间曲线",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "discharge voltage-time curve"
+        }
+    },
+    {
+        "concept_name": "断流上限额定值",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "maximum current interrupting rat- ing"
+        }
+    },
+    {
+        "concept_name": "断流下限额定值",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "minimum current interrupting rat- ing"
+        }
+    },
+    {
+        "concept_name": "无间隙避雷器",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "arrester without gaps"
+        }
+    },
+    {
+        "concept_name": "最大排气范围",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "maximum zone of expulsion"
+        }
+    },
+    {
+        "concept_name": "标准雷电冲击放电电压",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "standard lightning impulse spar- kover voltage"
+        }
+    },
+    {
+        "concept_name": "残压",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "residual voltage"
+        }
+    },
+    {
+        "concept_name": "残压-电流特性",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "residual voltage-current character- istic"
+        }
+    },
+    {
+        "concept_name": "氧化锌避雷器",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "zinc oxide arrester"
+        }
+    },
+    {
+        "concept_name": "波前冲击放电电压",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "front of wave impulse sparkover voltage"
+        }
+    },
+    {
+        "concept_name": "浪涌击穿电压",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "surge breakdown voltage"
+        }
+    },
+    {
+        "concept_name": "灭弧腔",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "arcing chamber"
+        }
+    },
+    {
+        "concept_name": "灭弧间隙",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "又称": " 内间隙",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "gap in arcing chamber"
+        }
+    },
+    {
+        "concept_name": "热崩溃",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "thermal runaway"
+        }
+    },
+    {
+        "concept_name": "电弧[状态]电压",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "arc [mode] voltage"
+        }
+    },
+    {
+        "concept_name": "电弧[状态]电流",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "arc [mode] current"
+        }
+    },
+    {
+        "concept_name": "电离电压",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "ionization voltage"
+        }
+    },
+    {
+        "concept_name": "电离电流",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "ionization current"
+        }
+    },
+    {
+        "concept_name": "直接雷击保护",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "direct [lightning] stroke protec- tion"
+        }
+    },
+    {
+        "concept_name": "直流延缓电压",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "direct current holdover voltage"
+        }
+    },
+    {
+        "concept_name": "碳化硅阀式避雷器",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "silicon carbide valve type arrester"
+        }
+    },
+    {
+        "concept_name": "磁吹放电间隙",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "magnetic blow-out spark gap"
+        }
+    },
+    {
+        "concept_name": "空气间隙浪涌保护器",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "air gap surge protector"
+        }
+    },
+    {
+        "concept_name": "空气间隙避雷器",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "air gap arrester"
+        }
+    },
+    {
+        "concept_name": "续流",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "follow current"
+        }
+    },
+    {
+        "concept_name": "耐受浪涌电流",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "withstand surge current"
+        }
+    },
+    {
+        "concept_name": "辉光[状态]电压",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "glow [mode] voltage"
+        }
+    },
+    {
+        "concept_name": "辉光[状态]电流",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "glow [mode] current"
+        }
+    },
+    {
+        "concept_name": "辉光到电弧过渡电流",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "glow-to-arc transition current"
+        }
+    },
+    {
+        "concept_name": "过冲响应时间",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "overshoot response time"
+        }
+    },
+    {
+        "concept_name": "过冲持续时间",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "overshoot duration"
+        }
+    },
+    {
+        "concept_name": "通流容量",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "discharge capacity"
+        }
+    },
+    {
+        "concept_name": "避雷器",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "surge arrester"
+        }
+    },
+    {
+        "concept_name": "避雷器元件",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "unit of an arrester"
+        }
+    },
+    {
+        "concept_name": "避雷器比例单元",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "section of an arrester"
+        }
+    },
+    {
+        "concept_name": "避雷器脱离装置",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "arrester disconnector"
+        }
+    },
+    {
+        "concept_name": "金属氧化物避雷器",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "metal oxide arrester"
+        }
+    },
+    {
+        "concept_name": "间接雷击保护",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "indirect [lightning] stroke prot- ection"
+        }
+    },
+    {
+        "concept_name": "阀式避雷器",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "non-linear resistor type arrester"
+        }
+    },
+    {
+        "concept_name": "阀片",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "又称": " 非线性电阻",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "non-linear resistor"
+        }
+    },
+    {
+        "concept_name": "限流间隙",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "active gap"
+        }
+    },
+    {
+        "concept_name": "陡波冲击电流",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "steep impulse current"
+        }
+    },
+    {
+        "concept_name": "隔离间隙",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "又称": " 外间隙",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "external series gap"
+        }
+    },
+    {
+        "concept_name": "雷电冲击电流",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "lightning impulse current"
+        }
+    },
+    {
+        "concept_name": "雷电浪涌",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "lightning surge"
+        }
+    },
+    {
+        "concept_name": "非线性系数",
+        "details": {
+            "学科": "电气工程_避雷器",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "non-linear coefficient"
+        }
+    }
+]

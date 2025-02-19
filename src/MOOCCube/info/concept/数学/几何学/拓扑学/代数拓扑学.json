@@ -1,0 +1,1481 @@
+[
+    {
+        "concept_name": "CW剖分",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "CW decomposition"
+        }
+    },
+    {
+        "concept_name": "CW复形",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "CW complex"
+        }
+    },
+    {
+        "concept_name": "CW复形的同伦群",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "homotopy group of CW complexes"
+        }
+    },
+    {
+        "concept_name": "H′空间",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "H′-space"
+        }
+    },
+    {
+        "concept_name": "[单形的]真面",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "proper face of a simplex"
+        }
+    },
+    {
+        "concept_name": "[单形的]面",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "face of simplex"
+        }
+    },
+    {
+        "concept_name": "万有丛",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "universal bundle"
+        }
+    },
+    {
+        "concept_name": "万有覆叠空间",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "universal covering space"
+        }
+    },
+    {
+        "concept_name": "上同调环",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "cohomology ring"
+        }
+    },
+    {
+        "concept_name": "上同调谱序列",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "cohomology spectral sequence"
+        }
+    },
+    {
+        "concept_name": "上同调运算",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "cohomology operation"
+        }
+    },
+    {
+        "concept_name": "上积",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "cup product"
+        }
+    },
+    {
+        "concept_name": "上纤维映射",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "cofibre mapping"
+        }
+    },
+    {
+        "concept_name": "上边缘",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "coboundary"
+        }
+    },
+    {
+        "concept_name": "上边缘算子",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "coboundary operator"
+        }
+    },
+    {
+        "concept_name": "上链",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "cochain"
+        }
+    },
+    {
+        "concept_name": "上链映射",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "cochain mapping"
+        }
+    },
+    {
+        "concept_name": "不动点指数",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "fixed point index"
+        }
+    },
+    {
+        "concept_name": "不可压缩曲面",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "incompressible surface"
+        }
+    },
+    {
+        "concept_name": "不可定向曲面",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "non-orientable surface"
+        }
+    },
+    {
+        "concept_name": "不可定向流形",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "non-orientable manifold"
+        }
+    },
+    {
+        "concept_name": "不可约3-流形",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "irreducible 3-manifold"
+        }
+    },
+    {
+        "concept_name": "丛映射",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "bundle map"
+        }
+    },
+    {
+        "concept_name": "丛的上同调",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "cohomology of bundle"
+        }
+    },
+    {
+        "concept_name": "丛的分裂映射",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "splitting map of a bundle"
+        }
+    },
+    {
+        "concept_name": "丛的截面",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "cross section of a bundle"
+        }
+    },
+    {
+        "concept_name": "乘性序列",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "multiplicative sequence"
+        }
+    },
+    {
+        "concept_name": "亚历山大对偶",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "Alexander duality"
+        }
+    },
+    {
+        "concept_name": "代数拓扑[学]",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "algebraic topology"
+        }
+    },
+    {
+        "concept_name": "伦型不变量",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "homotopy type invariant"
+        }
+    },
+    {
+        "concept_name": "伪流形",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "pseudo-manifold"
+        }
+    },
+    {
+        "concept_name": "伪阿诺索夫映射",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "pseudo-Anosov map"
+        }
+    },
+    {
+        "concept_name": "充分大的3-流形",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "sufficiently large 3-manifold"
+        }
+    },
+    {
+        "concept_name": "关联数",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "incidence number"
+        }
+    },
+    {
+        "concept_name": "关联矩阵",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "incidence matrices"
+        }
+    },
+    {
+        "concept_name": "几何实现",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "geometric realization"
+        }
+    },
+    {
+        "concept_name": "分类空间",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "classifying space"
+        }
+    },
+    {
+        "concept_name": "分裂原理",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "splitting principle"
+        }
+    },
+    {
+        "concept_name": "切赫同调",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "Cech homology"
+        }
+    },
+    {
+        "concept_name": "切除公理",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "excision axiom"
+        }
+    },
+    {
+        "concept_name": "切除同构",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "excision isomorphism"
+        }
+    },
+    {
+        "concept_name": "剖分空间",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "triangulated space"
+        }
+    },
+    {
+        "concept_name": "半单纯复形",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "semi-simplicial complex"
+        }
+    },
+    {
+        "concept_name": "半单纯映射",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "semi-simplicial mapping"
+        }
+    },
+    {
+        "concept_name": "半局部单连通[的]",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "semi-locally simply connected"
+        }
+    },
+    {
+        "concept_name": "单纯逼近",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "simplicial approximation"
+        }
+    },
+    {
+        "concept_name": "单连通[的]",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "simply connected"
+        }
+    },
+    {
+        "concept_name": "双曲流形",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "hyperbolic manifold"
+        }
+    },
+    {
+        "concept_name": "可三角剖分[的]",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "triangulable"
+        }
+    },
+    {
+        "concept_name": "可定向丛",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "orientable bundle"
+        }
+    },
+    {
+        "concept_name": "可定向性",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "orientability"
+        }
+    },
+    {
+        "concept_name": "可定向曲面",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "orientable surface"
+        }
+    },
+    {
+        "concept_name": "可定向流形",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "orientable manifold"
+        }
+    },
+    {
+        "concept_name": "可缩[的]",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "contractible"
+        }
+    },
+    {
+        "concept_name": "同伦不变量",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "homotopy invariant"
+        }
+    },
+    {
+        "concept_name": "同伦扩张",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "homotopy extension"
+        }
+    },
+    {
+        "concept_name": "同伦正合序列",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "homotopy exact sequence"
+        }
+    },
+    {
+        "concept_name": "同伦等价",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "homotopy equivalence"
+        }
+    },
+    {
+        "concept_name": "同伦算子",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "homotopy operator"
+        }
+    },
+    {
+        "concept_name": "同伦类",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "homotopy class"
+        }
+    },
+    {
+        "concept_name": "同伦群",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "homotopy group"
+        }
+    },
+    {
+        "concept_name": "同伦运算",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "homotopy operation"
+        }
+    },
+    {
+        "concept_name": "同伦逆",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "homotopy inverse"
+        }
+    },
+    {
+        "concept_name": "同伦阻碍",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "obstruction to a homotopy"
+        }
+    },
+    {
+        "concept_name": "同痕",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "又称": " 合痕",
+            "见载": "《数学名词》第一版",
+            "英文名": "isotopy"
+        }
+    },
+    {
+        "concept_name": "同痕不变量",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "又称": " 合痕不变量",
+            "见载": "《数学名词》第一版",
+            "英文名": "isotopy invariant"
+        }
+    },
+    {
+        "concept_name": "同调",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "homology"
+        }
+    },
+    {
+        "concept_name": "同调正合序列",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "homological exact sequence"
+        }
+    },
+    {
+        "concept_name": "同调流形",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "homology manifold"
+        }
+    },
+    {
+        "concept_name": "同调环",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "homology ring"
+        }
+    },
+    {
+        "concept_name": "同调群",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "homology group"
+        }
+    },
+    {
+        "concept_name": "同调论",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "homology theory"
+        }
+    },
+    {
+        "concept_name": "向量丛",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "又称": " 矢丛",
+            "见载": "《数学名词》第一版",
+            "英文名": "vector bundle"
+        }
+    },
+    {
+        "concept_name": "基本同调类",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "fundamental homology class"
+        }
+    },
+    {
+        "concept_name": "基本群",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "fundamental group"
+        }
+    },
+    {
+        "concept_name": "基点",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "base point"
+        }
+    },
+    {
+        "concept_name": "奇异单形",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "singular simplex"
+        }
+    },
+    {
+        "concept_name": "奇异同调",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "singular homology"
+        }
+    },
+    {
+        "concept_name": "奇异同调群",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "singular homology group"
+        }
+    },
+    {
+        "concept_name": "奇异胞腔",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "又称": " 连续胞腔",
+            "见载": "《数学名词》第一版",
+            "英文名": "singular cell"
+        }
+    },
+    {
+        "concept_name": "奇异链复形",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "singular chain complex"
+        }
+    },
+    {
+        "concept_name": "定向单形",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "oriented simplex"
+        }
+    },
+    {
+        "concept_name": "定向流形",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "oriented manifold"
+        }
+    },
+    {
+        "concept_name": "定向胞腔",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "oriented cell"
+        }
+    },
+    {
+        "concept_name": "对径点",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "antipodal point"
+        }
+    },
+    {
+        "concept_name": "局部同调群",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "local homology group"
+        }
+    },
+    {
+        "concept_name": "差异上链",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "difference cochain"
+        }
+    },
+    {
+        "concept_name": "带基点的空间",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "pointed space"
+        }
+    },
+    {
+        "concept_name": "底空间",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "base space"
+        }
+    },
+    {
+        "concept_name": "庞加莱对偶",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "Poincare&1& duality"
+        }
+    },
+    {
+        "concept_name": "庞加莱猜测",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "Poincare&1& conjecture"
+        }
+    },
+    {
+        "concept_name": "庞特里亚金数",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "Pontryagin number"
+        }
+    },
+    {
+        "concept_name": "庞特里亚金积",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "Pontryagin product"
+        }
+    },
+    {
+        "concept_name": "庞特里亚金类",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "Pontryagin class"
+        }
+    },
+    {
+        "concept_name": "延拓",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "prolongation"
+        }
+    },
+    {
+        "concept_name": "开星形",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "open star"
+        }
+    },
+    {
+        "concept_name": "弱拓扑",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "weak topology"
+        }
+    },
+    {
+        "concept_name": "形变上链",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "deformation cochain"
+        }
+    },
+    {
+        "concept_name": "德恩扭转",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "Dehn twist"
+        }
+    },
+    {
+        "concept_name": "扩张阻碍",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "obstruction to an extension"
+        }
+    },
+    {
+        "concept_name": "抽象单形",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "abstract simplex"
+        }
+    },
+    {
+        "concept_name": "抽象复形",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "abstract complex"
+        }
+    },
+    {
+        "concept_name": "拓扑流形",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "topological manifold"
+        }
+    },
+    {
+        "concept_name": "拓扑空间的伦型",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "homotopy type of topological spaces"
+        }
+    },
+    {
+        "concept_name": "拧数",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "wringing number"
+        }
+    },
+    {
+        "concept_name": "挠系数",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "torsion coefficients"
+        }
+    },
+    {
+        "concept_name": "提升",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "lifting"
+        }
+    },
+    {
+        "concept_name": "整同调群",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "integral homology group"
+        }
+    },
+    {
+        "concept_name": "整性定理",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "integrality theorem"
+        }
+    },
+    {
+        "concept_name": "斯廷罗德幂",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "Steenrod powers"
+        }
+    },
+    {
+        "concept_name": "斯蒂弗尔-惠特尼类",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "Stiefel-Whitney class"
+        }
+    },
+    {
+        "concept_name": "映射的同伦",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "homotopy of mappings"
+        }
+    },
+    {
+        "concept_name": "映射空间",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "mapping space"
+        }
+    },
+    {
+        "concept_name": "映射道路空间",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "mapping path-space"
+        }
+    },
+    {
+        "concept_name": "映射锥",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "mapping cone"
+        }
+    },
+    {
+        "concept_name": "曲面的亏格",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "genus of a surface"
+        }
+    },
+    {
+        "concept_name": "有序单形",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "ordered simplex"
+        }
+    },
+    {
+        "concept_name": "有序链复形",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "ordered chain complex"
+        }
+    },
+    {
+        "concept_name": "棱道群",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "edge group"
+        }
+    },
+    {
+        "concept_name": "欧拉-庞加莱公式",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "Euler-Poincare&1& formula"
+        }
+    },
+    {
+        "concept_name": "欧拉示性数",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "Euler characteristic"
+        }
+    },
+    {
+        "concept_name": "正则覆叠空间",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "regular covering space"
+        }
+    },
+    {
+        "concept_name": "环柄",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "handle"
+        }
+    },
+    {
+        "concept_name": "环绕数",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "linking number"
+        }
+    },
+    {
+        "concept_name": "环面",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "英文": "torus ;anchor ring",
+            "见载": "《数学名词》第一版",
+            "英文名": "torus"
+        }
+    },
+    {
+        "concept_name": "相对同伦",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "relative homotopy"
+        }
+    },
+    {
+        "concept_name": "相对同伦群",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "relative homotopy group"
+        }
+    },
+    {
+        "concept_name": "相对同调群",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "relative homology group"
+        }
+    },
+    {
+        "concept_name": "相对闭链",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "relative cycle"
+        }
+    },
+    {
+        "concept_name": "示嵌类",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "imbedding class"
+        }
+    },
+    {
+        "concept_name": "示性类",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "characteristic class"
+        }
+    },
+    {
+        "concept_name": "积丛",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "product bundle"
+        }
+    },
+    {
+        "concept_name": "积复形",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "product complex"
+        }
+    },
+    {
+        "concept_name": "积定向",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "product orientation"
+        }
+    },
+    {
+        "concept_name": "稳定等价",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "stable equivalence"
+        }
+    },
+    {
+        "concept_name": "简单闭曲线",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "simple closed curve"
+        }
+    },
+    {
+        "concept_name": "系数群",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "coefficient group"
+        }
+    },
+    {
+        "concept_name": "纤维",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "fiber"
+        }
+    },
+    {
+        "concept_name": "纤维空间的谱序列",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "spectral sequence of a fiber space"
+        }
+    },
+    {
+        "concept_name": "约化锥",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "reduced cone"
+        }
+    },
+    {
+        "concept_name": "纬垂同构",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "suspension isomorphism"
+        }
+    },
+    {
+        "concept_name": "组合流形",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "combinatorial manifold"
+        }
+    },
+    {
+        "concept_name": "结合映射",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "association mapping"
+        }
+    },
+    {
+        "concept_name": "统联",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "join"
+        }
+    },
+    {
+        "concept_name": "胞腔",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "cell"
+        }
+    },
+    {
+        "concept_name": "胞腔上同调群",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "cell cohomology group"
+        }
+    },
+    {
+        "concept_name": "胞腔式映射",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "cellular mapping"
+        }
+    },
+    {
+        "concept_name": "胞腔逼近",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "cellular approximation"
+        }
+    },
+    {
+        "concept_name": "自然性",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "naturality"
+        }
+    },
+    {
+        "concept_name": "莱夫谢茨数",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "Lefschetz number"
+        }
+    },
+    {
+        "concept_name": "覆叠同伦",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "covering homotopy"
+        }
+    },
+    {
+        "concept_name": "覆叠映射",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "covering map"
+        }
+    },
+    {
+        "concept_name": "覆盖的神经",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "nerve of a covering"
+        }
+    },
+    {
+        "concept_name": "诱导丛",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "induced bundle"
+        }
+    },
+    {
+        "concept_name": "诱导同态",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "induced homomorphism"
+        }
+    },
+    {
+        "concept_name": "诱导定向",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "induced orientation"
+        }
+    },
+    {
+        "concept_name": "诱导覆叠空间",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "induced covering space"
+        }
+    },
+    {
+        "concept_name": "超渡",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "transgression"
+        }
+    },
+    {
+        "concept_name": "轨形",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "orbifold"
+        }
+    },
+    {
+        "concept_name": "边缘同态",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "boundary homomorphism"
+        }
+    },
+    {
+        "concept_name": "边缘链",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "boundary chain"
+        }
+    },
+    {
+        "concept_name": "透镜空间",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "lens space"
+        }
+    },
+    {
+        "concept_name": "配丛",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "又称": " 副丛",
+            "见载": "《数学名词》第一版",
+            "英文名": "associated bundle"
+        }
+    },
+    {
+        "concept_name": "配边群",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "cobordism group"
+        }
+    },
+    {
+        "concept_name": "重分链映射",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "subdivision chain mapping"
+        }
+    },
+    {
+        "concept_name": "重合点",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "coincident point"
+        }
+    },
+    {
+        "concept_name": "链同伦",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "chain homotopy"
+        }
+    },
+    {
+        "concept_name": "链复形",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "chain complex"
+        }
+    },
+    {
+        "concept_name": "链群",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "chain group"
+        }
+    },
+    {
+        "concept_name": "闭包有限",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "closure finite"
+        }
+    },
+    {
+        "concept_name": "闭子集的畴数",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "category of a closed subset"
+        }
+    },
+    {
+        "concept_name": "闭路空间",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "loop space"
+        }
+    },
+    {
+        "concept_name": "阻碍",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "obstruction"
+        }
+    },
+    {
+        "concept_name": "阻碍类",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "obstruction class"
+        }
+    },
+    {
+        "concept_name": "阻碍闭上链",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "obstruction cocycle"
+        }
+    },
+    {
+        "concept_name": "陈[省身]类",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "Chern class"
+        }
+    },
+    {
+        "concept_name": "陈特征[标]",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "全称": " 陈省身特征标",
+            "见载": "《数学名词》第一版",
+            "英文名": "Chern character"
+        }
+    },
+    {
+        "concept_name": "零伦[的]",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "null homotopy"
+        }
+    },
+    {
+        "concept_name": "零调[的]",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "acyclic"
+        }
+    },
+    {
+        "concept_name": "霍普夫不变量",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "Hopf invariant"
+        }
+    },
+    {
+        "concept_name": "霍普夫映射",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "Hopf mapping"
+        }
+    },
+    {
+        "concept_name": "面算子",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "face operator"
+        }
+    },
+    {
+        "concept_name": "顺向基",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "basis coherent with the orientation"
+        }
+    },
+    {
+        "concept_name": "默比乌斯带",
+        "details": {
+            "学科": "数学_几何学_拓扑学_代数拓扑学",
+            "见载": "《数学名词》第一版",
+            "英文名": "Mo&4&bius strip"
+        }
+    }
+]

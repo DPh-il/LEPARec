@@ -1,0 +1,1343 @@
+[
+    {
+        "concept_name": "Q过程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "Q-process"
+        }
+    },
+    {
+        "concept_name": "k重混合条件",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "k-fold mixing condition"
+        }
+    },
+    {
+        "concept_name": "τ前σ域",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "σ-field prior to τ"
+        }
+    },
+    {
+        "concept_name": "一致可积鞅",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "uniformly integrable martingale"
+        }
+    },
+    {
+        "concept_name": "一致强混合条件",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "uniformly strong mixing condition"
+        }
+    },
+    {
+        "concept_name": "上穿不等式",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "upcrossing inequality"
+        }
+    },
+    {
+        "concept_name": "上鞅",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "supermartingale"
+        }
+    },
+    {
+        "concept_name": "下鞅",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "submartingale"
+        }
+    },
+    {
+        "concept_name": "不变σ域",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "invariant σ-field"
+        }
+    },
+    {
+        "concept_name": "不变事件",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "invariant event"
+        }
+    },
+    {
+        "concept_name": "不变随机变量",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "invariant random variable"
+        }
+    },
+    {
+        "concept_name": "不可约链",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "irreducible chain"
+        }
+    },
+    {
+        "concept_name": "不足道[的]",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "evanescent"
+        }
+    },
+    {
+        "concept_name": "不足道集",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "evanescent set"
+        }
+    },
+    {
+        "concept_name": "严格τ前σ域",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "σ-field strictly prior to τ"
+        }
+    },
+    {
+        "concept_name": "中断过程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "killed process"
+        }
+    },
+    {
+        "concept_name": "二阶过程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "second-order process"
+        }
+    },
+    {
+        "concept_name": "互激点过程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "mutually exciting point process"
+        }
+    },
+    {
+        "concept_name": "互相关函数",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "cross correlation function"
+        }
+    },
+    {
+        "concept_name": "互谱",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "cross spectrum"
+        }
+    },
+    {
+        "concept_name": "伊藤公式",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "Ito formula"
+        }
+    },
+    {
+        "concept_name": "伊藤积分",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "Ito stochastic integral"
+        }
+    },
+    {
+        "concept_name": "伊藤过程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "Ito process"
+        }
+    },
+    {
+        "concept_name": "伊辛模型",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "Ising model"
+        }
+    },
+    {
+        "concept_name": "停时",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "stopping time"
+        }
+    },
+    {
+        "concept_name": "停止定理",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "stopping theorem"
+        }
+    },
+    {
+        "concept_name": "全不可及时",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "曾称": " 绝不可及时",
+            "见载": "《数学名词》第一版",
+            "英文名": "totally inaccessible time"
+        }
+    },
+    {
+        "concept_name": "典型分解",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "canonical decomposition"
+        }
+    },
+    {
+        "concept_name": "典型过程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "canonical process"
+        }
+    },
+    {
+        "concept_name": "分位数过程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "quantile process"
+        }
+    },
+    {
+        "concept_name": "分支过程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "branching process"
+        }
+    },
+    {
+        "concept_name": "初始分布",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "initial distribution"
+        }
+    },
+    {
+        "concept_name": "初遇",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "debut"
+        }
+    },
+    {
+        "concept_name": "半鞅",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "semi-martingale"
+        }
+    },
+    {
+        "concept_name": "占位时",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "occupation time"
+        }
+    },
+    {
+        "concept_name": "卡尔曼滤波",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "Kalman filtering"
+        }
+    },
+    {
+        "concept_name": "反射壁",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "reflecting barrier"
+        }
+    },
+    {
+        "concept_name": "可料时",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "predictable time"
+        }
+    },
+    {
+        "concept_name": "可测过程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "measurable process"
+        }
+    },
+    {
+        "concept_name": "可达状态",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "accessible state"
+        }
+    },
+    {
+        "concept_name": "可逆马尔可夫过程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "reversible Markov process"
+        }
+    },
+    {
+        "concept_name": "可选[的]",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "optional"
+        }
+    },
+    {
+        "concept_name": "右连左极",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "法文名": "cadlag(法)",
+            "见载": "《数学名词》第一版",
+            "英文名": "right continuous with left limits"
+        }
+    },
+    {
+        "concept_name": "向前方程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "forward equation"
+        }
+    },
+    {
+        "concept_name": "向后方程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "backward equation"
+        }
+    },
+    {
+        "concept_name": "吸收壁",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "absorbing barrier"
+        }
+    },
+    {
+        "concept_name": "吸收状态",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "absorbing state"
+        }
+    },
+    {
+        "concept_name": "均方连续",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "continuity in mean square"
+        }
+    },
+    {
+        "concept_name": "均方遍历[的]",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "ergodic in mean"
+        }
+    },
+    {
+        "concept_name": "基弗过程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "Kiefer process"
+        }
+    },
+    {
+        "concept_name": "增过程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "increasing process"
+        }
+    },
+    {
+        "concept_name": "多指标过程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "multi-indexed process"
+        }
+    },
+    {
+        "concept_name": "奥恩斯坦-乌伦贝克算子",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "Ornstein-Uhlenbeck operator"
+        }
+    },
+    {
+        "concept_name": "奥恩斯坦-乌伦贝克算子半群",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "Ornstein-Uhlenbeck semi-group of operators"
+        }
+    },
+    {
+        "concept_name": "奥恩斯坦-乌伦贝克过程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "Ornstein-Uhlenbeck process"
+        }
+    },
+    {
+        "concept_name": "局部时",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "local time"
+        }
+    },
+    {
+        "concept_name": "常返状态",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "recurrent state"
+        }
+    },
+    {
+        "concept_name": "常返链",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "recurrent chain"
+        }
+    },
+    {
+        "concept_name": "平方变差过程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "quadratic variation process"
+        }
+    },
+    {
+        "concept_name": "平方可积鞅",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "square integrable martingale"
+        }
+    },
+    {
+        "concept_name": "平稳过程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "stationary process"
+        }
+    },
+    {
+        "concept_name": "平稳过程谱分解",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "又称": " 平稳过程谱表示",
+            "见载": "《数学名词》第一版",
+            "英文名": "spectral decomposition of stationary process"
+        }
+    },
+    {
+        "concept_name": "平衡态",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "equilibrium state"
+        }
+    },
+    {
+        "concept_name": "广义泊松过程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "generalized Poisson process"
+        }
+    },
+    {
+        "concept_name": "弹性壁",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "elastic barrier"
+        }
+    },
+    {
+        "concept_name": "强不可约链",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "strong irreducible chain"
+        }
+    },
+    {
+        "concept_name": "强马尔可夫性",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "strong Markov property"
+        }
+    },
+    {
+        "concept_name": "循环部分",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "cyclic part"
+        }
+    },
+    {
+        "concept_name": "扩散过程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "diffusion process"
+        }
+    },
+    {
+        "concept_name": "抽象维纳空间",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "abstract Wiener space"
+        }
+    },
+    {
+        "concept_name": "拟左连续[的]",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "quasi-left continuous"
+        }
+    },
+    {
+        "concept_name": "拟鞅",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "quasi-martingale"
+        }
+    },
+    {
+        "concept_name": "指数公式",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "exponential formula"
+        }
+    },
+    {
+        "concept_name": "指数鞅",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "exponential martingale"
+        }
+    },
+    {
+        "concept_name": "排它过程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "exclusion process"
+        }
+    },
+    {
+        "concept_name": "接触过程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "contact process"
+        }
+    },
+    {
+        "concept_name": "斯特拉托诺维奇积分",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "Stratonovich stochastic integral"
+        }
+    },
+    {
+        "concept_name": "斯科罗霍德积分",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "Skorohod integral"
+        }
+    },
+    {
+        "concept_name": "新息",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "innovation"
+        }
+    },
+    {
+        "concept_name": "无区别过程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "indistinguishable processes"
+        }
+    },
+    {
+        "concept_name": "无后效",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "without aftereffect"
+        }
+    },
+    {
+        "concept_name": "无穷粒子系统",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "infinite particle system"
+        }
+    },
+    {
+        "concept_name": "最优停止问题",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "optimal stopping problem"
+        }
+    },
+    {
+        "concept_name": "有理谱密度",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "rational spectral density"
+        }
+    },
+    {
+        "concept_name": "有限变差过程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "process of finite variation"
+        }
+    },
+    {
+        "concept_name": "末离时",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "last exit time"
+        }
+    },
+    {
+        "concept_name": "本质上确界",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "essential supremum"
+        }
+    },
+    {
+        "concept_name": "杜布－迈耶分解",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "Doob-Meyer decomposition"
+        }
+    },
+    {
+        "concept_name": "极大不等式",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "maximal inequality"
+        }
+    },
+    {
+        "concept_name": "极限鞅",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "martingale in limit"
+        }
+    },
+    {
+        "concept_name": "柱测度",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "cylindrical measure"
+        }
+    },
+    {
+        "concept_name": "标值点过程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "marked point process"
+        }
+    },
+    {
+        "concept_name": "标准过程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "standard process"
+        }
+    },
+    {
+        "concept_name": "概率位势理论",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "probabilistic potential theory"
+        }
+    },
+    {
+        "concept_name": "概率测度近邻性",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "contiguity of probability measures"
+        }
+    },
+    {
+        "concept_name": "正交增量过程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "process with orthogonal increments"
+        }
+    },
+    {
+        "concept_name": "正交随机测度",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "orthogonal random measure"
+        }
+    },
+    {
+        "concept_name": "正常返状态",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "positive recurrent state"
+        }
+    },
+    {
+        "concept_name": "沃尔德分解",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "Wold decomposition"
+        }
+    },
+    {
+        "concept_name": "流入边界",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "entrance boundary"
+        }
+    },
+    {
+        "concept_name": "流出边界",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "exit boundary"
+        }
+    },
+    {
+        "concept_name": "消亡时",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "extinction time"
+        }
+    },
+    {
+        "concept_name": "混合条件",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "mixing condition"
+        }
+    },
+    {
+        "concept_name": "混沌分解",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "chaos decomposition"
+        }
+    },
+    {
+        "concept_name": "渐近鞅",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "asymptotic martingale"
+        }
+    },
+    {
+        "concept_name": "游弋",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "excursion"
+        }
+    },
+    {
+        "concept_name": "漂移",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "drift"
+        }
+    },
+    {
+        "concept_name": "点过程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "point process"
+        }
+    },
+    {
+        "concept_name": "爆炸时",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "explosion time"
+        }
+    },
+    {
+        "concept_name": "独立增量过程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "英文": "process with independent increments ;additive process",
+            "见载": "《数学名词》第一版",
+            "英文名": "process with independent increments"
+        }
+    },
+    {
+        "concept_name": "生灭过程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "birth and death process"
+        }
+    },
+    {
+        "concept_name": "相关函数",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "correlation function"
+        }
+    },
+    {
+        "concept_name": "相容分布函数族",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "consistent family of distribution functions"
+        }
+    },
+    {
+        "concept_name": "相通状态",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "communicating state"
+        }
+    },
+    {
+        "concept_name": "瞬时状态",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "instantaneous state"
+        }
+    },
+    {
+        "concept_name": "科尔莫戈罗夫相容性定理",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "Kolmogorov consistent theorem"
+        }
+    },
+    {
+        "concept_name": "稳定状态",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "stable state"
+        }
+    },
+    {
+        "concept_name": "空齐[的]",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "spatially homogeneous"
+        }
+    },
+    {
+        "concept_name": "纯灭过程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "death process"
+        }
+    },
+    {
+        "concept_name": "纯生过程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "birth process"
+        }
+    },
+    {
+        "concept_name": "线性滤波",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "linear filtering"
+        }
+    },
+    {
+        "concept_name": "经验过程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "empirical process"
+        }
+    },
+    {
+        "concept_name": "维纳测度",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "Wiener measure"
+        }
+    },
+    {
+        "concept_name": "维纳滤波",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "Wiener filtering"
+        }
+    },
+    {
+        "concept_name": "维纳空间",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "Wiener space"
+        }
+    },
+    {
+        "concept_name": "维纳过程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "Wiener process"
+        }
+    },
+    {
+        "concept_name": "自旋系统",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "spin system"
+        }
+    },
+    {
+        "concept_name": "自激点过程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "self-exciting point process"
+        }
+    },
+    {
+        "concept_name": "自相关函数",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "autocorrelation function"
+        }
+    },
+    {
+        "concept_name": "计数过程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "counting process"
+        }
+    },
+    {
+        "concept_name": "谱密度函数",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "spectral density function"
+        }
+    },
+    {
+        "concept_name": "超均函数",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "superaveraging function"
+        }
+    },
+    {
+        "concept_name": "转移概率",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "transition probability"
+        }
+    },
+    {
+        "concept_name": "转移阵",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "transition matrix"
+        }
+    },
+    {
+        "concept_name": "过分函数",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "excessive function"
+        }
+    },
+    {
+        "concept_name": "适应[的]",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "adapted"
+        }
+    },
+    {
+        "concept_name": "通常条件",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "usual conditions"
+        }
+    },
+    {
+        "concept_name": "遍历过程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "ergodic process"
+        }
+    },
+    {
+        "concept_name": "遍历链",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "ergodic chain"
+        }
+    },
+    {
+        "concept_name": "随机函数",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "random function"
+        }
+    },
+    {
+        "concept_name": "随机分析",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "stochastic analysis"
+        }
+    },
+    {
+        "concept_name": "随机变分法",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "stochastic calculus of variations"
+        }
+    },
+    {
+        "concept_name": "随机场",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "random field"
+        }
+    },
+    {
+        "concept_name": "随机序列",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "stochastic sequence"
+        }
+    },
+    {
+        "concept_name": "随机微分几何",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "stochastic differential geometry"
+        }
+    },
+    {
+        "concept_name": "随机微分方程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "stochastic differential equation"
+        }
+    },
+    {
+        "concept_name": "随机微分方程[的]强解",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "strong solution of SDE"
+        }
+    },
+    {
+        "concept_name": "随机测度",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "stochastic measure"
+        }
+    },
+    {
+        "concept_name": "随机游动",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "random walk"
+        }
+    },
+    {
+        "concept_name": "随机积分",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "英文": "stochastic integral ;random integral",
+            "见载": "《数学名词》第一版",
+            "英文名": "stochastic integral"
+        }
+    },
+    {
+        "concept_name": "随机连续",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "stochastic continuity"
+        }
+    },
+    {
+        "concept_name": "随机遍历[的]",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "random ergodic"
+        }
+    },
+    {
+        "concept_name": "集指标过程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "set-indexed process"
+        }
+    },
+    {
+        "concept_name": "零常返状态",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "null-recurrent state"
+        }
+    },
+    {
+        "concept_name": "非线性滤波",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "non-linear filtering"
+        }
+    },
+    {
+        "concept_name": "鞅测度",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "martingale measure"
+        }
+    },
+    {
+        "concept_name": "鞅问题",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "martingale problem"
+        }
+    },
+    {
+        "concept_name": "预报",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "prediction"
+        }
+    },
+    {
+        "concept_name": "首中分布",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "hitting distribution"
+        }
+    },
+    {
+        "concept_name": "首中时",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "[first] hitting time"
+        }
+    },
+    {
+        "concept_name": "首入时",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "first entrance time"
+        }
+    },
+    {
+        "concept_name": "马丁对偶边界",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "Martin dual-boundary"
+        }
+    },
+    {
+        "concept_name": "马丁边界",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "Martin boundary"
+        }
+    },
+    {
+        "concept_name": "马尔可夫性",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "Markov property"
+        }
+    },
+    {
+        "concept_name": "马尔可夫时",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "Markov time"
+        }
+    },
+    {
+        "concept_name": "高斯测度",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "Gauss measure"
+        }
+    },
+    {
+        "concept_name": "高斯过程",
+        "details": {
+            "学科": "数学_概率论_数理统计_随机过程",
+            "见载": "《数学名词》第一版",
+            "英文名": "Gauss process"
+        }
+    }
+]

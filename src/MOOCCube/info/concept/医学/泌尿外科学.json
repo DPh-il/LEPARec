@@ -1,0 +1,3278 @@
+[
+    {
+        "concept_name": "下丘脑-垂体-性腺轴",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "hypothalamic-pituitary-gonadal axis"
+        }
+    },
+    {
+        "concept_name": "下丘脑-垂体-睾丸轴",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "hypothalamic-pituitary-testicular axis"
+        }
+    },
+    {
+        "concept_name": "下丘脑-垂体轴",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "hypothalamic-pituitary axis"
+        }
+    },
+    {
+        "concept_name": "乙状结肠膀胱扩大术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "英文": "sigmoid augmentation cystoplasty ;sigmoid cystoplasty",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "sigmoid augmentation cystoplasty"
+        }
+    },
+    {
+        "concept_name": "乳酸脱氢酶",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "lactic acid dehydrogenase"
+        }
+    },
+    {
+        "concept_name": "体外冲击波碎石术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "extracorporeal shock-wave lithotripsy"
+        }
+    },
+    {
+        "concept_name": "体外动静脉短路",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "external arterio-venous shunt"
+        }
+    },
+    {
+        "concept_name": "假性尿失禁",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "false incontinence"
+        }
+    },
+    {
+        "concept_name": "充溢性尿失禁",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "overflow incontinence"
+        }
+    },
+    {
+        "concept_name": "先天性异位输尿管",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "congenital ectopic ureter"
+        }
+    },
+    {
+        "concept_name": "分叉型肾盂",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "bifid pelvis"
+        }
+    },
+    {
+        "concept_name": "分钟间隔连续尿路造影[术]",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "minute-sequence urography"
+        }
+    },
+    {
+        "concept_name": "前列腺子宫内膜样癌",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "endometrioid carcinoma of prostate"
+        }
+    },
+    {
+        "concept_name": "前列腺损伤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "injury of prostate"
+        }
+    },
+    {
+        "concept_name": "前列腺管内腺癌",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "intraductal adenocarcinoma of prostate"
+        }
+    },
+    {
+        "concept_name": "前列腺精囊包虫病",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "echinococcus disease of prostate and seminal vesicle"
+        }
+    },
+    {
+        "concept_name": "前列腺脓肿",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "abscess of prostate"
+        }
+    },
+    {
+        "concept_name": "前列腺腺瘤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "prostatic adenoma"
+        }
+    },
+    {
+        "concept_name": "前列腺腺癌",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "adenocarcinoma of prostate"
+        }
+    },
+    {
+        "concept_name": "剖腰探查术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "exploratory lumbotomy"
+        }
+    },
+    {
+        "concept_name": "剩余尿",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "residual urine"
+        }
+    },
+    {
+        "concept_name": "动力性尿路梗阻",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "dynamic obstruction of urinary tract"
+        }
+    },
+    {
+        "concept_name": "包皮变应性水肿",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "allergic edema of prepuce"
+        }
+    },
+    {
+        "concept_name": "医源性阳萎",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "iatrogenic impotence"
+        }
+    },
+    {
+        "concept_name": "单乳头肾",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "unipapillary kidney"
+        }
+    },
+    {
+        "concept_name": "卵巢静脉综合征",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ovarian vein syndrome"
+        }
+    },
+    {
+        "concept_name": "压力性尿失禁",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "stress incontinence"
+        }
+    },
+    {
+        "concept_name": "压力性尿失禁悬吊术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "sling procedure for stress incontinence"
+        }
+    },
+    {
+        "concept_name": "原发性醛固酮[增多]症",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "primary aldosteronism"
+        }
+    },
+    {
+        "concept_name": "变应性前列腺病",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "allergic prostatosis"
+        }
+    },
+    {
+        "concept_name": "变应性膀胱炎",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "allergic cystitis"
+        }
+    },
+    {
+        "concept_name": "可控性回肠膀胱术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "英文": "continent ileal reservoir ;continent ileostomy ;Kock pouch",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "continent ileal reservoir"
+        }
+    },
+    {
+        "concept_name": "嗜铬细胞瘤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "pheochromocytoma"
+        }
+    },
+    {
+        "concept_name": "囊性输尿管炎",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ureteritis cystica"
+        }
+    },
+    {
+        "concept_name": "回盲肠皮肤尿流改道术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ileocecal cutaneous diversion"
+        }
+    },
+    {
+        "concept_name": "回肠膀胱尿流改道术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ileal conduit diversion"
+        }
+    },
+    {
+        "concept_name": "回肠膀胱扩大术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "英文": "ileum augmentation cystoplasty ;ileocystoplasty",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ileum augmentation cystoplasty"
+        }
+    },
+    {
+        "concept_name": "回肠膀胱术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "英文": "ileal conduit ;Bricker operation",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ileal conduit"
+        }
+    },
+    {
+        "concept_name": "回肠造口术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ileostomy"
+        }
+    },
+    {
+        "concept_name": "基质启动学说",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "theory of matrix initiation"
+        }
+    },
+    {
+        "concept_name": "外伤性尿道瘘",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "traumatic urethral fistula"
+        }
+    },
+    {
+        "concept_name": "外尿流改道术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "external urinary diversion"
+        }
+    },
+    {
+        "concept_name": "外生殖器带状疱疹",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "herpes zoster of external genitalia"
+        }
+    },
+    {
+        "concept_name": "外生殖器毒物性皮炎",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "dermatitis venenata of external genitalia"
+        }
+    },
+    {
+        "concept_name": "外生殖器汗腺腺瘤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "syringoma of external genitalia"
+        }
+    },
+    {
+        "concept_name": "外生殖器疱疹样皮炎",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "dermatitis herpetiformis of exter- nal genitalia"
+        }
+    },
+    {
+        "concept_name": "外生殖器红癣",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "erythrasma of external genitalia"
+        }
+    },
+    {
+        "concept_name": "外生殖器萎缩",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "atrophy of external genitalia"
+        }
+    },
+    {
+        "concept_name": "外生殖器血管神经性水肿",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "angioneurotic edema of external genitalia"
+        }
+    },
+    {
+        "concept_name": "外生殖器血管角化瘤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "angiokeratoma of external genitalia"
+        }
+    },
+    {
+        "concept_name": "多囊肾",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "multilocular cyst of kidney"
+        }
+    },
+    {
+        "concept_name": "夜间遗尿症",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "nocturnal enuresis"
+        }
+    },
+    {
+        "concept_name": "大网膜输尿管成形术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "omentoureteroplasty"
+        }
+    },
+    {
+        "concept_name": "套入法尿道成形术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Badenoch urethroplasty"
+        }
+    },
+    {
+        "concept_name": "女假两性畸形",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "female pseudohermaphroditism"
+        }
+    },
+    {
+        "concept_name": "女性后天性尿道黏膜包涵囊肿",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "acquired inclusion cyst of urethral epithelium of female"
+        }
+    },
+    {
+        "concept_name": "女性尿失禁",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "female incontinence"
+        }
+    },
+    {
+        "concept_name": "女性尿道纤维息肉",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "fibrous polyps of female urethra"
+        }
+    },
+    {
+        "concept_name": "婴儿肾",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "infantile kidney"
+        }
+    },
+    {
+        "concept_name": "孤立肾",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "solitary kidney"
+        }
+    },
+    {
+        "concept_name": "射精",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ejaculation"
+        }
+    },
+    {
+        "concept_name": "少尿型肾[功能]衰竭",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "oliguric renal failure"
+        }
+    },
+    {
+        "concept_name": "少年胚胎性癌",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "juvenile embryonal carcinoma"
+        }
+    },
+    {
+        "concept_name": "尿外渗",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "urinary extravasation"
+        }
+    },
+    {
+        "concept_name": "尿性腹水",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "urinary ascites"
+        }
+    },
+    {
+        "concept_name": "尿流中断",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "interruption of urinary stream"
+        }
+    },
+    {
+        "concept_name": "尿流分叉",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "bifurcation of urination"
+        }
+    },
+    {
+        "concept_name": "尿流改道复原术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "urinary undiversion"
+        }
+    },
+    {
+        "concept_name": "尿流改道术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "英文": "diversion of urine ;urinary diver- sion",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "diversion of urine"
+        }
+    },
+    {
+        "concept_name": "尿液分段检查",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "fractional examination of urine"
+        }
+    },
+    {
+        "concept_name": "尿瘘",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "urinary fistula"
+        }
+    },
+    {
+        "concept_name": "尿路上皮",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "urothelium"
+        }
+    },
+    {
+        "concept_name": "尿路上皮肿瘤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "urothelial tumor"
+        }
+    },
+    {
+        "concept_name": "尿路梗阻",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "urinary tract obstruction"
+        }
+    },
+    {
+        "concept_name": "尿路病变",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "uropathy"
+        }
+    },
+    {
+        "concept_name": "尿道会师手术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "reconstruction of ruptured urethra by Bank method"
+        }
+    },
+    {
+        "concept_name": "尿道内切开术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "internal urethrotomy"
+        }
+    },
+    {
+        "concept_name": "尿道刀",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "urethrotome"
+        }
+    },
+    {
+        "concept_name": "尿道切除术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "urethrectomy"
+        }
+    },
+    {
+        "concept_name": "尿道前移术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "urethral advancement"
+        }
+    },
+    {
+        "concept_name": "尿道发育不全",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "hypoplastic urethra"
+        }
+    },
+    {
+        "concept_name": "尿道口切开术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "urethral meatotomy"
+        }
+    },
+    {
+        "concept_name": "尿道口前移阴茎头成形术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "meatal advancement and glandular plasty"
+        }
+    },
+    {
+        "concept_name": "尿道口成形术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "urethral meatoplasty"
+        }
+    },
+    {
+        "concept_name": "尿道口血管瘤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "angioma of urethral meatus"
+        }
+    },
+    {
+        "concept_name": "尿道周围脓肿",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "periurethral abscess"
+        }
+    },
+    {
+        "concept_name": "尿道外切开术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "external urethrotomy"
+        }
+    },
+    {
+        "concept_name": "尿道尖锐湿疣",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "condylomata acuminata of urethra"
+        }
+    },
+    {
+        "concept_name": "尿道异物",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "foreign body in urethra"
+        }
+    },
+    {
+        "concept_name": "尿道息肉",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "polyp of urethra"
+        }
+    },
+    {
+        "concept_name": "尿道憩室",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "urethral diverticulum"
+        }
+    },
+    {
+        "concept_name": "尿道扩张",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "urethral sounding"
+        }
+    },
+    {
+        "concept_name": "尿道折叠术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "plication operation of urethra"
+        }
+    },
+    {
+        "concept_name": "尿道括约肌测压",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "urethro-sphincterometry"
+        }
+    },
+    {
+        "concept_name": "尿道括约肌肌电图",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "urethral sphincter electromyogram"
+        }
+    },
+    {
+        "concept_name": "尿道损伤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "injury of urethra"
+        }
+    },
+    {
+        "concept_name": "尿道炎",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "urethritis"
+        }
+    },
+    {
+        "concept_name": "尿道狭窄",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "urethral stricture"
+        }
+    },
+    {
+        "concept_name": "尿道狭窄扩张术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "dilatation of urethral stricture"
+        }
+    },
+    {
+        "concept_name": "尿道球腺脓肿",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "abscess of Cowper gland"
+        }
+    },
+    {
+        "concept_name": "尿道球腺腺癌",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "adenocarcinoma of bulbourethral gland"
+        }
+    },
+    {
+        "concept_name": "尿道瓣膜",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "urethral valve"
+        }
+    },
+    {
+        "concept_name": "尿道畸形",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "deformity of urethra"
+        }
+    },
+    {
+        "concept_name": "尿道瘘",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "urethral fistula"
+        }
+    },
+    {
+        "concept_name": "尿道癌",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "carcinoma of urethra"
+        }
+    },
+    {
+        "concept_name": "尿道结核",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "tuberculosis of urethra"
+        }
+    },
+    {
+        "concept_name": "尿道肉阜",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "urethral caruncle"
+        }
+    },
+    {
+        "concept_name": "尿道肿瘤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "tumor of urethra"
+        }
+    },
+    {
+        "concept_name": "尿道腺瘤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "adenoma of urethra"
+        }
+    },
+    {
+        "concept_name": "尿道腺癌",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "adenocarcinoma of urethra"
+        }
+    },
+    {
+        "concept_name": "尿道膀胱吻合[术]",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "urethrovesical anastomosis"
+        }
+    },
+    {
+        "concept_name": "尿道膀胱造影[术]",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "urethrocystography"
+        }
+    },
+    {
+        "concept_name": "尿道膨出",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "urethrocele"
+        }
+    },
+    {
+        "concept_name": "尿道造影[术]",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "urethrography"
+        }
+    },
+    {
+        "concept_name": "尿道镜",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "urethroscope"
+        }
+    },
+    {
+        "concept_name": "尿道闭合压力图",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "urethral closure pressure profile"
+        }
+    },
+    {
+        "concept_name": "尿道闭锁",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "atresia of urethra"
+        }
+    },
+    {
+        "concept_name": "延缓性排泄性尿路造影[术]",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "delayed excretory urography"
+        }
+    },
+    {
+        "concept_name": "急性尿酸盐肾病",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "acute urate nephropathy"
+        }
+    },
+    {
+        "concept_name": "性活动",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "sexual activity"
+        }
+    },
+    {
+        "concept_name": "性腺发育不全",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "又称": " 特纳综合征(gonadal dysgene-sis) ；Turner syndrome）",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "germinal aplasia"
+        }
+    },
+    {
+        "concept_name": "性腺缺如",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "gonadal agenesis"
+        }
+    },
+    {
+        "concept_name": "扩大的肾盂切开取石术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "extended pyelolithotomy"
+        }
+    },
+    {
+        "concept_name": "抑制物缺乏学说",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "theory of inhibitor lack"
+        }
+    },
+    {
+        "concept_name": "排尿指数",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "micturition index"
+        }
+    },
+    {
+        "concept_name": "排尿期膀胱尿道造影[术]",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "英文": "micturition urethrocystography ;voiding cystourethrography",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "micturition urethrocystography"
+        }
+    },
+    {
+        "concept_name": "排泄性尿路造影[术]",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "英文": "excretory urography ;intravenous pyelography",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "excretory urography"
+        }
+    },
+    {
+        "concept_name": "排泄性尿道造影[术]",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "excretory urethrography"
+        }
+    },
+    {
+        "concept_name": "排泄性膀胱造影[术]",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "excretory cystography"
+        }
+    },
+    {
+        "concept_name": "支原体性尿道炎",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "mycoplasmal urethritis"
+        }
+    },
+    {
+        "concept_name": "放线菌性前列腺炎",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "actinomycotic prostatitis"
+        }
+    },
+    {
+        "concept_name": "断离性肾盂输尿管成形术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "dismembered ureteropelvioplasty"
+        }
+    },
+    {
+        "concept_name": "斯塔米尿道悬吊术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Stamey procedure for stress urinary incontinence"
+        }
+    },
+    {
+        "concept_name": "无症状性细菌尿",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "asymptomatic bacteriuria"
+        }
+    },
+    {
+        "concept_name": "无精子症",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "azoospermia"
+        }
+    },
+    {
+        "concept_name": "机械性尿路梗阻",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "mechanical obstruction of urinary tract"
+        }
+    },
+    {
+        "concept_name": "横纹肌样肾母细胞瘤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "rhabdomyoid Wilms tumor"
+        }
+    },
+    {
+        "concept_name": "正常位输尿管膨出",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "orthotopic ureterocele"
+        }
+    },
+    {
+        "concept_name": "气性肾盂肾炎",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "emphysematous pyelonephritis"
+        }
+    },
+    {
+        "concept_name": "气性膀胱炎",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "emphysematous cystitis"
+        }
+    },
+    {
+        "concept_name": "泌尿外科学",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "urology"
+        }
+    },
+    {
+        "concept_name": "泌尿外科检查",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "urologic examination"
+        }
+    },
+    {
+        "concept_name": "泌尿生殖窦",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "urogenital sinus"
+        }
+    },
+    {
+        "concept_name": "泌尿生殖系变应性疾病",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "allergic diseases of genitourinary system"
+        }
+    },
+    {
+        "concept_name": "泌尿生殖系滴虫病",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "trichomoniasis of genito-urinary system"
+        }
+    },
+    {
+        "concept_name": "泌尿生殖膈",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "urogenital diaphragm"
+        }
+    },
+    {
+        "concept_name": "泌尿系子宫内膜异位症",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "endometriosis of urinary system"
+        }
+    },
+    {
+        "concept_name": "泌尿系异物",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "foreign body in urinary system"
+        }
+    },
+    {
+        "concept_name": "液电碎石术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "electrohydraulic lithotripsy"
+        }
+    },
+    {
+        "concept_name": "淋菌性尿道炎",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "gonococcal urethritis"
+        }
+    },
+    {
+        "concept_name": "渗透性利尿",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "osmotic diuresis"
+        }
+    },
+    {
+        "concept_name": "游走肾",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "movable kidney"
+        }
+    },
+    {
+        "concept_name": "滤泡性膀胱炎",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "follicular cystitis"
+        }
+    },
+    {
+        "concept_name": "滴虫性尿道膀胱炎",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "trichomonal urethro-cystitis"
+        }
+    },
+    {
+        "concept_name": "特发性不育症",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "idiopathic infertility"
+        }
+    },
+    {
+        "concept_name": "特发性腹膜后纤维化",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "idiopathic retroperitoneal fibrosis"
+        }
+    },
+    {
+        "concept_name": "特发性逼尿肌协同失调",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "idiopathic detrusor dyssynergia"
+        }
+    },
+    {
+        "concept_name": "特发性鞘膜积液",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "idiopathic hydrocele"
+        }
+    },
+    {
+        "concept_name": "男性不育症",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "male infertility"
+        }
+    },
+    {
+        "concept_name": "男性泌尿生殖系放线菌病",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "actinomycosis of male genitourinary system"
+        }
+    },
+    {
+        "concept_name": "男性泌尿生殖系梅毒",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "syphilis of male urogenital system"
+        }
+    },
+    {
+        "concept_name": "男性泌尿生殖系结核",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "tuberculosis of male genito-urinary system"
+        }
+    },
+    {
+        "concept_name": "盆腔包虫病",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "pelvic echinococcosis"
+        }
+    },
+    {
+        "concept_name": "盆腔横纹肌肉瘤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "pelvic rhabdomyosarcoma"
+        }
+    },
+    {
+        "concept_name": "盲端异位输尿管膨出",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "blind ectopic ureterocele"
+        }
+    },
+    {
+        "concept_name": "盲肠膀胱扩大术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "英文": "cecum augmentation cystoplasty ;cecal cystoplasty",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "cecum augmentation cystoplasty"
+        }
+    },
+    {
+        "concept_name": "直肠膀胱-结肠腹壁造口术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "rectal bladder and abdominal colostomy"
+        }
+    },
+    {
+        "concept_name": "睾丸下降不全",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "incomplete orchiocatabasis"
+        }
+    },
+    {
+        "concept_name": "睾丸切除术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "orchiectomy"
+        }
+    },
+    {
+        "concept_name": "睾丸异位",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ectopia of testis"
+        }
+    },
+    {
+        "concept_name": "睾丸损伤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "injury of testis"
+        }
+    },
+    {
+        "concept_name": "睾丸母细胞瘤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "orchioblastoma"
+        }
+    },
+    {
+        "concept_name": "睾丸炎",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "orchitis"
+        }
+    },
+    {
+        "concept_name": "睾丸缺如综合征",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "absent testis syndrome"
+        }
+    },
+    {
+        "concept_name": "睾丸网乳头状腺癌",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "papillary adenocarcinoma of rete testis"
+        }
+    },
+    {
+        "concept_name": "睾丸胚胎癌",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "embryonal carcinoma of testis"
+        }
+    },
+    {
+        "concept_name": "睾丸腺癌",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "adenocarcinoma of testis"
+        }
+    },
+    {
+        "concept_name": "睾丸萎缩",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "atrophy of testis"
+        }
+    },
+    {
+        "concept_name": "睾丸表皮样囊肿",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "epidermoid cyst of testis"
+        }
+    },
+    {
+        "concept_name": "睾丸间质细胞瘤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "英文": "Leydig cell tumor ;interstitial cell tumor of testis",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Leydig cell tumor"
+        }
+    },
+    {
+        "concept_name": "睾丸附件",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "testicular adnexa"
+        }
+    },
+    {
+        "concept_name": "睾丸附件扭转",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "torsion of testicular appendage"
+        }
+    },
+    {
+        "concept_name": "碱性痂块膀胱炎",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "alkaline incrusted cystitis"
+        }
+    },
+    {
+        "concept_name": "磷酸镁铵结石",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "magnesium ammonium phosphate calculus"
+        }
+    },
+    {
+        "concept_name": "类脂性肾上腺增生",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "lipoid adrenal hyperplasia"
+        }
+    },
+    {
+        "concept_name": "精囊切除术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "seminal vesiculectomy"
+        }
+    },
+    {
+        "concept_name": "精囊放线菌病",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "actinomycosis of seminal vesicle"
+        }
+    },
+    {
+        "concept_name": "精囊腺癌",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "adenocarcinoma of seminal vesicle"
+        }
+    },
+    {
+        "concept_name": "精子减少[症]",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "oligospermia"
+        }
+    },
+    {
+        "concept_name": "精索附睾丝虫病",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "filariasis of funiculo-epididymis"
+        }
+    },
+    {
+        "concept_name": "约翰松尿道成形术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Johanson urethroplasty"
+        }
+    },
+    {
+        "concept_name": "纯睾丸支持细胞综合征",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Sertoli-cell-only syndrome"
+        }
+    },
+    {
+        "concept_name": "细胞凋亡",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "apoptosis"
+        }
+    },
+    {
+        "concept_name": "细菌性尿道炎",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "bacterial urethritis"
+        }
+    },
+    {
+        "concept_name": "经回肠膀胱逆行输尿管造影[术]",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "retrograde ileocystoureterography"
+        }
+    },
+    {
+        "concept_name": "经尿道前列腺切开[术]",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "transurethral incision of prostate"
+        }
+    },
+    {
+        "concept_name": "经尿道尿道瓣膜切除术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "transurethral resection of urethral valve"
+        }
+    },
+    {
+        "concept_name": "经尿道膀胱颈切开术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "transurethral vesical neck incision"
+        }
+    },
+    {
+        "concept_name": "经尿道输尿管肾盂镜检查术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "transurethral ureteropyeloscopy"
+        }
+    },
+    {
+        "concept_name": "经皮肾动脉造影[术]",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Seldinger technique of renal arteriography"
+        }
+    },
+    {
+        "concept_name": "经皮肾造瘘术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "percutaneous nephrostomy"
+        }
+    },
+    {
+        "concept_name": "经直肠活检",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "transrectal biopsy"
+        }
+    },
+    {
+        "concept_name": "耻骨上膀胱造口术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "suprapubic cystostomy"
+        }
+    },
+    {
+        "concept_name": "耻骨上膀胱针刺吸引术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "suprapubic needle aspiration of bladder"
+        }
+    },
+    {
+        "concept_name": "肾-肾盂造瘘术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "nephropyelostomy"
+        }
+    },
+    {
+        "concept_name": "肾-输尿管切除术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "nephro-ureterectomy"
+        }
+    },
+    {
+        "concept_name": "肾上腺[性]性征综合征",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "adrenogenital syndrome"
+        }
+    },
+    {
+        "concept_name": "肾上腺切除术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "adrenalectomy"
+        }
+    },
+    {
+        "concept_name": "肾上腺剩余肿瘤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "adrenal rest tumor"
+        }
+    },
+    {
+        "concept_name": "肾上腺动脉造影[术]",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "adrenal arteriography"
+        }
+    },
+    {
+        "concept_name": "肾上腺血管造影[术]",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "adrenal angiography"
+        }
+    },
+    {
+        "concept_name": "肾上腺非功能性皮质腺瘤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "nonfunctional adrenocortical adenoma"
+        }
+    },
+    {
+        "concept_name": "肾内反流",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "intrarenal reflux"
+        }
+    },
+    {
+        "concept_name": "肾内肾积水",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "intrarenal hydronephrosis"
+        }
+    },
+    {
+        "concept_name": "肾切除术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "nephrectomy"
+        }
+    },
+    {
+        "concept_name": "肾动脉栓塞",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "thrombosis of renal artery"
+        }
+    },
+    {
+        "concept_name": "肾动脉栓塞术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "embolization of renal artery"
+        }
+    },
+    {
+        "concept_name": "肾动脉狭窄",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "stenosis of renal artery"
+        }
+    },
+    {
+        "concept_name": "肾动脉瘤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "aneurysm of renal artery"
+        }
+    },
+    {
+        "concept_name": "肾动脉纤维增生病",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "fibroplasia of renal artery"
+        }
+    },
+    {
+        "concept_name": "肾动脉造影[术]",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "renal arteriography"
+        }
+    },
+    {
+        "concept_name": "肾动静脉瘘",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "renal arteriovenous fistula"
+        }
+    },
+    {
+        "concept_name": "肾发育不良",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "renal dysplasia"
+        }
+    },
+    {
+        "concept_name": "肾嗜酸细胞瘤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "renal oncocytoma"
+        }
+    },
+    {
+        "concept_name": "肾囊肿",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "cyst of kidney"
+        }
+    },
+    {
+        "concept_name": "肾外型肾盂",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "extrarenal pelvis"
+        }
+    },
+    {
+        "concept_name": "肾失用性萎缩",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "disuse atrophy of kidney"
+        }
+    },
+    {
+        "concept_name": "肾子宫内膜异位症",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "endometriosis of kidney"
+        }
+    },
+    {
+        "concept_name": "肾异位",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "renal ectopia"
+        }
+    },
+    {
+        "concept_name": "肾异种组织肿瘤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "heteroplastic tissue tumor of kidney"
+        }
+    },
+    {
+        "concept_name": "肾恶性纤维组织细胞瘤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "malignant fibrous histiocytoma of kidney"
+        }
+    },
+    {
+        "concept_name": "肾指数",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "renal index"
+        }
+    },
+    {
+        "concept_name": "肾损伤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "injury of kidney"
+        }
+    },
+    {
+        "concept_name": "肾断层造影洗出法",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "wash-out method in nephrotomo- graphy"
+        }
+    },
+    {
+        "concept_name": "肾旋转异常",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "renal malrotation"
+        }
+    },
+    {
+        "concept_name": "肾病灶清除术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "renal cavernostomy"
+        }
+    },
+    {
+        "concept_name": "肾皮质脓肿",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "cortical abscess of kidney"
+        }
+    },
+    {
+        "concept_name": "肾皮质腺瘤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "renal cortical adenoma"
+        }
+    },
+    {
+        "concept_name": "肾盂移行细胞癌",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "transitional cell carcinoma of renal pelvis"
+        }
+    },
+    {
+        "concept_name": "肾盂静脉反流",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "pyelovenous backflow"
+        }
+    },
+    {
+        "concept_name": "肾离体术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "bench technique of kidney"
+        }
+    },
+    {
+        "concept_name": "肾穿透伤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "penetrating injury of kidney"
+        }
+    },
+    {
+        "concept_name": "肾细胞癌",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "renal cell carcinoma"
+        }
+    },
+    {
+        "concept_name": "肾缺如",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "agenesis of kidney"
+        }
+    },
+    {
+        "concept_name": "肾脓肿",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "renal abscess"
+        }
+    },
+    {
+        "concept_name": "肾良性肿瘤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "benign renal tumor"
+        }
+    },
+    {
+        "concept_name": "肾蒂淋巴管剥脱术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "stripping of renal lymphatic vessel"
+        }
+    },
+    {
+        "concept_name": "肾血管重建术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "reno-vascular reconstruction"
+        }
+    },
+    {
+        "concept_name": "肾轴性旋转",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "axial rotation of kidney"
+        }
+    },
+    {
+        "concept_name": "肾髓质管扩张",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "medullary ductal ectasia of kidney"
+        }
+    },
+    {
+        "concept_name": "胎儿肾",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "fetal kidney"
+        }
+    },
+    {
+        "concept_name": "脐尿管",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "urachus"
+        }
+    },
+    {
+        "concept_name": "脐尿管囊肿",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "urachal cyst"
+        }
+    },
+    {
+        "concept_name": "脐尿管憩室",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "urachal diverticulum"
+        }
+    },
+    {
+        "concept_name": "脐尿管放线菌病",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "actinomycosis of urachus"
+        }
+    },
+    {
+        "concept_name": "脐尿管未闭",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "patent of urachus"
+        }
+    },
+    {
+        "concept_name": "脐尿管瘘",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "fistula of urachus"
+        }
+    },
+    {
+        "concept_name": "脐尿管结核",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "tuberculosis of urachus"
+        }
+    },
+    {
+        "concept_name": "脐尿管腺癌",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "adenocarcinoma of urachus"
+        }
+    },
+    {
+        "concept_name": "脾肾动脉吻合术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "spleno-renal arterial anastomosis"
+        }
+    },
+    {
+        "concept_name": "腔道泌尿外科学",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "endourology"
+        }
+    },
+    {
+        "concept_name": "腔静脉后输尿管",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "retrocaval ureter"
+        }
+    },
+    {
+        "concept_name": "腮腺炎性睾丸炎",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "mumps orchitis"
+        }
+    },
+    {
+        "concept_name": "腹主-肾动脉造影[术]",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "abdominal aorto-renal arteriography"
+        }
+    },
+    {
+        "concept_name": "腹膜内膀胱破裂",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "intraperitoneal rupture of bladder"
+        }
+    },
+    {
+        "concept_name": "腹膜后淋巴结切除术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "retroperitoneal lymphadenectomy"
+        }
+    },
+    {
+        "concept_name": "腹膜外膀胱破裂",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "extraperitoneal rupture of bladder"
+        }
+    },
+    {
+        "concept_name": "膀胱三角及输尿管间嵴肥大",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "hypertrophy of trigone and interureteric ridge"
+        }
+    },
+    {
+        "concept_name": "膀胱乳头状瘤病",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "papillomatosis of bladder"
+        }
+    },
+    {
+        "concept_name": "膀胱内翻性乳头状瘤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "inverted papilloma of bladder"
+        }
+    },
+    {
+        "concept_name": "膀胱坏疽",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "gangrene of bladder"
+        }
+    },
+    {
+        "concept_name": "膀胱子宫内膜异位症",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "endometriosis of bladder"
+        }
+    },
+    {
+        "concept_name": "膀胱尿道吻合术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "vesicourethral anastomosis"
+        }
+    },
+    {
+        "concept_name": "膀胱尿道造影[术]",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "cysto-urethrography"
+        }
+    },
+    {
+        "concept_name": "膀胱憩室结石",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "calculus in diverticulum of bladder"
+        }
+    },
+    {
+        "concept_name": "膀胱损伤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "injury of bladder"
+        }
+    },
+    {
+        "concept_name": "膀胱淀粉样变性",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "amyloidosis of bladder"
+        }
+    },
+    {
+        "concept_name": "膀胱灌注",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "irrigation of bladder"
+        }
+    },
+    {
+        "concept_name": "膀胱疱疹",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "herpes of bladder"
+        }
+    },
+    {
+        "concept_name": "膀胱白斑病",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "leukoplakia of bladder"
+        }
+    },
+    {
+        "concept_name": "膀胱碎石洗出术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "vesical litholapaxy"
+        }
+    },
+    {
+        "concept_name": "膀胱缺如",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "agenesis of bladder"
+        }
+    },
+    {
+        "concept_name": "膀胱腺瘤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "adenoma of bladder"
+        }
+    },
+    {
+        "concept_name": "膀胱腺癌",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "adenocarcinoma of bladder"
+        }
+    },
+    {
+        "concept_name": "膀胱输尿管反流",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "vesicoureteral reflux"
+        }
+    },
+    {
+        "concept_name": "膀胱输尿管瘘",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "vesicoureteral fistula"
+        }
+    },
+    {
+        "concept_name": "膀胱闭锁",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "英文": "atresia of bladder ;atretocystia",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "atresia of bladder"
+        }
+    },
+    {
+        "concept_name": "自截肾",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "autonephrectomy"
+        }
+    },
+    {
+        "concept_name": "舒血管肠肽",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "又称": " 血管活性肠肽",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "vasoactive intestinal peptide"
+        }
+    },
+    {
+        "concept_name": "草酸尿",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "英文": "oxaluria ;hyperoxaluria",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "oxaluria"
+        }
+    },
+    {
+        "concept_name": "草酸钙结石",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "calcium oxalate stone"
+        }
+    },
+    {
+        "concept_name": "融合肾",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "fused kidney"
+        }
+    },
+    {
+        "concept_name": "血卟啉衍生物",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "hematoporphyrin derivative"
+        }
+    },
+    {
+        "concept_name": "血浆肾素活性",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "plasma renin activity"
+        }
+    },
+    {
+        "concept_name": "血清前列腺酸性磷酸酶",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "prostatic fraction of serum acid phosphatase"
+        }
+    },
+    {
+        "concept_name": "血管性阳萎",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "vasculogenic impotence"
+        }
+    },
+    {
+        "concept_name": "血管梗塞性肾切除",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "angioinfarction-nephrectomy"
+        }
+    },
+    {
+        "concept_name": "血管运动性肾病",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "vasomotor nephropathy"
+        }
+    },
+    {
+        "concept_name": "衣原体性尿道炎",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "chlamydial urethritis"
+        }
+    },
+    {
+        "concept_name": "输尿管-肠-皮肤尿流改道术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "uretero-enterocutaneous diversion"
+        }
+    },
+    {
+        "concept_name": "输尿管乙状结肠吻合术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "英文": "ureterosigmoidostomy ;uretero- sigmoid anastomosis",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ureterosigmoidostomy"
+        }
+    },
+    {
+        "concept_name": "输尿管乳头状瘤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "papilloma of ureter"
+        }
+    },
+    {
+        "concept_name": "输尿管乳头状癌",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "papillary carcinoma of ureter"
+        }
+    },
+    {
+        "concept_name": "输尿管切开取石术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ureterolithotomy"
+        }
+    },
+    {
+        "concept_name": "输尿管切开术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ureterotomy"
+        }
+    },
+    {
+        "concept_name": "输尿管切除术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ureterectomy"
+        }
+    },
+    {
+        "concept_name": "输尿管发育不全",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ureteral hypoplasia"
+        }
+    },
+    {
+        "concept_name": "输尿管发育不良",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ureteral dysplasia"
+        }
+    },
+    {
+        "concept_name": "输尿管口切开术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ureteral meatotomy"
+        }
+    },
+    {
+        "concept_name": "输尿管口异位",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ectopia of ureteral orifice"
+        }
+    },
+    {
+        "concept_name": "输尿管口狭窄",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "stricture of uretero-vesical orifice"
+        }
+    },
+    {
+        "concept_name": "输尿管周围炎",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "periureteritis"
+        }
+    },
+    {
+        "concept_name": "输尿管回肠皮肤尿流改道[术]",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ureteroileal cutaneous diversion"
+        }
+    },
+    {
+        "concept_name": "输尿管子宫内膜异位症",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "endometriosis of ureter"
+        }
+    },
+    {
+        "concept_name": "输尿管息肉",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "polyp of ureter"
+        }
+    },
+    {
+        "concept_name": "输尿管憩室",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "diverticulum of ureter"
+        }
+    },
+    {
+        "concept_name": "输尿管成形术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ureteroplasty"
+        }
+    },
+    {
+        "concept_name": "输尿管损伤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "injury of ureter"
+        }
+    },
+    {
+        "concept_name": "输尿管放线菌病",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "actinomycosis of ureter"
+        }
+    },
+    {
+        "concept_name": "输尿管松解术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ureterolysis"
+        }
+    },
+    {
+        "concept_name": "输尿管梅毒",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "syphilis of ureter"
+        }
+    },
+    {
+        "concept_name": "输尿管梗阻",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ureteral obstruction"
+        }
+    },
+    {
+        "concept_name": "输尿管炎",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ureteritis"
+        }
+    },
+    {
+        "concept_name": "输尿管狭窄",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "stricture of ureter"
+        }
+    },
+    {
+        "concept_name": "输尿管畸形",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "deformity of ureter"
+        }
+    },
+    {
+        "concept_name": "输尿管瘘",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ureteral fistula"
+        }
+    },
+    {
+        "concept_name": "输尿管癌",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "carcinoma of ureter"
+        }
+    },
+    {
+        "concept_name": "输尿管白斑病",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "leukoplakia of ureter"
+        }
+    },
+    {
+        "concept_name": "输尿管移行细胞癌",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "transitional cell carcinoma of ureter"
+        }
+    },
+    {
+        "concept_name": "输尿管结核",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "tuberculosis of ureter"
+        }
+    },
+    {
+        "concept_name": "输尿管结石",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "calculus of ureter"
+        }
+    },
+    {
+        "concept_name": "输尿管结肠吻合术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "uretero-colic anastomosis"
+        }
+    },
+    {
+        "concept_name": "输尿管绞痛",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ureteral colic"
+        }
+    },
+    {
+        "concept_name": "输尿管缺如",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "agenesis of ureter"
+        }
+    },
+    {
+        "concept_name": "输尿管肠瘘",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "uretero-enteric fistula"
+        }
+    },
+    {
+        "concept_name": "输尿管肾盂吻合术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ureteroneopyelostomy"
+        }
+    },
+    {
+        "concept_name": "输尿管肾盂连接处梗阻",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "obstruction at ureteropelvic junction"
+        }
+    },
+    {
+        "concept_name": "输尿管肾盂连接处狭窄",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "stricture of uretero-pelvic junction"
+        }
+    },
+    {
+        "concept_name": "输尿管肾盂造影[术]",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ureteropyelography"
+        }
+    },
+    {
+        "concept_name": "输尿管肿瘤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "tumor of ureter"
+        }
+    },
+    {
+        "concept_name": "输尿管脱垂",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "英文": "prolapse of ureter ;ureterocele",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "prolapse of ureter"
+        }
+    },
+    {
+        "concept_name": "输尿管腹膜包裹术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "uretero-peritonization"
+        }
+    },
+    {
+        "concept_name": "输尿管膀胱吻合术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ureteroneocystostomy"
+        }
+    },
+    {
+        "concept_name": "输尿管输尿管吻合术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ureteroureterostomy"
+        }
+    },
+    {
+        "concept_name": "输尿管造瘘术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ureterostomy"
+        }
+    },
+    {
+        "concept_name": "输尿管镜检查术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ureteroscopy"
+        }
+    },
+    {
+        "concept_name": "输尿管闭锁",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "atresia of ureter"
+        }
+    },
+    {
+        "concept_name": "输尿管阴道瘘",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "uretero-vaginal fistula"
+        }
+    },
+    {
+        "concept_name": "输精管缺如",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "absence of vas deferens"
+        }
+    },
+    {
+        "concept_name": "输精管输精管吻合术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "vasovasostomy"
+        }
+    },
+    {
+        "concept_name": "输精管附睾吻合术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "epididymovasostomy"
+        }
+    },
+    {
+        "concept_name": "远段输尿管不发育",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "distal ureteral aplasia"
+        }
+    },
+    {
+        "concept_name": "迪特尔危象",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "又称": " 游走肾危象",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Dietl crisis"
+        }
+    },
+    {
+        "concept_name": "逆行射精",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "retrograde ejaculation"
+        }
+    },
+    {
+        "concept_name": "逆行尿道造影[术]",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "retrograde urethrography"
+        }
+    },
+    {
+        "concept_name": "选择性肾动脉造影[术]",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "selected renal arteriography"
+        }
+    },
+    {
+        "concept_name": "逼尿肌无反射",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "detrusor areflexia"
+        }
+    },
+    {
+        "concept_name": "遗尿[症]",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "enuresis"
+        }
+    },
+    {
+        "concept_name": "遗精",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "nocturnal emission"
+        }
+    },
+    {
+        "concept_name": "酚红排泄倒置",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "inversion of phenolsulfonphthalein excretion"
+        }
+    },
+    {
+        "concept_name": "酸尿",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "aciduria"
+        }
+    },
+    {
+        "concept_name": "重复尿道",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "duplication of urethra"
+        }
+    },
+    {
+        "concept_name": "重复输尿管",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "duplication of ureter"
+        }
+    },
+    {
+        "concept_name": "间歇性导尿术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "intermittent catheterization"
+        }
+    },
+    {
+        "concept_name": "间质性膀胱炎",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "interstitial cystitis"
+        }
+    },
+    {
+        "concept_name": "阑尾输尿管成形术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "appendix ureteroplasty"
+        }
+    },
+    {
+        "concept_name": "阳萎",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "impotence"
+        }
+    },
+    {
+        "concept_name": "阴囊异位",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ectopia of scrotum"
+        }
+    },
+    {
+        "concept_name": "阴囊损伤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "injury of scrotum"
+        }
+    },
+    {
+        "concept_name": "阴囊放线菌病",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "actinomycosis of scrotum"
+        }
+    },
+    {
+        "concept_name": "阴囊缺如",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "agenesis of scrotum"
+        }
+    },
+    {
+        "concept_name": "阴囊脓肿",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "abscess of scrotum"
+        }
+    },
+    {
+        "concept_name": "阴囊角化囊肿",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "keratomatous cyst of scrotum"
+        }
+    },
+    {
+        "concept_name": "阴囊象皮病",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "elephantiasis scroti"
+        }
+    },
+    {
+        "concept_name": "阴囊转位",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "translocation of scrotum"
+        }
+    },
+    {
+        "concept_name": "阴茎勃起",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "erection of penis"
+        }
+    },
+    {
+        "concept_name": "阴茎包涵囊肿",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "inclusion cyst of penis"
+        }
+    },
+    {
+        "concept_name": "阴茎截断[术]",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "amputation of penis"
+        }
+    },
+    {
+        "concept_name": "阴茎损伤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "injury of penis"
+        }
+    },
+    {
+        "concept_name": "阴茎放线菌病",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "actinomycosis of penis"
+        }
+    },
+    {
+        "concept_name": "阴茎淋巴网状组织恶性病",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "lymphoreticular malignancy of penis"
+        }
+    },
+    {
+        "concept_name": "阴茎皮肤撕脱伤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "avulsion of penis"
+        }
+    },
+    {
+        "concept_name": "阴茎绞窄",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "英文": "strangulation of penis ;incarcera- tion of penis",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "strangulation of penis"
+        }
+    },
+    {
+        "concept_name": "阴茎缺失",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "absence of penis"
+        }
+    },
+    {
+        "concept_name": "阴茎血管瘤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "penile angioma"
+        }
+    },
+    {
+        "concept_name": "阴茎阿米巴病",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "amoebiasis of penis"
+        }
+    },
+    {
+        "concept_name": "阴茎骨化",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "英文": "ossification of penis ;OS penis",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ossification of penis"
+        }
+    },
+    {
+        "concept_name": "附睾切除术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "epididymectomy"
+        }
+    },
+    {
+        "concept_name": "附睾囊腺瘤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "cystadenoma of epididymis"
+        }
+    },
+    {
+        "concept_name": "附睾梅毒",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "syphilis of epididymis"
+        }
+    },
+    {
+        "concept_name": "附睾炎",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "epididymitis"
+        }
+    },
+    {
+        "concept_name": "附睾睾丸炎",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "epididymo-orchitis"
+        }
+    },
+    {
+        "concept_name": "附睾类腺瘤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "adenomatoid tumor of epididymis"
+        }
+    },
+    {
+        "concept_name": "附睾结核",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "又称": " 结核性附睾炎",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "tuberculosis of epididymis"
+        }
+    },
+    {
+        "concept_name": "附睾肉瘤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "sarcoma of epididymis"
+        }
+    },
+    {
+        "concept_name": "附睾肿瘤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "tumor of epididymis"
+        }
+    },
+    {
+        "concept_name": "附睾腺瘤",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "adenoma of epididymis"
+        }
+    },
+    {
+        "concept_name": "附睾造影[术]",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "epididymography"
+        }
+    },
+    {
+        "concept_name": "非淋菌性尿道炎",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "non-gonococcal urethritis"
+        }
+    },
+    {
+        "concept_name": "非特异性尿道炎",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "nonspecific urethritis"
+        }
+    },
+    {
+        "concept_name": "非特异性睾丸炎",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "nonspecific orchitis"
+        }
+    },
+    {
+        "concept_name": "非萎缩性肾切开取石术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "anatrophic nephrolithotomy"
+        }
+    },
+    {
+        "concept_name": "顺行肾盂造影[术]",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "antegrade pyelography"
+        }
+    },
+    {
+        "concept_name": "香草基扁桃酸",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "vanillylmandelic acid"
+        }
+    },
+    {
+        "concept_name": "髂动脉后输尿管",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "英文": "retroiliac ureter ;preureteral iliac artery",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "retroiliac ureter"
+        }
+    },
+    {
+        "concept_name": "髂腹股沟淋巴结切除术",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ilioinguinal lymphadenectomy"
+        }
+    },
+    {
+        "concept_name": "黄色肉芽肿性肾盂肾炎",
+        "details": {
+            "学科": "医学_泌尿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "xanthogranulomatous pyelonephritis"
+        }
+    }
+]

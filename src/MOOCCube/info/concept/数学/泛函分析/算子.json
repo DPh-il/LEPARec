@@ -1,0 +1,468 @@
+[
+    {
+        "concept_name": "[无穷小]生成元",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "infinitesimal generator"
+        }
+    },
+    {
+        "concept_name": "亏指数",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "deficiency index"
+        }
+    },
+    {
+        "concept_name": "亚正规算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "hyponormal operator"
+        }
+    },
+    {
+        "concept_name": "伴随算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "adjoint operator"
+        }
+    },
+    {
+        "concept_name": "凯莱变换",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "Cayley transform"
+        }
+    },
+    {
+        "concept_name": "半弗雷德霍姆算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "semi-Fredholm operator"
+        }
+    },
+    {
+        "concept_name": "半正规算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "semi-normal operator"
+        }
+    },
+    {
+        "concept_name": "半群扰动",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "perturbation of semi-group"
+        }
+    },
+    {
+        "concept_name": "协亚正规算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "cohyponormal operator"
+        }
+    },
+    {
+        "concept_name": "单位算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "曾称": " 恒等算子(identity operator)",
+            "见载": "《数学名词》第一版",
+            "英文名": "unit operator"
+        }
+    },
+    {
+        "concept_name": "单胞算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "unicellular operator"
+        }
+    },
+    {
+        "concept_name": "卷积算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "convolution operator"
+        }
+    },
+    {
+        "concept_name": "压缩半群",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "contraction semi-group"
+        }
+    },
+    {
+        "concept_name": "双线性算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "bilinear operator"
+        }
+    },
+    {
+        "concept_name": "可逆算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "invertible operator"
+        }
+    },
+    {
+        "concept_name": "可闭算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "又称": " 准闭算子(preclosed operator)",
+            "见载": "《数学名词》第一版",
+            "英文名": "closable operator"
+        }
+    },
+    {
+        "concept_name": "合成算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "composite operator"
+        }
+    },
+    {
+        "concept_name": "多重线性算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "multilinear operator"
+        }
+    },
+    {
+        "concept_name": "对偶半群",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "dual semi-group"
+        }
+    },
+    {
+        "concept_name": "对偶算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "dual operator"
+        }
+    },
+    {
+        "concept_name": "对称算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "又称": " 埃尔米特算子(Hermitian operator)",
+            "见载": "《数学名词》第一版",
+            "英文名": "symmetric operator"
+        }
+    },
+    {
+        "concept_name": "嵌入算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "imbedding operator"
+        }
+    },
+    {
+        "concept_name": "希尔伯特-施密特类",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "Hilbert-Schmidt class"
+        }
+    },
+    {
+        "concept_name": "希尔伯特-施密特范数",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "Hilbert-Schmidt norm"
+        }
+    },
+    {
+        "concept_name": "幂零算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "nilpotent operator"
+        }
+    },
+    {
+        "concept_name": "弗雷德霍姆算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "又称": " 弗雷德霍姆映射(Fredholm mapping)",
+            "见载": "《数学名词》第一版",
+            "英文名": "Fredholm operator"
+        }
+    },
+    {
+        "concept_name": "投影算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "projection operator"
+        }
+    },
+    {
+        "concept_name": "无界线性算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "unbounded linear operator"
+        }
+    },
+    {
+        "concept_name": "有界线性算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "bounded linear operator"
+        }
+    },
+    {
+        "concept_name": "本质自伴算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "essentially self-adjoint operator"
+        }
+    },
+    {
+        "concept_name": "极大对称算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "maximal symmetric operator"
+        }
+    },
+    {
+        "concept_name": "极大正规算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "maximal normal operator"
+        }
+    },
+    {
+        "concept_name": "核型算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "nuclear operator"
+        }
+    },
+    {
+        "concept_name": "次正规算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "subnormal operator"
+        }
+    },
+    {
+        "concept_name": "正[交]投影",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "orthogonal projection"
+        }
+    },
+    {
+        "concept_name": "正[对称]算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "positive [symmetric] operator"
+        }
+    },
+    {
+        "concept_name": "正规算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "又称": " 正常算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "normal operator"
+        }
+    },
+    {
+        "concept_name": "汉克尔算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "Hankel operator"
+        }
+    },
+    {
+        "concept_name": "沙尔滕p类算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "Scharten p-class operator"
+        }
+    },
+    {
+        "concept_name": "特普利茨算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "Toeplitz operator"
+        }
+    },
+    {
+        "concept_name": "积分算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "integral operator"
+        }
+    },
+    {
+        "concept_name": "等距算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "英文": "isometric operator ;isometric mapping",
+            "见载": "《数学名词》第一版",
+            "英文名": "isometric operator"
+        }
+    },
+    {
+        "concept_name": "算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "operator"
+        }
+    },
+    {
+        "concept_name": "算子扰动",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "perturbation of operator"
+        }
+    },
+    {
+        "concept_name": "紧算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "又称": " 全连续算子(completely continuous operator)",
+            "见载": "《数学名词》第一版",
+            "英文名": "compact operator"
+        }
+    },
+    {
+        "concept_name": "紧线性算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "又称": " 全连续线性算子(completely continuous linear operator)",
+            "见载": "《数学名词》第一版",
+            "英文名": "compact linear operator"
+        }
+    },
+    {
+        "concept_name": "线性算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "linear operator"
+        }
+    },
+    {
+        "concept_name": "维纳-霍普夫算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "Wiener-Hopf operator"
+        }
+    },
+    {
+        "concept_name": "自伴算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "又称": " 自共轭算子(self-conjugate operator)",
+            "见载": "《数学名词》第一版",
+            "英文名": "self-adjoint operator"
+        }
+    },
+    {
+        "concept_name": "解析半群",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "analytic semi-group"
+        }
+    },
+    {
+        "concept_name": "连续线性算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "continuous linear operator"
+        }
+    },
+    {
+        "concept_name": "迹族",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "又称": " 核族",
+            "见载": "《数学名词》第一版",
+            "英文名": "trace class"
+        }
+    },
+    {
+        "concept_name": "迹范数",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "trace norm"
+        }
+    },
+    {
+        "concept_name": "逆算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "inverse operator"
+        }
+    },
+    {
+        "concept_name": "部分等距算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "partially isometric operator"
+        }
+    },
+    {
+        "concept_name": "酉算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "unitary operator"
+        }
+    },
+    {
+        "concept_name": "闭算子",
+        "details": {
+            "学科": "数学_泛函分析_算子",
+            "见载": "《数学名词》第一版",
+            "英文名": "closed operator"
+        }
+    }
+]

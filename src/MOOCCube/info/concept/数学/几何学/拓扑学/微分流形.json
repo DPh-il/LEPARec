@@ -1,0 +1,477 @@
+[
+    {
+        "concept_name": "n次微分[形]式",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "简称": " n形式",
+            "见载": "《数学名词》第一版",
+            "英文名": "n-form"
+        }
+    },
+    {
+        "concept_name": "临界值",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "critical value"
+        }
+    },
+    {
+        "concept_name": "临界点",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "critical point"
+        }
+    },
+    {
+        "concept_name": "伪群结构",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "pseudo-group structure"
+        }
+    },
+    {
+        "concept_name": "光滑流形",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "smooth manifold"
+        }
+    },
+    {
+        "concept_name": "内乘",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "interior product"
+        }
+    },
+    {
+        "concept_name": "切丛",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "tangent bundle"
+        }
+    },
+    {
+        "concept_name": "切触结构",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "contact structure"
+        }
+    },
+    {
+        "concept_name": "割补术",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "surgery"
+        }
+    },
+    {
+        "concept_name": "割补阻碍",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "surgery obstruction"
+        }
+    },
+    {
+        "concept_name": "单位分解",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "partition of unity"
+        }
+    },
+    {
+        "concept_name": "单参数变换群",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "one parameter group of transformations"
+        }
+    },
+    {
+        "concept_name": "叶状结构",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "foliation"
+        }
+    },
+    {
+        "concept_name": "向量积",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "又称": " 叉积",
+            "见载": "《数学名词》第一版",
+            "英文名": "cross product"
+        }
+    },
+    {
+        "concept_name": "图册",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "atlas"
+        }
+    },
+    {
+        "concept_name": "坐标邻域",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "coordinate neighborhood"
+        }
+    },
+    {
+        "concept_name": "复结构",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "complex structure"
+        }
+    },
+    {
+        "concept_name": "外积",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "exterior product"
+        }
+    },
+    {
+        "concept_name": "底拓扑空间",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "underlying topological space"
+        }
+    },
+    {
+        "concept_name": "微分[形]式",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "又称": " 外微分[形]式",
+            "见载": "《数学名词》第一版",
+            "英文名": "differential form"
+        }
+    },
+    {
+        "concept_name": "微分分次代数",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "differential graded algebra"
+        }
+    },
+    {
+        "concept_name": "微分同胚",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "diffeomorphism"
+        }
+    },
+    {
+        "concept_name": "微分拓扑",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "differential topology"
+        }
+    },
+    {
+        "concept_name": "微分映射",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "differential mapping"
+        }
+    },
+    {
+        "concept_name": "微分流形",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "differential manifold"
+        }
+    },
+    {
+        "concept_name": "微分理想",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "differential ideal"
+        }
+    },
+    {
+        "concept_name": "微分结构",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "differential structure"
+        }
+    },
+    {
+        "concept_name": "德拉姆上同调群",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "de Rham cohomology group"
+        }
+    },
+    {
+        "concept_name": "怪球面",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "exotic sphere"
+        }
+    },
+    {
+        "concept_name": "恰当微分[形]式",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "exact differential form"
+        }
+    },
+    {
+        "concept_name": "托姆-吉赞同构",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "Thom-Gysin isomorphism"
+        }
+    },
+    {
+        "concept_name": "托姆复形",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "Thom complex"
+        }
+    },
+    {
+        "concept_name": "旗流形",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "flag manifold"
+        }
+    },
+    {
+        "concept_name": "映射的微分",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "differential of a map"
+        }
+    },
+    {
+        "concept_name": "李括号",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "Lie bracket"
+        }
+    },
+    {
+        "concept_name": "标架丛",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "frame bundle"
+        }
+    },
+    {
+        "concept_name": "横截",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "transversal"
+        }
+    },
+    {
+        "concept_name": "横截性",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "transversality"
+        }
+    },
+    {
+        "concept_name": "正则值",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "regular value"
+        }
+    },
+    {
+        "concept_name": "正则同伦[的]",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "regularly homotopic"
+        }
+    },
+    {
+        "concept_name": "正则子流形",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "regular submanifold"
+        }
+    },
+    {
+        "concept_name": "正则映射",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "regular mapping"
+        }
+    },
+    {
+        "concept_name": "正则点",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "regular point"
+        }
+    },
+    {
+        "concept_name": "殆复流形",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "almost complex manifold"
+        }
+    },
+    {
+        "concept_name": "殆复结构",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "almost complex structure"
+        }
+    },
+    {
+        "concept_name": "水平子集",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "sublevel set"
+        }
+    },
+    {
+        "concept_name": "法丛",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "normal bundle"
+        }
+    },
+    {
+        "concept_name": "浸入",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "immersion"
+        }
+    },
+    {
+        "concept_name": "浸没",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "submersion"
+        }
+    },
+    {
+        "concept_name": "稳定同伦群",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "stable homotopy group"
+        }
+    },
+    {
+        "concept_name": "管状邻域",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "tubular neighborhood"
+        }
+    },
+    {
+        "concept_name": "线性同伦",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "linear homotopy"
+        }
+    },
+    {
+        "concept_name": "线性纤维映射",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "linear fiber map"
+        }
+    },
+    {
+        "concept_name": "维数型",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "dimension type"
+        }
+    },
+    {
+        "concept_name": "节",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "jet"
+        }
+    },
+    {
+        "concept_name": "解析流形",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "analytic manifold"
+        }
+    },
+    {
+        "concept_name": "闭子流形",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "closed submanifold"
+        }
+    },
+    {
+        "concept_name": "闭微分[形]式",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "closed differential form"
+        }
+    },
+    {
+        "concept_name": "闭流形",
+        "details": {
+            "学科": "数学_几何学_拓扑学_微分流形",
+            "见载": "《数学名词》第一版",
+            "英文名": "closed manifold"
+        }
+    }
+]

@@ -1,0 +1,959 @@
+[
+    {
+        "concept_name": "B样条",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "B-spline"
+        }
+    },
+    {
+        "concept_name": "一致逼近",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "uniform approximation"
+        }
+    },
+    {
+        "concept_name": "三次插值",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "cubic interpolation"
+        }
+    },
+    {
+        "concept_name": "三次样条",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "cubic spline"
+        }
+    },
+    {
+        "concept_name": "三角插值",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "trigonometric interpolation"
+        }
+    },
+    {
+        "concept_name": "三角逼近",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "trigonometric approximation"
+        }
+    },
+    {
+        "concept_name": "二次插值",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "quadratic interpolation"
+        }
+    },
+    {
+        "concept_name": "二重插值",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "double interpolation"
+        }
+    },
+    {
+        "concept_name": "交错定理",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "alternation theorem"
+        }
+    },
+    {
+        "concept_name": "伯克霍夫插值",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "Birkhoff interpolation"
+        }
+    },
+    {
+        "concept_name": "伯恩斯坦多项式",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "Bernstein polynomial"
+        }
+    },
+    {
+        "concept_name": "修匀[法]",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "graduation"
+        }
+    },
+    {
+        "concept_name": "分段多项式",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "piecewise polynomial"
+        }
+    },
+    {
+        "concept_name": "分段插值",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "piecewise interpolation"
+        }
+    },
+    {
+        "concept_name": "分段逼近",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "piecewise approximation"
+        }
+    },
+    {
+        "concept_name": "切比雪夫-帕德逼近",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "Chebyshev-Pade&2& approximation"
+        }
+    },
+    {
+        "concept_name": "切比雪夫系数",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "Chebyshev coefficient"
+        }
+    },
+    {
+        "concept_name": "切比雪夫级数展开",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "Chebyshev series expansion"
+        }
+    },
+    {
+        "concept_name": "切比雪夫组",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "Chebyshev set"
+        }
+    },
+    {
+        "concept_name": "列梅兹算法",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "Remes algorithm"
+        }
+    },
+    {
+        "concept_name": "加权最小二乘法",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "method of weighted least squares"
+        }
+    },
+    {
+        "concept_name": "加权极小化极大算法",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "又称": " 劳勃算法",
+            "见载": "《数学名词》第一版",
+            "英文名": "weighted minimax algorithm"
+        }
+    },
+    {
+        "concept_name": "加权残差",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "weighted residual"
+        }
+    },
+    {
+        "concept_name": "加权逼近",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "weighted approximation"
+        }
+    },
+    {
+        "concept_name": "勒贝格函数",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "Lebesgue function"
+        }
+    },
+    {
+        "concept_name": "勒贝格常数",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "Lebesgue constant"
+        }
+    },
+    {
+        "concept_name": "单侧逼近",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "one-sided approximation"
+        }
+    },
+    {
+        "concept_name": "单项样条",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "monospline"
+        }
+    },
+    {
+        "concept_name": "双三次插值",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "bicubic interpolation"
+        }
+    },
+    {
+        "concept_name": "双二次插值",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "biquadratic interpolation"
+        }
+    },
+    {
+        "concept_name": "双线性插值",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "bilinear interpolation"
+        }
+    },
+    {
+        "concept_name": "可逼近性",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "approximability"
+        }
+    },
+    {
+        "concept_name": "哈尔条件",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "Haar condition"
+        }
+    },
+    {
+        "concept_name": "埃尔米特插值",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "Hermite interpolation"
+        }
+    },
+    {
+        "concept_name": "外插",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "又称": " 外推",
+            "见载": "《数学名词》第一版",
+            "英文名": "extrapolation"
+        }
+    },
+    {
+        "concept_name": "多元插值",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "multivariate interpolation"
+        }
+    },
+    {
+        "concept_name": "多点帕德逼近",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "multipoint Pade&2& approximation"
+        }
+    },
+    {
+        "concept_name": "多项式逼近",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "polynomial approximation"
+        }
+    },
+    {
+        "concept_name": "密切插值",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "osculating interpolation"
+        }
+    },
+    {
+        "concept_name": "帕德方程",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "Pade&2& equation"
+        }
+    },
+    {
+        "concept_name": "帕德表",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "Pade&2& table"
+        }
+    },
+    {
+        "concept_name": "帕德逼近",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "Pade&2& approximation"
+        }
+    },
+    {
+        "concept_name": "平均逼近",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "approximation in the mean"
+        }
+    },
+    {
+        "concept_name": "平方逼近",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "approximation in quadratic norm"
+        }
+    },
+    {
+        "concept_name": "广义多项式逼近",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "generalized polynomial approxi- mation"
+        }
+    },
+    {
+        "concept_name": "广义帕德逼近",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "generalized Pade&2& approximation"
+        }
+    },
+    {
+        "concept_name": "广义有理逼近",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "generalized rational approximation"
+        }
+    },
+    {
+        "concept_name": "广义矩阵帕德逼近",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "generalized matrix Pade&2& app- roximation"
+        }
+    },
+    {
+        "concept_name": "强唯一性定理",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "strong unicity theorem"
+        }
+    },
+    {
+        "concept_name": "微分矫正算法",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "differential correction algorithm"
+        }
+    },
+    {
+        "concept_name": "折线逼近",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "polygonal approximation"
+        }
+    },
+    {
+        "concept_name": "拉格朗日插值公式",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "Lagrange interpolation formula"
+        }
+    },
+    {
+        "concept_name": "拟合",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "fitting",
+            "prerequisite": [
+                "K_计算_数学",
+                "K_公式_数学"
+            ]
+        }
+    },
+    {
+        "concept_name": "拟合优度",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "goodness of fit"
+        }
+    },
+    {
+        "concept_name": "拟合模型",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "model of fit"
+        }
+    },
+    {
+        "concept_name": "指数插值",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "exponential interpolation"
+        }
+    },
+    {
+        "concept_name": "指数逼近",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "exponential approximation"
+        }
+    },
+    {
+        "concept_name": "插值",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "又称": " 内插",
+            "见载": "《数学名词》第一版",
+            "英文名": "interpolation",
+            "prerequisite": [
+                "K_分点_数学"
+            ]
+        }
+    },
+    {
+        "concept_name": "插值余项",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "remainder of interpolation"
+        }
+    },
+    {
+        "concept_name": "插值公式",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "interpolation formula"
+        }
+    },
+    {
+        "concept_name": "插值函数",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "interpolating function"
+        }
+    },
+    {
+        "concept_name": "插值多项式",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "interpolation polynomial"
+        }
+    },
+    {
+        "concept_name": "插值性质",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "interpolation property"
+        }
+    },
+    {
+        "concept_name": "插值条件",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "interpolation condition"
+        }
+    },
+    {
+        "concept_name": "插值约束逼近",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "approximation with interpolating constraints"
+        }
+    },
+    {
+        "concept_name": "插值节点",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "又称": " 插值结点(interpolation node)",
+            "见载": "《数学名词》第一版",
+            "英文名": "interpolation knot"
+        }
+    },
+    {
+        "concept_name": "收敛阶",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "degree of convergence"
+        }
+    },
+    {
+        "concept_name": "数值逼近",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "numerical approximation"
+        }
+    },
+    {
+        "concept_name": "数据修匀",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "graduation of data"
+        }
+    },
+    {
+        "concept_name": "曲线修匀",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "graduation of curve"
+        }
+    },
+    {
+        "concept_name": "曲线拟合",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "curve fitting"
+        }
+    },
+    {
+        "concept_name": "曲面拟合",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "surface fitting"
+        }
+    },
+    {
+        "concept_name": "最优逼近",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "optimal approximation"
+        }
+    },
+    {
+        "concept_name": "最佳一致逼近",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "best uniform approximation"
+        }
+    },
+    {
+        "concept_name": "最佳拟合",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "best fit"
+        }
+    },
+    {
+        "concept_name": "最佳逼近",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "best approximation"
+        }
+    },
+    {
+        "concept_name": "最佳逼近的唯一性",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "uniqueness of best approximation"
+        }
+    },
+    {
+        "concept_name": "最佳逼近的存在性",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "existence of best approximation"
+        }
+    },
+    {
+        "concept_name": "最佳逼近的特征",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "characterization of best approxi- mation"
+        }
+    },
+    {
+        "concept_name": "最光滑逼近",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "smoothest approximation"
+        }
+    },
+    {
+        "concept_name": "最小二乘法",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "method of least squares"
+        }
+    },
+    {
+        "concept_name": "最小二乘解",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "least squares solution"
+        }
+    },
+    {
+        "concept_name": "最小二乘逼近",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "least squares approximation"
+        }
+    },
+    {
+        "concept_name": "有理插值",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "rational interpolation"
+        }
+    },
+    {
+        "concept_name": "有理逼近",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "rational approximation"
+        }
+    },
+    {
+        "concept_name": "极小化极大解",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "minimax solution"
+        }
+    },
+    {
+        "concept_name": "极小化极大逼近",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "minimax approximation"
+        }
+    },
+    {
+        "concept_name": "柯西插值",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "Cauchy interpolation"
+        }
+    },
+    {
+        "concept_name": "样条[函数]",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "spline"
+        }
+    },
+    {
+        "concept_name": "样条拟合",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "spline fitting"
+        }
+    },
+    {
+        "concept_name": "样条插值",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "spline interpolation"
+        }
+    },
+    {
+        "concept_name": "样条逼近",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "spline approximation"
+        }
+    },
+    {
+        "concept_name": "正规方程",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "又称": " 法方程",
+            "见载": "《数学名词》第一版",
+            "英文名": "normal equation"
+        }
+    },
+    {
+        "concept_name": "残差",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "residual"
+        }
+    },
+    {
+        "concept_name": "测试函数",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "trial function"
+        }
+    },
+    {
+        "concept_name": "牛顿插值公式",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "Newton interpolation formula"
+        }
+    },
+    {
+        "concept_name": "牛顿级数",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "Newton series"
+        }
+    },
+    {
+        "concept_name": "矩阵帕德逼近",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "matrix Pade&2& approximation"
+        }
+    },
+    {
+        "concept_name": "磨光公式",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "smoothing formula"
+        }
+    },
+    {
+        "concept_name": "离散逼近",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "discrete approximation"
+        }
+    },
+    {
+        "concept_name": "约束值域逼近",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "approximation with restricted range"
+        }
+    },
+    {
+        "concept_name": "约束逼近",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "restricted approximation"
+        }
+    },
+    {
+        "concept_name": "线性插值",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "linear interpolation"
+        }
+    },
+    {
+        "concept_name": "线性逼近",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "linear approximation"
+        }
+    },
+    {
+        "concept_name": "经验公式",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "empirical formula"
+        }
+    },
+    {
+        "concept_name": "经验曲线",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "empirical curve"
+        }
+    },
+    {
+        "concept_name": "联合逼近",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "simultaneous approximation"
+        }
+    },
+    {
+        "concept_name": "艾特肯插值算法",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "Aitken interpolation algorithm"
+        }
+    },
+    {
+        "concept_name": "被逼近函数",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "approximated function"
+        }
+    },
+    {
+        "concept_name": "近似表示",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "approximate representation"
+        }
+    },
+    {
+        "concept_name": "连分式逼近",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "continued fraction approximation"
+        }
+    },
+    {
+        "concept_name": "迭代插值法",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "iterated interpolation method"
+        }
+    },
+    {
+        "concept_name": "逆插值",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "又称": " 反插值",
+            "见载": "《数学名词》第一版",
+            "英文名": "inverse interpolation"
+        }
+    },
+    {
+        "concept_name": "逼近",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "approximation"
+        }
+    },
+    {
+        "concept_name": "逼近函数",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "approximating function"
+        }
+    },
+    {
+        "concept_name": "逼近式",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "approximant"
+        }
+    },
+    {
+        "concept_name": "雅可比行列式解",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "Jacobian determinant solution"
+        }
+    },
+    {
+        "concept_name": "非线性逼近",
+        "details": {
+            "学科": "数学_数值分析_数值逼近",
+            "见载": "《数学名词》第一版",
+            "英文名": "non-linear approximation"
+        }
+    }
+]

@@ -1,0 +1,1586 @@
+[
+    {
+        "concept_name": "乳糖不耐受[症]",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "lactose intolerance"
+        }
+    },
+    {
+        "concept_name": "产毒性腹泻",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "toxigenic diarrhea"
+        }
+    },
+    {
+        "concept_name": "伴有先天性综合征的毛细管扩张",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "telangiectasia associated with congenital syndrome"
+        }
+    },
+    {
+        "concept_name": "佐林格－埃利森综合征",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Zollinger-Ellison syndrome"
+        }
+    },
+    {
+        "concept_name": "体外肝灌注",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "extra-corporeal liver perfusion"
+        }
+    },
+    {
+        "concept_name": "假膜性小肠结肠炎",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "pseudomembranous enterocolitis"
+        }
+    },
+    {
+        "concept_name": "假膜性结肠炎",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "pseudomembranous colitis"
+        }
+    },
+    {
+        "concept_name": "先天性吸收不良",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "congenital malabsorption"
+        }
+    },
+    {
+        "concept_name": "先天性家族性非溶血性黄疸",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "congenital familial nonhemolytic jaundice"
+        }
+    },
+    {
+        "concept_name": "先天性肝囊肿",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "congenital cyst of liver"
+        }
+    },
+    {
+        "concept_name": "先天性肥大性幽门狭窄",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "congenital hypertrophic pyloric stenosis"
+        }
+    },
+    {
+        "concept_name": "先天性食管狭窄",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "congenital stenosis of esophagus"
+        }
+    },
+    {
+        "concept_name": "全结肠炎",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "pancolitis"
+        }
+    },
+    {
+        "concept_name": "凝结物",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "又称": " 结石",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "concretion"
+        }
+    },
+    {
+        "concept_name": "出血性胃炎",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "hemorrhagic gastritis"
+        }
+    },
+    {
+        "concept_name": "化学性腹膜炎",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "chemical peritonitis"
+        }
+    },
+    {
+        "concept_name": "十二指肠假憩室",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "pseudodiverticulum of duodenum"
+        }
+    },
+    {
+        "concept_name": "十二指肠溃疡",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "duodenal ulcer"
+        }
+    },
+    {
+        "concept_name": "十二指肠空肠襻不全旋转",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "incomplete rotation of duodenojejunal loop"
+        }
+    },
+    {
+        "concept_name": "单纯性集群性憩室病",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "simple massed diverticulosis"
+        }
+    },
+    {
+        "concept_name": "卡伦征",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Cullen sign"
+        }
+    },
+    {
+        "concept_name": "卡纳达－克朗凯特综合征",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Canada-Cronkhite syndrome"
+        }
+    },
+    {
+        "concept_name": "反胃",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "regurgitation"
+        }
+    },
+    {
+        "concept_name": "反跳痛",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "rebound tenderness"
+        }
+    },
+    {
+        "concept_name": "变应性直肠炎",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "allergic proctitis"
+        }
+    },
+    {
+        "concept_name": "吞气症",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "aerophagia"
+        }
+    },
+    {
+        "concept_name": "咽憩室",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "pharyngeal diverticulum"
+        }
+    },
+    {
+        "concept_name": "喷射性呕吐",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "projectile vomiting"
+        }
+    },
+    {
+        "concept_name": "嗜酸细胞性胃炎",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "eosinophilic gastritis"
+        }
+    },
+    {
+        "concept_name": "嗜酸细胞性胃肠炎",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "eosinophilic gastroenteritis"
+        }
+    },
+    {
+        "concept_name": "坏死后肝硬化",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "postnecrotic cirrhosis"
+        }
+    },
+    {
+        "concept_name": "埃勒斯－当洛综合征",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Ehlers-Danlos syndrome"
+        }
+    },
+    {
+        "concept_name": "基利安憩室",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Killian diverticulum"
+        }
+    },
+    {
+        "concept_name": "基础酸排出量",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "basal acid output"
+        }
+    },
+    {
+        "concept_name": "增生性胃病",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "hyperplastic gastropathy"
+        }
+    },
+    {
+        "concept_name": "复合性胃和十二指肠溃疡",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "combined gastric and duodenal ulcers"
+        }
+    },
+    {
+        "concept_name": "多囊肝",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "polycystic liver"
+        }
+    },
+    {
+        "concept_name": "失弛缓症",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "achalasia"
+        }
+    },
+    {
+        "concept_name": "奥斯勒－韦伯－朗迪病",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "又称": " 遗传性出血性毛细管扩张(hereditary hemorrhagic telangiectasia)",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Osler-Weber-Rendu disease"
+        }
+    },
+    {
+        "concept_name": "孤立性非特异性溃疡",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "isolated nonspecific ulcer"
+        }
+    },
+    {
+        "concept_name": "小肠淤滞综合征",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "small intestinal stasis syndrome"
+        }
+    },
+    {
+        "concept_name": "小肠溃疡",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "small intestinal ulcer"
+        }
+    },
+    {
+        "concept_name": "小肠炎",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "enteritis"
+        }
+    },
+    {
+        "concept_name": "屁",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "flatus"
+        }
+    },
+    {
+        "concept_name": "希尔施普龙病",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Hirschsprung disease"
+        }
+    },
+    {
+        "concept_name": "干呕",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "retch"
+        }
+    },
+    {
+        "concept_name": "幽门梗阻",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "pyloric obstruction"
+        }
+    },
+    {
+        "concept_name": "幽门管溃疡",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "pyloric canal ulcer"
+        }
+    },
+    {
+        "concept_name": "库瓦西耶征",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Courvoisier sign"
+        }
+    },
+    {
+        "concept_name": "弹性假黄色瘤",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "pseudoxanthoma elasticum"
+        }
+    },
+    {
+        "concept_name": "心源性肝硬化",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "cardiac cirrhosis"
+        }
+    },
+    {
+        "concept_name": "急性出血性胰腺炎",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "acute hemorrhagic pancreatitis"
+        }
+    },
+    {
+        "concept_name": "急性坏死性胰腺炎",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "acute necrotizing pancreatitis"
+        }
+    },
+    {
+        "concept_name": "急性应激性溃疡",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "acute stress ulcer"
+        }
+    },
+    {
+        "concept_name": "急性水肿性胰腺炎",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "acute edematous pancreatitis"
+        }
+    },
+    {
+        "concept_name": "急性肝[功能]衰竭",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "acute hepatic failure"
+        }
+    },
+    {
+        "concept_name": "急性胃扩张",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "acute dilatation of stomach"
+        }
+    },
+    {
+        "concept_name": "急性腐蚀性食管炎",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "acute corrosive esophagitis"
+        }
+    },
+    {
+        "concept_name": "急性间质性胰腺炎",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "acute interstitial pancreatitis"
+        }
+    },
+    {
+        "concept_name": "息肉病",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "polyposis"
+        }
+    },
+    {
+        "concept_name": "感染性胃炎",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "infectious gastritis"
+        }
+    },
+    {
+        "concept_name": "感染性腹泻",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "infectious diarrhea"
+        }
+    },
+    {
+        "concept_name": "慢性非化脓性破坏性胆管炎",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "chronic nonsuppurative destructive cholangitis"
+        }
+    },
+    {
+        "concept_name": "憩室炎",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "diverticulitis"
+        }
+    },
+    {
+        "concept_name": "成形便",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "formed stool"
+        }
+    },
+    {
+        "concept_name": "拉埃内克肝硬化",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Laennec cirrhosis"
+        }
+    },
+    {
+        "concept_name": "放射性小肠炎",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "radiation enteritis"
+        }
+    },
+    {
+        "concept_name": "无菌性腹膜炎",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "aseptic peritonitis"
+        }
+    },
+    {
+        "concept_name": "最大酸排出量",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "maximal acid output"
+        }
+    },
+    {
+        "concept_name": "板状强直",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "board-like rigidity"
+        }
+    },
+    {
+        "concept_name": "果糖不耐受[症]",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "fructose intolerance"
+        }
+    },
+    {
+        "concept_name": "柿石",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "diospyrobezoar"
+        }
+    },
+    {
+        "concept_name": "格雷·特纳征",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Grey Turner sign"
+        }
+    },
+    {
+        "concept_name": "梅克尔憩室",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Meckel diverticulum"
+        }
+    },
+    {
+        "concept_name": "气囊填塞",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "balloon tamponade"
+        }
+    },
+    {
+        "concept_name": "浅表性胃炎",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "superficial gastritis"
+        }
+    },
+    {
+        "concept_name": "浆液性腹膜炎",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "serous peritonitis"
+        }
+    },
+    {
+        "concept_name": "消化不良",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "英文": "dyspepsia ;indigestion",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "dyspepsia"
+        }
+    },
+    {
+        "concept_name": "消化性溃疡",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "peptic ulcer"
+        }
+    },
+    {
+        "concept_name": "淀粉酶清除率",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "clearance of amylase"
+        }
+    },
+    {
+        "concept_name": "淀粉酶－肌酸酐清除率之比",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "amylase-creatinine clearance ratio"
+        }
+    },
+    {
+        "concept_name": "溃疡性结肠炎",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "ulcerative colitis"
+        }
+    },
+    {
+        "concept_name": "炎性息肉",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "inflammatory polyp"
+        }
+    },
+    {
+        "concept_name": "炎性肠病",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "inflammatory bowel disease"
+        }
+    },
+    {
+        "concept_name": "特发性弥漫性溃疡",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "idiopathic diffuse ulcer"
+        }
+    },
+    {
+        "concept_name": "球后十二指肠溃疡",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "postbulbar duodenal ulcer"
+        }
+    },
+    {
+        "concept_name": "甲胎蛋白测定",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "alpha-fetoprotein determination"
+        }
+    },
+    {
+        "concept_name": "痉挛性结肠憩室病",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "spastic colon diverticulosis"
+        }
+    },
+    {
+        "concept_name": "直肠指检",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "digital rectal examination"
+        }
+    },
+    {
+        "concept_name": "直肠烧灼",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "rectal burning"
+        }
+    },
+    {
+        "concept_name": "硬化性胆管炎",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "sclerosing cholangitis"
+        }
+    },
+    {
+        "concept_name": "类癌",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "carcinoid"
+        }
+    },
+    {
+        "concept_name": "粘连性腹膜炎",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "adhesive peritonitis"
+        }
+    },
+    {
+        "concept_name": "粪便嵌塞",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "fecal impaction"
+        }
+    },
+    {
+        "concept_name": "糜烂性胃炎",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "erosive gastritis"
+        }
+    },
+    {
+        "concept_name": "细菌性肝脓肿",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "bacterial liver abscess"
+        }
+    },
+    {
+        "concept_name": "细菌性腹泻",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "bacterial diarrhea"
+        }
+    },
+    {
+        "concept_name": "经皮经肝栓塞",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "percutaneous transhepatic embolization"
+        }
+    },
+    {
+        "concept_name": "结肠孤立性溃疡",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "colonic solitary ulcer"
+        }
+    },
+    {
+        "concept_name": "结肠缺血",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "colonic ischemia"
+        }
+    },
+    {
+        "concept_name": "结肠非特异性溃疡",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "nonspecific ulcer of colon"
+        }
+    },
+    {
+        "concept_name": "结肠黑色素沉着病",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "melanosis coli"
+        }
+    },
+    {
+        "concept_name": "维姆－西尔弗曼针活组织检查",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Vim-Silverman needle biopsy"
+        }
+    },
+    {
+        "concept_name": "缺血性结肠炎",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "ischemic colitis"
+        }
+    },
+    {
+        "concept_name": "肝动脉造影[术]",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "hepatic arteriography"
+        }
+    },
+    {
+        "concept_name": "肝大",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "hepatomegaly"
+        }
+    },
+    {
+        "concept_name": "肝性脑病",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "hepatic encephalopathy"
+        }
+    },
+    {
+        "concept_name": "肝慢性阻性充血",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "chronic passive congestion of liver"
+        }
+    },
+    {
+        "concept_name": "肝梗死",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "infarction of liver"
+        }
+    },
+    {
+        "concept_name": "肝淀粉样变性",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "amyloidosis of liver"
+        }
+    },
+    {
+        "concept_name": "肝炎后肝硬化",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "posthepatitic cirrhosis"
+        }
+    },
+    {
+        "concept_name": "肝病性口臭",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "fetor hepaticus"
+        }
+    },
+    {
+        "concept_name": "肝脓肿",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "liver abscess"
+        }
+    },
+    {
+        "concept_name": "肝被膜下出血",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "subcapsular hemorrhage of liver"
+        }
+    },
+    {
+        "concept_name": "肝静脉梗阻",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "hepatic venous obstruction"
+        }
+    },
+    {
+        "concept_name": "肠动静脉畸形",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "arteriovenous malformation of bowel"
+        }
+    },
+    {
+        "concept_name": "肠壁囊样积气",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "pneumatosis cystoides intestinalis"
+        }
+    },
+    {
+        "concept_name": "肠子宫内膜异位",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "endometriosis in bowel"
+        }
+    },
+    {
+        "concept_name": "肠易激综合征",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "irritable bowel syndrome"
+        }
+    },
+    {
+        "concept_name": "肠梗阻",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "intestinal obstruction"
+        }
+    },
+    {
+        "concept_name": "肠淋巴管扩张",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "intestinal lymphangiectasia"
+        }
+    },
+    {
+        "concept_name": "肠系膜上动脉综合征",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "superior mesentery artery syndrome"
+        }
+    },
+    {
+        "concept_name": "肠系膜动脉闭塞",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "mesenteric arterial occlusion"
+        }
+    },
+    {
+        "concept_name": "肠系膜静脉血栓形成",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "mesenteric venous thrombosis"
+        }
+    },
+    {
+        "concept_name": "肠缺血综合征",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "intestinal ischemic syndrome"
+        }
+    },
+    {
+        "concept_name": "肠血管发育异常",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "angiodysplasia of bowel"
+        }
+    },
+    {
+        "concept_name": "肠血管异常",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "vascular abnormality of intestine"
+        }
+    },
+    {
+        "concept_name": "肠血管病",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "vascular disease of bowel"
+        }
+    },
+    {
+        "concept_name": "肥皂性结肠炎",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "soap colitis"
+        }
+    },
+    {
+        "concept_name": "胃憩室",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "gastric diverticulum"
+        }
+    },
+    {
+        "concept_name": "胃扭转",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "volvulus of stomach"
+        }
+    },
+    {
+        "concept_name": "胃泌素瘤",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "gastrinoma"
+        }
+    },
+    {
+        "concept_name": "胃液分析",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "gastric analysis"
+        }
+    },
+    {
+        "concept_name": "胃溃疡",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "gastric ulcer"
+        }
+    },
+    {
+        "concept_name": "胃肠出血",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "gastrointestinal bleeding"
+        }
+    },
+    {
+        "concept_name": "胃食管反流",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "gastroesophageal reflux"
+        }
+    },
+    {
+        "concept_name": "胃黏膜脱垂",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "prolapse of gastric mucosa"
+        }
+    },
+    {
+        "concept_name": "胆囊周围脓肿",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "pericholecystic abscess"
+        }
+    },
+    {
+        "concept_name": "胆囊扭转",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "torsion of gallbladder"
+        }
+    },
+    {
+        "concept_name": "胆囊炎",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "cholecystitis"
+        }
+    },
+    {
+        "concept_name": "胆囊积气",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "pneumo-gallbladder"
+        }
+    },
+    {
+        "concept_name": "胆囊积脓",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "empyema of gallbladder"
+        }
+    },
+    {
+        "concept_name": "胆小管炎",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "cholangiolitis"
+        }
+    },
+    {
+        "concept_name": "胆总管结石病",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "choledocholithiasis"
+        }
+    },
+    {
+        "concept_name": "胆汁性肝硬化",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "biliary cirrhosis"
+        }
+    },
+    {
+        "concept_name": "胆汁淤积",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "cholestasis"
+        }
+    },
+    {
+        "concept_name": "胆管扩张",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "cholangiectasis"
+        }
+    },
+    {
+        "concept_name": "胆管炎",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "英文": "cholangitis ;angiocholitis",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "cholangitis"
+        }
+    },
+    {
+        "concept_name": "胆血症",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "cholemia"
+        }
+    },
+    {
+        "concept_name": "胆道感染",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "infection of biliary tract"
+        }
+    },
+    {
+        "concept_name": "胆道蛔虫病",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "biliary ascariasis"
+        }
+    },
+    {
+        "concept_name": "胆道贾第虫病",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "giardiasis of biliary tract"
+        }
+    },
+    {
+        "concept_name": "胆道运动障碍",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "biliary dyskinesia"
+        }
+    },
+    {
+        "concept_name": "胰功能不全",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "pancreatic insufficiency"
+        }
+    },
+    {
+        "concept_name": "胰岛素瘤",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "英文": "insulinoma ;insuloma",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "insulinoma"
+        }
+    },
+    {
+        "concept_name": "胰岛细胞瘤",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "islet cell tumor"
+        }
+    },
+    {
+        "concept_name": "胰管梗阻",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "pancreatemphraxis"
+        }
+    },
+    {
+        "concept_name": "胰腺分裂",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "pancreas divisum"
+        }
+    },
+    {
+        "concept_name": "腹主动脉瘤",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "abdominal aortic aneurysm"
+        }
+    },
+    {
+        "concept_name": "腹水",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "ascites"
+        }
+    },
+    {
+        "concept_name": "腹腔动脉压迫综合征",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "celiac artery compression syndrome"
+        }
+    },
+    {
+        "concept_name": "腹腔穿刺[术]",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "英文": "peritoneocentesis ;abdominal paracentesis",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "peritoneocentesis"
+        }
+    },
+    {
+        "concept_name": "腹膜刺激征",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "peritoneal irritation sign"
+        }
+    },
+    {
+        "concept_name": "腹鸣",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "borborygmus"
+        }
+    },
+    {
+        "concept_name": "腺瘤性息肉",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "adenomatous polyp"
+        }
+    },
+    {
+        "concept_name": "膈疝",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "diaphragmatic hernia"
+        }
+    },
+    {
+        "concept_name": "膈膨升",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "eventration of diaphragm"
+        }
+    },
+    {
+        "concept_name": "自发性腹膜炎",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "spontaneous peritonitis"
+        }
+    },
+    {
+        "concept_name": "舟状腹",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "scaphoid abdomen"
+        }
+    },
+    {
+        "concept_name": "萎缩性胃炎",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "atrophic gastritis"
+        }
+    },
+    {
+        "concept_name": "蛋白丢失性肠病",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "protein-losing enteropathy"
+        }
+    },
+    {
+        "concept_name": "蜘蛛痣",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "spider angioma"
+        }
+    },
+    {
+        "concept_name": "酒精性肝炎",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "alcoholic hepatitis"
+        }
+    },
+    {
+        "concept_name": "酒精性肝硬化",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "alcoholic cirrhosis"
+        }
+    },
+    {
+        "concept_name": "酒精性胰腺炎",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "alcoholic pancreatitis"
+        }
+    },
+    {
+        "concept_name": "门体脑病",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "portosystemic encephalopathy"
+        }
+    },
+    {
+        "concept_name": "门脉性肝硬化",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "portal cirrhosis"
+        }
+    },
+    {
+        "concept_name": "门静脉血栓形成",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "thrombosis of portal vein"
+        }
+    },
+    {
+        "concept_name": "闭塞性肝静脉内膜炎",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "endophlebitis hepatica obliterans"
+        }
+    },
+    {
+        "concept_name": "阿米巴[性]肝脓肿",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "amebic liver abscess"
+        }
+    },
+    {
+        "concept_name": "隐肛",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "covered anus"
+        }
+    },
+    {
+        "concept_name": "静脉闭塞性病",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "veno-occlusive disease"
+        }
+    },
+    {
+        "concept_name": "非闭塞性肠梗死",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "nonocclusive intestinal infarction"
+        }
+    },
+    {
+        "concept_name": "面团感",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "doughy sensation"
+        }
+    },
+    {
+        "concept_name": "食欲缺乏",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "anorexia"
+        }
+    },
+    {
+        "concept_name": "食管憩室",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "diverticulum of esophagus"
+        }
+    },
+    {
+        "concept_name": "食管探条",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "esophageal bougie"
+        }
+    },
+    {
+        "concept_name": "食管旁食管裂孔疝",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "paraesophageal hiatus hernia"
+        }
+    },
+    {
+        "concept_name": "食管消化性溃疡",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "peptic ulcer of esophagus"
+        }
+    },
+    {
+        "concept_name": "食管炎",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "esophagitis"
+        }
+    },
+    {
+        "concept_name": "食管静脉曲张",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "esophageal varices"
+        }
+    },
+    {
+        "concept_name": "马洛里-魏斯综合征",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "又称": " 马洛里-魏斯撕裂",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "Mallory-Weiss syndrome"
+        }
+    },
+    {
+        "concept_name": "高峰酸排出量",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "peak acid output"
+        }
+    },
+    {
+        "concept_name": "高淀粉酶血[症]",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "hyperamylasemia"
+        }
+    },
+    {
+        "concept_name": "高胆红素血[症]",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "hyperbilirubinemia"
+        }
+    },
+    {
+        "concept_name": "黄疸",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "英文": "jaundice ;icterus",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "jaundice"
+        }
+    },
+    {
+        "concept_name": "黏液样便",
+        "details": {
+            "学科": "医学_胃肠病学",
+            "见载": "《医学名词 第四分册》第一版",
+            "英文名": "mucoid stool"
+        }
+    }
+]

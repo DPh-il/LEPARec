@@ -1,0 +1,1027 @@
+[
+    {
+        "concept_name": "[电磁]敏感度",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electromagnetic susceptibility"
+        }
+    },
+    {
+        "concept_name": "串扰",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "又称": " 串音",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "crosstalk"
+        }
+    },
+    {
+        "concept_name": "乱真信号",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "spurious signal"
+        }
+    },
+    {
+        "concept_name": "人为噪声",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "man-made noise"
+        }
+    },
+    {
+        "concept_name": "传导发射",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "conducted emission"
+        }
+    },
+    {
+        "concept_name": "传导噪声",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "conducted noise"
+        }
+    },
+    {
+        "concept_name": "传导干扰",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "conducted interference"
+        }
+    },
+    {
+        "concept_name": "传导敏感度",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "conducted susceptibility"
+        }
+    },
+    {
+        "concept_name": "传导测量",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "conduction measurement"
+        }
+    },
+    {
+        "concept_name": "传输线",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "transmission line"
+        }
+    },
+    {
+        "concept_name": "供电网去耦因数",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "mains decoupling factor"
+        }
+    },
+    {
+        "concept_name": "供电网抗扰度",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "mains immunity"
+        }
+    },
+    {
+        "concept_name": "供电网骚扰",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "mains-borne disturbance"
+        }
+    },
+    {
+        "concept_name": "保护屏蔽",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "guard screen"
+        }
+    },
+    {
+        "concept_name": "保护接地系统",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "guard ground system"
+        }
+    },
+    {
+        "concept_name": "信号电平",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "signal level"
+        }
+    },
+    {
+        "concept_name": "信噪比",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "signal-to-noise ratio"
+        }
+    },
+    {
+        "concept_name": "共模无线电噪声",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "common mode radio noise"
+        }
+    },
+    {
+        "concept_name": "准峰值检波器",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "quasi-peak detector"
+        }
+    },
+    {
+        "concept_name": "准峰值电压表",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "quasi-peak voltmeter"
+        }
+    },
+    {
+        "concept_name": "准脉冲噪声",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "quasi-impulsive noise"
+        }
+    },
+    {
+        "concept_name": "准脉冲骚扰",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "quasi-impulsive disturbance"
+        }
+    },
+    {
+        "concept_name": "分布电阻",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "distributed resistance"
+        }
+    },
+    {
+        "concept_name": "参比频率",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "reference frequency"
+        }
+    },
+    {
+        "concept_name": "发射频谱",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "emission spectrum"
+        }
+    },
+    {
+        "concept_name": "吸收材料",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "absorber"
+        }
+    },
+    {
+        "concept_name": "吸收钳",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "absorbing clamp"
+        }
+    },
+    {
+        "concept_name": "场强计",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "field intensity meter"
+        }
+    },
+    {
+        "concept_name": "宇宙干扰",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "cosmic interference"
+        }
+    },
+    {
+        "concept_name": "宽带干扰",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "broad-band interference"
+        }
+    },
+    {
+        "concept_name": "射频干扰",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "英文": "radio-frequency interference ;RFI",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "radio-frequency interference"
+        }
+    },
+    {
+        "concept_name": "射频无反射室",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "又称": " 电波暗室",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "radio-frequency anechoic enclosure"
+        }
+    },
+    {
+        "concept_name": "尖峰信号",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "spike"
+        }
+    },
+    {
+        "concept_name": "屏蔽室",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "shielded enclosure"
+        }
+    },
+    {
+        "concept_name": "屏蔽效能",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "screening effectiveness"
+        }
+    },
+    {
+        "concept_name": "峰值检波器",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "peak detector"
+        }
+    },
+    {
+        "concept_name": "工业、科学和医疗设备或器具",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "英文": "industrial ;scientific and medical equipment or appliance ;ISM",
+            "简称": " 工科医设备",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "industrial"
+        }
+    },
+    {
+        "concept_name": "工业干扰",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "industrial interference"
+        }
+    },
+    {
+        "concept_name": "差模无线电噪声",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "differential mode radio noise"
+        }
+    },
+    {
+        "concept_name": "干扰",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "interference"
+        }
+    },
+    {
+        "concept_name": "干扰信号",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "interference signal"
+        }
+    },
+    {
+        "concept_name": "干扰功率",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "interference power"
+        }
+    },
+    {
+        "concept_name": "干扰场强",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "interference field strength"
+        }
+    },
+    {
+        "concept_name": "干扰抑制",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "interference suppression"
+        }
+    },
+    {
+        "concept_name": "干扰抑制装置",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "interference suppression equipment"
+        }
+    },
+    {
+        "concept_name": "干扰源",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "interference source"
+        }
+    },
+    {
+        "concept_name": "干扰电压",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "interference voltage"
+        }
+    },
+    {
+        "concept_name": "干扰限值",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "limit of interference"
+        }
+    },
+    {
+        "concept_name": "平均值检波器",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "average detector"
+        }
+    },
+    {
+        "concept_name": "开阔场地",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "open area"
+        }
+    },
+    {
+        "concept_name": "抑制",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "suppression"
+        }
+    },
+    {
+        "concept_name": "抑制元件",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "suppression element"
+        }
+    },
+    {
+        "concept_name": "抑制布线技术",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "suppressive wiring technique"
+        }
+    },
+    {
+        "concept_name": "抑制特性",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "suppression characteristic"
+        }
+    },
+    {
+        "concept_name": "抑制电容器",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "suppression capacitor"
+        }
+    },
+    {
+        "concept_name": "抗[骚]扰度",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "immunity"
+        }
+    },
+    {
+        "concept_name": "抗扰度电平",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "immunity level"
+        }
+    },
+    {
+        "concept_name": "抗扰度裕度",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "immunity margin"
+        }
+    },
+    {
+        "concept_name": "抗扰特性",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "immunity characteristic"
+        }
+    },
+    {
+        "concept_name": "敏感度阈值",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "susceptibility threshold"
+        }
+    },
+    {
+        "concept_name": "方均根值检波器",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "RMS detector"
+        }
+    },
+    {
+        "concept_name": "无用信号",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "英文": "unwanted signal ;undesired signal",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "unwanted signal"
+        }
+    },
+    {
+        "concept_name": "无线电[频率]噪声",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "radio[-frequency] noise"
+        }
+    },
+    {
+        "concept_name": "无线电[频率]骚扰",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "radio[-frequency] disturbance"
+        }
+    },
+    {
+        "concept_name": "无线电和电视干扰抑制器",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "radio and television interference suppressor"
+        }
+    },
+    {
+        "concept_name": "无线电干扰滤波器",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "radio-interference filter"
+        }
+    },
+    {
+        "concept_name": "有用信号",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "wanted signal"
+        }
+    },
+    {
+        "concept_name": "有限辐射频率",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "restricted-radiation frequency"
+        }
+    },
+    {
+        "concept_name": "标准试验频率",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "standard test frequency"
+        }
+    },
+    {
+        "concept_name": "模拟手",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "artificial hand"
+        }
+    },
+    {
+        "concept_name": "横电磁波室",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "transverse electromagnetic cell"
+        }
+    },
+    {
+        "concept_name": "火花塞抑制器",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "spark plug suppressor"
+        }
+    },
+    {
+        "concept_name": "点火分配器抑制器",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "distributor suppressor"
+        }
+    },
+    {
+        "concept_name": "特征频率",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "characteristic frequency"
+        }
+    },
+    {
+        "concept_name": "猝发",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "burst"
+        }
+    },
+    {
+        "concept_name": "电压波动",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "voltage fluctuation"
+        }
+    },
+    {
+        "concept_name": "电子通信设备",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electronic communication equip- ment"
+        }
+    },
+    {
+        "concept_name": "电气噪声",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electrical noise"
+        }
+    },
+    {
+        "concept_name": "电气骚扰",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electrical disturbance"
+        }
+    },
+    {
+        "concept_name": "电流探头",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "current probe"
+        }
+    },
+    {
+        "concept_name": "电磁兼容[性]",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electromagnetic compatibility"
+        }
+    },
+    {
+        "concept_name": "电磁兼容性故障",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electromagnetic compatibility mal- function"
+        }
+    },
+    {
+        "concept_name": "电磁兼容性裕度",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electromagnetic compatibility mar- gin"
+        }
+    },
+    {
+        "concept_name": "电磁发射",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electromagnetic emission"
+        }
+    },
+    {
+        "concept_name": "电磁噪声",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electromagnetic noise"
+        }
+    },
+    {
+        "concept_name": "电磁干扰",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "英文": "electromagnetic interference ;EMI",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electromagnetic interference"
+        }
+    },
+    {
+        "concept_name": "电磁干扰安全裕度",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electromagnetic interference safety margin"
+        }
+    },
+    {
+        "concept_name": "电磁干扰控制",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electromagnetic interference con- trol"
+        }
+    },
+    {
+        "concept_name": "电磁干扰测量仪",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electromagnetic interference mea- suring apparatus"
+        }
+    },
+    {
+        "concept_name": "电磁环境",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electromagnetic environment"
+        }
+    },
+    {
+        "concept_name": "电磁环境电平",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electromagnetic environment level"
+        }
+    },
+    {
+        "concept_name": "电磁骚扰",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "曾称": " 电磁扰动",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electromagnetic disturbance"
+        }
+    },
+    {
+        "concept_name": "电磁骚扰特性",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "electromagnetic disturbance char- acteristic"
+        }
+    },
+    {
+        "concept_name": "稳定噪声",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "stationary noise"
+        }
+    },
+    {
+        "concept_name": "稳定随机噪声",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "stationary random noise"
+        }
+    },
+    {
+        "concept_name": "窄带干扰",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "narrow-band interference"
+        }
+    },
+    {
+        "concept_name": "端子干扰电压",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "terminal interference voltage"
+        }
+    },
+    {
+        "concept_name": "系统内电磁兼容性",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "intra-system electromagnetic com- patibility"
+        }
+    },
+    {
+        "concept_name": "系统用天线",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "system antenna"
+        }
+    },
+    {
+        "concept_name": "系统间电磁兼容性",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "inter-system electromagnetic com- patibility"
+        }
+    },
+    {
+        "concept_name": "线路阻抗稳定网络",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "又称": " 人工电源网络(LISN) ；artificial mains network）",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "line impedance stabilization net- work"
+        }
+    },
+    {
+        "concept_name": "脉冲发射",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "impulse emission"
+        }
+    },
+    {
+        "concept_name": "脉冲发生器",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "pulse generator"
+        }
+    },
+    {
+        "concept_name": "脉冲噪声",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "impulsive noise"
+        }
+    },
+    {
+        "concept_name": "脉冲骚扰",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "impulsive disturbance"
+        }
+    },
+    {
+        "concept_name": "自然噪声",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "natural noise"
+        }
+    },
+    {
+        "concept_name": "自由辐射频率",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "free-radiation frequency"
+        }
+    },
+    {
+        "concept_name": "补偿布线技术",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "compensating wiring technique"
+        }
+    },
+    {
+        "concept_name": "试验场地",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "test site"
+        }
+    },
+    {
+        "concept_name": "辐射发射",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "radiated emission"
+        }
+    },
+    {
+        "concept_name": "辐射噪声",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "radiated noise"
+        }
+    },
+    {
+        "concept_name": "辐射干扰",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "radiated interference"
+        }
+    },
+    {
+        "concept_name": "辐射敏感度",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "radiated susceptibility"
+        }
+    },
+    {
+        "concept_name": "辐射测量",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "radiation measurement"
+        }
+    },
+    {
+        "concept_name": "输电线路",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "[power] transmission line"
+        }
+    },
+    {
+        "concept_name": "连续噪声",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "continuous noise"
+        }
+    },
+    {
+        "concept_name": "连续骚扰",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "continuous disturbance"
+        }
+    },
+    {
+        "concept_name": "选频电压表",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "frequency-selective voltmeter"
+        }
+    },
+    {
+        "concept_name": "遍历性噪声",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "ergodic noise"
+        }
+    },
+    {
+        "concept_name": "降敏作用",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "desensitization"
+        }
+    },
+    {
+        "concept_name": "随机噪声",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "random noise"
+        }
+    },
+    {
+        "concept_name": "随机骚扰",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "random disturbance"
+        }
+    },
+    {
+        "concept_name": "集中电阻抑制器",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "concentrated resistive suppressor"
+        }
+    },
+    {
+        "concept_name": "骚扰功率",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "disturbance power"
+        }
+    },
+    {
+        "concept_name": "骚扰场强",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "disturbance field strength"
+        }
+    },
+    {
+        "concept_name": "骚扰电压",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "disturbance voltage"
+        }
+    },
+    {
+        "concept_name": "骚扰电平",
+        "details": {
+            "学科": "电气工程_电磁干扰和电磁兼容",
+            "见载": "《电气工程名词》第一版",
+            "英文名": "disturbance level"
+        }
+    }
+]

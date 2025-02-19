@@ -1,0 +1,1207 @@
+[
+    {
+        "concept_name": "QR分解",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "QR decomposition"
+        }
+    },
+    {
+        "concept_name": "QR方法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "QR method"
+        }
+    },
+    {
+        "concept_name": "[乘]幂法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "power method"
+        }
+    },
+    {
+        "concept_name": "[高斯-]赛德尔迭代[法]",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "[Gauss-]Seidel iteration"
+        }
+    },
+    {
+        "concept_name": "ε算法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "ε-algorithm"
+        }
+    },
+    {
+        "concept_name": "η算法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "η-algorithm"
+        }
+    },
+    {
+        "concept_name": "一般迭代法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "general iterative method"
+        }
+    },
+    {
+        "concept_name": "三对角[矩]阵",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "tridiagonal matrix"
+        }
+    },
+    {
+        "concept_name": "三角[形]分解",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "triangular decomposition"
+        }
+    },
+    {
+        "concept_name": "上升方向",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "ascent direction"
+        }
+    },
+    {
+        "concept_name": "上升算法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "ascent algorithm"
+        }
+    },
+    {
+        "concept_name": "下降方向",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "descent direction"
+        }
+    },
+    {
+        "concept_name": "下降法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "descent method"
+        }
+    },
+    {
+        "concept_name": "下降算法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "descent algorithm"
+        }
+    },
+    {
+        "concept_name": "严格对角优势",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "strictly diagonal dominance"
+        }
+    },
+    {
+        "concept_name": "主元",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "pivot"
+        }
+    },
+    {
+        "concept_name": "二次因子法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "quadratic factoring method"
+        }
+    },
+    {
+        "concept_name": "交替方向法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "alternating direction method"
+        }
+    },
+    {
+        "concept_name": "交替方向隐式法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "alternating direction implicit method"
+        }
+    },
+    {
+        "concept_name": "伯努利迭代法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Bernoulli iteration"
+        }
+    },
+    {
+        "concept_name": "低松弛",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "又称": " 亚松弛",
+            "见载": "《数学名词》第一版",
+            "英文名": "underrelaxation"
+        }
+    },
+    {
+        "concept_name": "全主元",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "complete pivot"
+        }
+    },
+    {
+        "concept_name": "全主元消元[法]",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "complete pivoting"
+        }
+    },
+    {
+        "concept_name": "兰乔斯法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Lanczos method"
+        }
+    },
+    {
+        "concept_name": "共轭梯度法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "conjugate gradient method"
+        }
+    },
+    {
+        "concept_name": "分割搜索",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "sectioning search"
+        }
+    },
+    {
+        "concept_name": "切比雪夫加速[法]",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Chebyshev acceleration"
+        }
+    },
+    {
+        "concept_name": "切比雪夫自适应过程",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Chebyshev adaptive process"
+        }
+    },
+    {
+        "concept_name": "切线法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "tangent method"
+        }
+    },
+    {
+        "concept_name": "列主元",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "pivot in a column"
+        }
+    },
+    {
+        "concept_name": "副迭代",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "secondary iteration"
+        }
+    },
+    {
+        "concept_name": "割线法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "secant method"
+        }
+    },
+    {
+        "concept_name": "加速过度",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "overacceleration"
+        }
+    },
+    {
+        "concept_name": "区间分半搜索",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "英文": "half interval search ;interval- halving search",
+            "见载": "《数学名词》第一版",
+            "英文名": "half interval search"
+        }
+    },
+    {
+        "concept_name": "半迭代法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "semi-iterative method"
+        }
+    },
+    {
+        "concept_name": "反幂法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "inverse power method"
+        }
+    },
+    {
+        "concept_name": "变尺度[算]法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "variable metric algorithm"
+        }
+    },
+    {
+        "concept_name": "变形牛顿法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "modified Newton method"
+        }
+    },
+    {
+        "concept_name": "吉文斯法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Givens method"
+        }
+    },
+    {
+        "concept_name": "同时行迭代",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "又称": " 联合行迭代",
+            "见载": "《数学名词》第一版",
+            "英文名": "simultaneous row iteration"
+        }
+    },
+    {
+        "concept_name": "向量[的]范数",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "norm of a vector"
+        }
+    },
+    {
+        "concept_name": "和校验",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "sum check"
+        }
+    },
+    {
+        "concept_name": "回代",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "back substitution"
+        }
+    },
+    {
+        "concept_name": "图解法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "graphical method"
+        }
+    },
+    {
+        "concept_name": "块三对角[矩]阵",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "block tridiagonal matrix"
+        }
+    },
+    {
+        "concept_name": "块松弛",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "block relaxation"
+        }
+    },
+    {
+        "concept_name": "块迭代",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "block iteration"
+        }
+    },
+    {
+        "concept_name": "多项式加速[法]",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "polynomial acceleration"
+        }
+    },
+    {
+        "concept_name": "多项式方程",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "polynomial equation"
+        }
+    },
+    {
+        "concept_name": "子空间迭代法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "subspace iterative method"
+        }
+    },
+    {
+        "concept_name": "对分法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "bisection method"
+        }
+    },
+    {
+        "concept_name": "对角[线]化",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "diagonalization"
+        }
+    },
+    {
+        "concept_name": "对角优势",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "diagonal dominance"
+        }
+    },
+    {
+        "concept_name": "局部收敛",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "local convergence"
+        }
+    },
+    {
+        "concept_name": "带宽",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "band width"
+        }
+    },
+    {
+        "concept_name": "带状矩阵",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "band matrix"
+        }
+    },
+    {
+        "concept_name": "平均收敛速率",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "average rate of convergence"
+        }
+    },
+    {
+        "concept_name": "平方收敛",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "又称": " 二次收敛",
+            "见载": "《数学名词》第一版",
+            "英文名": "quadratic convergence"
+        }
+    },
+    {
+        "concept_name": "平方收敛速率",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "quadratic convergence rate"
+        }
+    },
+    {
+        "concept_name": "平方根法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "square root method"
+        }
+    },
+    {
+        "concept_name": "广义逆矩阵",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "generalized inverse matrix"
+        }
+    },
+    {
+        "concept_name": "序贯搜索",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "sequential search"
+        }
+    },
+    {
+        "concept_name": "库默尔变换",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Kummer transformation"
+        }
+    },
+    {
+        "concept_name": "搜索步长",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "step size in search"
+        }
+    },
+    {
+        "concept_name": "搜索法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "search method"
+        }
+    },
+    {
+        "concept_name": "收敛[性]加速",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "convergence acceleration"
+        }
+    },
+    {
+        "concept_name": "收敛区域",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "convergence domain"
+        }
+    },
+    {
+        "concept_name": "收敛因子",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "convergence factor"
+        }
+    },
+    {
+        "concept_name": "收敛指数",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "convergence exponent"
+        }
+    },
+    {
+        "concept_name": "收敛速率",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "rate of convergence"
+        }
+    },
+    {
+        "concept_name": "数值代数",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "numerical algebra"
+        }
+    },
+    {
+        "concept_name": "整体收敛",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "global convergence"
+        }
+    },
+    {
+        "concept_name": "旋转法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "rotation method"
+        }
+    },
+    {
+        "concept_name": "无约束极小化",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "unconstrained minimization"
+        }
+    },
+    {
+        "concept_name": "最终校验",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "terminal check"
+        }
+    },
+    {
+        "concept_name": "最速上升",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "steepest ascent"
+        }
+    },
+    {
+        "concept_name": "最速下降",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "steepest descent"
+        }
+    },
+    {
+        "concept_name": "条件数",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "condition number"
+        }
+    },
+    {
+        "concept_name": "松弛因子",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "relaxation factor"
+        }
+    },
+    {
+        "concept_name": "松弛法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "relaxation method"
+        }
+    },
+    {
+        "concept_name": "松弛表",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "relaxation table"
+        }
+    },
+    {
+        "concept_name": "林[士谔]迭代法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Lin iteration method"
+        }
+    },
+    {
+        "concept_name": "校验公式",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "check formula"
+        }
+    },
+    {
+        "concept_name": "校验和",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "check sum"
+        }
+    },
+    {
+        "concept_name": "根平方法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "root-squaring method"
+        }
+    },
+    {
+        "concept_name": "梯度搜索",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "gradient search"
+        }
+    },
+    {
+        "concept_name": "梯度方向",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "gradient direction"
+        }
+    },
+    {
+        "concept_name": "梯度法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "gradient method"
+        }
+    },
+    {
+        "concept_name": "楚列斯基分解",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Cholesky decomposition"
+        }
+    },
+    {
+        "concept_name": "欠定组",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "又称": " 亚定组",
+            "见载": "《数学名词》第一版",
+            "英文名": "underdetermined system"
+        }
+    },
+    {
+        "concept_name": "欧拉变换",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Euler transformation"
+        }
+    },
+    {
+        "concept_name": "海曼法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Hyman method"
+        }
+    },
+    {
+        "concept_name": "海森伯矩阵",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Heissenberg matrix"
+        }
+    },
+    {
+        "concept_name": "消元法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "又称": " 消去法",
+            "见载": "《数学名词》第一版",
+            "英文名": "elimination [method]"
+        }
+    },
+    {
+        "concept_name": "消元矩阵",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "elimination matrix"
+        }
+    },
+    {
+        "concept_name": "渐近收敛速率",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "asymptotic rate of convergence"
+        }
+    },
+    {
+        "concept_name": "点划分",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "point partitioning"
+        }
+    },
+    {
+        "concept_name": "牛顿-拉弗森方法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Newton-Raphson method"
+        }
+    },
+    {
+        "concept_name": "理查森外推[法]",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Richardson extrapolation"
+        }
+    },
+    {
+        "concept_name": "病态",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "英文": "ill-conditioned ;ill-conditioning",
+            "见载": "《数学名词》第一版",
+            "英文名": "ill-conditioned"
+        }
+    },
+    {
+        "concept_name": "病态多项式",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "ill-conditioned polynomial"
+        }
+    },
+    {
+        "concept_name": "病态方程",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "ill-conditioned equation"
+        }
+    },
+    {
+        "concept_name": "病态矩阵",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "ill-conditioned matrix"
+        }
+    },
+    {
+        "concept_name": "直接法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "direct method"
+        }
+    },
+    {
+        "concept_name": "矩阵[的]范数",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "norm of a matrix"
+        }
+    },
+    {
+        "concept_name": "矩阵收缩",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "matrix deflation"
+        }
+    },
+    {
+        "concept_name": "矩阵求逆",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "matrix inversion"
+        }
+    },
+    {
+        "concept_name": "矩阵的谱半径",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "spectral radius of a matrix"
+        }
+    },
+    {
+        "concept_name": "矩阵迭代分析",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "matrix iterative analysis"
+        }
+    },
+    {
+        "concept_name": "秩1方法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "rank-one method"
+        }
+    },
+    {
+        "concept_name": "秩2方法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "rank-two method"
+        }
+    },
+    {
+        "concept_name": "米勒方法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "又称": " 抛物线法",
+            "见载": "《数学名词》第一版",
+            "英文名": "Müller method"
+        }
+    },
+    {
+        "concept_name": "红黑划分",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "red/black partitioning"
+        }
+    },
+    {
+        "concept_name": "线划分",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "line partitioning"
+        }
+    },
+    {
+        "concept_name": "线性化",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "linearization"
+        }
+    },
+    {
+        "concept_name": "线性收敛",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "linear convergence"
+        }
+    },
+    {
+        "concept_name": "线性收敛速率",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "linear convergence rate"
+        }
+    },
+    {
+        "concept_name": "良态",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "well-behaved"
+        }
+    },
+    {
+        "concept_name": "艾特肯△2法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Aitken △2 method"
+        }
+    },
+    {
+        "concept_name": "行松弛",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "line relaxation"
+        }
+    },
+    {
+        "concept_name": "行超松弛",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "line overrelaxation"
+        }
+    },
+    {
+        "concept_name": "行迭代",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "row iteration"
+        }
+    },
+    {
+        "concept_name": "试位法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "regular falsi"
+        }
+    },
+    {
+        "concept_name": "谱分布",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "spectral distribution"
+        }
+    },
+    {
+        "concept_name": "谱条件",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "spectral condition"
+        }
+    },
+    {
+        "concept_name": "豪斯霍尔德变换",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Householder transformation"
+        }
+    },
+    {
+        "concept_name": "豪斯霍尔德法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Householder method"
+        }
+    },
+    {
+        "concept_name": "豪斯霍尔德矩阵",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Householder matrix"
+        }
+    },
+    {
+        "concept_name": "贝尔斯托迭代法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Bairstow iteration method"
+        }
+    },
+    {
+        "concept_name": "超定组",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "overdetermined system"
+        }
+    },
+    {
+        "concept_name": "超收敛",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "overconvergence"
+        }
+    },
+    {
+        "concept_name": "超松弛",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "overrelaxation"
+        }
+    },
+    {
+        "concept_name": "超线性收敛",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "superlinear convergence"
+        }
+    },
+    {
+        "concept_name": "超线性收敛速率",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "superlinear convergence rate"
+        }
+    },
+    {
+        "concept_name": "超越方程",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "transcendental equation"
+        }
+    },
+    {
+        "concept_name": "迭代循环",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "iterative loop",
+            "prerequisite": [
+                "K_级数求和_数学",
+                "K_级数求和_数学"
+            ]
+        }
+    },
+    {
+        "concept_name": "迭代法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "iteration method"
+        }
+    },
+    {
+        "concept_name": "迭代计算",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "iterative computations"
+        }
+    },
+    {
+        "concept_name": "追赶法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "forward elimination and backward substitution"
+        }
+    },
+    {
+        "concept_name": "逐次代换",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "successive substitution"
+        }
+    },
+    {
+        "concept_name": "逐次超松弛",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "英文": "successive overrelaxation ;SOR",
+            "见载": "《数学名词》第一版",
+            "英文名": "successive overrelaxation"
+        }
+    },
+    {
+        "concept_name": "部分主元",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "partial pivot"
+        }
+    },
+    {
+        "concept_name": "部分主元消元[法]",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "partial pivoting"
+        }
+    },
+    {
+        "concept_name": "阈[值]",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "threshold [value]"
+        }
+    },
+    {
+        "concept_name": "雅可比法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Jacobi method"
+        }
+    },
+    {
+        "concept_name": "雅可比迭代[法]",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Jacobi iteration"
+        }
+    },
+    {
+        "concept_name": "验算",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "checking computations"
+        }
+    },
+    {
+        "concept_name": "高斯-若尔当消元法",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Gauss-Jordan elimination"
+        }
+    },
+    {
+        "concept_name": "鲍尔双迭代[法]",
+        "details": {
+            "学科": "数学_数值分析_方程求根、数值代数",
+            "见载": "《数学名词》第一版",
+            "英文名": "Bauer bi-iteration"
+        }
+    }
+]

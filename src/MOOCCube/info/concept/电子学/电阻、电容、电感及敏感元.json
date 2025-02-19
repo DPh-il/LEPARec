@@ -1,0 +1,1169 @@
+[
+    {
+        "concept_name": "[电]压敏电阻器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "varistor"
+        }
+    },
+    {
+        "concept_name": "pH敏感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "pH sensor"
+        }
+    },
+    {
+        "concept_name": "上限类别温度",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "upper category temperature"
+        }
+    },
+    {
+        "concept_name": "下限类别温度",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "lower category temperature"
+        }
+    },
+    {
+        "concept_name": "中频变压器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "英文": "intermediate frequency transformer ;IF transf orme",
+            "见载": "《电子学名词》第一版",
+            "英文名": "intermediate frequency transformer"
+        }
+    },
+    {
+        "concept_name": "传感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "transducer"
+        }
+    },
+    {
+        "concept_name": "位移传感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "displacement transducer"
+        }
+    },
+    {
+        "concept_name": "位置传感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "position transducer"
+        }
+    },
+    {
+        "concept_name": "储能电容器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "energy storage capacitor"
+        }
+    },
+    {
+        "concept_name": "光敏感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "英文": "photo-sensor ;optical sensor",
+            "见载": "《电子学名词》第一版",
+            "英文名": "photo-sensor"
+        }
+    },
+    {
+        "concept_name": "光纤敏感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "英文": "optical fiber sensor ;fiberoptic sensor",
+            "见载": "《电子学名词》第一版",
+            "英文名": "optical fiber sensor"
+        }
+    },
+    {
+        "concept_name": "光纤陀螺",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "optic fiber gyroscope"
+        }
+    },
+    {
+        "concept_name": "免疫敏感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "immune sensor"
+        }
+    },
+    {
+        "concept_name": "剩余电压",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "residual voltage"
+        }
+    },
+    {
+        "concept_name": "力敏感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "force sensor"
+        }
+    },
+    {
+        "concept_name": "化学敏感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "chemical sensor"
+        }
+    },
+    {
+        "concept_name": "匝比",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "turn ratio"
+        }
+    },
+    {
+        "concept_name": "半导体敏感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "semiconductor sensor"
+        }
+    },
+    {
+        "concept_name": "压力敏感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "pressure sensor"
+        }
+    },
+    {
+        "concept_name": "压电式敏感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "piezoelectric sensor"
+        }
+    },
+    {
+        "concept_name": "参比电极",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "reference electrode"
+        }
+    },
+    {
+        "concept_name": "双电层电容器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "double electric layer capacitor"
+        }
+    },
+    {
+        "concept_name": "变压器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "transformer"
+        }
+    },
+    {
+        "concept_name": "可变电容器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "variable capacitor"
+        }
+    },
+    {
+        "concept_name": "可变电感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "英文": "variable inductor ;variometer",
+            "见载": "《电子学名词》第一版",
+            "英文名": "variable inductor"
+        }
+    },
+    {
+        "concept_name": "合成电阻器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "composition resistor"
+        }
+    },
+    {
+        "concept_name": "合成碳膜电位器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "carbon composition film potentiometer"
+        }
+    },
+    {
+        "concept_name": "固体钽电解电容器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "solid tantalum electrolytic capacitor"
+        }
+    },
+    {
+        "concept_name": "固定电容器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "fixed capacitor"
+        }
+    },
+    {
+        "concept_name": "固定电感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "fixed inductor"
+        }
+    },
+    {
+        "concept_name": "固定电阻器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "fixed resistor"
+        }
+    },
+    {
+        "concept_name": "固态敏感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "solid state sensor"
+        }
+    },
+    {
+        "concept_name": "塑料膜电容器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "plastic film capacitor"
+        }
+    },
+    {
+        "concept_name": "声敏感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "acoustic sensor"
+        }
+    },
+    {
+        "concept_name": "复合介质电容器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "composite dielectric capacitor"
+        }
+    },
+    {
+        "concept_name": "尺度传感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "dimension transducer"
+        }
+    },
+    {
+        "concept_name": "差动电容器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "differential capacitor"
+        }
+    },
+    {
+        "concept_name": "帧输出变压器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "frame output transformer"
+        }
+    },
+    {
+        "concept_name": "开关电源变压器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "switching mode power supply transformer"
+        }
+    },
+    {
+        "concept_name": "微生物敏感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "microbial sensor"
+        }
+    },
+    {
+        "concept_name": "微调电位器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "trimmer potentiometer"
+        }
+    },
+    {
+        "concept_name": "微调电容器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "trimmer capacitor"
+        }
+    },
+    {
+        "concept_name": "微调电感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "trimming inductor"
+        }
+    },
+    {
+        "concept_name": "执行器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "actuator"
+        }
+    },
+    {
+        "concept_name": "扼流圈",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "choke"
+        }
+    },
+    {
+        "concept_name": "抑制射频干扰电容器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "RFI suppression capacitor"
+        }
+    },
+    {
+        "concept_name": "换能器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "transducer"
+        }
+    },
+    {
+        "concept_name": "探测器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "detector"
+        }
+    },
+    {
+        "concept_name": "敏感元",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "sensing element"
+        }
+    },
+    {
+        "concept_name": "敏感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "又称": " 敏感元件",
+            "见载": "《电子学名词》第一版",
+            "英文名": "sensor"
+        }
+    },
+    {
+        "concept_name": "整流变压器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "rectifier transformer"
+        }
+    },
+    {
+        "concept_name": "旁路电容器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "by-pass capacitor"
+        }
+    },
+    {
+        "concept_name": "智能敏感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "intelligent sensor"
+        }
+    },
+    {
+        "concept_name": "极性电容器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "polar capacitor"
+        }
+    },
+    {
+        "concept_name": "标称电容",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "normal capacitance"
+        }
+    },
+    {
+        "concept_name": "标称电阻值",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "normal resistance"
+        }
+    },
+    {
+        "concept_name": "比电容",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "specific capacitance"
+        }
+    },
+    {
+        "concept_name": "气[体]敏感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "gas sensor"
+        }
+    },
+    {
+        "concept_name": "浪涌电压",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "surge voltage"
+        }
+    },
+    {
+        "concept_name": "浪涌电流",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "surge current"
+        }
+    },
+    {
+        "concept_name": "温度敏感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "temperature sensor"
+        }
+    },
+    {
+        "concept_name": "温度补偿电容器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "temperature compensating capacitor"
+        }
+    },
+    {
+        "concept_name": "湿[度]敏感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "humidity sensor"
+        }
+    },
+    {
+        "concept_name": "滤波电容器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "filtering capacitor"
+        }
+    },
+    {
+        "concept_name": "漏感",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "leakage inductance"
+        }
+    },
+    {
+        "concept_name": "灯丝变压器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "filament transformer"
+        }
+    },
+    {
+        "concept_name": "灵巧敏感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "smart sensor"
+        }
+    },
+    {
+        "concept_name": "热敏电阻",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "thermistor"
+        }
+    },
+    {
+        "concept_name": "熔断电阻器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "fusing resistor"
+        }
+    },
+    {
+        "concept_name": "片式元件",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "chip component"
+        }
+    },
+    {
+        "concept_name": "片式电容器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "chip capacitor"
+        }
+    },
+    {
+        "concept_name": "片式电感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "chip inductor"
+        }
+    },
+    {
+        "concept_name": "片式电阻器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "chip resistor"
+        }
+    },
+    {
+        "concept_name": "物理敏感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "physical sensor"
+        }
+    },
+    {
+        "concept_name": "独石陶瓷电容器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "monolithic ceramic capacitor"
+        }
+    },
+    {
+        "concept_name": "生物敏感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "biosensor"
+        }
+    },
+    {
+        "concept_name": "电位器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "potentiometer"
+        }
+    },
+    {
+        "concept_name": "电压敏感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "voltage sensor"
+        }
+    },
+    {
+        "concept_name": "电容器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "capacitor"
+        }
+    },
+    {
+        "concept_name": "电容量允差",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "capacitance tolerance"
+        }
+    },
+    {
+        "concept_name": "电感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "inductor"
+        }
+    },
+    {
+        "concept_name": "电抗器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "reactor"
+        }
+    },
+    {
+        "concept_name": "电源变压器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "power transformer"
+        }
+    },
+    {
+        "concept_name": "电解电容器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "electrolytic capacitor"
+        }
+    },
+    {
+        "concept_name": "电阻器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "resistor"
+        }
+    },
+    {
+        "concept_name": "直滑电位器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "linear sliding potentiometer"
+        }
+    },
+    {
+        "concept_name": "真空电容器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "vacuum capacitor"
+        }
+    },
+    {
+        "concept_name": "碳膜电阻器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "carbon film resistor"
+        }
+    },
+    {
+        "concept_name": "磁尺",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "magnescale"
+        }
+    },
+    {
+        "concept_name": "磁敏感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "magnetic sensor"
+        }
+    },
+    {
+        "concept_name": "离子敏场效晶体管",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "英文": "ion sensitive FET ;ISFET",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ion sensitive FET"
+        }
+    },
+    {
+        "concept_name": "离子敏感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ion sensor"
+        }
+    },
+    {
+        "concept_name": "稳压变压器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "voltage stabilizing transformer"
+        }
+    },
+    {
+        "concept_name": "穿心电容器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "feed-through capacitor"
+        }
+    },
+    {
+        "concept_name": "类别电压",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "category voltage"
+        }
+    },
+    {
+        "concept_name": "精密电位器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "precision potentiometer"
+        }
+    },
+    {
+        "concept_name": "精密电阻器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "precision resistor"
+        }
+    },
+    {
+        "concept_name": "纹波电压",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ripple voltage"
+        }
+    },
+    {
+        "concept_name": "纹波电流",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ripple current"
+        }
+    },
+    {
+        "concept_name": "线间变压器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "line transformer"
+        }
+    },
+    {
+        "concept_name": "结构式传感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "structural type transducer"
+        }
+    },
+    {
+        "concept_name": "耦合电容器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "coupling capacitor"
+        }
+    },
+    {
+        "concept_name": "脉冲变压器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "pulse transformer"
+        }
+    },
+    {
+        "concept_name": "脉冲电容器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "pulse capacitor"
+        }
+    },
+    {
+        "concept_name": "膜电阻",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "film resistance"
+        }
+    },
+    {
+        "concept_name": "自感",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "self inductance"
+        }
+    },
+    {
+        "concept_name": "自耦变压器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "autotransformer"
+        }
+    },
+    {
+        "concept_name": "薄膜电感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "film inductor"
+        }
+    },
+    {
+        "concept_name": "螺旋电位器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "helical potentiometer"
+        }
+    },
+    {
+        "concept_name": "行输出变压器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "line output transformer"
+        }
+    },
+    {
+        "concept_name": "表面安装元件",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "surface mounted component"
+        }
+    },
+    {
+        "concept_name": "表面安装器件",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "surface mounted device"
+        }
+    },
+    {
+        "concept_name": "表面安装电感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "surface mounting inductor"
+        }
+    },
+    {
+        "concept_name": "调压器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "voltage regulator"
+        }
+    },
+    {
+        "concept_name": "调压自耦变压器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "regulating autotransformer"
+        }
+    },
+    {
+        "concept_name": "转换器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "transducer"
+        }
+    },
+    {
+        "concept_name": "辐射传感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "radiation transducer"
+        }
+    },
+    {
+        "concept_name": "边缘效应",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "edge effect"
+        }
+    },
+    {
+        "concept_name": "酶敏感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "enzyme sensor"
+        }
+    },
+    {
+        "concept_name": "酶电极",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "enzyme electrode"
+        }
+    },
+    {
+        "concept_name": "金属化纸介电容器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "metalized paper capacitor"
+        }
+    },
+    {
+        "concept_name": "金属玻璃釉电位器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "metal glaze potentiometer"
+        }
+    },
+    {
+        "concept_name": "金属玻璃釉电阻器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "metal glaze resistor"
+        }
+    },
+    {
+        "concept_name": "金属膜电位器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "metal film potentiometer"
+        }
+    },
+    {
+        "concept_name": "金属膜电阻器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "metal film resistor"
+        }
+    },
+    {
+        "concept_name": "铝电解电容器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "aluminium electrolytic capacitor"
+        }
+    },
+    {
+        "concept_name": "阻值允差",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "resistance tolerance"
+        }
+    },
+    {
+        "concept_name": "阻值微调",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "resistance trimming"
+        }
+    },
+    {
+        "concept_name": "阻抗匹配变压器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "impedance matching transformer"
+        }
+    },
+    {
+        "concept_name": "降负荷曲线",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "derating curve"
+        }
+    },
+    {
+        "concept_name": "陶瓷敏感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ceramic sensor"
+        }
+    },
+    {
+        "concept_name": "陶瓷电容器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "ceramic capacitor"
+        }
+    },
+    {
+        "concept_name": "隔直流电容器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "又称": " 隔离电容器",
+            "见载": "《电子学名词》第一版",
+            "英文名": "blocking capacitor"
+        }
+    },
+    {
+        "concept_name": "隔离变压器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "isolating transformer"
+        }
+    },
+    {
+        "concept_name": "集成敏感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "integrated sensor"
+        }
+    },
+    {
+        "concept_name": "集成电感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "integrated inductor"
+        }
+    },
+    {
+        "concept_name": "霍耳效应器件",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "Hall-effect device"
+        }
+    },
+    {
+        "concept_name": "非线绕电位器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "non-wire wound potentiometer"
+        }
+    },
+    {
+        "concept_name": "音频变压器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "audio frequency transformer"
+        }
+    },
+    {
+        "concept_name": "预调电容器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "pre-set capacitor"
+        }
+    },
+    {
+        "concept_name": "额定电压",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "rated voltage"
+        }
+    },
+    {
+        "concept_name": "饱和电抗器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "saturable reactor"
+        }
+    },
+    {
+        "concept_name": "高Q电感器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "high Q inductor"
+        }
+    },
+    {
+        "concept_name": "高压电阻器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "high voltage resistor"
+        }
+    },
+    {
+        "concept_name": "高频变压器",
+        "details": {
+            "学科": "电子学_电阻、电容、电感及敏感元",
+            "见载": "《电子学名词》第一版",
+            "英文名": "high frequency transformer"
+        }
+    }
+]

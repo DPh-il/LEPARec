@@ -1,0 +1,571 @@
+[
+    {
+        "concept_name": "0+",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "zero-dagger"
+        }
+    },
+    {
+        "concept_name": "不可达基数",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "inaccessible cardinal"
+        }
+    },
+    {
+        "concept_name": "世传可数[的]",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "hereditarily countable"
+        }
+    },
+    {
+        "concept_name": "世传有穷集",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "hereditarily finite set"
+        }
+    },
+    {
+        "concept_name": "佐恩引理",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "Zorn lemma"
+        }
+    },
+    {
+        "concept_name": "公理化集合论",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "axiomatic set theory"
+        }
+    },
+    {
+        "concept_name": "共尾子集",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "cofinal subset"
+        }
+    },
+    {
+        "concept_name": "共尾性",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "cofinality"
+        }
+    },
+    {
+        "concept_name": "分支类型论",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "ramified theory of types"
+        }
+    },
+    {
+        "concept_name": "初始序数",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "initial ordinal"
+        }
+    },
+    {
+        "concept_name": "初始段",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "initial segment"
+        }
+    },
+    {
+        "concept_name": "初步集[合]",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "rudimentary set"
+        }
+    },
+    {
+        "concept_name": "力迫关系",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "forcing relation"
+        }
+    },
+    {
+        "concept_name": "力迫条件",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "forcing condition"
+        }
+    },
+    {
+        "concept_name": "力迫法",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "forcing method"
+        }
+    },
+    {
+        "concept_name": "可构成[的]",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "constructible"
+        }
+    },
+    {
+        "concept_name": "可构成壳",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "constructible hull"
+        }
+    },
+    {
+        "concept_name": "可构成性",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "constructibility"
+        }
+    },
+    {
+        "concept_name": "可测基数",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "measurable cardinal"
+        }
+    },
+    {
+        "concept_name": "可达性",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "accessibility"
+        }
+    },
+    {
+        "concept_name": "外延性",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "extensionality"
+        }
+    },
+    {
+        "concept_name": "大基数",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "large cardinals"
+        }
+    },
+    {
+        "concept_name": "奇异基数",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "singular cardinal"
+        }
+    },
+    {
+        "concept_name": "奇异序数",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "singular ordinal"
+        }
+    },
+    {
+        "concept_name": "对角线方法",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "diagonal argument"
+        }
+    },
+    {
+        "concept_name": "尾段",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "final segment"
+        }
+    },
+    {
+        "concept_name": "平稳集[合]",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "stationary set"
+        }
+    },
+    {
+        "concept_name": "广义连续统假设",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "generalized continuum hypothesis"
+        }
+    },
+    {
+        "concept_name": "序数",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "ordinal"
+        }
+    },
+    {
+        "concept_name": "序数可定义[的]",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "ordinal-definable"
+        }
+    },
+    {
+        "concept_name": "序数和",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "ordinal sum"
+        }
+    },
+    {
+        "concept_name": "序数幂",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "ordinal power"
+        }
+    },
+    {
+        "concept_name": "序数积",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "ordinal product"
+        }
+    },
+    {
+        "concept_name": "归纳定义",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "definition by induction"
+        }
+    },
+    {
+        "concept_name": "归纳序集",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "inductive ordered set"
+        }
+    },
+    {
+        "concept_name": "投影确定性",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "projective determinacy"
+        }
+    },
+    {
+        "concept_name": "描述集合论",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "descriptive set theory"
+        }
+    },
+    {
+        "concept_name": "有向集",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "directed set"
+        }
+    },
+    {
+        "concept_name": "本元",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "urelement"
+        }
+    },
+    {
+        "concept_name": "朴素集合论",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "naive set theory"
+        }
+    },
+    {
+        "concept_name": "极限序数",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "limit ordinal number"
+        }
+    },
+    {
+        "concept_name": "构造序数",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "constructive ordinals"
+        }
+    },
+    {
+        "concept_name": "构造性定义",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "constructive definition"
+        }
+    },
+    {
+        "concept_name": "概括公理",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "comprehension axiom"
+        }
+    },
+    {
+        "concept_name": "正则公理",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "regularity axiom"
+        }
+    },
+    {
+        "concept_name": "正则基数",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "regularity cardinal"
+        }
+    },
+    {
+        "concept_name": "正则集",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "regular set"
+        }
+    },
+    {
+        "concept_name": "正常力迫",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "proper forcing"
+        }
+    },
+    {
+        "concept_name": "直谓集合论",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "predicative set theory"
+        }
+    },
+    {
+        "concept_name": "确定性",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "determinacy"
+        }
+    },
+    {
+        "concept_name": "第一超穷序数",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "first transfinite ordinal"
+        }
+    },
+    {
+        "concept_name": "策梅洛-弗兰克尔集合论",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "简称": " Z-F集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "Zermelo-Frankel set theory"
+        }
+    },
+    {
+        "concept_name": "精细结构",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "fine structure"
+        }
+    },
+    {
+        "concept_name": "绝对性",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "absoluteness"
+        }
+    },
+    {
+        "concept_name": "聚合",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "conglomerate"
+        }
+    },
+    {
+        "concept_name": "脱殊集",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "generic set"
+        }
+    },
+    {
+        "concept_name": "良序[的]",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "well-ordered"
+        }
+    },
+    {
+        "concept_name": "良序原则",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "well-ordering principle"
+        }
+    },
+    {
+        "concept_name": "良序集[合]",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "well-ordered set"
+        }
+    },
+    {
+        "concept_name": "苏斯林树",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "Suslin tree"
+        }
+    },
+    {
+        "concept_name": "超穷序数",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "transfinite ordinal"
+        }
+    },
+    {
+        "concept_name": "超穷归纳定义",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "definition by transfinite induction"
+        }
+    },
+    {
+        "concept_name": "超穷归纳法",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "transfinite induction"
+        }
+    },
+    {
+        "concept_name": "连续统",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "continuum"
+        }
+    },
+    {
+        "concept_name": "连续统假设",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "continuum hypothesis"
+        }
+    },
+    {
+        "concept_name": "选择公理",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "axiom of choice"
+        }
+    },
+    {
+        "concept_name": "选择函数",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "choice function"
+        }
+    },
+    {
+        "concept_name": "隶属关系",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "membership"
+        }
+    },
+    {
+        "concept_name": "集合论",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "set theory"
+        }
+    },
+    {
+        "concept_name": "非直谓集合论",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "impredicative set theory"
+        }
+    },
+    {
+        "concept_name": "马洛基数",
+        "details": {
+            "学科": "数学_数理逻辑、数学基础_集合论",
+            "见载": "《数学名词》第一版",
+            "英文名": "Mahlo cardinal"
+        }
+    }
+]

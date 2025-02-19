@@ -1,0 +1,264 @@
+[
+    {
+        "concept_name": "分析解",
+        "details": {
+            "学科": "数学_数值分析_数值分析基本概念",
+            "又称": " 解析解",
+            "见载": "《数学名词》第一版",
+            "英文名": "analytic solution"
+        }
+    },
+    {
+        "concept_name": "单[字长]精度",
+        "details": {
+            "学科": "数学_数值分析_数值分析基本概念",
+            "见载": "《数学名词》第一版",
+            "英文名": "single precision"
+        }
+    },
+    {
+        "concept_name": "双[字长]精度",
+        "details": {
+            "学科": "数学_数值分析_数值分析基本概念",
+            "见载": "《数学名词》第一版",
+            "英文名": "double precision"
+        }
+    },
+    {
+        "concept_name": "多[字长]精度",
+        "details": {
+            "学科": "数学_数值分析_数值分析基本概念",
+            "见载": "《数学名词》第一版",
+            "英文名": "multiprecision"
+        }
+    },
+    {
+        "concept_name": "字长",
+        "details": {
+            "学科": "数学_数值分析_数值分析基本概念",
+            "见载": "《数学名词》第一版",
+            "英文名": "word length"
+        }
+    },
+    {
+        "concept_name": "定点数",
+        "details": {
+            "学科": "数学_数值分析_数值分析基本概念",
+            "见载": "《数学名词》第一版",
+            "英文名": "fixed-point number"
+        }
+    },
+    {
+        "concept_name": "定点运算",
+        "details": {
+            "学科": "数学_数值分析_数值分析基本概念",
+            "见载": "《数学名词》第一版",
+            "英文名": "fixed-point arithmetic"
+        }
+    },
+    {
+        "concept_name": "数值不稳定性",
+        "details": {
+            "学科": "数学_数值分析_数值分析基本概念",
+            "见载": "《数学名词》第一版",
+            "英文名": "numerical instability"
+        }
+    },
+    {
+        "concept_name": "数值分析",
+        "details": {
+            "学科": "数学_数值分析_数值分析基本概念",
+            "见载": "《数学名词》第一版",
+            "英文名": "numerical analysis"
+        }
+    },
+    {
+        "concept_name": "数值方法",
+        "details": {
+            "学科": "数学_数值分析_数值分析基本概念",
+            "见载": "《数学名词》第一版",
+            "英文名": "numerical method"
+        }
+    },
+    {
+        "concept_name": "数值模拟",
+        "details": {
+            "学科": "数学_数值分析_数值分析基本概念",
+            "见载": "《数学名词》第一版",
+            "英文名": "numerical simulation"
+        }
+    },
+    {
+        "concept_name": "数值稳定性",
+        "details": {
+            "学科": "数学_数值分析_数值分析基本概念",
+            "见载": "《数学名词》第一版",
+            "英文名": "numerical stability"
+        }
+    },
+    {
+        "concept_name": "数值解",
+        "details": {
+            "学科": "数学_数值分析_数值分析基本概念",
+            "见载": "《数学名词》第一版",
+            "英文名": "numerical solution"
+        }
+    },
+    {
+        "concept_name": "数值计算",
+        "details": {
+            "学科": "数学_数值分析_数值分析基本概念",
+            "见载": "《数学名词》第一版",
+            "英文名": "numerical calculation"
+        }
+    },
+    {
+        "concept_name": "浮点数",
+        "details": {
+            "学科": "数学_数值分析_数值分析基本概念",
+            "见载": "《数学名词》第一版",
+            "英文名": "floating-point number"
+        }
+    },
+    {
+        "concept_name": "浮点运算",
+        "details": {
+            "学科": "数学_数值分析_数值分析基本概念",
+            "见载": "《数学名词》第一版",
+            "英文名": "floating-point arithmetic"
+        }
+    },
+    {
+        "concept_name": "瑞特-吴方法",
+        "details": {
+            "学科": "数学_数值分析_数值分析基本概念",
+            "见载": "《数学名词》第一版",
+            "英文名": "Ritt-Wu method"
+        }
+    },
+    {
+        "concept_name": "离散值函数",
+        "details": {
+            "学科": "数学_数值分析_数值分析基本概念",
+            "见载": "《数学名词》第一版",
+            "英文名": "discrete－valued function"
+        }
+    },
+    {
+        "concept_name": "离散化",
+        "details": {
+            "学科": "数学_数值分析_数值分析基本概念",
+            "见载": "《数学名词》第一版",
+            "英文名": "discretization"
+        }
+    },
+    {
+        "concept_name": "离散化途径",
+        "details": {
+            "学科": "数学_数值分析_数值分析基本概念",
+            "见载": "《数学名词》第一版",
+            "英文名": "discretization approach"
+        }
+    },
+    {
+        "concept_name": "离散模型",
+        "details": {
+            "学科": "数学_数值分析_数值分析基本概念",
+            "见载": "《数学名词》第一版",
+            "英文名": "discrete model"
+        }
+    },
+    {
+        "concept_name": "离散模拟",
+        "details": {
+            "学科": "数学_数值分析_数值分析基本概念",
+            "见载": "《数学名词》第一版",
+            "英文名": "discrete analog"
+        }
+    },
+    {
+        "concept_name": "离散解",
+        "details": {
+            "学科": "数学_数值分析_数值分析基本概念",
+            "见载": "《数学名词》第一版",
+            "英文名": "discrete solution"
+        }
+    },
+    {
+        "concept_name": "符号计算",
+        "details": {
+            "学科": "数学_数值分析_数值分析基本概念",
+            "见载": "《数学名词》第一版",
+            "英文名": "symbol computation"
+        }
+    },
+    {
+        "concept_name": "算法",
+        "details": {
+            "学科": "数学_数值分析_数值分析基本概念",
+            "见载": "《数学名词》第一版",
+            "英文名": "algorithm",
+            "prerequisite": [
+                "K_迭代循环_数学",
+                "K_迭代循环_数学",
+                "K_排序问题_数学",
+                "K_树算法_数学",
+                "K_阶乘_数学",
+                "K_计算效率_数学",
+                "K_树算法_数学",
+                "K_递归函数_数学",
+                "K_有根树_数学",
+                "K_计算效率_数学"
+            ]
+        }
+    },
+    {
+        "concept_name": "精[确]度",
+        "details": {
+            "学科": "数学_数值分析_数值分析基本概念",
+            "见载": "《数学名词》第一版",
+            "英文名": "accuracy"
+        }
+    },
+    {
+        "concept_name": "精确解",
+        "details": {
+            "学科": "数学_数值分析_数值分析基本概念",
+            "见载": "《数学名词》第一版",
+            "英文名": "exact solution"
+        }
+    },
+    {
+        "concept_name": "舍入",
+        "details": {
+            "学科": "数学_数值分析_数值分析基本概念",
+            "英文": "rounding off ;roundoff",
+            "见载": "《数学名词》第一版",
+            "英文名": "rounding off"
+        }
+    },
+    {
+        "concept_name": "计算[的]不稳定性",
+        "details": {
+            "学科": "数学_数值分析_数值分析基本概念",
+            "见载": "《数学名词》第一版",
+            "英文名": "computational instability"
+        }
+    },
+    {
+        "concept_name": "计算方法",
+        "details": {
+            "学科": "数学_数值分析_数值分析基本概念",
+            "见载": "《数学名词》第一版",
+            "英文名": "computing method"
+        }
+    },
+    {
+        "concept_name": "近似解",
+        "details": {
+            "学科": "数学_数值分析_数值分析基本概念",
+            "见载": "《数学名词》第一版",
+            "英文名": "approximate solution"
+        }
+    }
+]

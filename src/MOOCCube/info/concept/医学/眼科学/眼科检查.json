@@ -1,0 +1,1712 @@
+[
+    {
+        "concept_name": "[眼]眶动脉造影[术]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "orbital arteriography"
+        }
+    },
+    {
+        "concept_name": "[眼]眶放射照相[术]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "radiography of orbit"
+        }
+    },
+    {
+        "concept_name": "[眼]眶血管造影[术]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "orbital angiography"
+        }
+    },
+    {
+        "concept_name": "[眼]眶造影[术]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "orbitography"
+        }
+    },
+    {
+        "concept_name": "[眼]眶静脉造影[术]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "orbital venography"
+        }
+    },
+    {
+        "concept_name": "上偏盲",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "upper hemianopsia"
+        }
+    },
+    {
+        "concept_name": "中央凹反射",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "曾称": " 中心反射",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "foveal reflex"
+        }
+    },
+    {
+        "concept_name": "中心暗点",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "central scotoma"
+        }
+    },
+    {
+        "concept_name": "交替遮盖试验",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "alternative cover test"
+        }
+    },
+    {
+        "concept_name": "光感",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "light perception"
+        }
+    },
+    {
+        "concept_name": "光觉检查[法]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "examination of light sense"
+        }
+    },
+    {
+        "concept_name": "内眼检查[法]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "曾称": " 眼内部检查法",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "examination of internal eye"
+        }
+    },
+    {
+        "concept_name": "前房角镜",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "gonioscope"
+        }
+    },
+    {
+        "concept_name": "前房角镜检查[法]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "gonioscopy"
+        }
+    },
+    {
+        "concept_name": "动态检影[法]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "dynamic retinoscopy"
+        }
+    },
+    {
+        "concept_name": "动态视野检查[法]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "dynamic perimetry"
+        }
+    },
+    {
+        "concept_name": "半球形视野计",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "hemispherical perimeter"
+        }
+    },
+    {
+        "concept_name": "单眼视力",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "monocular vision"
+        }
+    },
+    {
+        "concept_name": "压平眼压计",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "applanation tonometer"
+        }
+    },
+    {
+        "concept_name": "压陷眼压计",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "impression tonometer"
+        }
+    },
+    {
+        "concept_name": "双目间接检眼镜",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "曾称": " 双眼间接检眼镜",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "binocular indirect ophthalmoscope"
+        }
+    },
+    {
+        "concept_name": "双眼单视界曲线",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "horopter-curve"
+        }
+    },
+    {
+        "concept_name": "双眼视力",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "binocular vision"
+        }
+    },
+    {
+        "concept_name": "双闪光视网膜电图",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "曾称": " 双光视网膜电图",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "double flash electroretinogram"
+        }
+    },
+    {
+        "concept_name": "双颞侧偏盲",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "bitemporal hemianopsia"
+        }
+    },
+    {
+        "concept_name": "后部反光照明法",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "retro-illumination"
+        }
+    },
+    {
+        "concept_name": "周边视野",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "peripheral visual field"
+        }
+    },
+    {
+        "concept_name": "图像视网膜电图",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "pattern electroretinogram"
+        }
+    },
+    {
+        "concept_name": "图像视觉诱发电位",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "pattern visual evoked potential"
+        }
+    },
+    {
+        "concept_name": "图形视野检查[法]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "pattern form perimetry"
+        }
+    },
+    {
+        "concept_name": "外眼检查[法]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "曾称": " 眼外部检查法",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "examination of external eye"
+        }
+    },
+    {
+        "concept_name": "对比敏感度",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "contrast sensitivity"
+        }
+    },
+    {
+        "concept_name": "对比敏感度函数",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "contrast sensitivity function"
+        }
+    },
+    {
+        "concept_name": "局部视网膜电图",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "local electroretinogram"
+        }
+    },
+    {
+        "concept_name": "屈光检查[法]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "examination of refraction"
+        }
+    },
+    {
+        "concept_name": "希厄茨眼压计",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "Schi鰐z tonometer"
+        }
+    },
+    {
+        "concept_name": "带状光检影镜",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "曾称": " 条带检影镜",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "streak retinoscope"
+        }
+    },
+    {
+        "concept_name": "平面检影镜",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "plane retinoscope"
+        }
+    },
+    {
+        "concept_name": "平面视野计",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "campimeter"
+        }
+    },
+    {
+        "concept_name": "异常荧光",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "abnormal fluorescence"
+        }
+    },
+    {
+        "concept_name": "弥散光线照明法",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "diffuse illumination"
+        }
+    },
+    {
+        "concept_name": "弧形暗点",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "arcuate scotoma"
+        }
+    },
+    {
+        "concept_name": "弧形视野计",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "arc perimeter"
+        }
+    },
+    {
+        "concept_name": "弧形视野计斜视测量[法]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "arc perimeter strabismometry"
+        }
+    },
+    {
+        "concept_name": "弱荧光",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "曾称": " 低荧光",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "hypofluorescence"
+        }
+    },
+    {
+        "concept_name": "形觉检查[法]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "examination of form sense"
+        }
+    },
+    {
+        "concept_name": "影像计",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "eikonometer"
+        }
+    },
+    {
+        "concept_name": "房水流畅系数",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "coefficient of outflow facility"
+        }
+    },
+    {
+        "concept_name": "房水闪光",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "英文": "aqueous flare ;Tyndall phenomenon",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "aqueous flare"
+        }
+    },
+    {
+        "concept_name": "手持视野计",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "hand held perimeter"
+        }
+    },
+    {
+        "concept_name": "投影视野计",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "projection perimeter"
+        }
+    },
+    {
+        "concept_name": "指触眼压测量[法]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "曾称": " 指压法",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "digital tonometry"
+        }
+    },
+    {
+        "concept_name": "振荡电位",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "oscillatory potential"
+        }
+    },
+    {
+        "concept_name": "散光带",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "astigmatic band"
+        }
+    },
+    {
+        "concept_name": "散光表",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "astigmatic chart"
+        }
+    },
+    {
+        "concept_name": "散瞳试验",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "mydriasis test"
+        }
+    },
+    {
+        "concept_name": "数指",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "曾称": " 指数",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "counting fingers"
+        }
+    },
+    {
+        "concept_name": "斜视眼",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "squinting eye"
+        }
+    },
+    {
+        "concept_name": "斜视角",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "angle of strabismus"
+        }
+    },
+    {
+        "concept_name": "斜视角测量[法]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "strabismometry"
+        }
+    },
+    {
+        "concept_name": "斜视计",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "strabismometer"
+        }
+    },
+    {
+        "concept_name": "旁中心暗点",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "paracentral scotoma"
+        }
+    },
+    {
+        "concept_name": "旁中心视力",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "paracentral vision"
+        }
+    },
+    {
+        "concept_name": "早感受器电位",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "early receptor potential"
+        }
+    },
+    {
+        "concept_name": "早期充盈",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "early filling"
+        }
+    },
+    {
+        "concept_name": "明视视网膜电图",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "photopic electroretinogram"
+        }
+    },
+    {
+        "concept_name": "明适应",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "light adaptation"
+        }
+    },
+    {
+        "concept_name": "暗点",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "scotoma"
+        }
+    },
+    {
+        "concept_name": "暗视视网膜电图",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "scotopic electroretinogram"
+        }
+    },
+    {
+        "concept_name": "暗适应",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "dark adaptation"
+        }
+    },
+    {
+        "concept_name": "暗适应视网膜电图",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "dark adaptation electroretinogram"
+        }
+    },
+    {
+        "concept_name": "暗适应计",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "dark adaptometer"
+        }
+    },
+    {
+        "concept_name": "最小视角",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "minimum visual angle"
+        }
+    },
+    {
+        "concept_name": "杯盘比",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "cup-disc ratio"
+        }
+    },
+    {
+        "concept_name": "染料流畅试验",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "dye outflow test"
+        }
+    },
+    {
+        "concept_name": "标准对数视力表",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "standard logarithmic visual acuity chart"
+        }
+    },
+    {
+        "concept_name": "标准视力表",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "standard visual acuity chart"
+        }
+    },
+    {
+        "concept_name": "标准近视力表",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "standard near vision chart"
+        }
+    },
+    {
+        "concept_name": "检眼镜",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "英文": "ophthalmoscope ;Oph",
+            "曾称": " 眼底镜",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "ophthalmoscope"
+        }
+    },
+    {
+        "concept_name": "检眼镜检查[法]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "ophthalmoscopy"
+        }
+    },
+    {
+        "concept_name": "正常眼压",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "英文": "normal intraocular tension ;Tn",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "normal intraocular tension"
+        }
+    },
+    {
+        "concept_name": "比尔绍斯基征",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "Bielschowsky sign"
+        }
+    },
+    {
+        "concept_name": "比耶鲁姆暗点",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "Bjerrum scotoma"
+        }
+    },
+    {
+        "concept_name": "水平偏盲",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "horizontal hemianopsia"
+        }
+    },
+    {
+        "concept_name": "泪膜破裂时间",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "breakup time of tear film"
+        }
+    },
+    {
+        "concept_name": "浦肯野-桑松像",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "image of Purkinje-Sanson"
+        }
+    },
+    {
+        "concept_name": "激光扫描检眼镜",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "scanning laser ophthalmoscope"
+        }
+    },
+    {
+        "concept_name": "环形暗点",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "ring scotoma"
+        }
+    },
+    {
+        "concept_name": "盲点",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "blind spot"
+        }
+    },
+    {
+        "concept_name": "直接检眼镜",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "direct ophthalmoscope"
+        }
+    },
+    {
+        "concept_name": "直接焦点照明法",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "direct focal illumination"
+        }
+    },
+    {
+        "concept_name": "眶压测量法",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "orbitonometry"
+        }
+    },
+    {
+        "concept_name": "眶压计",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "orbitonometer"
+        }
+    },
+    {
+        "concept_name": "眼内异物定位[法]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "曾称": " 球内异物定位法",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "localization of intraocular foreign body"
+        }
+    },
+    {
+        "concept_name": "眼动眼电图",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "英文": "eye movement electro-oculogram ;EM-EOG",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "eye movement electro-oculogram"
+        }
+    },
+    {
+        "concept_name": "眼动脉压",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "英文": "ophthalmic arterial pressure ;OAP",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "ophthalmic arterial pressure"
+        }
+    },
+    {
+        "concept_name": "眼动脉造影[术]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "英文": "ocular angiography ;OAG",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "ocular angiography"
+        }
+    },
+    {
+        "concept_name": "眼压",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "英文": "intraocular tension ;intraocular pressure ;IOP",
+            "曾称": " 眼内压",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "intraocular tension"
+        }
+    },
+    {
+        "concept_name": "眼压测量[法]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "tonometry"
+        }
+    },
+    {
+        "concept_name": "眼压计",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "tonometer"
+        }
+    },
+    {
+        "concept_name": "眼压计标准化",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "standardization of tonometer"
+        }
+    },
+    {
+        "concept_name": "眼壁硬度",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "ocular rigidity"
+        }
+    },
+    {
+        "concept_name": "眼壁硬度系数",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "coefficient of ocular rigidity"
+        }
+    },
+    {
+        "concept_name": "眼底检查[法]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "examination of ocular fundus"
+        }
+    },
+    {
+        "concept_name": "眼心反射",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "英文": "oculocardiac reflex ;Aschner phenomenon",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "oculocardiac reflex"
+        }
+    },
+    {
+        "concept_name": "眼球容量",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "ocular volume"
+        }
+    },
+    {
+        "concept_name": "眼球突出测量[法]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "exophthalmometry"
+        }
+    },
+    {
+        "concept_name": "眼球突出计",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "简称": " 突眼计",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "exophthalmometer"
+        }
+    },
+    {
+        "concept_name": "眼球震颤电流[描记]图",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "electronystagmogram"
+        }
+    },
+    {
+        "concept_name": "眼球震颤电流描记[法]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "electronystagmography"
+        }
+    },
+    {
+        "concept_name": "眼球震颤电流描记仪",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "electronystagmograph"
+        }
+    },
+    {
+        "concept_name": "眼电图",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "英文": "electro-oculogram ;EOG",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "electro-oculogram"
+        }
+    },
+    {
+        "concept_name": "眼科照相[术]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "ophthalmic photography"
+        }
+    },
+    {
+        "concept_name": "眼超声[波]检查[法]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "ocular ultrasonography"
+        }
+    },
+    {
+        "concept_name": "眼金属反应检测[法]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "ophthalmometalloscopy"
+        }
+    },
+    {
+        "concept_name": "眼金属反应检测计",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "ophthalmometalloscope"
+        }
+    },
+    {
+        "concept_name": "眼镜架",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "spectacle frame"
+        }
+    },
+    {
+        "concept_name": "瞳孔距离",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "曾称": " 瞳间距",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "interpupillary distance"
+        }
+    },
+    {
+        "concept_name": "瞳孔距离测量尺",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "interpupillary distance rule"
+        }
+    },
+    {
+        "concept_name": "瞳孔距离计",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "英文": "interpupillary gauge ;pupillostatometer",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "interpupillary gauge"
+        }
+    },
+    {
+        "concept_name": "矢量眼电图",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "vector electro-oculogram"
+        }
+    },
+    {
+        "concept_name": "矫正屈光不正",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "correction of refractive errors"
+        }
+    },
+    {
+        "concept_name": "矫正视力",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "corrected vision"
+        }
+    },
+    {
+        "concept_name": "矫正镜片",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "correcting lens"
+        }
+    },
+    {
+        "concept_name": "示教检眼镜",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "demonstration ophthalmoscope"
+        }
+    },
+    {
+        "concept_name": "等视线",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "visual isopter"
+        }
+    },
+    {
+        "concept_name": "紫色盲",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "anianthynopsy"
+        }
+    },
+    {
+        "concept_name": "红绿色盲",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "anerythrochloropsia"
+        }
+    },
+    {
+        "concept_name": "红色盲",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "protanopsia"
+        }
+    },
+    {
+        "concept_name": "绝对暗点",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "absolute scotoma"
+        }
+    },
+    {
+        "concept_name": "绝对视野",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "absolute visual field"
+        }
+    },
+    {
+        "concept_name": "绿色盲",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "deuteranopsia"
+        }
+    },
+    {
+        "concept_name": "臂-视网膜循环时间",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "英文": "arm-retinal circulation time ;A-RCT",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "arm-retinal circulation time"
+        }
+    },
+    {
+        "concept_name": "自动定量视野检查[法]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "automatic quantitative perimetry"
+        }
+    },
+    {
+        "concept_name": "自动定量视野计",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "automatic quantitative perimeter"
+        }
+    },
+    {
+        "concept_name": "自动验光仪",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "auto-refractomer"
+        }
+    },
+    {
+        "concept_name": "自身荧光",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "曾称": " 自发荧光",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "autofluorescence"
+        }
+    },
+    {
+        "concept_name": "色盲检查镜",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "anomaloscope"
+        }
+    },
+    {
+        "concept_name": "色视野",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "color visual field"
+        }
+    },
+    {
+        "concept_name": "色觉检查[法]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "examination of color sense"
+        }
+    },
+    {
+        "concept_name": "荧光素充盈",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "fluorescein filling"
+        }
+    },
+    {
+        "concept_name": "荧光素眼底血管造影[术]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "曾称": " 荧光眼底血管造影术(fluorescence fundus angiography)",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "fundus fluorescein angiography"
+        }
+    },
+    {
+        "concept_name": "蓝色盲",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "tritanopsia"
+        }
+    },
+    {
+        "concept_name": "虚性暗点",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "negative scotoma"
+        }
+    },
+    {
+        "concept_name": "虹膜投影",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "iris shadow"
+        }
+    },
+    {
+        "concept_name": "虹膜血管造影[术]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "iris angiography"
+        }
+    },
+    {
+        "concept_name": "虹膜震颤",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "曾称": " 虹膜震荡",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "iridodonesis"
+        }
+    },
+    {
+        "concept_name": "血管暗点",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "angioscotoma"
+        }
+    },
+    {
+        "concept_name": "裂隙灯检查[法]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "slit-lamp examination"
+        }
+    },
+    {
+        "concept_name": "视力",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "英文": "visual acuity ;VA ;vision ;V",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "visual acuity"
+        }
+    },
+    {
+        "concept_name": "视力检查[法]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "examination of visual acuity"
+        }
+    },
+    {
+        "concept_name": "视力表",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "visual acuity chart"
+        }
+    },
+    {
+        "concept_name": "视网膜动脉压",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "retinal arterial pressure"
+        }
+    },
+    {
+        "concept_name": "视网膜电图",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "electroretinogram"
+        }
+    },
+    {
+        "concept_name": "视网膜血压测量[法]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "英文": "ophthalmodynamometry ;ODM",
+            "曾称": " 视网膜动脉压测定法",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "ophthalmodynamometry"
+        }
+    },
+    {
+        "concept_name": "视网膜血压计",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "曾称": " 视网膜动脉血压计",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "ophthalmodynamometer"
+        }
+    },
+    {
+        "concept_name": "视网膜静脉压",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "retinal venous pressure"
+        }
+    },
+    {
+        "concept_name": "视觉分辨力",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "optic resolving power"
+        }
+    },
+    {
+        "concept_name": "视觉电生理检查[法]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "examination of visual electrophysiology"
+        }
+    },
+    {
+        "concept_name": "视觉眼电图",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "visual electro-oculogram"
+        }
+    },
+    {
+        "concept_name": "视觉诱发电位",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "又称": " 视觉诱发反应",
+            "曾称": " 视诱发电位",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "visual evoked potential"
+        }
+    },
+    {
+        "concept_name": "视角",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "visual angle"
+        }
+    },
+    {
+        "concept_name": "视野分析仪",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "visual field analyser"
+        }
+    },
+    {
+        "concept_name": "视野岛",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "visual island"
+        }
+    },
+    {
+        "concept_name": "视野检查[法]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "perimetry"
+        }
+    },
+    {
+        "concept_name": "视野计",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "perimeter"
+        }
+    },
+    {
+        "concept_name": "角巩膜缘分光照明法",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "corneoscleral scatter illumination"
+        }
+    },
+    {
+        "concept_name": "角膜内皮显微镜",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "specular microscope"
+        }
+    },
+    {
+        "concept_name": "角膜反光点法",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "corneal reflection method"
+        }
+    },
+    {
+        "concept_name": "角膜地形图",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "corneal topography"
+        }
+    },
+    {
+        "concept_name": "角膜地形图检测仪",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "corneal topographic device"
+        }
+    },
+    {
+        "concept_name": "角膜镜",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "keratoscope"
+        }
+    },
+    {
+        "concept_name": "试镜片",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "trial lens"
+        }
+    },
+    {
+        "concept_name": "调节计",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "accommodatometer"
+        }
+    },
+    {
+        "concept_name": "贝尔现象",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "Bell phenomenon"
+        }
+    },
+    {
+        "concept_name": "赛德尔暗点",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "Seidel scotoma"
+        }
+    },
+    {
+        "concept_name": "赫鲁比前置镜",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "Hruby preset lens"
+        }
+    },
+    {
+        "concept_name": "近视力检查[法]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "examination of near vision"
+        }
+    },
+    {
+        "concept_name": "远视力",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "distant vision"
+        }
+    },
+    {
+        "concept_name": "远视力检查[法]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "examination of distant vision"
+        }
+    },
+    {
+        "concept_name": "迟缓充盈",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "曾称": " 充盈迟缓",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "delayed filling"
+        }
+    },
+    {
+        "concept_name": "逆动",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "against movement"
+        }
+    },
+    {
+        "concept_name": "透照法",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "曾称": " 彻照法",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "transillumination"
+        }
+    },
+    {
+        "concept_name": "遮盖-不遮盖试验",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "cover-uncover test"
+        }
+    },
+    {
+        "concept_name": "遮盖片",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "opaque disk"
+        }
+    },
+    {
+        "concept_name": "遮盖试验",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "cover test"
+        }
+    },
+    {
+        "concept_name": "针孔片",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "曾称": " 小孔片",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "pinhole disk"
+        }
+    },
+    {
+        "concept_name": "镜片计",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "lensometer"
+        }
+    },
+    {
+        "concept_name": "镜面反射带照明法",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "zone of specular reflection"
+        }
+    },
+    {
+        "concept_name": "闪光视网膜电图",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "flash electroretinogram"
+        }
+    },
+    {
+        "concept_name": "闪光视觉诱发电位",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "flash visual evoked potential"
+        }
+    },
+    {
+        "concept_name": "闪烁视网膜电图",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "flicker electroretinogram"
+        }
+    },
+    {
+        "concept_name": "间接检眼镜",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "indirect ophthalmoscope"
+        }
+    },
+    {
+        "concept_name": "间接照明法",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "indirect illumination"
+        }
+    },
+    {
+        "concept_name": "阿姆斯勒方格表",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "Amsler grid"
+        }
+    },
+    {
+        "concept_name": "隐斜测量计",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "phorometer"
+        }
+    },
+    {
+        "concept_name": "雾视法",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "fogging method"
+        }
+    },
+    {
+        "concept_name": "静态检影[法]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "static retinoscopy"
+        }
+    },
+    {
+        "concept_name": "静态视野检查[法]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "static perimetry"
+        }
+    },
+    {
+        "concept_name": "静态视野计",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "static perimeter"
+        }
+    },
+    {
+        "concept_name": "非接触式眼压计",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "non-contact tonometer"
+        }
+    },
+    {
+        "concept_name": "面对面视野检查[法]",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "曾称": " 对照法",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "confrontation method"
+        }
+    },
+    {
+        "concept_name": "颞侧偏盲",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "temporal hemianopsia"
+        }
+    },
+    {
+        "concept_name": "饮水试验",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "water drinking test"
+        }
+    },
+    {
+        "concept_name": "马克拉科夫压平眼压计",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "Maklakoff applanation tonometer"
+        }
+    },
+    {
+        "concept_name": "黄斑光应力试验",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "macular photostress test"
+        }
+    },
+    {
+        "concept_name": "黄色盲",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "axanthopsia"
+        }
+    },
+    {
+        "concept_name": "黄蓝色盲",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "axanthocyanopsia"
+        }
+    },
+    {
+        "concept_name": "鼻侧偏盲",
+        "details": {
+            "学科": "医学_眼科学_眼科检查",
+            "见载": "《医学名词 第五分册》第一版",
+            "英文名": "nasal hemianopsia"
+        }
+    }
+]

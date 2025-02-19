@@ -1,0 +1,1315 @@
+[
+    {
+        "concept_name": "不对称联体儿",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "asymmetric conjoined twins"
+        }
+    },
+    {
+        "concept_name": "中肠扭转",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "midgut volvulus"
+        }
+    },
+    {
+        "concept_name": "会阴肛门成形术",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "perineal anoplasty"
+        }
+    },
+    {
+        "concept_name": "侧联体",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "lateropagus"
+        }
+    },
+    {
+        "concept_name": "先天性垂直距骨",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "congenital vertical talus"
+        }
+    },
+    {
+        "concept_name": "先天性巨结肠",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "又称": " 希尔施普龙病",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "congenital megacolon"
+        }
+    },
+    {
+        "concept_name": "先天性无神经节症",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "congenital aganglionosis"
+        }
+    },
+    {
+        "concept_name": "先天性桡尺骨融合",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "congenital radioulnar synostosis"
+        }
+    },
+    {
+        "concept_name": "先天性气管食管瘘",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "congenital tracheoesophageal fistu- la"
+        }
+    },
+    {
+        "concept_name": "先天性淋巴水肿",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "congenital lymphedema"
+        }
+    },
+    {
+        "concept_name": "先天性直肠狭窄",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "congenital stenosis of rectum"
+        }
+    },
+    {
+        "concept_name": "先天性直肠闭锁",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "congenital rectal atresia"
+        }
+    },
+    {
+        "concept_name": "先天性肛门狭窄",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "congenital anal stenosis"
+        }
+    },
+    {
+        "concept_name": "先天性肛门直肠畸形",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "congenital ano-rectal malformation"
+        }
+    },
+    {
+        "concept_name": "先天性肛门闭锁",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "congenital anal atresia"
+        }
+    },
+    {
+        "concept_name": "先天性肝内胆管扩张",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "又称": " 卡罗利病(Caroli disease)",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "congenital intrahepatic duct dilata- tion"
+        }
+    },
+    {
+        "concept_name": "先天性胃扭转",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "congenital gastric volvulus"
+        }
+    },
+    {
+        "concept_name": "先天性胆总管囊肿",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "congenital choledochus cyst"
+        }
+    },
+    {
+        "concept_name": "先天性胆总管扩张",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "congenital choledochus dilatation"
+        }
+    },
+    {
+        "concept_name": "先天性阴道闭锁",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "congenital atresia of vagina"
+        }
+    },
+    {
+        "concept_name": "先天性食管闭锁",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "congenital esophageal atresia"
+        }
+    },
+    {
+        "concept_name": "内括约肌后切术",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Thomas procedure"
+        }
+    },
+    {
+        "concept_name": "内括约肌重建术",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "internal sphincter reconstruction"
+        }
+    },
+    {
+        "concept_name": "分裂手",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "cleft hand"
+        }
+    },
+    {
+        "concept_name": "前尿道瓣膜",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "anterior urethral valve"
+        }
+    },
+    {
+        "concept_name": "剑突联体",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "xiphopagus"
+        }
+    },
+    {
+        "concept_name": "剑突脐联体",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "xiphomphalopagus"
+        }
+    },
+    {
+        "concept_name": "十二指肠闭锁",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "duodenal atresia"
+        }
+    },
+    {
+        "concept_name": "半椎体",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "hemivertebra"
+        }
+    },
+    {
+        "concept_name": "单侧肥大畸形",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "unilateral hypertrophy"
+        }
+    },
+    {
+        "concept_name": "厄尔布麻痹",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Erb paralysis"
+        }
+    },
+    {
+        "concept_name": "原发性胃食管反流",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "primary gastro-esophageal reflux"
+        }
+    },
+    {
+        "concept_name": "后尿道瓣膜",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "posterior urethral valve"
+        }
+    },
+    {
+        "concept_name": "喉[软骨]软化",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "laryngomalacia"
+        }
+    },
+    {
+        "concept_name": "喉裂",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "cleft larynx"
+        }
+    },
+    {
+        "concept_name": "圆韧带囊肿",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "cyst of round ligament"
+        }
+    },
+    {
+        "concept_name": "坐骨联体",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ischiopagus"
+        }
+    },
+    {
+        "concept_name": "外括约肌成形术",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "external sphincteroplasty"
+        }
+    },
+    {
+        "concept_name": "大网膜及肠系膜囊肿",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "omental cyst and mesenteric cyst"
+        }
+    },
+    {
+        "concept_name": "婴儿鞘膜积液",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "infantile hydrocele"
+        }
+    },
+    {
+        "concept_name": "婴儿骨皮质增生症",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "infantile cortical hyperostosis"
+        }
+    },
+    {
+        "concept_name": "孤立性肾囊肿",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "solitary renal cyst"
+        }
+    },
+    {
+        "concept_name": "对称联体儿",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "symmetric conjoined twins"
+        }
+    },
+    {
+        "concept_name": "小儿外科",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "pediatric surgery"
+        }
+    },
+    {
+        "concept_name": "小阴唇粘连",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "adhesion of labia minora"
+        }
+    },
+    {
+        "concept_name": "尺偏手",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ulnar clubhand"
+        }
+    },
+    {
+        "concept_name": "尿道口黏液囊肿",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Tyson cyst"
+        }
+    },
+    {
+        "concept_name": "尿道黏膜脱垂",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "prolapse of urethra"
+        }
+    },
+    {
+        "concept_name": "巨结肠根治术",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "definitive operation for Hirsch- sprung disease"
+        }
+    },
+    {
+        "concept_name": "幼年直肠息肉",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "juvenile rectal polyps"
+        }
+    },
+    {
+        "concept_name": "幼年纤维腺瘤",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "juvenile fibroadenoma"
+        }
+    },
+    {
+        "concept_name": "幽门闭锁",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "pyloric atresia"
+        }
+    },
+    {
+        "concept_name": "急性暂时性髋关节滑膜炎",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "acute transient synovitis of hip"
+        }
+    },
+    {
+        "concept_name": "拇指狭窄性腱鞘炎",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "stenosing tenovaginitis of thumb"
+        }
+    },
+    {
+        "concept_name": "拉德手术",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Ladd operation"
+        }
+    },
+    {
+        "concept_name": "斜颈",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "torticollis"
+        }
+    },
+    {
+        "concept_name": "新生儿坏死性小肠结肠炎",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "neonatal necrotizing enterocolitis"
+        }
+    },
+    {
+        "concept_name": "新生儿皮下坏疽",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "neonatal subcutaneous gangrene"
+        }
+    },
+    {
+        "concept_name": "新生儿腮腺炎",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "parotitis neonatorum"
+        }
+    },
+    {
+        "concept_name": "束带畸形",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "constriction band deformity"
+        }
+    },
+    {
+        "concept_name": "桡偏手",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "radial clubhand"
+        }
+    },
+    {
+        "concept_name": "桡骨小头半脱位",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "radial head subluxation"
+        }
+    },
+    {
+        "concept_name": "椎管嵴",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "intraspinal spur"
+        }
+    },
+    {
+        "concept_name": "泄殖腔畸形",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "cloacal deformity"
+        }
+    },
+    {
+        "concept_name": "漏斗胸",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "funnel chest"
+        }
+    },
+    {
+        "concept_name": "环枢[关节]半脱位",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "subluxation of atlantoaxial joint"
+        }
+    },
+    {
+        "concept_name": "环状胰腺",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "annular pancreas"
+        }
+    },
+    {
+        "concept_name": "球形细胞增多症",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "spherocytosis"
+        }
+    },
+    {
+        "concept_name": "盆腔内吻合巨结肠根治术",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Rehbein procedure"
+        }
+    },
+    {
+        "concept_name": "盘状软骨",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "discoid meniscus"
+        }
+    },
+    {
+        "concept_name": "直肠后拖出吻合巨结肠根治术",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "又称": " 杜阿梅尔手术",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Duhamel procedure"
+        }
+    },
+    {
+        "concept_name": "直肠环钳吻合术",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ring clamp anastomosis of rectum"
+        }
+    },
+    {
+        "concept_name": "直肠肌鞘拖出吻合巨结肠根治术",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Soave procedure"
+        }
+    },
+    {
+        "concept_name": "空肠间置代胆道术",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "choledochoplasty by jejunal inter- position"
+        }
+    },
+    {
+        "concept_name": "索尔特截骨术",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "英文": "Salter osteotomy ;Salter operation",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Salter osteotomy"
+        }
+    },
+    {
+        "concept_name": "结肠回肠侧吻合术",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Martin procedure"
+        }
+    },
+    {
+        "concept_name": "继发性巨结肠",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "secondary megacolon"
+        }
+    },
+    {
+        "concept_name": "翻出型肛门外吻合巨结肠根治术",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Swenson procedure"
+        }
+    },
+    {
+        "concept_name": "耳前窦道",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "preauricular sinus"
+        }
+    },
+    {
+        "concept_name": "联体儿",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "conjoined twins"
+        }
+    },
+    {
+        "concept_name": "肛门前移",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "anteceding anus"
+        }
+    },
+    {
+        "concept_name": "肛门环箍术",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "英文": "anal wiring ;Thiersch operation",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "anal wiring"
+        }
+    },
+    {
+        "concept_name": "肛门血管扩张",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "hemangiectasis of anus"
+        }
+    },
+    {
+        "concept_name": "肛门闭锁会阴瘘",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "anal atresia with perineal fistula"
+        }
+    },
+    {
+        "concept_name": "肛门闭锁前庭瘘",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "anal atresia with vestibular fistula"
+        }
+    },
+    {
+        "concept_name": "肛门闭锁尿道瘘",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "anal atresia with urethral fistula"
+        }
+    },
+    {
+        "concept_name": "肛门闭锁阴道瘘",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "anal atresia with vaginal fistula"
+        }
+    },
+    {
+        "concept_name": "肝门肠吻合术",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "portoenterostomy"
+        }
+    },
+    {
+        "concept_name": "肠囊肿",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "enteric cyst"
+        }
+    },
+    {
+        "concept_name": "肠套叠",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "intussusception"
+        }
+    },
+    {
+        "concept_name": "肠旋转不良",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "malrotation of intestine"
+        }
+    },
+    {
+        "concept_name": "肠狭窄",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "intestinal stenosis"
+        }
+    },
+    {
+        "concept_name": "肠重复畸形",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "duplication of intestine"
+        }
+    },
+    {
+        "concept_name": "肠闭锁",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "intestinal atresia"
+        }
+    },
+    {
+        "concept_name": "股薄肌移植术",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "gracilis transplantation"
+        }
+    },
+    {
+        "concept_name": "肥厚性幽门狭窄",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "hypertrophic pylorostenosis"
+        }
+    },
+    {
+        "concept_name": "肾盂输尿管连接部狭窄",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "stricture of pyeloureteric junction"
+        }
+    },
+    {
+        "concept_name": "胆总管囊肿切除术",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "choledochocystectomy"
+        }
+    },
+    {
+        "concept_name": "胆胰管汇合异常",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "choledochopancreatic junction anomaly"
+        }
+    },
+    {
+        "concept_name": "胆道闭锁",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "biliary atresia"
+        }
+    },
+    {
+        "concept_name": "胎中胎",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "fetus in fetu"
+        }
+    },
+    {
+        "concept_name": "胎儿外科",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "fetal surgery"
+        }
+    },
+    {
+        "concept_name": "胎粪性肠梗阻",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "meconium ileus"
+        }
+    },
+    {
+        "concept_name": "胎粪性腹膜炎",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "meconium peritonitis"
+        }
+    },
+    {
+        "concept_name": "胎记",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "birthmark"
+        }
+    },
+    {
+        "concept_name": "胫骨假关节",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "tibial pseudarthrosis"
+        }
+    },
+    {
+        "concept_name": "胸腺瘤",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "thymoma"
+        }
+    },
+    {
+        "concept_name": "脊索裂畸形",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "split notochord deformity"
+        }
+    },
+    {
+        "concept_name": "脊髓纵裂",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "diastematomyelia"
+        }
+    },
+    {
+        "concept_name": "脐息肉",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "umbilical polyp"
+        }
+    },
+    {
+        "concept_name": "脐炎",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "omphalitis"
+        }
+    },
+    {
+        "concept_name": "脐疝",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "umbilical hernia"
+        }
+    },
+    {
+        "concept_name": "脐肠瘘",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "又称": " 卵黄管未闭(patent vitellineduct)",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "omphalo-enteric fistula"
+        }
+    },
+    {
+        "concept_name": "脐膨出",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "omphalocele"
+        }
+    },
+    {
+        "concept_name": "脑积水",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "hydrocephalus"
+        }
+    },
+    {
+        "concept_name": "腹会阴拖出肛门成形术",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "abdominoperineal pull-through anoplasty"
+        }
+    },
+    {
+        "concept_name": "腹直肌分离",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "diastasis recti abdominis"
+        }
+    },
+    {
+        "concept_name": "腹肌发育缺陷综合征",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "abdominal musculature deficiency syndrome"
+        }
+    },
+    {
+        "concept_name": "腹裂[畸形]",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "gastroschisis"
+        }
+    },
+    {
+        "concept_name": "膀胱小肠裂",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "vesicointestinal fissure"
+        }
+    },
+    {
+        "concept_name": "膀胱输尿管移植术",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Cohen operation"
+        }
+    },
+    {
+        "concept_name": "膀胱颈缩窄术",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Leadbetter operation"
+        }
+    },
+    {
+        "concept_name": "臀肌挛缩",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "gluteus contracture"
+        }
+    },
+    {
+        "concept_name": "臀肌移植术",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "gluteus transplantation"
+        }
+    },
+    {
+        "concept_name": "臀部联体儿",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "pygopagus"
+        }
+    },
+    {
+        "concept_name": "臂丛[神经]麻痹",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "brachial plexus paralysis"
+        }
+    },
+    {
+        "concept_name": "自发性胃穿孔",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "spontaneous perforation of stomach"
+        }
+    },
+    {
+        "concept_name": "舌系带短缩",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ankyloglossia"
+        }
+    },
+    {
+        "concept_name": "色素沉着息肉综合征",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "又称": " 波伊茨-耶格综合征",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Peutz-Jeghers syndrome"
+        }
+    },
+    {
+        "concept_name": "节段性肠扩张",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "segmental dilatation of intestine"
+        }
+    },
+    {
+        "concept_name": "获得性巨结肠",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "acquired megacolon"
+        }
+    },
+    {
+        "concept_name": "菱形吻合[术]",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "diamond shaped anastomosis"
+        }
+    },
+    {
+        "concept_name": "藏毛囊肿",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "pilonidal cyst"
+        }
+    },
+    {
+        "concept_name": "藏毛瘘管",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "pilonidal fistula"
+        }
+    },
+    {
+        "concept_name": "藏毛窦",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "pilonidal sinus"
+        }
+    },
+    {
+        "concept_name": "赘生指",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "supernumerary finger"
+        }
+    },
+    {
+        "concept_name": "足副舟骨",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "accessory navicular bone"
+        }
+    },
+    {
+        "concept_name": "选择性脊神经后根切断术",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "selective posterior rhizotomy"
+        }
+    },
+    {
+        "concept_name": "重肾双输尿管",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "duplication of kidney and ureter"
+        }
+    },
+    {
+        "concept_name": "青春期前乳房发育",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "premature thelarche"
+        }
+    },
+    {
+        "concept_name": "青枝骨折",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "greenstick fracture"
+        }
+    },
+    {
+        "concept_name": "颅缝早闭",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "craniosynostosis"
+        }
+    },
+    {
+        "concept_name": "颅联体",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "craniopagus"
+        }
+    },
+    {
+        "concept_name": "颅骨松解术",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "craniolysis"
+        }
+    },
+    {
+        "concept_name": "颈肋",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "cervical rib"
+        }
+    },
+    {
+        "concept_name": "颈静脉扩张",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "jugular phlebectasia"
+        }
+    },
+    {
+        "concept_name": "食管异位软骨",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ectopic cartilage of esophagus"
+        }
+    },
+    {
+        "concept_name": "食管肌层环切延长术",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Livaditis procedure"
+        }
+    },
+    {
+        "concept_name": "食管重复畸形",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "duplication of esophagus"
+        }
+    },
+    {
+        "concept_name": "骶会阴肛门成形术",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "sacroperineal anoplasty"
+        }
+    },
+    {
+        "concept_name": "骶后纵切肛门成形术",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "英文": "posterior sacral sagittal anoplasty ;Pena operation",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "posterior sacral sagittal anoplasty"
+        }
+    },
+    {
+        "concept_name": "骶尾部畸胎瘤",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "sacrococcygeal teratoma"
+        }
+    },
+    {
+        "concept_name": "骶联体",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "sacropagus"
+        }
+    },
+    {
+        "concept_name": "髂窝脓肿",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "iliac abscess"
+        }
+    },
+    {
+        "concept_name": "髋臼发育不良",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "acetabular dysplasia"
+        }
+    },
+    {
+        "concept_name": "高位肩胛",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "high scapula"
+        }
+    },
+    {
+        "concept_name": "鳃裂",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "branchial cleft"
+        }
+    },
+    {
+        "concept_name": "鳃裂囊肿",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "branchial cyst"
+        }
+    },
+    {
+        "concept_name": "鳃裂瘘管",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "branchial fistula"
+        }
+    },
+    {
+        "concept_name": "鳃裂窦道",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "branchial sinus"
+        }
+    },
+    {
+        "concept_name": "鸡胸",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "又称": " 胸壁前凸畸形",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "pigeon chest"
+        }
+    },
+    {
+        "concept_name": "鼻后孔闭锁",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "choanal atresia"
+        }
+    },
+    {
+        "concept_name": "鼻根部脑膨出",
+        "details": {
+            "学科": "医学_小儿外科学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "nasofrontal encephalocele"
+        }
+    }
+]

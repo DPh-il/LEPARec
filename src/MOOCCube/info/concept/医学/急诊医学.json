@@ -1,0 +1,1240 @@
+[
+    {
+        "concept_name": "下斜曲线",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "recline pressure curve"
+        }
+    },
+    {
+        "concept_name": "临床死亡",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "clinical death"
+        }
+    },
+    {
+        "concept_name": "二氧化碳分压",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "partial pressure of carbon dioxide"
+        }
+    },
+    {
+        "concept_name": "交通事故医学",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "traffic medicine"
+        }
+    },
+    {
+        "concept_name": "休克",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "shock"
+        }
+    },
+    {
+        "concept_name": "体表高频振荡",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "high frequency oscillation of body surface"
+        }
+    },
+    {
+        "concept_name": "偏流",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "bias flow"
+        }
+    },
+    {
+        "concept_name": "儿科重症监护治疗病房",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "pediatric intensive care unit"
+        }
+    },
+    {
+        "concept_name": "再灌注损伤",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "reperfusion injury"
+        }
+    },
+    {
+        "concept_name": "冠心病监护治疗病房",
+        "details": {
+            "学科": "医学_急诊医学",
+            "英文": "coronary care unit ;CCU",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "coronary care unit"
+        }
+    },
+    {
+        "concept_name": "减压曲线",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "decreasing pressure curve"
+        }
+    },
+    {
+        "concept_name": "创伤严重度评分",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "injury severity score"
+        }
+    },
+    {
+        "concept_name": "到院死亡",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "dead on arrival"
+        }
+    },
+    {
+        "concept_name": "前囟测压计",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "anterial fontanel monometer"
+        }
+    },
+    {
+        "concept_name": "加强创伤生命支持",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "advanced trauma life support"
+        }
+    },
+    {
+        "concept_name": "加强心脏生命支持",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "advanced cardiac life support"
+        }
+    },
+    {
+        "concept_name": "加强生命支持",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "advanced life support"
+        }
+    },
+    {
+        "concept_name": "加强通气",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "augmented ventilation"
+        }
+    },
+    {
+        "concept_name": "单向型口咽通气管",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "one way oropharyngeal airway"
+        }
+    },
+    {
+        "concept_name": "危重症医学",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "critical care medicine"
+        }
+    },
+    {
+        "concept_name": "压力支持",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "pressure support"
+        }
+    },
+    {
+        "concept_name": "双手托颌法",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "jaw-thrust"
+        }
+    },
+    {
+        "concept_name": "口对口呼气",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "mouth to mouth respiration"
+        }
+    },
+    {
+        "concept_name": "口对鼻呼气",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "mouth to nose respiration"
+        }
+    },
+    {
+        "concept_name": "同步间歇强制通气",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "synchronous intermittent manda- tory ventilation"
+        }
+    },
+    {
+        "concept_name": "吸入氧比例",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "fraction of inspiratory oxygen"
+        }
+    },
+    {
+        "concept_name": "吸气末暂停",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "end-inspiratory pause"
+        }
+    },
+    {
+        "concept_name": "吸气末正压",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "end-inspiratory positive pressure"
+        }
+    },
+    {
+        "concept_name": "吸气驱动压",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "inspiratory driving pressure"
+        }
+    },
+    {
+        "concept_name": "呼吸停止",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "respiratory arrest"
+        }
+    },
+    {
+        "concept_name": "呼吸机",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "respirator"
+        }
+    },
+    {
+        "concept_name": "呼气延缓",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "expiratory flow retard"
+        }
+    },
+    {
+        "concept_name": "呼气末正压",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "end-expiratory positive pressure"
+        }
+    },
+    {
+        "concept_name": "哮喘持续状态",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "status asthmaticus"
+        }
+    },
+    {
+        "concept_name": "地震",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "earthquake"
+        }
+    },
+    {
+        "concept_name": "基础创伤生命支持",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "basic trauma life support"
+        }
+    },
+    {
+        "concept_name": "基础生命支持",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "basic life support"
+        }
+    },
+    {
+        "concept_name": "增压曲线",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "increasing pressure curve"
+        }
+    },
+    {
+        "concept_name": "复苏学",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "resuscitology"
+        }
+    },
+    {
+        "concept_name": "外观容量分布",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "apparent volume distribution"
+        }
+    },
+    {
+        "concept_name": "多器官功能衰竭",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "multiple organ failure"
+        }
+    },
+    {
+        "concept_name": "容量分布",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "volume distribution"
+        }
+    },
+    {
+        "concept_name": "延续生命支持",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "prolonged life support"
+        }
+    },
+    {
+        "concept_name": "开胸心脏按压",
+        "details": {
+            "学科": "医学_急诊医学",
+            "英文": "open chest cardiac massage ;open chest cardiac compression",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "open chest cardiac massage"
+        }
+    },
+    {
+        "concept_name": "弥漫性肺泡损伤综合征",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "diffuse alveolar damage syndrome"
+        }
+    },
+    {
+        "concept_name": "心室纤颤",
+        "details": {
+            "学科": "医学_急诊医学",
+            "又称": " 心室颤动",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ventricular fibrillation"
+        }
+    },
+    {
+        "concept_name": "心搏骤停",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "sudden cardiac arrest"
+        }
+    },
+    {
+        "concept_name": "心肺脑复苏",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "cardio-pulmonary-cerebral resuscitation"
+        }
+    },
+    {
+        "concept_name": "心脏停搏",
+        "details": {
+            "学科": "医学_急诊医学",
+            "又称": " 心搏停止",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "asystole"
+        }
+    },
+    {
+        "concept_name": "心脏电机械分离",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "cardiac electromechanical dissociation"
+        }
+    },
+    {
+        "concept_name": "急性中毒",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "acute poisoning"
+        }
+    },
+    {
+        "concept_name": "急性左心室衰竭",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "acute left ventricular failure"
+        }
+    },
+    {
+        "concept_name": "急救",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "first aid"
+        }
+    },
+    {
+        "concept_name": "急救中心",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "emergency center"
+        }
+    },
+    {
+        "concept_name": "急救医士",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "paramedic"
+        }
+    },
+    {
+        "concept_name": "急救半径",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "rescuing radius"
+        }
+    },
+    {
+        "concept_name": "急救员",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "emergency medical service-techni- cian"
+        }
+    },
+    {
+        "concept_name": "急救网络",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "emergency network"
+        }
+    },
+    {
+        "concept_name": "急诊医学",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "emergency medicine"
+        }
+    },
+    {
+        "concept_name": "急诊医疗体系",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "emergency medical service system"
+        }
+    },
+    {
+        "concept_name": "急诊处理",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "emergency treatment"
+        }
+    },
+    {
+        "concept_name": "急诊心脏病监护治疗病房",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "emergency cardiac care unit"
+        }
+    },
+    {
+        "concept_name": "急诊空运中心",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "airborne emergency medical center"
+        }
+    },
+    {
+        "concept_name": "手动式紧急吸引器",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "vitalograph emergency aspirator"
+        }
+    },
+    {
+        "concept_name": "抗休克裤",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "military anti-shock trousers"
+        }
+    },
+    {
+        "concept_name": "抬头举颏法",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "head-lift"
+        }
+    },
+    {
+        "concept_name": "持续正压呼吸",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "continuous positive pressure breathing"
+        }
+    },
+    {
+        "concept_name": "换血疗法",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "exchange transfusion"
+        }
+    },
+    {
+        "concept_name": "控制式通气",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "control mode ventilation"
+        }
+    },
+    {
+        "concept_name": "救护站",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "first aid station"
+        }
+    },
+    {
+        "concept_name": "救护车",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "ambulance"
+        }
+    },
+    {
+        "concept_name": "新生儿重症监护治疗病房",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "neonatal intensive care unit"
+        }
+    },
+    {
+        "concept_name": "方波气流型态",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "square wave flow pattern"
+        }
+    },
+    {
+        "concept_name": "无气流期",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "period of zero flow"
+        }
+    },
+    {
+        "concept_name": "旱灾",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "drought"
+        }
+    },
+    {
+        "concept_name": "有创压力监测",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "invasive pressure monitoring"
+        }
+    },
+    {
+        "concept_name": "格拉斯哥昏迷评分",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Glasgow coma score"
+        }
+    },
+    {
+        "concept_name": "毁灭效应",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "shatter effect"
+        }
+    },
+    {
+        "concept_name": "每分钟手控通气",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "manual minute ventilation"
+        }
+    },
+    {
+        "concept_name": "气流型态",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "flow pattern"
+        }
+    },
+    {
+        "concept_name": "气管内径路",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "intratracheal route"
+        }
+    },
+    {
+        "concept_name": "气道阻塞",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "airway obstruction"
+        }
+    },
+    {
+        "concept_name": "氧分压",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "partial pressure of oxygen"
+        }
+    },
+    {
+        "concept_name": "水灾",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "flood"
+        }
+    },
+    {
+        "concept_name": "汽车事故医学",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "automotive medicine"
+        }
+    },
+    {
+        "concept_name": "海姆利希手法",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "Heimlich maneuver"
+        }
+    },
+    {
+        "concept_name": "潮气末二氧化碳分压",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "end tidal carbon dioxide partial pressure"
+        }
+    },
+    {
+        "concept_name": "濒死心律",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "agony rhythm"
+        }
+    },
+    {
+        "concept_name": "灾害医学",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "disaster medicine"
+        }
+    },
+    {
+        "concept_name": "灾害救援",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "disaster assistance"
+        }
+    },
+    {
+        "concept_name": "灾害预报",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "damage forecasting"
+        }
+    },
+    {
+        "concept_name": "牙关紧闭",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "lockjaw"
+        }
+    },
+    {
+        "concept_name": "猝死",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "sudden death"
+        }
+    },
+    {
+        "concept_name": "环甲膜切开气管插管",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "cricothyrotomy endotracheal intu- bation"
+        }
+    },
+    {
+        "concept_name": "生物死亡",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "biological death"
+        }
+    },
+    {
+        "concept_name": "癫持续状态",
+        "details": {
+            "学科": "医学_急诊医学",
+            "又称": " 癫痫持续状态",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "status epilepticus"
+        }
+    },
+    {
+        "concept_name": "直流电同步心律转复",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "direct current synchronous cardio- version"
+        }
+    },
+    {
+        "concept_name": "直流电非同步除颤",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "direct current non-synchronous de- fibrillation"
+        }
+    },
+    {
+        "concept_name": "石样心",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "stony heart"
+        }
+    },
+    {
+        "concept_name": "空中急救队",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "flying squad"
+        }
+    },
+    {
+        "concept_name": "空气栓塞",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "air embolism"
+        }
+    },
+    {
+        "concept_name": "窒息",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "asphyxia"
+        }
+    },
+    {
+        "concept_name": "第一急救者",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "first responder"
+        }
+    },
+    {
+        "concept_name": "简易呼吸机",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "simple respirator"
+        }
+    },
+    {
+        "concept_name": "紧急心脏起搏",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "emergency cardiac pacing"
+        }
+    },
+    {
+        "concept_name": "紧急救援",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "emergency relief"
+        }
+    },
+    {
+        "concept_name": "纤维蛋白套",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "fibrin sleeve"
+        }
+    },
+    {
+        "concept_name": "经皮氧监测",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "percutaneous oxygen monitoring"
+        }
+    },
+    {
+        "concept_name": "经皮起搏器",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "percutaneous pacemaker"
+        }
+    },
+    {
+        "concept_name": "经静脉起搏器",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "transvenous pacemaker"
+        }
+    },
+    {
+        "concept_name": "维持气道通畅",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "airway maintenance"
+        }
+    },
+    {
+        "concept_name": "置放急救识别卡",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "tagging"
+        }
+    },
+    {
+        "concept_name": "肝性昏迷",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "hepatic coma"
+        }
+    },
+    {
+        "concept_name": "肺吹气法",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "insufflation of lungs"
+        }
+    },
+    {
+        "concept_name": "肺水肿",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "pulmonary edema"
+        }
+    },
+    {
+        "concept_name": "胸壁高频振荡",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "high frequency oscillation of chest wall"
+        }
+    },
+    {
+        "concept_name": "脑血管意外",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "cerebrovascular accident"
+        }
+    },
+    {
+        "concept_name": "自杀",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "suicide"
+        }
+    },
+    {
+        "concept_name": "自由基",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "free radical"
+        }
+    },
+    {
+        "concept_name": "自身输血",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "autotransfusion"
+        }
+    },
+    {
+        "concept_name": "蝗灾",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "plague of locust"
+        }
+    },
+    {
+        "concept_name": "血栓素",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "thromboxane"
+        }
+    },
+    {
+        "concept_name": "血气分析",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "blood gas analysis"
+        }
+    },
+    {
+        "concept_name": "血浆交换",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "plasma exchange"
+        }
+    },
+    {
+        "concept_name": "血管阻塞危象",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "vaso-occlusive crisis"
+        }
+    },
+    {
+        "concept_name": "袖珍面罩",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "pocket mask"
+        }
+    },
+    {
+        "concept_name": "解毒",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "detoxication"
+        }
+    },
+    {
+        "concept_name": "辅助通气",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "assisted ventilation"
+        }
+    },
+    {
+        "concept_name": "输液泵",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "infusion pump"
+        }
+    },
+    {
+        "concept_name": "过渡监护治疗病房",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "intermediate care unit"
+        }
+    },
+    {
+        "concept_name": "连续气道正压通气",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "continuous positive airway pressure"
+        }
+    },
+    {
+        "concept_name": "道路交通事故",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "road traffic accident"
+        }
+    },
+    {
+        "concept_name": "遥测心电图",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "telecardiogram"
+        }
+    },
+    {
+        "concept_name": "酒精中毒昏迷",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "alcoholic coma"
+        }
+    },
+    {
+        "concept_name": "重症监护急救车",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "mobile intensive care unit"
+        }
+    },
+    {
+        "concept_name": "重症监护治疗病房",
+        "details": {
+            "学科": "医学_急诊医学",
+            "英文": "intensive care unit ;ICU",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "intensive care unit"
+        }
+    },
+    {
+        "concept_name": "闭胸心脏按压",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "close chest cardiac massage"
+        }
+    },
+    {
+        "concept_name": "间歇强制通气",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "intermittent mandatory ventilation"
+        }
+    },
+    {
+        "concept_name": "间歇正压通气",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "intermittent positive pressure ven- tilation"
+        }
+    },
+    {
+        "concept_name": "院前急救",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "pre-hospital care"
+        }
+    },
+    {
+        "concept_name": "除颤器",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "defibrillator"
+        }
+    },
+    {
+        "concept_name": "震力效应",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "brisance effect"
+        }
+    },
+    {
+        "concept_name": "震级",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "magnitude of earthquake"
+        }
+    },
+    {
+        "concept_name": "静息心排出量",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "resting cardiac output"
+        }
+    },
+    {
+        "concept_name": "静脉切开",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "venotomy"
+        }
+    },
+    {
+        "concept_name": "静脉插管输液",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "intravenous cannula infusion"
+        }
+    },
+    {
+        "concept_name": "静脉高营养",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "intravenous hyperalimentation"
+        }
+    },
+    {
+        "concept_name": "面罩活瓣呼吸装置",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "bag-valve-mask respiration unit"
+        }
+    },
+    {
+        "concept_name": "食管曲张静脉破裂",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "rupture of esophageal varices"
+        }
+    },
+    {
+        "concept_name": "饥荒",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "famine"
+        }
+    },
+    {
+        "concept_name": "高血压危象",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "hypertensive crisis"
+        }
+    },
+    {
+        "concept_name": "高阻抗管道",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "high impedance tube"
+        }
+    },
+    {
+        "concept_name": "高频通气",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "high frequency ventilation"
+        }
+    },
+    {
+        "concept_name": "鼻咽通气管",
+        "details": {
+            "学科": "医学_急诊医学",
+            "见载": "《医学名词 第六分册》第一版",
+            "英文名": "nasopharyngeal airway"
+        }
+    }
+]

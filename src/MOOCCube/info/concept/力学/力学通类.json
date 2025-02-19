@@ -1,0 +1,2222 @@
+[
+    {
+        "concept_name": "[第二类]拉格朗日方程",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "Lagrange equation [of the second kind]"
+        }
+    },
+    {
+        "concept_name": "[转动]瞬心",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "instantaneous center [of rotation]"
+        }
+    },
+    {
+        "concept_name": "[转动]瞬轴",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "instantaneous axis [of rotation]"
+        }
+    },
+    {
+        "concept_name": "一般力学",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "general mechanics"
+        }
+    },
+    {
+        "concept_name": "万有引力定律",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "law of universal gravitation"
+        }
+    },
+    {
+        "concept_name": "不稳定平衡",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "unstable equilibrium"
+        }
+    },
+    {
+        "concept_name": "中心惯性主轴",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "central principal axis of inertia"
+        }
+    },
+    {
+        "concept_name": "中性平衡",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "neutral equilibrium"
+        }
+    },
+    {
+        "concept_name": "中性轴",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "neutral axis"
+        }
+    },
+    {
+        "concept_name": "临界阻尼",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "critical damping"
+        }
+    },
+    {
+        "concept_name": "主剪应力",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "principal shear stress"
+        }
+    },
+    {
+        "concept_name": "主动力",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "active force"
+        }
+    },
+    {
+        "concept_name": "主矢[量]",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "principal vector"
+        }
+    },
+    {
+        "concept_name": "主矩",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "principal moment"
+        }
+    },
+    {
+        "concept_name": "主转动惯量",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "principal moment of inertia"
+        }
+    },
+    {
+        "concept_name": "主轴",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "principal axis"
+        }
+    },
+    {
+        "concept_name": "亚声速",
+        "details": {
+            "学科": "力学_力学通类",
+            "又称": " 亚音速",
+            "见载": "《力学名词》第一版",
+            "英文名": "subsonic speed"
+        }
+    },
+    {
+        "concept_name": "伽利略不变性",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "Galilean invariance"
+        }
+    },
+    {
+        "concept_name": "体积改变能",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "energy of volume change"
+        }
+    },
+    {
+        "concept_name": "余能",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "complementary energy"
+        }
+    },
+    {
+        "concept_name": "作用力",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "acting force"
+        }
+    },
+    {
+        "concept_name": "作用点",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "point of action"
+        }
+    },
+    {
+        "concept_name": "作用线",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "line of action"
+        }
+    },
+    {
+        "concept_name": "作用量",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "action"
+        }
+    },
+    {
+        "concept_name": "保守系",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "conservative system"
+        }
+    },
+    {
+        "concept_name": "偏心加载",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "eccentric loading"
+        }
+    },
+    {
+        "concept_name": "偏心压缩",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "eccentric compression"
+        }
+    },
+    {
+        "concept_name": "偏心拉伸",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "eccentric tension"
+        }
+    },
+    {
+        "concept_name": "元功",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "elementary work"
+        }
+    },
+    {
+        "concept_name": "八面体剪应力",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "octohedral shear stress"
+        }
+    },
+    {
+        "concept_name": "八面体剪应力理论",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "octohedral shear stress theory"
+        }
+    },
+    {
+        "concept_name": "八面体剪应变",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "octohedral shear strain"
+        }
+    },
+    {
+        "concept_name": "共点力",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "forces acting at the same point"
+        }
+    },
+    {
+        "concept_name": "内力",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "internal force"
+        }
+    },
+    {
+        "concept_name": "内禀方程",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "intrinsic equation"
+        }
+    },
+    {
+        "concept_name": "冲击韧性",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "impact toughness"
+        }
+    },
+    {
+        "concept_name": "冲量",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "impulse"
+        }
+    },
+    {
+        "concept_name": "分速度",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "component velocity"
+        }
+    },
+    {
+        "concept_name": "切向加速度",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "tangential acceleration"
+        }
+    },
+    {
+        "concept_name": "刚体定点运动",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "motion of rigid-body with a fixed point"
+        }
+    },
+    {
+        "concept_name": "刚度法",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "stiffness method"
+        }
+    },
+    {
+        "concept_name": "初速[度]",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "initial velocity"
+        }
+    },
+    {
+        "concept_name": "前进波",
+        "details": {
+            "学科": "力学_力学通类",
+            "英文": "advancing wave ;progressive wave",
+            "见载": "《力学名词》第一版",
+            "英文名": "advancing wave"
+        }
+    },
+    {
+        "concept_name": "剪切",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "shear"
+        }
+    },
+    {
+        "concept_name": "剪切角",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "angle of shear"
+        }
+    },
+    {
+        "concept_name": "副法向加速度",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "binormal acceleration"
+        }
+    },
+    {
+        "concept_name": "力偶臂",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "arm of couple"
+        }
+    },
+    {
+        "concept_name": "力的分解",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "resolution of force"
+        }
+    },
+    {
+        "concept_name": "力的平衡",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "equilibrium of forces"
+        }
+    },
+    {
+        "concept_name": "力系的简化",
+        "details": {
+            "学科": "力学_力学通类",
+            "又称": " 力系的约化",
+            "见载": "《力学名词》第一版",
+            "英文名": "reduction of force system"
+        }
+    },
+    {
+        "concept_name": "力臂",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "moment arm of force"
+        }
+    },
+    {
+        "concept_name": "力螺旋",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "force screw"
+        }
+    },
+    {
+        "concept_name": "加速度",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "acceleration"
+        }
+    },
+    {
+        "concept_name": "加速度瞬心",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "instantaneous center of acceleration"
+        }
+    },
+    {
+        "concept_name": "加速度计",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "accelerometer"
+        }
+    },
+    {
+        "concept_name": "加速运动",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "accelerated motion"
+        }
+    },
+    {
+        "concept_name": "动态静力学",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "kineto-statics"
+        }
+    },
+    {
+        "concept_name": "动瞬心迹",
+        "details": {
+            "学科": "力学_力学通类",
+            "又称": " 本体瞬心迹",
+            "见载": "《力学名词》第一版",
+            "英文名": "moving centrode"
+        }
+    },
+    {
+        "concept_name": "动能",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "kinetic energy"
+        }
+    },
+    {
+        "concept_name": "动能定理",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "theorem of kinetic energy"
+        }
+    },
+    {
+        "concept_name": "动量矩",
+        "details": {
+            "学科": "力学_力学通类",
+            "又称": " 角动量",
+            "见载": "《力学名词》第一版",
+            "英文名": "moment of momentum"
+        }
+    },
+    {
+        "concept_name": "动量矩定理",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "theorem of moment of momentum"
+        }
+    },
+    {
+        "concept_name": "势能",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "potential energy"
+        }
+    },
+    {
+        "concept_name": "匀速运动",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "uniform motion"
+        }
+    },
+    {
+        "concept_name": "单侧约束",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "unilateral constraint"
+        }
+    },
+    {
+        "concept_name": "单调加载",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "monotonic loading"
+        }
+    },
+    {
+        "concept_name": "单轴应力",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "uniaxial stress"
+        }
+    },
+    {
+        "concept_name": "压缩冲量",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "impulse of compression"
+        }
+    },
+    {
+        "concept_name": "可遗坐标",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "ignorable coordinate"
+        }
+    },
+    {
+        "concept_name": "各向同性",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "isotropy"
+        }
+    },
+    {
+        "concept_name": "各向异性",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "anisotropy"
+        }
+    },
+    {
+        "concept_name": "合力偶",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "resultant couple"
+        }
+    },
+    {
+        "concept_name": "向心加速度",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "centripetal acceleration"
+        }
+    },
+    {
+        "concept_name": "吸引力",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "attraction force"
+        }
+    },
+    {
+        "concept_name": "品质因数",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "quality factor"
+        }
+    },
+    {
+        "concept_name": "回声",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "echo"
+        }
+    },
+    {
+        "concept_name": "回波",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "echo"
+        }
+    },
+    {
+        "concept_name": "固定矢量",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "fixed vector"
+        }
+    },
+    {
+        "concept_name": "声共振",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "acoustic resonance"
+        }
+    },
+    {
+        "concept_name": "声学",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "acoustics"
+        }
+    },
+    {
+        "concept_name": "声导",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "acoustic conductance"
+        }
+    },
+    {
+        "concept_name": "声导纳",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "acoustic admittance"
+        }
+    },
+    {
+        "concept_name": "声强",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "intensity of sound"
+        }
+    },
+    {
+        "concept_name": "声抗",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "acoustic reactance"
+        }
+    },
+    {
+        "concept_name": "声纳",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "acoustic susceptance"
+        }
+    },
+    {
+        "concept_name": "声调",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "intonation"
+        }
+    },
+    {
+        "concept_name": "声阻",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "acoustic resistance"
+        }
+    },
+    {
+        "concept_name": "声阻抗",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "acoustic impedance"
+        }
+    },
+    {
+        "concept_name": "复合运动",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "composite motion"
+        }
+    },
+    {
+        "concept_name": "外伸梁",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "overhanging beam"
+        }
+    },
+    {
+        "concept_name": "外力",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "external force"
+        }
+    },
+    {
+        "concept_name": "外弹道学",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "external ballistics"
+        }
+    },
+    {
+        "concept_name": "多普勒效应",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "Doppler effect"
+        }
+    },
+    {
+        "concept_name": "孤立系",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "isolated system"
+        }
+    },
+    {
+        "concept_name": "安全系数",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "safety factor"
+        }
+    },
+    {
+        "concept_name": "完全弹性碰撞",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "perfect elastic collision"
+        }
+    },
+    {
+        "concept_name": "完全非弹性碰撞",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "perfect inelastic collision"
+        }
+    },
+    {
+        "concept_name": "完整系",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "holonomic system"
+        }
+    },
+    {
+        "concept_name": "定常流[动]",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "steady flow"
+        }
+    },
+    {
+        "concept_name": "定点转动",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "rotation around a fixed point"
+        }
+    },
+    {
+        "concept_name": "定轴转动",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "fixed-axis rotation"
+        }
+    },
+    {
+        "concept_name": "实验力学",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "experimental mechanics"
+        }
+    },
+    {
+        "concept_name": "密歇尔斯基公式",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "Meshcherskii formula"
+        }
+    },
+    {
+        "concept_name": "对心碰撞",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "central impact"
+        }
+    },
+    {
+        "concept_name": "工字梁",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "I-shape beam"
+        }
+    },
+    {
+        "concept_name": "工程力学",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "engineering mechanics"
+        }
+    },
+    {
+        "concept_name": "平均速度",
+        "details": {
+            "学科": "力学_力学通类",
+            "英文": "average velocity ;mean velocity",
+            "见载": "《力学名词》第一版",
+            "英文名": "average velocity"
+        }
+    },
+    {
+        "concept_name": "平截面假定",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "plane cross-section assumption"
+        }
+    },
+    {
+        "concept_name": "平行轴定理",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "parallel axis theorem"
+        }
+    },
+    {
+        "concept_name": "平衡",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "equilibrium"
+        }
+    },
+    {
+        "concept_name": "平衡位置",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "equilibrium position"
+        }
+    },
+    {
+        "concept_name": "平衡态",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "equilibrium state"
+        }
+    },
+    {
+        "concept_name": "平衡条件",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "equilibrium condition"
+        }
+    },
+    {
+        "concept_name": "广义力",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "generalized force"
+        }
+    },
+    {
+        "concept_name": "广义动量积分",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "integral of generalized momentum"
+        }
+    },
+    {
+        "concept_name": "广义能量积分",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "integral of generalized energy"
+        }
+    },
+    {
+        "concept_name": "应力分析",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "stress analysis"
+        }
+    },
+    {
+        "concept_name": "应力集中",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "stress concentration"
+        }
+    },
+    {
+        "concept_name": "应变能",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "strain energy"
+        }
+    },
+    {
+        "concept_name": "应用力学",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "applied mechanics"
+        }
+    },
+    {
+        "concept_name": "延伸率",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "specific elongation"
+        }
+    },
+    {
+        "concept_name": "开普勒定律",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "Kepler law"
+        }
+    },
+    {
+        "concept_name": "弯[曲]应力",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "bending stress"
+        }
+    },
+    {
+        "concept_name": "弹性",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "elasticity"
+        }
+    },
+    {
+        "concept_name": "弹性体",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "elastic body"
+        }
+    },
+    {
+        "concept_name": "弹性力",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "elastic force"
+        }
+    },
+    {
+        "concept_name": "弹性应变能",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "elastic strain energy"
+        }
+    },
+    {
+        "concept_name": "弹性截面模量",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "elastic section modulus"
+        }
+    },
+    {
+        "concept_name": "弹性曲线",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "elastic curve"
+        }
+    },
+    {
+        "concept_name": "弹性极限",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "elastic limit"
+        }
+    },
+    {
+        "concept_name": "弹性模量",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "modulus of elasticity"
+        }
+    },
+    {
+        "concept_name": "强度极限",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "ultimate strength"
+        }
+    },
+    {
+        "concept_name": "形心",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "centroid of area"
+        }
+    },
+    {
+        "concept_name": "径向加速度",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "radial acceleration"
+        }
+    },
+    {
+        "concept_name": "恢复冲量",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "impulse of restitution"
+        }
+    },
+    {
+        "concept_name": "恢复系数",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "coefficient of restitution"
+        }
+    },
+    {
+        "concept_name": "惯性",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "inertia"
+        }
+    },
+    {
+        "concept_name": "惯性[参考]系",
+        "details": {
+            "学科": "力学_力学通类",
+            "英文": "inertial [reference] frame ;inertial [reference] system",
+            "见载": "《力学名词》第一版",
+            "英文名": "inertial [reference] frame"
+        }
+    },
+    {
+        "concept_name": "惯性力",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "inertial force"
+        }
+    },
+    {
+        "concept_name": "惯性离心力",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "inertial centrifugal force"
+        }
+    },
+    {
+        "concept_name": "惯性积",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "product of inertia"
+        }
+    },
+    {
+        "concept_name": "惯量主轴",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "principal axis of inertia"
+        }
+    },
+    {
+        "concept_name": "惯量椭球",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "ellipsoid of inertia"
+        }
+    },
+    {
+        "concept_name": "扭[转]应力",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "torsional stress"
+        }
+    },
+    {
+        "concept_name": "持久极限",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "endurance limit"
+        }
+    },
+    {
+        "concept_name": "振动",
+        "details": {
+            "学科": "力学_力学通类",
+            "英文": "vibration ;oscillation",
+            "见载": "《力学名词》第一版",
+            "英文名": "vibration"
+        }
+    },
+    {
+        "concept_name": "振幅",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "amplitude"
+        }
+    },
+    {
+        "concept_name": "掠面速度",
+        "details": {
+            "学科": "力学_力学通类",
+            "又称": " 扇形速度(sector velocity)",
+            "见载": "《力学名词》第一版",
+            "英文名": "areal velocity"
+        }
+    },
+    {
+        "concept_name": "摄动",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "perturbation"
+        }
+    },
+    {
+        "concept_name": "摩擦角",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "angle of friction"
+        }
+    },
+    {
+        "concept_name": "撞击",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "impact"
+        }
+    },
+    {
+        "concept_name": "撞击中心",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "center of percussion"
+        }
+    },
+    {
+        "concept_name": "撞击因子",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "impact factor"
+        }
+    },
+    {
+        "concept_name": "撞击应力",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "impact stress"
+        }
+    },
+    {
+        "concept_name": "斜弯曲",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "oblique bending"
+        }
+    },
+    {
+        "concept_name": "斜碰",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "oblique impact"
+        }
+    },
+    {
+        "concept_name": "无限小转动",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "infinitesimal rotation"
+        }
+    },
+    {
+        "concept_name": "显微硬度",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "micro-penetration hardness"
+        }
+    },
+    {
+        "concept_name": "最小作用[量]原理",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "principle of least action"
+        }
+    },
+    {
+        "concept_name": "有效势",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "effective potential"
+        }
+    },
+    {
+        "concept_name": "有效柱长",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "effective column length"
+        }
+    },
+    {
+        "concept_name": "本征振动",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "eigenvibration"
+        }
+    },
+    {
+        "concept_name": "本征矢[量]",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "eigenvector"
+        }
+    },
+    {
+        "concept_name": "机械能",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "mechanical energy"
+        }
+    },
+    {
+        "concept_name": "机械能守恒定律",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "law of conservation of mechanical energy"
+        }
+    },
+    {
+        "concept_name": "极惯性矩",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "polar moment of inertia"
+        }
+    },
+    {
+        "concept_name": "极矢[量]",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "polar vector"
+        }
+    },
+    {
+        "concept_name": "极限速度",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "limiting velocity"
+        }
+    },
+    {
+        "concept_name": "柔度法",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "flexibility method"
+        }
+    },
+    {
+        "concept_name": "横向加速度",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "transverse acceleration"
+        }
+    },
+    {
+        "concept_name": "欠阻尼",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "underdamping"
+        }
+    },
+    {
+        "concept_name": "次声波",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "infrasonic wave"
+        }
+    },
+    {
+        "concept_name": "欧拉临界载荷",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "Euler critical load"
+        }
+    },
+    {
+        "concept_name": "欧拉流体动力学方程",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "Euler equations for hydrodynamics"
+        }
+    },
+    {
+        "concept_name": "欧拉角",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "Eulerian angle"
+        }
+    },
+    {
+        "concept_name": "欧拉运动学方程",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "Euler kinematical equations"
+        }
+    },
+    {
+        "concept_name": "法向加速度",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "normal acceleration"
+        }
+    },
+    {
+        "concept_name": "波前",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "wave front"
+        }
+    },
+    {
+        "concept_name": "波长",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "wavelength"
+        }
+    },
+    {
+        "concept_name": "洛氏硬度",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "Rockwell hardness"
+        }
+    },
+    {
+        "concept_name": "流体力学",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "fluid mechanics"
+        }
+    },
+    {
+        "concept_name": "涡流",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "eddy current"
+        }
+    },
+    {
+        "concept_name": "湍流阻力",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "turbulent resistance"
+        }
+    },
+    {
+        "concept_name": "牵连加速度",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "convected acceleration"
+        }
+    },
+    {
+        "concept_name": "牵连惯性力",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "convected inertial force"
+        }
+    },
+    {
+        "concept_name": "球铰",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "spherical hinge"
+        }
+    },
+    {
+        "concept_name": "理想流体",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "ideal fluid"
+        }
+    },
+    {
+        "concept_name": "理想约束",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "ideal constraint"
+        }
+    },
+    {
+        "concept_name": "畸变能",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "energy of distortion"
+        }
+    },
+    {
+        "concept_name": "畸变能理论",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "distortion energy theory"
+        }
+    },
+    {
+        "concept_name": "相[位]差",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "phase difference"
+        }
+    },
+    {
+        "concept_name": "相对加速度",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "relative acceleration"
+        }
+    },
+    {
+        "concept_name": "相对运动",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "relative motion"
+        }
+    },
+    {
+        "concept_name": "相空间",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "phase space"
+        }
+    },
+    {
+        "concept_name": "相角",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "phase angle"
+        }
+    },
+    {
+        "concept_name": "瞬时平移",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "instantaneous translation"
+        }
+    },
+    {
+        "concept_name": "瞬时螺旋轴",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "instantaneous screw axis"
+        }
+    },
+    {
+        "concept_name": "瞬时速度",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "instantaneous velocity"
+        }
+    },
+    {
+        "concept_name": "碰撞参量",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "impact parameter"
+        }
+    },
+    {
+        "concept_name": "离心力",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "centrifugal force"
+        }
+    },
+    {
+        "concept_name": "科里奥利加速度",
+        "details": {
+            "学科": "力学_力学通类",
+            "简称": " 科氏加速度",
+            "见载": "《力学名词》第一版",
+            "英文名": "Coriolis acceleration"
+        }
+    },
+    {
+        "concept_name": "稳定平衡",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "stable equilibrium"
+        }
+    },
+    {
+        "concept_name": "空气阻力",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "air resistance"
+        }
+    },
+    {
+        "concept_name": "突加载荷",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "suddenly applied load"
+        }
+    },
+    {
+        "concept_name": "章动角",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "angle of nutation"
+        }
+    },
+    {
+        "concept_name": "第一宇宙速度",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "first cosmic velocity"
+        }
+    },
+    {
+        "concept_name": "第一类拉格朗日方程",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "Lagrange equation of the first kind"
+        }
+    },
+    {
+        "concept_name": "等势线",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "equipotential line"
+        }
+    },
+    {
+        "concept_name": "等势面",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "equipotential surface"
+        }
+    },
+    {
+        "concept_name": "等效力系",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "equivalent force system"
+        }
+    },
+    {
+        "concept_name": "等时性",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "isochronism"
+        }
+    },
+    {
+        "concept_name": "等时摆",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "isochronous pendulum"
+        }
+    },
+    {
+        "concept_name": "简正坐标",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "normal coordinate"
+        }
+    },
+    {
+        "concept_name": "简正模[态]",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "normal mode"
+        }
+    },
+    {
+        "concept_name": "简谐振动",
+        "details": {
+            "学科": "力学_力学通类",
+            "英文": "simple harmonic oscillation ;simple harmonic vibration",
+            "见载": "《力学名词》第一版",
+            "英文名": "simple harmonic oscillation"
+        }
+    },
+    {
+        "concept_name": "简谐运动",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "simple harmonic motion"
+        }
+    },
+    {
+        "concept_name": "结构[强度]分析",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "structured analysis"
+        }
+    },
+    {
+        "concept_name": "绝对加速度",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "absolute acceleration"
+        }
+    },
+    {
+        "concept_name": "绝对运动",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "absolute motion"
+        }
+    },
+    {
+        "concept_name": "绝对速度",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "absolute velocity"
+        }
+    },
+    {
+        "concept_name": "耗散力",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "dissipative force"
+        }
+    },
+    {
+        "concept_name": "能流",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "energy flux"
+        }
+    },
+    {
+        "concept_name": "能流密度",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "energy flux density"
+        }
+    },
+    {
+        "concept_name": "能量守恒定律",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "law of conservation of energy"
+        }
+    },
+    {
+        "concept_name": "自由矢[量]",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "free vector"
+        }
+    },
+    {
+        "concept_name": "自转角",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "angle of rotation"
+        }
+    },
+    {
+        "concept_name": "薄膜比拟",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "membrane analogy"
+        }
+    },
+    {
+        "concept_name": "虚功原理",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "virtual work principle"
+        }
+    },
+    {
+        "concept_name": "角[向]运动",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "angular motion"
+        }
+    },
+    {
+        "concept_name": "角位移",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "angular displacement"
+        }
+    },
+    {
+        "concept_name": "角加速度",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "angular acceleration"
+        }
+    },
+    {
+        "concept_name": "角速度",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "angular velocity"
+        }
+    },
+    {
+        "concept_name": "角速度矢[量]",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "angular velocity vector"
+        }
+    },
+    {
+        "concept_name": "角频率",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "angular frequency"
+        }
+    },
+    {
+        "concept_name": "许用应力",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "allowable stress"
+        }
+    },
+    {
+        "concept_name": "谐振子",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "harmonic oscillator"
+        }
+    },
+    {
+        "concept_name": "谐音",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "harmonic [sound]"
+        }
+    },
+    {
+        "concept_name": "质心",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "center of mass"
+        }
+    },
+    {
+        "concept_name": "超重",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "overweight"
+        }
+    },
+    {
+        "concept_name": "超静定",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "statically indeterminate"
+        }
+    },
+    {
+        "concept_name": "超静定梁",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "statically indeterminate beam"
+        }
+    },
+    {
+        "concept_name": "超静定结构",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "statically indeterminate structure"
+        }
+    },
+    {
+        "concept_name": "路径",
+        "details": {
+            "学科": "力学_力学通类",
+            "英文": "path ;itinerary",
+            "见载": "《力学名词》第一版",
+            "英文名": "path"
+        }
+    },
+    {
+        "concept_name": "轨道",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "orbit"
+        }
+    },
+    {
+        "concept_name": "转动惯量",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "moment of inertia"
+        }
+    },
+    {
+        "concept_name": "轴[向]力",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "axial force"
+        }
+    },
+    {
+        "concept_name": "轴力图",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "axial force diagram"
+        }
+    },
+    {
+        "concept_name": "轴向加速度",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "axial acceleration"
+        }
+    },
+    {
+        "concept_name": "轴向应力",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "axial stress"
+        }
+    },
+    {
+        "concept_name": "轴矢[量]",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "axial vector"
+        }
+    },
+    {
+        "concept_name": "达朗贝尔原理",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "d'Alembert principle"
+        }
+    },
+    {
+        "concept_name": "达朗贝尔惯性力",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "d'Alembert inertial force"
+        }
+    },
+    {
+        "concept_name": "过阻尼",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "overdamping"
+        }
+    },
+    {
+        "concept_name": "运动学方程",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "kinematical equation"
+        }
+    },
+    {
+        "concept_name": "运动常量",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "constant of motion"
+        }
+    },
+    {
+        "concept_name": "进动角",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "angle of precession"
+        }
+    },
+    {
+        "concept_name": "连续[性]方程",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "continuity equation"
+        }
+    },
+    {
+        "concept_name": "逃逸速度",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "velocity of escape"
+        }
+    },
+    {
+        "concept_name": "逐次积分法",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "successive integration method"
+        }
+    },
+    {
+        "concept_name": "重力加速度",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "acceleration of gravity"
+        }
+    },
+    {
+        "concept_name": "重对称陀螺",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "heavy symmetrical top"
+        }
+    },
+    {
+        "concept_name": "铰接端",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "hinged end"
+        }
+    },
+    {
+        "concept_name": "阿基米德原理",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "Archimedes principle"
+        }
+    },
+    {
+        "concept_name": "阿特伍德机",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "Atwood machine"
+        }
+    },
+    {
+        "concept_name": "陀螺仪",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "gyroscope"
+        }
+    },
+    {
+        "concept_name": "静定",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "statically determinate"
+        }
+    },
+    {
+        "concept_name": "静定结构",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "statically determinate structure"
+        }
+    },
+    {
+        "concept_name": "静摩擦",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "static friction"
+        }
+    },
+    {
+        "concept_name": "非周期性",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "aperiodicity"
+        }
+    },
+    {
+        "concept_name": "非完全弹性碰撞",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "imperfect elastic collision"
+        }
+    },
+    {
+        "concept_name": "非定常约束",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "unsteady constraint"
+        }
+    },
+    {
+        "concept_name": "非对称弯曲",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "unsymmetric bending"
+        }
+    },
+    {
+        "concept_name": "非弹性弯曲",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "inelastic bending"
+        }
+    },
+    {
+        "concept_name": "非谐振动",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "anharmonic vibration"
+        }
+    },
+    {
+        "concept_name": "面矩",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "moment of area"
+        }
+    },
+    {
+        "concept_name": "黏[性]力",
+        "details": {
+            "学科": "力学_力学通类",
+            "见载": "《力学名词》第一版",
+            "英文名": "viscous force"
+        }
+    }
+]
