@@ -2,6 +2,6 @@
 
 ### Introduction
 
-- The data processing pipeline is partially available
-- The LLM inference pipeline relies on local LLMs
-- The GNN_only baselines relies on data transition to the Recbole Framework [RecBole/recbole at master · RUCAIBox/RecBole](https://github.com/RUCAIBox/RecBole/tree/master/recbole)
+- Courtesy of RecBole, the datasets and baseline models are available
+- The KG-modified GCSAN, or PAGCN as we call it in this model, is runnable
+- The LLM inference and causal-correction pipeline relies on a external platform, which rendered the code not runnable. They are only here for reference
