@@ -1,12 +1,13 @@
 
 import os
 import argparse
-import openai
 import time
+import openai
+
 
 openai.api_key = "..."
 
-openai.base_url = "https://api.v3.cm/v1/"
+openai.base_url = "https://api.v3.cm/v1/..."
 openai.default_headers = {"x-foo": "true"}
 
 def process_prompt(system_msg, example_msg, prompt_text):
