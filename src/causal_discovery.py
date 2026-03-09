@@ -12,7 +12,7 @@ def creates_cycle(current_edges, new_edge):
     visited_state = {}
     def dfs(node):
         if visited_state.get(node, 0) == 1:
-            return True # 发现环
+            return True
         if visited_state.get(node, 0) == 2:
             return False
             
